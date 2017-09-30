@@ -1,0 +1,262 @@
+USDOE 50001 READY NAVIGATOR TASK 4
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Energy Team
+----------TITLE-----a13cba6c----------
+Task 4: We have established an energy team that meets regularly and includes a management representative. Roles and responsibilities have been defined for the energy team and all affected personnel.
+----------GETTING IT DONE-----dcd0a7c3----------
+<ul>
+	<li>Top management will:
+	<ol>
+		<li>Review desired qualifications and skills for the management representative role.</li>
+		<li>Appoint a management representative with assigned responsibilities and authorities.</li>
+		<li>Record and communicate this appointment.</li>
+	</ol>
+	</li>
+	<li>The assigned management representative will identify team members, assign roles and responsibilities, and schedule regular energy team meetings.</li>
+	<li>Document your Management Representative in the 50001 Ready Navigator under Manage Project.</li>
+</ul>
+----------TASK OVERVIEW-----d2726a5d----------
+<p>Top management must appoint an energy management representative to oversee the EnMS. This representative has overall responsibility to ensure that the EnMS is established, implemented, maintained, and continually improved&mdash;and to report to top management on energy and EnMS performance. Desirable skills and qualifications should be considered when selecting candidates for this role.</p>
+
+<p>In addition to the energy management representative, an EnMS relies heavily on a team approach to take advantage of the diversity of each individual&rsquo;s skills and knowledge for your organization&rsquo;s benefit. The team provides different perspectives on issues, distributes the work load, facilitates implementation, promotes wider acceptance, and improves prospects for sustaining the system. It is authorized by top management and typically is led by the management representative or energy manager.</p>
+
+<p>The energy team will have a variety of assigned roles and responsibilities, including energy data management.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong></p>
+
+<ul>
+	<li>Reviewed the desired qualifications and skills of a management representative</li>
+	<li>Appointed a management representative with assigned responsibilities and authorities</li>
+	<li>Recorded and communicated the management representative appointment</li>
+	<li>Identified team members</li>
+	<li>Obtained management authorization for the energy team</li>
+	<li>Assigned team roles and responsibilities</li>
+	<li>Assigned team roles and responsibilities for data management</li>
+	<li>Scheduled regular energy team meetings</li>
+</ul>
+
+<p><em>This guidance is relevant to sections 4.2.1 and 4.2.2 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----d06d1e12----------
+<p>[Accordion](Review desired qualifications and skills)</p>
+
+<p>While it helps to have an understanding of energy concepts, it is not required that the management representative be an energy expert or have a technical background. Two of the most important assets are strong communication and leadership skills. Someone who is established in the organization and has the respect of peers and management are also desirable qualities. The management representative will work with a team and be capable of guiding the team and the organization in setting up, operating, and improving the EnMS and energy performance. If the management representative does not have a technical background, the appropriate technical expertise should be part of the energy team.</p>
+
+<p>[Learn More](Typical energy management representative skills and qualifications)</p>
+
+<p>Typical energy management representative skills and qualifications include the following:</p>
+
+<ul>
+	<li>Leadership</li>
+	<li>Interpersonal skills, including written and verbal communication</li>
+	<li>Organizational skills</li>
+	<li>Program management</li>
+	<li>Time management</li>
+	<li>Problem solving</li>
+	<li>Conflict management</li>
+	<li>Energy/technical background and/or experience with continual improvement-based management systems</li>
+	<li>Computer proficiency</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Typically, a single person fills the role of management representative, but depending on your organization, it may be necessary to share the responsibilities between two individuals.</p>
+
+<p>If the representative is not fully familiar with ISO 50001, provide or obtain the appropriate training. The management representative must know the standard and understand the connections between the various processes of the EnMS.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Appoint the management representative and assign responsibilities and authorities)</p>
+
+<p>Top management appoints the energy management representative and establishes the representative&rsquo;s authority to execute the assigned EnMS responsibilities. It is critical for the management representative to have the appropriate authority with employees and members of the energy team. Even if the management representative holds a job position lower in the chain of command than some employees or energy team members, that person must have authority for the EnMS.</p>
+
+<p>The responsibilities and authorities of the energy management representative are as follows:</p>
+
+<ul>
+	<li>Ensure the EnMS is established, implemented, maintained, and continually improved</li>
+	<li>Keep top management informed on EnMS performance</li>
+	<li>Report to top management on energy performance</li>
+	<li>Identify energy team members, with the approval of management</li>
+	<li>Plan and direct energy management activities through the energy team</li>
+	<li>Define and communicate responsibilities and authorities</li>
+	<li>Promote the energy policy and energy objectives across the organization</li>
+	<li>Make sure processes are in place to ensure EnMS effectiveness</li>
+</ul>
+
+<p>Management must clearly define and convey these responsibilities and authorities as part of appointing the management representative. Management also supports the management representative by allowing them the time and resources necessary to conduct the activities associated with these responsibilities.</p>
+
+<p>[Learn More](Typical activities of a management representative)</p>
+
+<p>Some of the typical activities of a management representative include the following:</p>
+
+<ul>
+	<li>Selecting, training, and leading the energy team</li>
+	<li>Coordinating team assignments and activities</li>
+	<li>Identifying and communicating resources needed for energy management activities</li>
+	<li>Working with top management for planning, resources, and reporting</li>
+	<li>Assisting with drafting the energy policy and other documents</li>
+	<li>Assessing training needs relative to the EnMS</li>
+	<li>Conducting energy management awareness training, in the organization and for contractors</li>
+	<li>Providing information for and participating in energy management strategic planning</li>
+	<li>Overseeing data monitoring and collection and verification activities, including instrument calibration</li>
+	<li>Serving as the EnMS internal audit program manager or coordinator</li>
+	<li>Managing the corrective and preventive action system</li>
+	<li>Providing energy information to management for planning and management review</li>
+	<li>Participating in management reviews</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Record and communicate the appointment)</p>
+
+<p>Record top management&rsquo;s appointment of the management representative, to provide evidence of the responsibilities and authorities assigned to the selected individual(s). This can be a stand-alone record that is maintained and controlled in accordance with the requirements for control of records (see [task](Documentation and Records)), or it could be documented within the energy manual (optional). (See [resource](Energy_Manual_Guidelines) for a discussion about using an energy manual for the EnMS.)</p>
+
+<p>Top management also must communicate the appointment and the associated authorities of the management representative across the organization. Communicating this appointment helps convey the importance top management is placing on energy management and promotes cooperation that the management representative needs from the energy team and across the organization.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify team members)</p>
+
+<p>The energy team brings together relevant expertise to guide development, implementation, and maintenance of the EnMS. The size, composition, and responsibilities of the team will vary, depending on the size and structure of your organization and the scope of the EnMS (see [task](Communications)).</p>
+
+<p>In forming the team, consider representatives from functional areas dealing with the selection, procurement, consumption, reliability, disposal, and environmental impacts of fuels and energy systems. Also consider individuals who are familiar with ISO or other continual improvement-based management systems. The following functional areas are often considered by organizations implementing ISO 50001:</p>
+
+<ul>
+	<li>Engineering</li>
+	<li>Maintenance</li>
+	<li>Facilities management</li>
+	<li>Procurement</li>
+	<li>Production</li>
+	<li>Quality</li>
+	<li>Environmental</li>
+	<li>Administration</li>
+	<li>Accounting/Finance</li>
+</ul>
+
+<p>Suppliers, contractors, tenants, or customers may also have a role in your organization&rsquo;s energy management activities. If appropriate, consider including their representatives on the energy team.</p>
+
+<p>An [resource](Team_Roster) is also a helpful best practice for listing team members, recording contact information to support team communications, and verifying multi-functional representation.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Obtain management approval)</p>
+
+<p>Generally, team members are selected by the management representative with management input or approval. The management representative develops a list of desired members to be reviewed and authorized by top management.</p>
+
+<p>Top management also &ldquo;authorizes&rdquo; the energy team by ensuring the members have the resources<u> </u>necessary to conduct the required activities and participate without jeopardizing their regular job function.</p>
+
+<p>[Learn More](Typical resources provided to energy team members)</p>
+
+<p>Typical resources provided to energy team members can include the following:</p>
+
+<ul>
+	<li>Providing personnel time to work on team activities during normal business hours</li>
+	<li>Authorizing overtime, if needed</li>
+	<li>Providing team members with assistance in performing their regular job functions</li>
+	<li>Providing space for energy team meetings and work sessions</li>
+	<li>Providing fiscal resources for energy team activities</li>
+	<li>Ensuring access to data and information</li>
+	<li>Helping to solicit organizational participation</li>
+	<li>Providing the resources required for any personnel that would assist with the EnMS</li>
+	<li>Ensuring access to top management and assisting the energy team, as required</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Assign roles and responsibilities)</p>
+
+<p>Top management and the management representative will define and communicate the roles and responsibilities for the team and individual team members. The management representative may lead the team, or a separate team leader may be selected. Typical team activities may include development or overseeing development of the following:</p>
+
+<ul>
+	<li>Energy policy</li>
+	<li>Energy review</li>
+	<li>Energy objectives, targets and action plans</li>
+	<li>EnMS documentation</li>
+	<li>Roles, responsibilities, authorities and processes for:
+	<ul style="list-style-type:circle">
+		<li>Ongoing data collection and analysis</li>
+		<li>Determining significant energy uses and energy performance indicators</li>
+		<li>Identifying energy opportunities and/or conducting energy assessments</li>
+		<li>Measurement and verification activities</li>
+		<li>Implementing management of significant energy uses</li>
+		<li>Competency and awareness training for appropriate personnel</li>
+		<li>Managing internal audits and corrective and preventive actions</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More](Other energy team activities)</p>
+
+<p>Other energy team activities could include the following:</p>
+
+<ul>
+	<li>Overseeing energy projects and other activities to ensure energy objectives are met</li>
+	<li>Tracking energy performance</li>
+	<li>Conducting competency training and/or energy awareness training</li>
+	<li>Communicating with management, employees, and other stakeholders</li>
+	<li>Performing internal audits and ensuring corrective and preventive actions</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Energy team members should be assigned specific EnMS implementation tasks and should be held accountable for their timely completion. Robust team communication processes are critical for communicating assignments, developing elements of the system, and obtaining feedback from other team members.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Assign roles and responsibilities for data management)</p>
+
+<p>A 50001 Ready system relies on energy data and related information. Energy data is an important input to the organization&rsquo;s energy review and are instrumental for tracking and verifying energy performance improvement. Data is retained as recorded information; therefore, the team should review their data needs and assign roles and responsibilities accordingly.</p>
+
+<p>Energy data management roles can include the following:</p>
+
+<ol>
+	<li>Identifying needed data</li>
+	<li>Determining data source and form</li>
+	<li>Determining location of data and frequency of collection</li>
+	<li>Acquiring data</li>
+	<li>Verifying accuracy of data</li>
+	<li>Recording and retaining data in the appropriate location</li>
+	<li>Checking functioning of the collection process</li>
+	<li>Studying the process to determine if something is missing</li>
+</ol>
+
+<p>The above roles can be filled by a variety of organization personnel including those outside the energy team. Appropriate training should be provided to personnel who are assigned data management roles but have an identified gap in their skills.</p>
+
+<p>[Learn More](Developing roles and responsibilities for energy data management)</p>
+
+<p>To help develop roles and responsibilities for energy data management, the [resource](Potential_Responsible_Parties_Data_Collection) table may be useful. The roles and responsibilities may vary somewhat depending on your organization&rsquo;s needs, but the general method of data identification, description of data sources, location and frequency of data collection, data acquisition and verification, and data recording should remain consistent. Ensure that those persons responsible for collecting data are appropriately trained for such responsibilities. Appropriate training may include:</p>
+
+<ul>
+	<li>Meter selection and hook up (portable meters)</li>
+	<li>Meter reading</li>
+	<li>Understanding measurement units (amps, volts, watts, Btu, cubic feet, etc.)</li>
+	<li>Data recording</li>
+	<li>Software use</li>
+	<li>Equipment/process access</li>
+	<li>Safety during measurement or accessing equipment</li>
+</ul>
+
+<p>A [resource](Data_Collection_Responsibilities_Table) is provided as a guide to developing a sustainable data collection process. Also provided is a [resource](Data_Collection_Management_Matrix) to document the data requirements and their location, as well as collection details and responsibilities. An [resource](Example_Data_Collection_Management_Matrix_Industrial) and [resource](Example_Data_Collection_Management_Matrix_Commercial) provide samples using this form to help document data location and collection.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Schedule regular energy team meetings)</p>
+
+<p>Establish regular team meetings to promote continuity of EnMS development, and to provide for progress reviews and task assignments, and to address issues. The meeting length and frequency may vary, but the meetings should include team work sessions to address specific topics related to EnMS development and implementation.</p>
+
+<p>One of the first team meetings should include training on the ISO 50001 standard. If your organization desires to pursue certification, purchase copies of the ISO 50001:2011 standard and distribute them among team members. Team members need to be familiar with the standard&rsquo;s requirements (Section 4 of ISO 50001), particularly those requirements related to their area of responsibility on the team. This training can be conducted by the management representative, or by an external training provider if the management representative is not familiar with the standard&rsquo;s requirements.</p>
+
+<p>During initial development of the EnMS, your team will meet frequently to make plans, schedule activities, assign responsibilities, and review progress. From the start, ensure your team members are familiar with their individual team roles and responsibilities. Consider developing a team charter to clarify and communicate the overall expectations for team members. Use common project management techniques to define and manage the implementation schedule and tasks, along with their assignment and completion (see [resource](Project_Management_for_EnMS_Implementation)).</p>
+
+<p>As EnMS development progresses, additional expertise may be needed on the team to address details associated with specific EnMS requirements; for example, data gathering and analysis. Review progress regularly and consider if additional team members are needed to address certain topics or implementation issues.</p>
+
+<p>Upon full implementation of the EnMS, the team will ensure its continued operation and manage activities for continual improvement. It may be appropriate to reduce the team size once the system has been established and effectively implemented. However, the team is a key component in the ongoing operation of the EnMS, and sufficient cross-functional membership and activity level should be maintained to ensure its effectiveness and continual improvement.</p>
+
+<p>[Accordion End]</p>

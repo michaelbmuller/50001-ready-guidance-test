@@ -1,0 +1,29 @@
+{
+  "name": "michaelbmuller/50001-Ready-Guidance",
+  "type": "library",
+  "description": "50001 Ready Guidance",
+  "keywords": ["50001 Ready", "ISO 50001", "DOE","USDOE"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael B Muller",
+      "email": "muller.michaelb@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Task\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}

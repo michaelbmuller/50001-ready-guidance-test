@@ -1,0 +1,607 @@
+USDOE 50001 READY NAVIGATOR TASK 19
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Documentation and Records
+----------TITLE-----15c9a7ff----------
+Task 19: We have developed and have processes in place to control the 50001 Ready systems documents and records
+----------GETTING IT DONE-----277a1774----------
+<ul>
+	<li>Understand the difference between documents and records.</li>
+	<li>Use the [resource](EnMS_Document_Control_Index) to list your EnMS documents, assign document owners and document approvers, and define the controls for distribution and periodic reviews. Make document owners responsible for conformance with document controls, including ensuring that documents remain legible, identifiable and traceable.</li>
+	<li>Use the [resource](EnMS_Records_Control_Index) to list your EnMS records, assign record owners, and define the storage, retrievability and minimum retention time for each type of record. Make record owners responsible for conformance with record controls, including ensuring that records remain legible, identifiable and traceable.</li>
+	<li>If your organization has an existing document control system, compare it to the [resource](Checklist_Document_Control_Basics) and customize it as necessary to conform to the ISO 50001 standard. If your organization has an existing records policy, make sure that the controls implemented for EnMS records are consistent with the requirements of that policy.</li>
+</ul>
+----------TASK OVERVIEW-----c78af7ea----------
+<p>Documentation is a key component of an EnMS. Documentation not only helps to implement the EnMS and ensure its proper functioning over time, but is also critical to show evidence of results achieved. There are two types or basic categories of documentation: <em>documents,</em> which provide information that guides actions or communicates expectations in the present (today), and <em>records,</em> which provide information about the past (&ldquo;snapshots in time&rdquo;).</p>
+
+<p>In ISO 50001, some documents and records are explicitly required. Other documentation is determined by the organization itself based on its own needs. The [resource](EnMS_Documentation_Guidance_Table) provides a full list of ISO 50001 required documents and records, as well as those about which your organization will need to make a decision (marked as &ldquo;Decision needed&rdquo; in the table).</p>
+
+<p>Prior tasks have provided detailed guidance on creating the actual content of some of the required documents, such as the EnMS scope and boundaries ([task](Scope and Boundaries)), energy policy ([task](Energy Policy)), energy objectives, targets and actions plans ([task](Baselines, Objectives and Targets) and [task](Improvement Projects)), and internal audit processes ([task](Internal Audit)).</p>
+
+<p>In an ISO 50001:2011 continual improvement-based EnMS, the organization must: (1) Determine how it will meet the requirements of the EnMS, so as to achieve continual improvement in both energy performance and the EnMS, and (2) maintain information that describes the core elements of the EnMS and their interaction. This is usually accomplished through the development and implementation of an energy manual. An energy manual is not required, although it is highly recommended for organizing all of your organization&rsquo;s EnMS elements in a central document.</p>
+
+<p>Documents and records are controlled separately under different sets of requirements in ISO 50001:2011. Keeping the controls simple helps to make implementation easier and can reduce the amount of resources required to maintain the controls over time. Processes must be in place to control all of the EnMS documents and records.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Determined necessary EnMS documents</li>
+	<li>Determined necessary EnMS records</li>
+	<li>Developed an energy manual (optional)</li>
+	<li>Defined and implemented document controls</li>
+	<li>Defined and implemented records controls</li>
+</ul>
+
+<p><em>This guidance is relevant to sections 4.1 c), 4.5.4.1, 4.5.4.2 and 4.6.5 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----d1b8eedf----------
+<p>[Accordion](Determine necessary EnMS documents)</p>
+
+<p>Documents provide information that guides action or communicates expectations. They are used to state and implement current policies and commitments.</p>
+
+<p>[Learn More](Examples of generic documents)</p>
+
+<p><strong>Examples of Generic Documents</strong></p>
+
+<ul>
+	<li>Policies</li>
+	<li>System procedures</li>
+	<li>Operational procedures</li>
+	<li>Work instructions</li>
+	<li>Manuals</li>
+	<li>Plans and programs</li>
+	<li>Drawings and schematics</li>
+	<li>Standards and specifications</li>
+	<li>Videos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Examples of EnMS documents)</p>
+
+<p><strong>Examples of EnMS Documents</strong></p>
+
+<ul>
+	<li>Description of core elements of the EnMS and their interaction</li>
+	<li>Energy policy</li>
+	<li>Energy objectives and targets</li>
+	<li>Energy management action plans</li>
+	<li>Methodology and criteria used to develop the energy review</li>
+	<li>Methodology for determining and updating the EnPIs</li>
+	<li>Other documents determined necessary</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Documents express expectations&mdash;they guide our behavior, activities, and operations, typically providing &ldquo;what,&rdquo; &ldquo;when,&rdquo; &ldquo;who,&rdquo; and sometimes &ldquo;how&rdquo; information. Reviewing the following questions will help your organization to determine necessary EnMS documents.</p>
+
+<p>[Learn More](What is the value of documentation?)</p>
+
+<p>Documentation provides a number of benefits to an organization. For example, documents can provide guidance for existing employees or for employees who have taken on or assumed new roles or positions within the organization. Relevant documents can orient them to the processes, operations, and activities associated with specific job functions. Documents can communicate what the expectations are for performance of their responsibilities, as well as for others within that department or functional area.</p>
+
+<p>Documents frequently serve to facilitate training, as they typically provide information to support and reinforce the learning and awareness that occurs in training. When properly implemented, documents enable tasks or activities to be performed consistently. They can also be useful for defining and communicating expectations and requirements to contractors and suppliers.</p>
+
+<p>Records related to activities performed are useful as evidence that the appropriate actions were taken. Also, since records are used to capture results achieved, they provide an excellent basis for data analysis, including a means of tracking energy performance. They can also benefit the organization as a form of memory for the organization. Records of what was done in the past and the results achieved can be very useful when, for example, there is workforce turnover or attrition over time and that institutional memory is lost.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](What general factors affect the extent of documentation within an organization?)</p>
+
+<p>Misperceptions about the level of documentation required for a continual improvement-based management system are not uncommon. Keep in mind that management systems based on the Plan-Do-Check-Act continual improvement model&mdash;such as those for energy, quality, environmental, safety and health, and others&mdash;are intended to be documented management systems and not systems of documents.</p>
+
+<p>General factors affecting the extent of documentation within an organization include:</p>
+
+<ul>
+	<li>Size of the organization</li>
+	<li>Types of activities (risk level)</li>
+	<li>Complexity of the processes and their interactions</li>
+	<li>Competence of personnel</li>
+</ul>
+
+<p>The extent of management system documentation will vary from one organization to another. Organizations with a large number of personnel tend to use documentation more extensively than smaller organizations. The types of actives, as well as the complexity of processes and their interactions, also influences the extent of documentation within an organization. Complex processes and high-risk activities tend to be more thoroughly documented, both in terms of documents and records, than simple processes or low-risk activities.</p>
+
+<p>Competence of personnel is another factor that influences decisions on the extent of documentation needed. In general, higher levels of competence among personnel can mean that fewer documents are needed. Consideration of the competence of personnel in deciding whether documents are needed should take into account the robustness of the organization&rsquo;s ongoing training systems. For most organizations, training and documentation are a balancing act&mdash;meaning that organizations with robust training systems tend to need fewer documents, while organizations with more limited training resources may need more documentation.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](When do you decide what additional EnMS documentation is needed?)</p>
+
+<p>Making decisions on whether documentation is needed is an ongoing process during initial EnMS implementation. Use the energy team to plan for how and when documentation issues will be addressed and decisions will be made as you progress through development and implementation of your ISO 50001 EnMS.</p>
+
+<p>Also, consider that although EnMS documentation requirements are few, many action verbs (e.g., appoint, define, identify, etc.) are associated with the basic requirements of an ISO 50001 EnMS. These can be viewed as opportunities to initiate conversations among members of the energy team and others about what documentation, if any, may be needed.</p>
+
+<p><strong>ISO 50001 Action Verbs Provide Convenient Decision Points for EnMS Documentation</strong></p>
+
+<ul>
+	<li>address</li>
+	<li>appoint</li>
+	<li>consider</li>
+	<li>define</li>
+	<li>determine</li>
+	<li>establish</li>
+	<li>evaluate</li>
+	<li>identify</li>
+	<li>implement</li>
+	<li>inform</li>
+	<li>plan</li>
+	<li>review</li>
+</ul>
+
+<p>With the appropriate allocation of additional training, awareness, and communication resources, an organization can &ldquo;establish&rdquo; and &ldquo;implement&rdquo; processes and procedures that are not documented. The [resource](EnMS_Documentation_Guidance_Table)<strong><em> </em></strong>identifies most of the action-based EnMS elements as &ldquo;decision needed&rdquo; points for considerations related to whether or not documents are needed to implement those elements of the EnMS.</p>
+
+<p>It bears repeating that organizations which make significant investments in ongoing workforce training are able to maintain a minimum number of documented procedures, work instructions, or other similar documents. In deciding whether to document a procedure or process that is not required to be documented, a key factor to consider is what resources are available for additional training if a procedure is not documented. Additional training can be completed to reduce the number of needed documents, but records of training are required.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](How do you decide what additional EnMS documentation is needed?)</p>
+
+<p>Decisions on additional documentation are typically made to help ensure the effective implementation and maintenance of the EnMS and provide evidence of continual improvement in both the EnMS and energy performance.</p>
+
+<p>To help your organization determine the documents needed for its ISO 50001 EnMS (beyond those that are required), establish &ldquo;rules of thumb&rdquo; or other criteria. Some of the factors influencing decisions on the number of documents already have been introduced (see above: <em>What general factors affect the extent of documentation within an organization?</em>). Other relevant factors could include legal requirements, customer requirements, or prior nonconformities. Examples of possible factors or criteria to help your organization determine needed documents are provided in the <em>Making Decisions on EnMS Documentation Checklist.</em></p>
+
+<p>Lastly, when making documentation-related decisions, don&rsquo;t overlook the potential to leverage existing procedures and other documents, modifying them to include energy management. This is a resource-effective approach to documenting information for the EnMS without creating new documents to be managed. If only minimal documents are in place, or if integration with what already is in place is not possible, then harvest what is there and adapt it for the EnMS.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](What are the success factors for documents?)</p>
+
+<p>Important success factors for EnMS documents include the following:</p>
+
+<ul>
+	<li>Having EnMS documents that are either required or determined to be needed</li>
+	<li>No over-documentation</li>
+	<li>Documents developed with input from users</li>
+	<li>User-friendly document formats and media</li>
+	<li>Clearly defined responsibilities and approval authorities</li>
+	<li>Documents updated as needed</li>
+</ul>
+
+<p>Remember that whatever documents you make part of your EnMS, whether needed or not, they must be controlled. Like other processes in the EnMS, controlling documents involves an ongoing allocation of resources; in this case, to ensure that document controls are properly applied and maintained. In the case of an over-documented system, these resources can easily be overburdened or even wasted when unnecessary documents are involved.</p>
+
+<p>Successful documents must address user needs. Involving users in the development of documents increases the likelihood that the documents will be relevant, accurate, current, and followed by the appropriate personnel. Remember that documents do not need to be &ldquo;text on paper.&rdquo; Whatever media or format works best is acceptable.</p>
+
+<p>Clearly defined responsibilities and approval authorities contribute to the success of documents because they ensure ownership of the information and the application of the defined document controls. Change is expected, so documents need to stay abreast of the current plans, programs, procedures, practices, and processes.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](What documents are required for the ISO 50001 energy management system?)</p>
+
+<p>The ISO 50001 EnMS is very &ldquo;lean&rdquo; on the number of required documents. For example, there are no explicit requirements for &ldquo;documented procedures.&rdquo; There are limited requirements for &ldquo;documented processes&rdquo;. Documented processes for energy planning and internal audits are required. Most of the decisions on what documents are needed are left to the organization. This provides the organization with both <em>the flexibility and the responsibility</em> to determine what documents are needed to ensure the effective implementation and maintenance of its EnMS.</p>
+
+<p>ISO 50001 does require some items to be documented. One item is information that describes the core elements of the EnMS and their interaction. Many organizations develop an energy manual to address this requirement; however, ISO 50001 does not require an energy manual. Other items that must be documented include the energy policy, energy objectives and targets, and energy management action plans. These and other documents are listed in the [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determine necessary EnMS records)</p>
+
+<p>Records reflect past history. They capture an action or activity that was done or what was accomplished or attained (i.e., results). Records ensure clear evidence of activities and results, provide a basis for data analysis, and can serve as &ldquo;organizational memory&rdquo; for those who come later. Records can take many different forms.</p>
+
+<p>[Learn More](Examples of generic records)</p>
+
+<ul>
+	<li>Reports</li>
+	<li>Data analyses</li>
+	<li>Meeting minutes</li>
+	<li>Training certificates</li>
+	<li>Completed forms</li>
+	<li>Databases</li>
+	<li>Spreadsheets</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Examples of EnMS records)</p>
+
+<ul>
+	<li>Energy review</li>
+	<li>Energy baseline</li>
+	<li>Energy performance indicators (EnPIs)</li>
+	<li>Training records</li>
+	<li>Decision regarding external communication</li>
+	<li>Results of design activities</li>
+	<li>Monitoring and measurement results</li>
+	<li>Energy performance results</li>
+	<li>Audit results</li>
+	<li>Management review records</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Records related to activities performed are useful as evidence that the appropriate actions were taken. Also, since records are used to capture results achieved, they provide an excellent basis for data analysis, including energy performance tracking. They can also benefit an organization as a form of memory for the organization. Records of what was done in the past and the results achieved can be very useful when, for example, there is workforce turnover or attrition over time and that institutional memory is lost.</p>
+
+<p><strong>[Learn More]</strong><strong>(What records are required for the energy management system</strong>?)</p>
+
+<p>Although a variety of information within the EnMS must be recorded, just as with documents, your organization is responsible for determining what additional records it needs in order to demonstrate conformance with the requirements of the EnMS and the energy performance results achieved.</p>
+
+<p>Some items that must be recorded include the energy baseline, monitoring and measurement results, audit results, and management reviews. These and other records are listed in the [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](What are the success factors for records?)</p>
+
+<p>Success factors for records include:</p>
+
+<ul>
+	<li>Meeting basic EnMS requirements</li>
+	<li>Proving what you did</li>
+	<li>Demonstrating achievement of improved energy performance</li>
+	<li>Documenting assigned &ldquo;record owners&rdquo;</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>The [resource](EnMS_Records_Check_Use_Evidence) resource can help you understand how the various records of the EnMS can demonstrate (i.e. provide proof of) conformance to EnMS requirements and achievement of energy performance improvement.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop an energy manual (best practice))</p>
+
+<p>An energy manual is not required by the ISO 50001 standard, but it is highly recommended because it can provide several benefits, including:</p>
+
+<ul>
+	<li>As a documented overview or summary of the EnMS that is approved by top management, the energy manual serves as a tool to establish and communicate the energy management commitments of the organization.</li>
+	<li>The energy manual is useful to management, employees, and potentially other stakeholders as a &ldquo;roadmap&rdquo; to the EnMS, including information on the components of the system, how those components interact, and direction to the associated processes, procedures, and roles and responsibilities.</li>
+	<li>The energy manual is a convenient mechanism for documenting some of the information about the EnMS that must be documented, such as the scope and boundaries of the EnMS, the energy policy and many others. This can enable the organization to avoid the creation of additional documents that then would have to be managed individually.</li>
+	<li>For many organizations, the energy manual can be a &ldquo;one-stop shop&rdquo; or &ldquo;overarching&rdquo; document that contains all present-day information about the EnMS, including links or references to other component documents and records.</li>
+	<li>For organizations that are implementing an ISO 50001 EnMS, the energy manual can be a document that serves to translate the requirements of the ISO 50001 standard into the organization&rsquo;s own terminology.</li>
+</ul>
+
+<p><em>Tip: Although the terms used in the ISO 50001 standard can be changed into the organization&rsquo;s own terminology, the meaning of those terms (i.e., the definitions) cannot be changed. For example, an organization may refer to the &ldquo;energy review&rdquo; required by ISO 50001 as an &ldquo;energy profile;&rdquo; however, the definition of what is an energy profile should be the same as the definition of an energy review.</em></p>
+
+<p>Organizations that have already implemented continual improvement based management systems (e.g., ISO 14001, ISO 9001, OHSAS 18001) may choose to integrate their energy manual into an existing environmental, quality, or other management system manual. This option allows an organization to avoid having to manage and train on multiple management system manuals, and can facilitate the integration of management systems for sustainability or other business purposes.</p>
+
+<p>[Learn More](The format, detail, and length of an energy manual)</p>
+
+<p>There is no required format for an energy manual. It can be in any media. The energy manual may be:</p>
+
+<ul>
+	<li>a stand-alone document, maintained separately from EnMS procedures;</li>
+	<li>a single document that includes the organization&rsquo;s EnMS procedures;</li>
+	<li>incorporated into another management system manual or other documents;</li>
+	<li>an electronic-based hierarchical index or other electronic format, typically with hyperlinks to EnMS documents (such as plans, procedures, blank forms, etc.); or</li>
+	<li>any combination of the above.</li>
+</ul>
+
+<p>The energy manual&rsquo;s format and level of detail will vary according to the size and complexity of the organization and the needs and expectations of the organization and its interested parties.</p>
+
+<p><em>Tip: Less detail may be needed in some sections of the manual if details are provided in other EnMS documents such as documented procedures. On the other hand, additional detail in some sections of the manual can help avoid development of additional and potentially unnecessary EnMS documents.</em></p>
+
+<p>As a general rule of thumb, a stand-alone energy manual is 5 to 15 pages in length. The language and terminology used in the energy manual should be understandable to users, not designed for auditors.</p>
+
+<p>[Learn More End]</p>
+
+<p>Like other EnMS documents, the energy manual must be controlled. Top management is usually the designated approver(s) of the energy manual.</p>
+
+<p><em>Tip: The energy manual may be a means to demonstrate approval of the energy policy by top management.</em></p>
+
+<p>[Learn More](Items to include in an energy manual)</p>
+
+<p>The following items can be included in the energy manual:</p>
+
+<p><strong>1) The scope and boundaries of the organization&rsquo;s energy management system</strong></p>
+
+<p>The scope of the system is the operations, activities, and facilities that are included in the EnMS. The organization must define the boundaries or physical, site, or organizational limits of its EnMS. The scope and boundaries statement would address both the operational and the geographic boundaries of the system. For example: The scope and boundaries of XYZ Company&rsquo;s EnMS are the manufacturing, warehousing, and distribution operations, and activities of the Rockmart Georgia site located at 333 Railroad Drive, Rockmart, Georgia.</p>
+
+<p><strong>2) A description of the core elements of the EnMS and their interaction</strong></p>
+
+<p>A common approach to describing the core elements of the EnMS involves brief descriptions of each of the processes involved in the Plan-Do-Check-Act continual improvement cycle. More detailed information on those processes would be available in other documents (such as plans, programs, procedures, work instructions, forms and others) or embedded within the organization&rsquo;s training and communications.</p>
+
+<p>Organizations implementing an ISO 50001 EnMS for third-party certification should avoid preparing an energy manual that copies the clauses of the ISO 50001 standard as the description of the core elements of the EnMS.</p>
+
+<p>The description of the interaction of the core elements of the EnMS is often represented graphically, rather than by text. Most frequently, a graphic representation of the Plan-Do-Check-Act continual improvement cycle is used that identifies the organization&rsquo;s specific processes for energy planning, implementation and operation, checking, and management review. Graphics are also used to represent how energy applies within the defined scope and boundaries of the organization&rsquo;s EnMS. Such graphics may be a process map or other visual representation of the energy sources.</p>
+
+<p><strong>3) Key EnMS documents or reference to them</strong></p>
+
+<p>Smaller organization may decide to include their EnMS documents (such as procedures, plans, work instructions, blank forms, and others) within the energy manual. This does provide a one-stop source for all of the organization&rsquo;s EnMS documents, although it can present some document control challenges.<sup>*</sup></p>
+
+<p><em>*If the energy manual with all EnMS documents included is controlled as a single document, then the addition, deletion, or change of any one of those documents within the manual will need approval/re-approval and a change in revision status for the entire energy manual. On the other hand, if each section of the manual with all procedures included is controlled separately, then the revision status of each section may vary and a master table of contents or a master list may be needed to ensure that the current revision status of each section of the manual can be determined. Also, if each section of the manual is controlled separately, there may be different approvers for each section.</em><em> </em><em>The document control system must ensure that there is evidence of approval by the appropriate designated approver.</em></p>
+
+<p>Many organizations decide to maintain and control the energy manual as a single document and only include within it references to related EnMS documents. These references may be embedded in each section, listed at the end of each section, or listed on a document reference table that appears as the last page of the manual. One of the advantages of using a document reference table is that it is easily updated when necessary and avoids the need to review and locate references to other EnMS documents within each section of the manual.</p>
+
+<p>For example:</p>
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<p><strong>EnMS Documents Reference Table</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Topic</strong></p>
+			</td>
+			<td>
+			<p><strong>Document Reference</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Energy planning</p>
+			</td>
+			<td>
+			<p>EnP-01 Energy Planning Procedure</p>
+
+			<p>EnD-02 Energy Legal and Other Requirements Table</p>
+
+			<p>EnD-03 Energy Objectives and Targets</p>
+
+			<p>EnD-03.x (series) Energy Management Action Plans</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Energy training and awareness</p>
+			</td>
+			<td>
+			<p>EnP-02 Energy Awareness and Training Plan</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Define and implement documents controls)</p>
+
+<p>It is important that personnel have the documents needed to perform their assigned responsibilities appropriately.</p>
+
+<p>Start by determining how your organization currently manages documents. If there is already a formal process in place, then it makes sense (and is likely necessary) to follow that process, making modifications as needed for the EnMS.</p>
+
+<p>The document control system needs to define the following:</p>
+
+<ul>
+	<li><strong>Identification</strong>: How are documents identified? (i.e., How can you tell what each document is and what activities it relates to?)</li>
+	<li><strong>Approval</strong>: Who is authorized to approve documents? What is the process for approval? What is the record of approval?</li>
+	<li><strong>Process for updating</strong>: How are documents reviewed periodically and maintained up-to-date? How are changes and the revision status identified?</li>
+	<li><strong>Legibility</strong>: How is legibility maintained?</li>
+	<li><strong>Availability</strong>: Where are documents available and how is their distribution controlled? How are obsolete documents removed or identified to prevent unintended use?</li>
+</ul>
+
+<p>The [resource](Checklist_Document_Control_Basics) helps you assess whether your existing document control system addresses the ISO 50001 requirements for control of documents. If you do not have an existing system, this checklist can be used to identify the features that will need to be addressed as you develop your processes for controlling EnMS documents.</p>
+
+<p>A useful tool for setting out the controls for EnMS documents is the [resource](EnMS_Document_Control_Index). It provides a &ldquo;one-stop shop&rdquo; for defining the controls associated with each document type.</p>
+
+<p>Click on the following topics to learn more about the controls that must be defined and implemented to manage EnMS documents.</p>
+
+<p>[Learn More](Document control system &ndash; Assigning responsibilities)</p>
+
+<p>Designating a Documents Coordinator/Manager as a central point of control for EnMS documents is an approach often used to ensure that documents contain the required features. Then, for each document in the EnMS, a document owner and a document approver are assigned. If a Document Coordinator/Manager is not an option, then the document owners are assigned the additional responsibility of ensuring the appropriate controls are applied to the documents. In some cases, it is the management representative who functions as the point of control and assigns document owners and document approvers.</p>
+
+<p>Responsibilities are as follows:</p>
+
+<ul>
+	<li><strong>Document Owner</strong> &ndash; Responsible for the content of the document, including the periodic review and updating. <em>Note: Document owners are assigned for both internal and external documents. The document owner of an external document is responsible for determining the applicability of the document to your organization.</em></li>
+	<li><strong>Document Approver</strong> &ndash; Authorized to approve the content of the document.</li>
+	<li><strong>Document Coordinator/Manager</strong> &ndash; Responsible for ensuring the appropriate controls are applied to documents, including the removal/identification of obsolete documents.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Document control system &ndash; Document identification)</p>
+
+<p>Next, decide what specific features will be used to identify the different types of EnMS documents. Not all documents need to be identified in the same way. The table below provides an example of how one organization chose to identify their documents.</p>
+
+<p><em>In this example, XYZ Company created a table to identify the different types of documents in their EnMS. These included an energy manual, EnMS procedures, work instructions, blank forms, plans and programs, external documents, and training videos. Then, for each type of document, the relevant controls were identified. Title and issue/revision date were applied to all document types, while document numbers were only applied to the energy manual and the procedures and work instructions.</em></p>
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="4">
+			<p><strong>XYZ Company &ndash; Controls for EnMS Documents</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Document Type</strong></p>
+			</td>
+			<td>
+			<p><strong>Document Number</strong></p>
+			</td>
+			<td>
+			<p><strong>Title</strong></p>
+			</td>
+			<td>
+			<p><strong>Issue/Revision Date</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Energy Manual</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Procedures</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Work Instructions</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Blank Forms</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Plans and Programs</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>External Documents</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Training Videos</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Document control system &ndash; Document approval)</p>
+
+<p>After the controls for document identification are defined, the process for approving documents needs to be developed. Not all documents should be approved by the same positions. Documents should be approved by those responsible for the policies, decisions, or actions described in the document. Avoid having too many approval levels, as this can complicate the document control system and hamper its efficiency.</p>
+
+<p>Some organizations still use hand signatures as evidence of approval, but many others now manage their documentation electronically. A typical process is to upload an electronic document into a workflow that sends the document to each person responsible for approval. Upon receipt of the document, the person indicates approval or rejection. If rejected, the workflow sends the document back to the owner to resolve the issue. If approved, the document is electronically distributed to the appropriate locations.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Document control system &ndash; Document updating)</p>
+
+<p>Next, the process for keeping documents up to date needs to be defined. Reasons for revising or updating documents may be a result of a variety of reasons:</p>
+
+<ul>
+	<li>Changes to business circumstances, facilities, equipment, systems or processes</li>
+	<li>Internal or external audits ([task](Internal Audit))</li>
+	<li>Corrective actions or preventive actions ([task](Corrective Actions))</li>
+	<li>Management review ([task](Management Review))</li>
+	<li>Periodic reviews conducted to ensure that the information is still accurate, adequate, and relevant</li>
+	<li>Revision of an external document, including legal and other requirements ([task](Legal Requirements))</li>
+</ul>
+
+<p>A document owner is responsible for ensuring that his or her assigned documents are kept up to date. The owner is also responsible for performing a periodic review of each assigned document and ensuring it is revised as needed.</p>
+
+<p>A part of updating documents involves identifying for the user any changes that were made and ensuring that the revision status is updated. Many organizations use a &ldquo;Revision History Table&rdquo; at the end of a document to indicate a revision date and summarize the changes made. Other approaches include highlighting or underlining the revisions, or using training to identify and review the modifications.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Document control system &ndash; Document legibility)</p>
+
+<p>A requirement that appears obvious, but is often misunderstood, is that of ensuring documents are legible. You would think that in our electronic world where we have few paper copies that can deteriorate, legibility would be a disappearing issue. However, the reverse is true. In our world of electronics, we are more likely to store documents electronically and in a few years, change our software to where we can no longer read the files. It is the document owner&rsquo;s responsibility to ensure documents are maintained as readable over time.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Document control system &ndash; Document availability)</p>
+
+<p>Documents must be made available at the locations where they are needed. More and more organizations are using electronic documents, but if your organization uses paper copies, they must be available at points of use and obsolete ones must be removed or otherwise identified to prevent unintended use.</p>
+
+<p>For organizations using electronic documents, ensuring that the proper information is available where it is needed is typically a matter of ensuring computer access to the appropriate personnel in those areas. Removal from points of use (e.g. when a document becomes obsolete) would mean making the documents unavailable or inaccessible through the computer.</p>
+
+<p>Organizations using print documents will need to identify and control a specific number of copies which are then physically located at the appropriate points of use. Removal of obsolete hardcopy documents from points of use would involve physically removing the documents from the specific areas where they are located. In either case, controls must be in place to ensure that document locations are known.</p>
+
+<p>The [resource](Example_EnMS_Document_Control_Index) illustrates how the controls can be defined for the various documents in the EnMS. After all the controls for documents are defined and the process developed for applying the controls, ensure that they are communicated to the appropriate personnel. If this level of document control is new to the organization, consider training to supplement the communication.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Define and implement records controls)</p>
+
+<p>Regardless of its form, controls are needed to ensure that records:</p>
+
+<ul>
+	<li>remain identifiable,</li>
+	<li>can be traced to the activity performed,</li>
+	<li>are retained for the necessary time frame, and</li>
+	<li>are retrievable and legible.</li>
+</ul>
+
+<p>[Learn More](Record controls)</p>
+
+<p>Controls are needed to ensure that records are:</p>
+
+<p><strong>Identifiable and traceable:</strong> It must be clear what the record is and to what activities or operations it is related. For example, a common way to identify records and have them traceable to the activity involved is to ensure that it is dated and has a clearly stated title or subject that matches its content.</p>
+
+<p><strong>Retained for the necessary time frame:</strong> Records must be retained for specified periods of time. For each type of record, define a minimum retention time. Record retention times may be different for different types of records. Organizational or company record retention policies, legal requirements, and business needs should be considered when defining retention times.</p>
+
+<p><strong>Legible and retrievable:</strong> Records must remain readable and be able to be located. If the records are electronic, a process should be in place to maintain the equipment, operating system, and software to ensure the record can be read during its retention period. Paper should be stored such that the text will not fade away or the paper deteriorate to the point that it is unusable.</p>
+
+<p>[Learn More End]</p>
+
+<p>Some form of an [resource](EnMS_Records_Control_Index) can be helpful for defining the controls for records and assigning responsibilities. Clearly defined responsibilities are critical to effective record control. An [resource](Example_EnMS_Records_Control_Index) illustrates how the form can be completed.</p>
+
+<p>[Accordion End]</p>

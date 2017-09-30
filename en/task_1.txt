@@ -1,0 +1,79 @@
+USDOE 50001 READY NAVIGATOR TASK 1
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Scope and Boundaries
+----------TITLE-----b5112fb3----------
+Task 1asdf: We have defined, documented and approved the Scope and Boundaries of our 50001 Ready energy management system
+----------GETTING IT DONE-----8b555b9b----------
+<ul>
+	<li>With management input, complete the [resource](Scope_Boundaries_Worksheet) to define the scope and boundaries of the energy management system (EnMS).</li>
+	<li>Develop an EnMS Scope and Boundaries Statement.</li>
+	<li>Have top management approve the Statement and communicate it across the organization.</li>
+</ul>
+----------TASK OVERVIEW-----e5b4bc49----------
+<p>Top management defines the scope and boundaries of your organization&rsquo;s energy management system (EnMS). The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the extent of the activities and which facilities and decisions are included in the EnMS, and it can include several boundaries. The boundaries are the physical, site and/or organizational limits defined by your organization as the &ldquo;fence line&rdquo; of the EnMS.</p>
+
+<p>When defining the scope and boundaries, energy-using equipment or systems should not be excluded unless they are separately metered or a dependable calculation can be made. Once the scope and boundaries are defined, an organization cannot exclude energy sources that cross or are within the defined boundaries of the EnMS.</p>
+
+<p>EnMS scope and boundaries could include the building management operations of one or more commercial buildings at one or more specific locations; the manufacturing, warehousing, and distribution activities at a particular plant; or multiple facilities of a corporation at multiple sites, to name just a few. In many cases, the scope and boundary only includes one building or facility.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong></p>
+
+<ul>
+	<li>Identified the extent of activities, facilities, and decision structures to be included in your EnMS</li>
+	<li>Defined site limits and/or organizational limits of your EnMS</li>
+	<li>Developed a scope and boundaries statement for your EnMS</li>
+</ul>
+
+<p><em>This guidance is relevant to sections 4.1, 4.2.1, and 4.5.4.1 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----4bcb4b77----------
+<p>[Accordion](<strong>Identify the extent of activities, facilities, and decision structures to be included in your EnMS</strong>)</p>
+
+<p>Consider these questions when defining the extent of activities, facilities and decisions to be included in the scope and boundaries of your energy management system (EnMS). The [resource](Scope_Boundaries_Worksheet) can be used to help formulate the scope.</p>
+
+<ul>
+	<li>Is there an area for which you do not have energy information?</li>
+	<li>Is there an area where you cannot obtain employee involvement or participation?</li>
+	<li>Are there areas that have a different management team or decision structure?</li>
+	<li>Do you have a building or location that you are not including?
+	<ul style="list-style-type:circle">
+		<li>Can you isolate the energy consumption of those locations?</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Resources within your organization that can be useful in identifying the scope and boundaries of the EnMS include the following:</p>
+
+<ul>
+	<li>Organization chart</li>
+	<li>Site map or site plan</li>
+	<li>Site photographs</li>
+	<li>List of on-site contractors and related operations</li>
+	<li>Facility/building layout</li>
+	<li>Process layouts/maps</li>
+	<li>Process flow diagrams</li>
+	<li>Utilities drawings</li>
+	<li>Facility/building energy consumption data</li>
+	<li>Equipment energy consumption data</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](<strong>Define site limits and/or organizational limits of your EnMS</strong>)</p>
+
+<p>Now that you have considered and answered the questions related to the extent of activities, facilities and decisions to be included in the scope of your EnMS, what are the physical implications of your decision? How would they be translated into a statement of the boundaries of your EnMS? Consider your answers to these questions when defining the boundaries of your EnMS. The [resource](Scope_Boundaries_Worksheet) can be used to help formulate the boundaries to be defined in the statement.</p>
+
+<ul>
+	<li>What are the physical or organizational limitations of the areas that are included?</li>
+	<li>What are the physical or organizational limitations of the areas that are NOT included?</li>
+	<li>How do the areas that are included and are not included compare to the site map or site plan?</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](<strong>Develop a scope and boundaries statement for your EnMS</strong>)</p>
+
+<p>Using the output of the first two tasks, develop a written statement of the scope and boundaries of the EnMS. See [resource](Example_Scope_Boundaries_Worksheet) for additional guidance on how to formalize a statement of scope and boundaries. The statement of the EnMS scope and boundaries can be a stand-alone document or included within an energy manual, which is not required, but which many organizations find useful as a &ldquo;road map&rdquo; to their EnMS. (See the [resource](Energy_Manual_Guidelines) for additional information.)</p>
+
+<p>[Accordion End]</p>

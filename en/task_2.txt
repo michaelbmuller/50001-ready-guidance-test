@@ -1,0 +1,54 @@
+USDOE 50001 READY NAVIGATOR TASK 2
+----------MENU NAME-----
+Energy Policy
+----------TITLE-----608a01a8----------
+Task 2: We have developed an energy policy statement, which has been approved by top management
+----------GETTING IT DONE-----519832d----------
+<ul>
+	<li>Use the [resource](Energy_Policy_Worksheets) to draft your energy policy statement.</li>
+	<li>Have top management approve, issue, and communicate the energy policy statement across the organization and incorporate it into your EnMS awareness program (see [task](Communications)).</li>
+</ul>
+----------TASK OVERVIEW-----8773c62f----------
+<p>The energy policy is top management&rsquo;s statement of its intentions with respect to your organization&rsquo;s energy performance. The commitments stated in the policy set the direction for energy management activities and provide the framework for using energy objectives and targets to achieve energy performance improvements. It is documented and communicated to personnel across all levels of the organization, including on-site contractors.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong></p>
+
+<ul>
+	<li>Drafted the energy policy</li>
+	<li>Approved the energy policy</li>
+</ul>
+
+<p><em>This guidance is relevant to Sections 4.2.1 a) and 4.3 in the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----3c610cc----------
+<p>[Accordion](Draft the energy policy)</p>
+
+<p>The energy policy must state top management&rsquo;s commitments to the following:</p>
+
+<ul>
+	<li>Achieving continual improvement in energy performance</li>
+	<li>Ensuring the information and resources needed to meet energy objectives and targets</li>
+	<li>Complying with applicable legal requirements and other energy-related requirements subscribed to by your organization</li>
+</ul>
+
+<p>In addition, the energy policy must support:</p>
+
+<ul>
+	<li>Purchasing of energy-efficient products and services</li>
+	<li>Energy performance improvement in design activities</li>
+</ul>
+
+<p>The policy may be only a few sentences, or it may be several paragraphs long. Simpler and shorter is typically better, but it needs to include the commitments listed above and be appropriate to the nature and extent of your organization&rsquo;s energy use and consumption.</p>
+
+<p>Sometimes top management or the energy team will incorporate additional commitments into the energy policy (e.g., sustainability, reductions in greenhouse gas emissions, ENERGY STAR) that are not required by ISO 50001. This is acceptable; however, remember that what is stated in the policy must be demonstrated. In other words, if you say it then you must do it.</p>
+
+<p>The energy policy must be documented. Typically, the energy team prepares an initial draft of the energy policy for top management&rsquo;s consideration and approval. The [resource](Energy_Policy_Worksheets) can help your team draft the energy policy. An [resource](Example_Energy_Policy) shows how mnemonics can be used to phrase top management&rsquo;s commitments and facilitate personnel understanding and awareness as part of EnMS training activities.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Approve the energy policy)</p>
+
+<p>As a statement of your organization&rsquo;s intentions, top management must take &ldquo;ownership&rdquo; of the energy policy. This includes ensuring that the energy policy is aligned with the strategic direction of the organization. Evidence of top management&rsquo;s approval of the energy policy can take a variety of forms, from a simple signature and date to a recorded meeting decision.</p>
+
+<p>Once approved and communicated, the energy policy is reviewed regularly and updated as needed. This is accomplished through the management review process (see [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
