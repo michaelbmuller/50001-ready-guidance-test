@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Task\\": "src/"
+      "Guidance\\": "src/"
     }
   },
   "autoload-dev": {
