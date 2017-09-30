@@ -15,7 +15,7 @@
   },
   "require-dev": {
     "doctrine/instantiator": "1.0.5",
-    "phpDocumentor/reflection-docblock": "3.3.0",
+    "phpDocumentor/reflection-docblock": "3.0.3",
     "phpunit/php-token-stream": "~1.4",
     "phpunit/phpunit": "~5.7"
   },
