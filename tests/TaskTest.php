@@ -4,7 +4,6 @@ namespace Tests;
 
 use Guidance\Task;
 use PHPUnit\Framework\TestCase;
-use Prophecy\Exception\Exception;
 
 class TaskTest extends TestCase
 {
@@ -35,13 +34,13 @@ class TaskTest extends TestCase
 
     public function test_missing_task()
     {
-        $this->setExpectedException('Exception','Task ID not valid');
+        $this->expectExceptionMessage('Task ID not valid');
         new Task(0);
     }
 
     public function test_missing_task2()
     {
-        $this->setExpectedException('Exception','Task ID not valid');
+        $this->expectExceptionMessage('Task ID not valid');
         new Task(26);
     }
 
