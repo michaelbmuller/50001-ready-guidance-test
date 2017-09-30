@@ -1,0 +1,231 @@
+USDOE 50001 READY NAVIGATOR TASK 22
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Procurement
+----------TITLE-----d20adb17----------
+Task 22: We have established energy performance criteria spanning the operating life for purchases affecting energy performance,  informed suppliers that this is a factor in procurement, and have defined and currently use specifications for energy supply purchases
+----------GETTING IT DONE-----b9ee2ce5----------
+<ul>
+	<li>For purchases related to SEUs, procurement specifications should clearly identify any energy performance-related requirements. Communicate these requirements to suppliers and/or service providers, and inform them that energy performance is part of the evaluation criteria.</li>
+	<li>Use the [resource](Procurement_Checklist) to evaluate your organization&rsquo;s current procurement processes for items that can significantly impact energy performance. Determine and take any needed actions to adjust existing procurement processes to meet EnMS requirements.</li>
+	<li>Determine if your organization has established life cycle criteria for specific types of procurement actions.
+	<ul style="list-style-type:circle">
+		<li>If so, use training and/or documentation to ensure that the life cycle criteria are applied when procuring items or services that have a major impact on the organization&rsquo;s energy performance.</li>
+		<li>If not, consider using the [resource](Life_Cycle_Cost_Assessment_Worksheet) for purchases that can significantly impact energy performance.</li>
+	</ul>
+	</li>
+	<li>Determine if your organization has documented specifications for the purchase of energy supply. Review any existing specifications and compare with the [resource](Energy_Purchasing_Specification_Worksheets) to determine if any additional specifications are needed. If no energy supply specifications exist, use the [resource](Energy_Purchasing_Specification_Worksheets) to determine what specifications may be applicable to the different types of energy that your organization uses.</li>
+	<li>Incorporate relevant specifications into the requirements for purchases of energy.</li>
+</ul>
+----------TASK OVERVIEW-----bc5180cb----------
+<p>The purchase of energy-using products, equipment, and services can impact your organization&rsquo;s significant energy uses (SEUs) and energy performance. Your organization must establish a procurement process to ensure energy performance is considered when procurement is related to your organization&rsquo;s SEUs or when it can have a significant impact on energy performance. Your procurement activities need to support effective management of the significant energy uses and the achievement of improved energy performance.</p>
+
+<p>In an ISO 50001 EnMS, you must evaluate energy use, energy consumption, and energy efficiency over the planned or expected operating lifetime for any purchased items or services expected to have a significant impact on energy performance. Your organization must determine the evaluation criteria. These criteria look beyond your SEUs, so consider the bigger picture of how procurement impacts any item that affects energy performance.</p>
+
+<p>An important part of procurement in an EnMS involves acquiring an adequate supply of energy with acceptable quality to maintain ongoing operations. Developing purchasing specifications for sources of energy helps ensure the availability of a sufficient quantity of energy with acceptable quality and at a reasonable price.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Informed suppliers of energy performance as an evaluation factor for SEU-related purchases</li>
+	<li>Established operating lifetime energy performance criteria for purchases that can significantly affect energy performance</li>
+	<li>Developed documented specifications for the purchase of energy supply</li>
+</ul>
+
+<p><em>This guidance is relevant to Section 4.5.7 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----fb1f4562----------
+<p>[Accordion](Inform suppliers of energy performance as an evaluation factor for SEU-related purchases)</p>
+
+<p>You identified significant energy uses (SEUs) to focus your resources in the areas where you can achieve the most benefit (see [task](Relevant Variables)). When an energy use is identified as significant, you must address a number of ISO 50001 requirements that apply specifically to SEUs (see [task](Relevant Variables)), including those related to procurement.</p>
+
+<p>[Learn More](Purchases related to SEUs)</p>
+
+<p>Purchases related to SEUs can include:</p>
+
+<ul>
+	<li>Repair parts</li>
+	<li>Add-on equipment</li>
+	<li>Replacement parts/equipment</li>
+	<li>Maintenance materials</li>
+	<li>Maintenance services</li>
+	<li>Operational/maintenance controls</li>
+	<li>Supplies</li>
+	<li>Input materials</li>
+	<li>Operator services</li>
+	<li>Engineering services</li>
+	<li>Consultants</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>For purchases related to an SEU, procurement specifications need to clearly identify any energy performance-related requirements. Communicate these requirements to suppliers, and inform them that energy performance is part of the evaluation criteria. Consider leveraging your existing processes for communicating this information to your suppliers.</p>
+
+<p>You will need a process for evaluating and selecting the product, equipment, or service for the SEU. Your organization determines what role energy performance will play in the procurement selection process. Energy performance does not have to be the sole or most heavily weighted criterion, but it is one of the factors you use to make the final purchase decision. You may incorporate energy performance into existing procurement selection processes.</p>
+
+<p>Also inform service providers who will impact SEUs that energy performance is part of the evaluation for procuring their services. The major assessment component for service providers is competency, but you may consider other factors.</p>
+
+<p>[Learn More](Evaluation factors relevant to service providers)</p>
+
+<p>Some evaluation factors relevant to service providers could include:</p>
+
+<ul>
+	<li>Training records</li>
+	<li>Certifications</li>
+	<li>Experience with similar uses</li>
+	<li>Skilled trades available</li>
+	<li>Parts/materials procurement practices</li>
+	<li>Client recommendations/reviews</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establish operating lifetime energy performance criteria for purchases that can significantly affect energy performance)</p>
+
+<p>Energy performance is determined by the key characteristics (<a href="https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#step_4-1">see </a>[task](Measurement)). It is important that your organization makes the connection between procurement and its impact on energy performance. At a minimum, energy performance for your organization is determined by the following:</p>
+
+<ul>
+	<li>Energy performance of the significant energy uses</li>
+	<li>Significant energy uses relevant variables</li>
+	<li>Energy performance indicators (EnPIs)</li>
+	<li>Effectiveness in meeting energy objectives and targets through action plans</li>
+	<li>Actual versus expected energy consumption evaluation</li>
+</ul>
+
+<p>If a purchase can affect one of more of these key characteristics, your organization must establish criteria for evaluating whether there is a significant impact on energy performance.</p>
+
+<p>[Learn More](Evaluation criteria examples)</p>
+
+<p>Some examples are as follows:</p>
+
+<ul>
+	<li><strong>Significant energy use</strong><strong>:</strong> Assume that your lighting system has been determined to be an SEU. You may define a significant impact as the purchase of certain lighting items, the number of items, a cost level, or any purchase associated with lighting.</li>
+	<li><strong>Significant energy use relevant variables</strong><strong>:</strong> A relevant variable for the lighting system SEU is the amount of daylight. If your organization has skylights and you are considering a new roof that would eliminate the skylights, the loss of daylight could result in a significant impact on the operation, and energy consumption, of the lighting system. A significant impact could be defined as a certain consumption increase or the potential for consumption increase.</li>
+	<li><strong>Effectiveness in meeting energy objectives and targets through action plans</strong><strong>:</strong> The purchase of a service or piece of equipment could determine whether an energy target is reached for an energy improvement project. Failure to meet the target could be a significant impact on energy performance.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Brainstorm other factors that can have a major impact on energy performance, such as controls for SEUs, controls to sustain past energy improvements, and energy system maintenance activities.</p>
+
+<p>Significant impact can be a specific hurdle or limit, or it can be an evaluation based on your organization&rsquo;s experience. Be mindful of using cost as a hurdle for determining significant impact, as it can be misleading. For example, buying a few light bulbs on a frequent basis can have a bigger impact on energy performance than replacing one large piece of machinery once over a long time-span.</p>
+
+<p>Similarly, a significant impact on energy performance does not have to relate to large items or complex services. It can result from a relatively inexpensive maintenance items.</p>
+
+<p>[Learn More](Example maintenance items that can significantly impact energy performance)</p>
+
+<p>&nbsp;Example maintenance items that can significantly impact energy performance include:</p>
+
+<ul>
+	<li>High efficiency air filters</li>
+	<li>Synthetic lubricants</li>
+	<li>Cogged v-belts</li>
+	<li>Low leakage couplings</li>
+	<li>Electronic condensate drain valves on compressed air systems</li>
+</ul>
+
+<p>As an example:</p>
+
+<p>Quick disconnect &ldquo;O&rdquo; rings for an air compressor can cost from two cents to one dollar. The more expensive rings result in an improved system efficiency. Despite higher first cost, the increased efficiency of high quality &ldquo;O&rdquo; rings results in a significant savings over their life cycle. <a class="msocomanchor" href="#_msocom_1" id="_anchor_1" name="_msoanchor_1">[CJW1]</a></p>
+
+<p>[Learn More End]</p>
+
+<p>If a purchase can have a significant impact on energy performance, your organization must evaluate the purchase and its energy performance over its planned or expected operating lifetime. Many tools can be used to calculate life cycle cost, and the best one for your organization will depend on the items purchased and their application, as well as the complexity of your accounting system. The [resource](Life_Cycle_Cost_Assessment_Worksheet) provides a simple accounting-based tool for calculating life cycle cost. Other resources for life cycle calculation methods are provided in the [resource](Tool_Life_Cycle_Resources_List).</p>
+
+<p>To ensure that procurement actions support the EnMS, it is critical that procurement personnel be kept informed about the needs of the EnMS, including the SEUs and the types of items and services that can significantly affect your organization&rsquo;s energy performance. This information enables them to make appropriate procurement decisions. Procurement personnel must be familiar with the key characteristics of operations that determine energy performance, and mindful that energy performance and life cycle assessment may be part of the procurement decision. Once personnel are aware of the EnMS, it is their responsibility to purchase items in a manner consistent with the EnMS&rsquo;s needs.</p>
+
+<p>[Learn More](LED lighting procurement example)</p>
+
+<p>Your maintenance director evaluated the energy use of LED lighting and incandescent bulbs for your lighting system over their planned or expected lifetime. The analysis showed that substituting LED lighting for incandescent bulbs would improve energy performance substantially. Savings are realized from reduced energy consumption, as well as reduced maintenance costs, because the longer life of the LEDs reduces their frequency of replacement. The LED lighting costs more initially, but over time will use less energy. Procurement typically tries to minimize costs, and if they are not made aware of the life cycle analysis and provided with appropriate specifications, they likely would continue buying the less expensive bulbs.</p>
+
+<p>[Learn More End]</p>
+
+<p>The [resource](Example_Life_Cycle_Cost_Assessment_Worksheet) uses the lighting example to demonstrate how life cycle cost may be calculated.</p>
+
+<p>Procurement in your organization may be handled by a corporate or headquarters function. To satisfy the ISO 50001 requirements you may need to work with the corporate procurement function to implement the necessary procurement processes. Some ideas to consider in establishing these processes are provided in [resource](Establishing_Energy_Related_Procurement_Processes).</p>
+
+<p>The [resource](Procurement_Checklist) can assist with the implementation of the ISO 50001 requirements related to procurement processes.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop documented specifications for energy supply)</p>
+
+<p>ISO 50001 requires that your organization define and document specifications for the purchase of energy supply. The energy requirements for your organization may be adequately addressed by the local supplier(s), and perhaps you do not require special considerations. In this case, the supplier can typically provide the specifications for the energy you are being supplied, or it may be specified in your contract, along with the rates.</p>
+
+<p>Your organization may have special needs, or there may be other considerations for selecting and purchasing the energy needed for your facility. If your organization has unique energy supply requirements, you may have to develop the specifications necessary to meet your needs.</p>
+
+<p>[Learn More](Factors impacting the development of an energy supply purchasing specification)</p>
+
+<p>The development of an energy supply purchasing specification can depend on:</p>
+
+<ul>
+	<li>Equipment requirements</li>
+	<li>Energy availability</li>
+	<li>Facility location</li>
+	<li>Manufacturing process requirements</li>
+	<li>Environmental regulations</li>
+	<li>Other governmental regulations</li>
+</ul>
+
+<p>For example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Governmental regulations &ndash; Governmental regulations specify that a new facility must use the local electrical utility provider if the facility&rsquo;s connected load will be less than 900 kilovolts. Above 900 kilovolts, the organization can select their provider with a competitive bid process. The local supplier may allow few variations in the characteristics or rates of the energy supplied. If the load is large, competition may allow more flexibility in the energy specifications.</div>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Manufacturing process requirements &ndash; A carpet manufacturer uses a direct-fired dryer. Because the carpet comes in contact with combustion products, a clean fuel like natural gas or propane is required. Fuel oil or solid fuels are excluded, since contact between the finished product and combustion gases could result in contamination with soot or ash.</div>
+
+<p>[Learn More End]</p>
+
+<p>Specifications you may need to consider for your energy supply can include requirements related to quality, quantity, reliability, and cost.</p>
+
+<p>[Learn More](Factors impacting energy supply specifications)</p>
+
+<p>Examples of each these factors (Quality, quantity, reliability, and cost) include the following:</p>
+
+<ul>
+	<li>Quality
+	<ul style="list-style-type:circle">
+		<li>Maximum moisture content in coal</li>
+		<li>Maximum sulfur content in fuel oil</li>
+		<li>Minimum Btu content in fuels</li>
+		<li>Acceptable voltage variation</li>
+		<li>Minimum power factor</li>
+	</ul>
+	</li>
+	<li>Quantity
+	<ul style="list-style-type:circle">
+		<li>Amount</li>
+		<li>Delivery requirements</li>
+	</ul>
+	</li>
+	<li>Reliability
+	<ul style="list-style-type:circle">
+		<li>Allowable quality variation</li>
+		<li>Allowable delivery variation</li>
+		<li>Interruptible acceptance</li>
+	</ul>
+	</li>
+	<li>Cost factors
+	<ul style="list-style-type:circle">
+		<li>Cost per unit</li>
+		<li>Cost for non-interruption</li>
+		<li>Demand cost</li>
+		<li>Delivery cost</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Develop the energy purchasing specifications to ensure the effective use of energy. The effective use of energy means the energy characteristic will contribute towards maximizing energy performance while providing no or limited negative consequences. As an example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Your organization is using fuel oil as a process fuel. Consider the sulfur content of fuel oil as a factor relating to effective use of it as an energy source. Sulfur dioxide emissions are tightly controlled in many areas. High smog alert days may impact the ability of your organization to use fuel oil if the sulfur content is too high. Consequently, sulfur content will influence the effective use of fuel oil as an energy source.</div>
+
+<p>&nbsp;</p>
+
+<p>To help you develop purchasing specifications for energy supply, you may want to use the [resource](Energy_Purchasing_Specification_Worksheets). The worksheets will help you identify important energy supply parameters and formulate suitable purchasing specifications. Purchasing specifications are dependent on the energy source, so this resource includes separate tabs for electricity, natural gas, fuel oil, and solid fuels. Since effective use of energy is an important consideration in purchasing, the worksheet contains a column for rating whether or not the purchasing factor influences effective use.</p>
+
+<p>Document the energy supply specifications to ensure the energy source, delivery, price, invoicing, payment, and contracting requirements are known by potential vendors and satisfied by selective purchasing. To help you prepare energy purchasing documentation, energy source specifications can be developed using the [resource](Energy_Purchasing_Specification_Worksheets), along with input from your procurement and legal departments. Consult your procurement specialists for help with delivery, invoicing, and payment requirements, and legal analysts for assistance with contractual issues. Document the energy purchasing specifications to ensure that initial and future energy supply will meet all requirements. The [resource](Energy_Purchasing_Specification_Summary) can be used to help organize the information needed for purchasing of energy supply.</p>
+
+<p>[Accordion End]</p>

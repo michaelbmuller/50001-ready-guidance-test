@@ -1,0 +1,118 @@
+USDOE 50001 READY NAVIGATOR TASK 8
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Significant Energy Uses (SEUs)
+----------TITLE-----273fc61d----------
+Task 8: We have determined our Significant Energy Uses (SEUs) and determined their energy performance, estimated future consumption and have a plan for reviewing and updating them.
+----------GETTING IT DONE-----c1f7cc77----------
+<ul>
+	<li>Using the Energy Uses tab of the [resource](Energy_Footprint_Tool), identify the Significant Energy Uses (SEUs) that consume the most energy in your facility.</li>
+	<li>Determine SEU energy performance and complete the [resource](SEU_Future_Energy_Estimate_Worksheet).</li>
+	<li>Develop and implement a plan for reviewing and updating SEUs.</li>
+	<li>Include a review of the SEU evaluation and selection methodology as part of the SEU update process.</li>
+</ul>
+----------TASK OVERVIEW-----d81a27ec----------
+<p>It&rsquo;s important to identify your organization&rsquo;s significant energy uses (SEUs) using defined criteria for significance. SEUs can be determined based on major consumption and/or considerable opportunity for improvement.</p>
+
+<p>Once the SEUs are identified, the current performance of the significant energy uses (SEUs) needs to be determined as part of the energy review. Then processes are implemented to continually monitor that performance. Collecting, analyzing, and tracking data on SEU performance can help identify opportunities for energy performance improvement.</p>
+
+<p>In addition to determining and then monitoring SEU energy performance, projection of their future energy consumption is also an important part of energy planning. Projections allow your organization to look at the factors that could affect consumption over time.</p>
+
+<p>Lastly, it is important to plan for how and when the energy team will review and update the SEUs and their evaluation and selection methodology. The review must be conducted regularly. Over time, the energy uses identified as significant may change as your organization continues to improve its energy performance. Also over time, it may be appropriate to modify the evaluation and selection methodology based on changes in facilities, equipment, systems, and processes.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Determined and applied criteria for selecting SEUs</li>
+	<li>Determined current energy performance of the SEUs and implemented associated monitoring</li>
+	<li>Calculated future energy use and consumption projection of the SEUs</li>
+	<li>A plan for updating the SEUs regularly</li>
+</ul>
+
+<p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----6ee71eb8----------
+<p>[Accordion](Determine and apply criteria for significance)</p>
+
+<p>Recall that according to the definition of significant energy uses, substantial energy consumption and/or considerable opportunity for improvement are the criteria used in determining your organization&rsquo;s significant energy uses. Most organizations will determine SEUs based on the largest energy consuming systems and equipment identified in an energy balance. However, SEUs also may be determined based on considerable potential for energy performance improvement. This can be a good option if your organization has been engaged in energy management activities for many years and the opportunities for additional improvements to the largest energy-consuming systems are limited. In this situation, you can focus on smaller systems that have greater opportunity for energy performance improvement.</p>
+
+<p>In [task](Data Analysis), the energy balance was presented as a method of reasonable assurance that you have accounted for all the energy consumed in your organization. Once a balance is achieved, one of the most common methods for determining SEUs is to rank the energy uses by consumption. You can then establish a certain threshold of energy consumption or a certain percentage of total consumption as the selection criterion for significance (see [task](Data Analysis)). The top energy consumers are then evaluated for improvement opportunities. However, this is only an example of one way to approach the selection criteria; you can choose different approaches that are appropriate for your organization.</p>
+
+<p>[Learn More](80/20 Rule)</p>
+
+<p>In industry and many businesses, the <em>80/20 rule</em> typically applies (see [task](Data Analysis)); i.e., 80 percent of the energy consumption will be accounted for by 20 percent of the equipment or processes. Typically, only a few energy systems consume the majority of a facility&rsquo;s energy. Focus on these, and apply the criteria for significance. Energy management is a continual improvement process, and over time additional energy systems and uses can be identified as significant.</p>
+
+<p>[Learn More End]</p>
+
+<p>For newly implemented energy management systems, it is important to start simple. Consider limiting the number of SEUs in your new EnMS, since these energy uses require the most resources. ISO 50001 requires that you address competency of personnel whose work is related to the (see [task](Training) and [task](Communications)), operational control (see [task](Operational Controls)), procurement (see [task](Procurement)), and monitoring and measurement (see [task](Monitoring) and [task](Measurement)) of all the SEUs identified. You will also need to take SEUs into account when establishing objectives and targets (see [task](Improvement Projects)). These requirements can quickly consume available resources.</p>
+
+<p>A list of the SEUs and the method used to determine them is an important energy management planning document. You will need to record the evaluation and selection criterion and the process used to determine significance. The methodology may change over time, and those changes must also be recorded. The [resource](Worksheet_Documenting_SEU_Criteria_Method) is available to help document the criteria and method used to determine significant energy uses.</p>
+
+<p>[Learn More](Making SEU Connections)</p>
+
+<p><strong>Making</strong> <strong>SEU Connections</strong> is a recommended best practice is record the significant energy uses, the areas or operations with which they are associated, and the affected personnel (by position title) by completing columns 1, 2, and 5 on the [source](SEU_Control_Chart). This simple spreadsheet tool can serve as the list of current significant energy uses and a place to record other information that will be needed to ensure proper management of significant energy uses. An [resource](Example_SEU_Control_Chart) is also provided. The other information about SEUs (i.e., columns 4, 6, 7, and 8 in the SEU Control Chart) will be generated in [task](Monitoring), [task](Measurement), and [task](Operational Controls).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determine current energy performance and implement monitoring)</p>
+
+<p>Once the SEUs are identified, collect appropriate energy data to determine their performance (part of [task](Data Analysis)). A best practice is to include their energy performance data and information within the energy tracking system (see [task](Data Analysis)). This brings all of the organization&rsquo;s energy data into one central location. Normal analysis and tracking of energy data will then include updating energy performance on the SEUs.</p>
+
+<p>An energy performance indicator (EnPI) (see [task](Baselines, Objectives and Targets)) can be developed to define the energy performance for a SEU. There are [resource](Generally_Accepted_EnPIs) for many common energy systems that are often identified as SEUs. Similar EnPIs can be developed for facilities, equipment, processes, personnel, or other systems. Track the EnPIs to reveal trends that allow comparison of the performance of SEUs over time. Benchmarking, which is the practice of comparing an SEU to the best in class or theoretically optimal performance of similar uses, may be used when available (see [task](Data Analysis)).</p>
+
+<p>[Learn More](Example of EnPI tracking)</p>
+
+<p>An [resource](Example_EnPI_Tracking) for steel melt furnace energy performance is included. The example presents furnace performance expressed as kilowatt-hours per ton for two shifts over a three-week period. The example illustrates how EnPIs can be used to track SEU performance over time and how operating personnel can affect the energy performance of the significant energy use.</p>
+
+<p>[Learn More End]</p>
+
+<p>Energy performance of a SEU also can be determined and monitored by operational or maintenance parameters (see [task](Monitoring)).</p>
+
+<p>Significant energy uses are among the &ldquo;key characteristics&rdquo; of energy performance that are regularly monitored, measured, and analyzed (see [task](Monitoring)). Your organization decides on the method for determining energy performance and identifies the monitoring and measurement necessary for data collection. Data analysis is a continuous process. Continue to monitor the SEUs and collect, analyze, and track data to identify opportunities for energy performance improvement.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Calculate future energy use and consumption)</p>
+
+<p>Because SEUs typically account for a major portion of an organization&rsquo;s energy consumption, projection of their future energy consumption is an important part of energy planning. Projections allow for an organization to look at the factors that could affect consumption and make important decisions about production, energy projects, technology implementation, sources, availability, etc. To assist with projecting energy consumption of significant uses, a [resource](SEU_Future_Energy_Estimate_Worksheet) is provided. Complete one estimate for each SEU. You can estimate potential changes in SEU consumption based on the effects of various factors.</p>
+
+<p>[Learn More](Factors that can affect energy consumption)</p>
+
+<p>To help identify the factors important to your organization, you may want to consider:</p>
+
+<ul>
+	<li>Occupancy</li>
+	<li>Production</li>
+	<li>Capital investment</li>
+	<li>Replacement energy sources</li>
+	<li>Completed energy projects</li>
+	<li>New technologies</li>
+	<li>Process changes</li>
+	<li>Materials changes</li>
+	<li>Product criteria</li>
+	<li>Weather</li>
+	<li>Operational criteria</li>
+	<li>Changes to the economy</li>
+	<li>Business or industry sector change</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Develop a future energy consumption estimate for SEUs to provide an early warning about anticipated changes occurring in your organization, and use it as a reference to evaluate results.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Plan for updating the significant energy uses)</p>
+
+<p>Establish a plan for the energy team to review and update the SEUs as well as their evaluation and selection methodology regularly. Management input should be solicited during this process. Changes in the selected SEUs or the evaluation and selection process may be necessary for a number of reasons:</p>
+
+<ul>
+	<li>Improvement projects have reduced consumption of an SEU below the selection threshold</li>
+	<li>Changes in resources available to address SEUs</li>
+	<li>Business changes have affected SEU focus/selection</li>
+	<li>New processes have altered energy consumption patterns</li>
+</ul>
+
+<p>[Accordion End]</p>

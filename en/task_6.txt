@@ -1,0 +1,308 @@
+USDOE 50001 READY NAVIGATOR TASK 6
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Data Collection
+----------TITLE-----7bbf9bb9----------
+Task 6: We have identified all our energy sources and uses and accurately collected the related energy consumption data
+----------GETTING IT DONE-----79486c98----------
+<ul>
+	<li>If you are using [resource](EnPI_Lite), have a member of your staff whose responsibilities include data management/tracking complete either (1) the <em>Energy Consumption</em> tab of the [resource](Energy_Footprint_Lite_Data_Uploader) or (2) the <em>Energy Consumption</em> tab of the [resource](Energy_Footprint_Tool). Follow the instructions on the homepage of [resource](EnPI_Lite). For EnPI Lite users, the [resource](Energy_Footprint_Lite_Data_Uploader) may be simpler to use as it is a version of the Footprint Tool that has been tailored for EnPI Lite.</li>
+	<li>If you are not using EnPI Lite, identify and note the central location where data is stored.</li>
+</ul>
+----------TASK OVERVIEW-----23fe5646----------
+<p>The first step in the data collection process is to identify the energy sources used by your organization within the defined scope and boundaries of the energy management system (EnMS). To ensure that all energy sources are identified, this effort should include identification of the facilities, equipment, systems, and processes associated with each energy source. Understanding the sources of energy used and how they are used sets the stage for determining, collecting, and analyzing the data needed to evaluate your organization&rsquo;s energy performance.</p>
+
+<p>The next step in the data collection process is to identify your organization&rsquo;s data needs. ISO 50001 requires that certain data are included in the energy review, including: energy sources, analysis of past and present energy use and energy consumption (and estimates of future energy use and consumption), and data detailing significant energy uses. These data will be critical to selecting energy performance indicators (EnPIs), establishing baselines, and setting energy objectives and targets.</p>
+
+<p>Once your data needs have been defined, establish a data collection process to ensure regular data collection. Energy bills are one ready source of data, but other data will be required to evaluate energy performance. Based on your identified energy data needs, your organization must develop a data collection process that includes assignment of responsibilities for data collection and handling (see [task](Energy Team)).</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ol>
+	<li>Identified current energy sources</li>
+	<li>Identified energy uses</li>
+	<li>Identified data needs</li>
+	<li>Collected data</li>
+	<li>Entered data in a central location</li>
+</ol>
+
+<p><em>This guidance is relevant to Sections 4.4.3 and 4.4.3 a) of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION-----776850fb----------
+<p>[Accordion](Identify current energy sources)</p>
+
+<p>The first step in completing this task is to identify and document your organization&rsquo;s current energy sources. For ISO 50001, energy sources are the forms of energy that come across your organization&rsquo;s boundaries. This includes both primary energy and secondary energy. <em>Primary energy</em> is energy in its natural state, such as natural gas. <em>Secondary energy</em> is derived from primary energy and includes sources such as electricity, steam, and compressed air.</p>
+
+<p>[Learn More](Example energy sources)</p>
+
+<p>Some examples of energy sources are:</p>
+
+<ul>
+	<li>Electricity</li>
+	<li>Natural Gas</li>
+	<li>Fuel oil</li>
+	<li>Diesel</li>
+	<li>Gasoline</li>
+	<li>Propane</li>
+	<li>Coal</li>
+	<li>Wind</li>
+	<li>Geothermal</li>
+	<li>Biomass</li>
+	<li>Steam</li>
+	<li>Compressed air</li>
+	<li>Chilled water</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>For each energy source, you will need to identify associated facilities, equipment, systems, and processes. This helps ensure all energy sources are identified and none are overlooked. Use one or more of the following to help identify energy-using facilities, equipment, systems, and processes, and account for all energy sources:</p>
+
+<ul>
+	<li>Floor plans</li>
+	<li>Process flow charts</li>
+	<li>Facility plan with equipment locations</li>
+	<li>Building schematics</li>
+	<li>Wiring diagrams</li>
+	<li>Utility diagrams</li>
+	<li>Equipment lists</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify energy uses)</p>
+
+<p>In ISO 50001 terminology, energy use is not the same as energy consumption. <em>Energy use</em> is defined as a &ldquo;manner or kind of application of energy.&rdquo; Examples include ventilation, heating, cooling, lighting, and transportation. Energy uses are associated with the facilities, equipment, systems, and processes that use the energy.</p>
+
+<p>[Learn More](Example energy uses)</p>
+
+<p>Some examples of these energy uses are:</p>
+
+<ul>
+	<li>Indoor lighting</li>
+	<li>Outdoor lighting</li>
+	<li>Space heating</li>
+	<li>Space cooling/air conditioning</li>
+	<li>Commercial/industrial hot water or steam boilers</li>
+	<li>Domestic type hot water heaters</li>
+	<li>Office equipment</li>
+	<li>Maintenance building</li>
+	<li>Boiler house</li>
+	<li>Main production building</li>
+	<li>Accounting office</li>
+	<li>Air compressors</li>
+	<li>Pumps</li>
+	<li>Ovens or process heating</li>
+	<li>Refrigeration systems</li>
+	<li>Conveyors/conveying systems</li>
+	<li>Fans and ventilation (not associated with space heating/cooling)</li>
+	<li>Cooling towers</li>
+	<li>Motors</li>
+	<li>Water chillers</li>
+	<li>Paint line</li>
+	<li>Assembly</li>
+	<li>Purchasing</li>
+	<li>Information technology</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Energy uses can be identified in any way that suits your organization. Earlier in this task you associated energy sources with their appropriate facilities, equipment, systems, and processes to ensure all relevant sources were identified. Organize equipment, systems and processes into logical groupings or categories (i.e., uses) that would best allow you to evaluate and improve energy performance.</p>
+
+<p>[Learn More](Equipment, system and process groupings)</p>
+
+<p>Some categories to consider (with examples in parenthesis) are as follows:</p>
+
+<ul>
+	<li>Processes (all the equipment associated with a printing process or a drying process)</li>
+	<li>Similar equipment (all air conditioners or all compressors)</li>
+	<li>Departments (computer lab or painting department)</li>
+	<li>Systems (lighting or compressed air)</li>
+	<li>Utility distribution (panel A or all 50 amp circuit breakers)</li>
+	<li>Specific equipment (a specific mainframe computer or boiler)</li>
+	<li>Facilities (administration building or production shop)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Energy uses do not have to be collected into one specific category; a combination of different categories may be used to categorize uses. An example is that the computer lab, the printing process, the boiler, and the electricity used by the remainder of the facility could each be identified as separate energy uses.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify data needs)</p>
+
+<p>A successful energy management system (EnMS) relies on accurate and appropriate data. The energy review is intended to profile your organization&rsquo;s energy situation and serve as a guide for collecting and analyzing the data needed to determine energy performance and identify improvement opportunities.</p>
+
+<p>ISO 50001 requires that the following data and information be included in the energy review:</p>
+
+<ul>
+	<li><strong>Energy sources</strong> &ndash; Ensure all energy sources are identified. Data for energy sources is generally available from utility bills or the source energy provider (see [resource](Example_Types_Energy_Management_Data)).</li>
+	<li><strong>Analysis of past energy use and energy consumption</strong> &ndash; The manner and detail in which these data are collected will depend on the metering installed or available in your organization. Metering may only be available at a utility level, and analysis capability may be limited. Collect data over the last several years to establish the history of the organization&rsquo;s energy performance (see [task](Data Analysis)).</li>
+	<li><strong>Analysis of present energy use and consumption</strong> &ndash; Collection of these data will also depend on the meters installed (or that you will install) in your facility. If utility meters are the only meters installed, you may need to consider additional metering if your organization desires more granularity in the evaluation of energy use and consumption. Use these data to establish current energy performance (see [task](Data Analysis)).</li>
+	<li><strong>Significant energy uses (SEUs) and their current performance</strong> &ndash; Significant energy uses are the facilities, systems, equipment, processes, and personnel that consume a significant amount of energy and/or have a good opportunity for energy performance improvement. Use the information in the data collection and analysis of opportunities part of the energy review to determine your SEUs (see [task](Data Analysis) through [task](Significant Energy Uses)). Focusing on SEUs allows your organization to concentrate resources in the areas that consume the greatest amount of energy and/or that have the greatest potential for energy performance improvement.</li>
+	<li><strong>Relevant variables affecting the significant energy uses</strong> &ndash; Relevant variables are the factors that can have an impact on the energy performance of your significant energy uses. Determine the relevant variables using the data from the energy review (see [task](Significant Energy Uses) and [task](Relevant Variables)).</li>
+	<li><strong>Estimates of future energy use and energy consumption</strong> &ndash; Prepare estimates of future energy use and energy consumption for your significant energy uses (see [task](Significant Energy Uses)). These estimates can help you manage your significant energy uses, establish energy objectives and targets, and provide a level of expectation you can use to compare with actual results (see [task](Monitoring)).</li>
+	<li><strong>Prioritized opportunities for improving energy performance</strong> &ndash; Identify improvement opportunities using the energy review data and analysis, as well as data from energy assessments and other methods (see [task](Improvement Opportunities)).</li>
+</ul>
+
+<p>In addition to collecting and analyzing data to determine your organization&rsquo;s energy performance, the energy review provides the basis for establishing the metrics for energy performance measurement and opportunity identification. Use these data for the following purposes:</p>
+
+<ul>
+	<li><strong>Selecting energy performance indicators (EnPIs)</strong> &ndash; EnPIs are the metrics used to quantify your organization&rsquo;s energy performance. It can be a simple metric or a more complicated measure (see [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Establishing the energy baseline</strong> &ndash; The baseline is the benchmark against which current energy performance is compared, to determine if your energy performance has improved. The baseline can be a simple metric (e.g., consumption) or can be a more complicated measure (see [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Setting energy objectives and energy targets</strong> &ndash; Once your organization has determined the status of its energy performance and identified opportunities, it can establish objectives and set targets for achieving improved energy performance (see [task](Improvement Opportunities) and [task](Improvement Projects)).</li>
+</ul>
+
+<p>Data requirements may include more than consumption data. Data may be related to efficiency, loading, operating time, etc. Your energy team must determine the appropriate data necessary for the identified metric.</p>
+
+<p>In considering energy management data needs, one best practice is for your energy team to consider potential data needs related to requirements other than the energy review and performance metrics. These include:</p>
+
+<ul>
+	<li>Energy policy</li>
+	<li>Legal and other requirements</li>
+	<li>Operations or production data</li>
+	<li>Energy costs</li>
+	<li>Organizational financial information</li>
+</ul>
+
+<p>The energy policy addresses what is important to the organization in terms of energy and provides strategic direction with respect to energy data (see [task](Energy Policy)). Energy management can affect or be affected by energy-related legal and other requirements, and specific data could be mandated by these requirements (see [task](Legal Requirements)). Operation and production data could be important for determining energy performance and energy performance indicators for building operations and industrial operations (see [task](Baselines, Objectives and Targets)). Information related to energy cost considerations cannot be neglected since, for most organizations, top management will usually want to know the impact on the organization&rsquo;s bottom line.</p>
+
+<p>Information useful in data identification is contained in [resource](Example_Types_Energy_Management_Data).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Collect Data)</p>
+
+<p>Knowing your energy data needs is not enough. It is important to know where to locate and how to acquire the necessary information. Requirements will vary depending on the data to be collected. Energy bills are generally readily available and easy to collect, but other data may require more effort. Metering may not exist for some energy management data, and it may be necessary to evaluate your metering availability and data collection process to determine the most advantageous method(s) to collect the required data. There are generally four sources for energy data collection, and you can employ some combination of these:</p>
+
+<ul>
+	<li>Utility revenue meters</li>
+	<li>Nameplate data</li>
+	<li>Portable meters</li>
+	<li>Submeters</li>
+</ul>
+
+<p>[Learn More](Sources for energy data collection)</p>
+
+<p><strong>Utility revenue meters</strong> &ndash; There will be one or more utility revenue meters within your facility or organization. Electric and natural gas meters are the most typical meters; there may be more than one utility meter for any fuel source. Utility energy bills should be gathered that capture the energy consumption data for each fuel, preferably over at least 12 months or more. Also, other fuel sources such as fuel oil, coal, and biomass might be delivered on an irregular basis over the year, and these fuel bills also should be gathered.</p>
+
+<p><strong>Nameplate data</strong> &ndash; Most energy-consuming equipment has a nameplate installed on the equipment that provides information about the equipment&rsquo;s energy use. The nameplate will typically provide information such as size or capacity and other energy related information. These data may include the following:</p>
+
+<ul>
+	<li>Electrical Equipment
+	<ul>
+		<li>Horsepower</li>
+		<li>Voltage</li>
+		<li>Full load amps</li>
+		<li>Rotational speed (rpm)</li>
+		<li>Number of power phases</li>
+	</ul>
+	</li>
+	<li>Fuel-fired equipment
+	<ul>
+		<li>Input/output MMBtu</li>
+		<li>Maximum steam flow</li>
+		<li>Maximum pressure</li>
+		<li>Operating temperature</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Equipment manuals may provide additional information about the equipment rating and capabilities. The [resource](Energy_Use_Worksheet) is an example of a form you can use for nameplate energy data collection.</p>
+
+<p><strong>Portable meters</strong> &ndash; Portable meters provide the flexibility of using the measuring equipment at multiple locations and are typically much less expensive. Portable meters are available with recording equipment so you can collect data at various periods of time to see how equipment responds under different load conditions.</p>
+
+<p><strong>Submeters</strong> &ndash; Submetering has the advantage of continuous availability for data measurement and, integrated with the appropriate recording equipment, can provide readily accessible energy information. Submeter installation can be expensive, and your organization needs to determine your most important data collection needs before making a purchase decision. It may also require process interruption during the installation period, and appropriate scheduling must be considered.</p>
+
+<p>[Learn More End]</p>
+
+<p>Data collected from nameplates and portable meters generally require additional calculations to evaluate energy consumption/performance, although submeters may also require additional calculations. You must determine the appropriate analysis method for the data available (see [task](Data Analysis)).</p>
+
+<p>Energy management data needs may also extend beyond energy data to include operations, production, costs associated with the various factors, and other financial information. To identify accurately the location of energy management data, you must evaluate the type of data to be collected and what instrumentation will be required to collect it.</p>
+
+<p>[Learn More](Example types of data to be collected)</p>
+
+<p>Examples of data to be collected might include the following:</p>
+
+<ul>
+	<li>Facility electricity consumption (collected via utility meter)</li>
+	<li>Boiler stack temperature (collected via stack thermometer)</li>
+	<li>Operating hours (collected via time clock)</li>
+	<li>Facility heater fuel (collected fuel delivery records)</li>
+	<li>Equipment cost (collected via supplier invoice)</li>
+</ul>
+
+<div>&nbsp;</div>
+
+<p>[Learn More End]</p>
+
+<p>Once you have determined the data you want to collect and the potential collection mechanism, determine if a collection process is already in place and how you collect the information. If these data are not already collected, evaluate how they are being generated. Then determine if your organization has the means to collect the data. If not, consider acquiring additional metering equipment or devising an alternative form of performance analysis.</p>
+
+<p>Because energy management is data-driven, availability of the appropriate data is necessary for the proper EnMS functioning. Also consider using a data recording format that is easy to understand and helps with the analysis process. Develop a consistent and reliable process for acquiring and recording data.</p>
+
+<p>A best practice for the energy data management process is to define the steps to be followed to ensure timely acquisition of accurate energy management related data. The complete collection process includes:</p>
+
+<ul>
+	<li>Energy management data required</li>
+	<li>Data location</li>
+	<li>Person (by position) or source keeping the data</li>
+	<li>Frequency of data collection</li>
+	<li>Data storage method and location</li>
+	<li>Method of analysis</li>
+</ul>
+
+<p>The process may include additional steps, but the above steps, at a minimum, again, are best practice. Your management representative typically oversees this process. The [resource](Example_Types_Energy_Management_Data) table can be helpful in establishing your data collection process.</p>
+
+<p>How often the data are collected depends on your organization&rsquo;s needs and requirements. The benefit of having a formal data collection process is that it will ensure you collect the appropriate data and record it at the necessary frequency.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Enter data in a central location)</p>
+
+<p>Now that you&rsquo;ve gathered all your energy and other data, and assigned responsibilities for how the data will be managed, your data should ideally be entered into a central location. (ISO 50001 does not require your data to be entered and recorded in a central location.) It is recommended that you document at least 24 months of data for all your energy sources to demonstrate energy performance continual improvement.</p>
+
+<p>[Learn More](Energy Footprint Tool)</p>
+
+<p>One recommended best practice is the use of the U.S. DOE [resource](Energy_Footprint_Tool) to help you organize your energy data. The [resource](Energy_Footprint_Tool) allows you to enter energy data for up to 10 years for the following variables, on a monthly basis:</p>
+
+<ul>
+	<li>All energy sources</li>
+	<li>Utility costs</li>
+	<li>Production rates</li>
+	<li>Operating hours</li>
+	<li>Building and facility occupancy rates</li>
+	<li>Meteorological data &ndash; heating and cooling degree days, mean temperature</li>
+	<li>Major equipment data</li>
+	<li>Submeter data</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Using DOE EnPI Lite)</p>
+
+<p>DOE [resource](EnPI_Lite) is an online regression-based tool that estimates energy savings relative to relevant variables like production levels and weather. EnPI Lite has been developed by DOE as a companion tool to the 50001 Ready Navigator. It is the recommended approach for tracking energy consumption and performance improvement as part of your 50001 Ready EnMS. However, use of existing tools and tracking methods in accordance with the guidance detailed in the 50001 Ready Navigator may also be appropriate. You can use EnPI Lite by inputting your energy data in one of three ways:</p>
+
+<p><strong>1. Inputting Data from the DOE Energy Footprint Lite Tool</strong></p>
+
+<p>If you are using [resource](EnPI_Lite), download the [resource](Energy_Footprint_Lite_Data_Uploader) to compile into one spreadsheet the energy consumption data for your 50001 Ready EnMS Scope. In addition to storing your data, the Footprint Lite Data Uploader will convert your energy data from source units (e.g., kWh) to primary energy. Source energy is the quantity of energy delivered to your facility. Primary energy accounts for losses in generation, transmission, and distribution in source energy. See Step 4 of the [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) for additional details.</p>
+
+<p>In Task 9 ([task](Relevant Variables)), you will be asked to identify Relevant Variables. The <em>Relevant Variables</em> sheet within the Footprint Lite Data Uploader can be used to compile relevant variable information ([task](Relevant Variables)). The data in the <em>Energy Consumption</em> and <em>Relevant Variables</em> sheets will be uploaded to [resource](EnPI_Lite) in order to calculate your energy performance improvement using the DOE-recommended application of regression analysis. For more details on regression analysis, see Task 10. [resource](EnPI_Lite) will allow you to download your Footprint Lite Data Uploader file with the results of your energy analysis in the same file. Detailed instructions for using the Footprint Lite Data Uploader can be found at the [resource](EnPI_Lite) homepage.</p>
+
+<p>If using EnPI Lite, it is recommended that, you insert 24 consecutive months of data with the 24<sup>th</sup> month occurring within the last 11 months. For example, if you are filling out [resource](EnPI_Lite) in December of 2016, the furthest you may reach back for your baseline year is January 2014.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baseline year: January &ndash; December 2014</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reporting year: January &ndash; December 2015</p>
+
+<p>For further guidance on baselines, see [task](Baselines, Objectives and Targets). These guidelines will help to ensure that your calculated energy performance improvement aligns with your most recent actions to reduce energy consumption at your facility. Include all energy sources identified as part of this task. See the guidance for how to identify and collect this data. For data collected at intervals more frequently than monthly (e.g. daily), sum data into months before uploading to the Footprint Lite Data Uploader.</p>
+
+<p><strong>2. Inputting Data from the DOE Footprint Tool</strong></p>
+
+<p>You may also use your compiled energy data from the DOE [resource](Energy_Footprint_Tool), by filling out the <em>Main</em> sheet and the <em>Energy Uses</em> sheet, listing all sources and uses of energy. See [resource](Energy_Footprint_Tool_Guide) and [resource](Energy_Footprint_Tool_Video). Note that [resource](EnPI_Lite) cannot return the results of your energy analysis within the Energy Footprint Tool (as it can when using the Footprint Lite Data Uploader).</p>
+
+<p><strong>3. Inputting Data from the EPA ENERGY STAR Portfolio Manager</strong></p>
+
+<p>You may also use your compiled energy data from the EPA ENERGY STAR Portfolio Manager (PM). If you are starting from PM, you will need to add relevant variable information before running [resource](EnPI_Lite). To do this through [resource](EnPI_Lite), upload your PM file to [resource](EnPI_Lite), following the instructions available on the EnPI Lite homepage). [resource](EnPI_Lite) will not provide a valid model since there is no relevant variable information listed in PM. However, it will still provide downloadable results. Download these from [resource](EnPI_Lite) and enter your relevant variable information into the Relevant Variables tab of the file (see [task](Relevant Variables) for guidance on relevant variables).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>

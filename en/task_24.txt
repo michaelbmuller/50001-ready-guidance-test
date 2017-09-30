@@ -1,0 +1,231 @@
+USDOE 50001 READY NAVIGATOR TASK 24
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Calculate Energy Savings
+----------TITLE-----a3a17e47----------
+Task 24: We have determined our energy performance improvement.
+----------GETTING IT DONE-----324caee4----------
+<ul>
+	<li>Demonstrate an improvement&nbsp;in energy performance at your facility using the DOE [resource](EnPI_Lite) tool or an alternative facility-level energy performance calculator.</li>
+</ul>
+----------TASK OVERVIEW-----57051890----------
+<p>Implementation of an ISO 50001 EnMS is intended to realize and sustain energy savings and energy cost reductions. There are many ways to calculate energy savings and track improvements. The ISO 50001 standard and 50001 Ready allow for flexibility in defining the appropriate energy performance indicators and tracking methods for your facility and its selected SEUs.</p>
+
+<p>EnPI Lite is recommended but not required to meet the 50001 Ready energy reporting requirement. For your initial 50001 Ready designation, energy reporting recommendations and requirements are as follows:</p>
+
+<table align="center" border="01" cellpadding="10" cellspacing="0" style="width:75%">
+	<tbody>
+		<tr>
+			<td style="text-align:left; vertical-align:top">1.&nbsp;The recommended approach for all participants is to submit an&nbsp;<strong>EnPI Lite Output File</strong>, using the baseline and reporting year guidelines as described in the Navigator.</td>
+			<td style="text-align:left; vertical-align:top">
+			<p>EnPI Lite accepts inputs from the [resource](Energy_Footprint_Tool)&nbsp;and EPA&#39;s [resource](Portfolio_Manager)&nbsp;to perform regression-based modeling.</p>
+
+			<p>Visit [resource](EnPI_Lite)&nbsp;for detailed instructions on how to use the tool.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left; vertical-align:top">2.&nbsp;If you are a Better Plants partner, the next recommended approach is to submit your most recent&nbsp;<strong>Better Plants Annual Report</strong>&nbsp;with data reported at the facility level.</td>
+			<td style="text-align:left; vertical-align:top">If you do not have access to your most recent Better Plants Annual Report at the facility level, complete the 50001 Ready Baseline Reporting Template.</td>
+		</tr>
+		<tr>
+			<td style="text-align:left; vertical-align:top">3.&nbsp;If you are a Better Buildings Challenge partner,&nbsp;the next recommended approach is to submit your most recent&nbsp;<strong>Better Buildings Challenge Annual Report</strong>&nbsp;with data reported at the facility level.</td>
+			<td style="text-align:left; vertical-align:top">
+			<p>If you do not have access to your most recent Better Buildings Challenge Annual Report at the facility level, the next recommended approach is to use Portfolio Manager.</p>
+
+			<p>If you do not use Portfolio Manager, complete the 50001 Ready Energy Consumption Baseline Report</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left; vertical-align:top">4. If you use Portfolio Manager, use the <strong>50001 Ready Energy Report for Portfolio Manager report template.</strong></td>
+			<td style="text-align:left; vertical-align:top">
+			<p>Download the [resource](50001Ready_PortfolioManager)&nbsp;directly to your Portfolio Manager account.</p>
+
+			<p>Participants will need to run the report for one full year of data, with the starting date being no more than 23 months from the submission date. It is recommended but not required for the data to cover the 12 months leading up to the implementation of the EnMS.<br />
+			<br />
+			ENERGY STAR Energy Performance Indicator reports may also be submitted.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left; vertical-align:top">5. All participants are permitted to use the<strong> 50001 Ready Energy Consumption Baseline Report.</strong></td>
+			<td style="text-align:left; vertical-align:top">
+			<p>Download the [resource](50001Ready_Energy_Consumption_Baseline_Report).</p>
+
+			<p>The Period Covered should be one full year, with the starting date being no more than 23 months from the submission date. It is recommended but not required for the Period Covered to be the 12 months leading up to the implementation of the EnMS.</p>
+
+			<p>This form is valid only for initial 50001 Ready recognition.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>For all reports, a separate form should be created for each facility requesting 50001 Ready recognition, or relevant facility data must be clearly indicated within the document. If multiple facilities are listed in a single document and not clearly identified, they will be assumed to be covered under a single scope for a single 50001 Ready designation.</p>
+
+<p>For subsequent 50001 Ready designation renewals, participants will be required to demonstrate energy performance improvement.</p>
+
+<p>If your facility uses an energy reporting form approved by a utility- or state-sponsored program, please contact us to inquire if it is an acceptable format to satisfy reporting requirements.</p>
+
+<p>Through completion of in the following tasks: [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets), and [task](Monitoring) you have:</p>
+
+<ul>
+	<li>Identified and gathered the appropriate energy consumption and relevant variable information</li>
+	<li>Selected your baseline and reporting period</li>
+	<li>Familiarized yourself with regression analysis</li>
+</ul>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<ul>
+	<li>Run EnPI Lite or your preferred method for calculating energy performance improvement</li>
+	<li>For EnPI Lite or regression analysis users, selected the valid models of your facility&rsquo;s energy consumption that best describe how your facility uses energy</li>
+	<li>Determined your facility-level energy performance improvement</li>
+</ul>
+
+<p>The remainder of the guidance for this task will address using EnPI Lite for determination of your energy performance improvement.</p>
+
+<p><em>This guidance is relevant to Section 4.6.1 of the ISO 50001:2011 standard</em>.</p>
+----------FULL DESCRIPTION-----a802f038----------
+<p>[Accordion](Run DOE EnPI Lite)</p>
+
+<p>Following instructions on the [resource](EnPI_Lite) homepage, upload your [resource](Energy_Footprint_Lite_Data_Uploader) file to EnPI Lite and view your energy performance improvement.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Select the valid models of your facility&rsquo;s energy consumption that best describe how your facility uses energy)</p>
+
+<p>For a detailed technical description of the model and statistical requirements used by [resource](EnPI_Lite) for calculating energy performance improvement, please refer to the [resource](50001_Ready_Protocol). Also refer to the guidance in the following tasks: [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets), and [task](Monitoring). A summary of the requirements is provided in the table below:</p>
+
+<div>
+<table cellspacing="0" style="width:346.0pt">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:201.0pt">
+			<p><strong>Parameter</strong></p>
+			</td>
+			<td rowspan="2" style="width:145.0pt">
+			<p><strong>Requirement</strong></p>
+			</td>
+		</tr>
+		<tr>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Reporting period</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Last month must be within last 11 months</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Baseline period</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>12 months prior to first month of reporting period</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Energy sources</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>All entering the facility (see [resource](50001_Ready_Protocol) for 5% exception)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Potential relevant variables</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Production and weather should be considered</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Data collection frequency</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Monthly</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Model type</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Linear regression forecast, Linear regression backcast,</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Minimum model R<sup>2</sup></p>
+			</td>
+			<td style="width:145.0pt">
+			<p>0.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>F-stat</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Greater than F-critical for p-value &lt; 0.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Max p-value for any relevant variable</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>At least one variable must have p-value</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>&lt;0.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Numeric model validity requirements when applying model</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>3 STD of model data</p>
+
+			<p>Mean of data w/in range of min/max of data used in model</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Site or primary energy?</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Primary</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Primary energy multipliers</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>See [resource](50001_Ready_Protocol)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>[resource](EnPI_Lite) may produce multiple valid models for each energy source. Use your best engineering judgement to select the model(s) that best describe how your facility uses energy. For example, if steam is used throughout the production process of a product, the model for the energy source that is used to generate steam should include a production variable. As another example, if the major uses of electricity in your facility are electric heating and cooling, then HDD and CDD should appear in your model of electricity.</p>
+
+<p>Results, including your energy performance improvement, are available through [resource](EnPI_Lite). These results can be viewed without developing a valid model and are intended to assist you to better understand your facility&rsquo;s energy performance improvement.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determine your facility level energy performance improvement)</p>
+
+<p>Once you have selected your energy consumption model(s), [resource](EnPI_Lite) will display your energy performance improvement against the baseline year. It is expressed as a percentage. See [task](Performance Indicators) for guidance on interpreting your facility&rsquo;s percent improvement. A 50001 Ready EnMS requires that your facility show a positive energy performance improvement against the baseline year. You can use this energy performance improvement to communicate the benefits of the EnMS within your facility and to your top management (Task 25, [task](Management Review)).</p>
+
+<p>[Accordion End]</p>

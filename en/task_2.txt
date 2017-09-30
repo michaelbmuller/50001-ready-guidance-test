@@ -1,5 +1,7 @@
 USDOE 50001 READY NAVIGATOR TASK 2
-----------MENU NAME-----
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
 Energy Policy
 ----------TITLE-----608a01a8----------
 Task 2: We have developed an energy policy statement, which has been approved by top management
