@@ -1,4 +1,4 @@
-USDOE 50001 READY NAVIGATOR TASK 1
+ï»¿USDOE 50001 READY NAVIGATOR TASK 1
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------SECTION----------
@@ -6,7 +6,7 @@ Planning
 ----------MENU NAME----------
 Scope and Boundaries
 ----------TITLE-----b5112fb3----------
-Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready.
+Tarea 1. Definir, documentar y aprobar el alcance y los lÃ­mites de nuestro sistema de gestiÃ³n de energÃ­a de acuerdo con el programa 50001 Ready.
 ----------GETTING IT DONE-----8b555b9b----------
 <ul>
 	<li>Complete la [resource](Scope_Boundaries_Worksheet) para definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE). Tome en cuenta las observaciones de los mandos directivos de la empresa.</li>
