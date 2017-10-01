@@ -4,7 +4,7 @@
 ----------SECTION----------
 Planning
 ----------MENU NAME----------
-Scope and Boundaries
+Alcance y límites
 ----------TITLE-----b5112fb3----------
 Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready.
 ----------GETTING IT DONE-----8b555b9b----------
