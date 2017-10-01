@@ -60,8 +60,8 @@ class Task
         $taskPieces = explode('----------',$this->task_file_contents);
         $this->version = explode(" ",$taskPieces[2])[0];
         $this->section = trim($taskPieces[4]);
-        $this->title = trim($taskPieces[6]);
-        $this->menuName = trim($taskPieces[8]);
+        $this->menuName = trim($taskPieces[6]);
+        $this->title = trim($taskPieces[8]);
         $this->getting_it_done = $taskPieces[10];
         $this->task_overview = $taskPieces[12];
         $this->full_description = $taskPieces[14];

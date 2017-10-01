@@ -14,7 +14,7 @@ class TaskTest extends TestCase
         $this->assertEquals(1,$task->id);
         $this->assertEquals('en',$task->language);
         $this->assertEquals('en',$task->language_displayed);
-        $this->assertEquals("Scope and Boundaries",$task->title);
+        $this->assertEquals("Scope and Boundaries",$task->menuName);
     }
 
     public function test_load_all_tasks()
