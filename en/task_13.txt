@@ -1,6 +1,8 @@
 USDOE 50001 READY NAVIGATOR TASK 13
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
+----------SECTION----------
+Energy Review
 ----------MENU NAME----------
 Improvement Projects
 ----------TITLE-----2fd39f92----------

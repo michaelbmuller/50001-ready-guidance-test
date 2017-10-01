@@ -1,6 +1,8 @@
 USDOE 50001 READY NAVIGATOR TASK 4
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
+----------SECTION----------
+Planning
 ----------MENU NAME----------
 Energy Team
 ----------TITLE-----a13cba6c----------

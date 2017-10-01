@@ -1,6 +1,8 @@
 USDOE 50001 READY NAVIGATOR TASK 11
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
+----------SECTION----------
+Energy Review
 ----------MENU NAME----------
 Baselines, Objectives and Targets
 ----------TITLE-----e628afc7----------

@@ -1,6 +1,8 @@
 USDOE 50001 READY NAVIGATOR TASK 5
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
+----------SECTION----------
+Planning
 ----------MENU NAME----------
 Legal Requirements
 ----------TITLE-----a1d7a45f----------
