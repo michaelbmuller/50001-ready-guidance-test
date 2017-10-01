@@ -2,6 +2,7 @@
 
 namespace Tests;
 
+use Guidance\Guidance;
 use Guidance\Task;
 use PHPUnit\Framework\TestCase;
 
@@ -42,6 +43,12 @@ class TaskTest extends TestCase
     {
         $this->expectExceptionMessage('Task ID not valid');
         new Task(26);
+    }
+
+    public function test_tasks(){
+        foreach(Guidance::Tasks() as $task_id => $task){
+            $this->assertEquals($task_id, $task->id);
+        }
     }
 
 
