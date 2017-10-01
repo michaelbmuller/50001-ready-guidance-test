@@ -15,6 +15,9 @@ class Task
     var $menuName;
     var $getting_it_done;
 
+    static function load($task_id){
+
+    }
 
     /**
      * Task constructor.
