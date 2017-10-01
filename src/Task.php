@@ -15,21 +15,16 @@ class Task
     var $menuName;
     var $getting_it_done;
 
-    static function load($task_id){
-
-    }
-
-    /**
-     * Task constructor.
-     */
-    public function __construct($task_id, $language = 'en')
+    static function load($task_id, $language = 'en')
     {
         if ($task_id < 1 or $task_id > 25) throw new \Exception('Task ID not valid', 404);
-        $this->id = $task_id;
-        $this->language = $language;
+        $task = new self();
+        $task->id = $task_id;
+        $task->language = $language;
 
-        $this->task_file_contents = $this->getFile();
-        $this->loadFile();
+        $task->task_file_contents = $task->getFile();
+        $task->loadFile();
+        return $task;
     }
 
     protected function getFile()
