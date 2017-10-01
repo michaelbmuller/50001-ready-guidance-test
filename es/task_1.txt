@@ -6,29 +6,29 @@ Planning
 ----------MENU NAME----------
 Scope and Boundaries
 ----------TITLE-----b5112fb3----------
-Task 1: We have defined, documented and approved the Scope and Boundaries of our 50001 Ready energy management system
+Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready.
 ----------GETTING IT DONE-----8b555b9b----------
 <ul>
-	<li>With management input, complete the [resource](Scope_Boundaries_Worksheet) to define the scope and boundaries of the energy management system (EnMS).</li>
-	<li>Develop an EnMS Scope and Boundaries Statement.</li>
-	<li>Have top management approve the Statement and communicate it across the organization.</li>
+	<li>Complete la [resource](Scope_Boundaries_Worksheet) para definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE). Tome en cuenta las observaciones de los mandos directivos de la empresa.</li>
+	<li>Prepare una declaraci&oacute;n del alcance y los l&iacute;mites del SGE.</li>
+	<li>Presente dicha declaraci&oacute;n a la alta direcci&oacute;n para su aprobaci&oacute;n, y luego comun&iacute;quela a toda la organizaci&oacute;n.</li>
 </ul>
 ----------TASK OVERVIEW-----e5b4bc49----------
-<p>Top management defines the scope and boundaries of your organization&rsquo;s energy management system (EnMS). The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the extent of the activities and which facilities and decisions are included in the EnMS, and it can include several boundaries. The boundaries are the physical, site and/or organizational limits defined by your organization as the &ldquo;fence line&rdquo; of the EnMS.</p>
+<p>Los altos directivos son los responsables de definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE) de su organizaci&oacute;n. Estos par&aacute;metros &mdash;alcance y l&iacute;mites&mdash; permiten a la organizaci&oacute;n determinar la magnitud de las actividades, as&iacute; como qu&eacute; instalaciones y decisiones abarcar&aacute; el SGE, y, con base en ello, concentrar acciones y recursos. El alcance puede contener distintos l&iacute;mites: de &iacute;ndole f&iacute;sica, de sitio u organizacionales, en todos los casos establecidos por la propia organizaci&oacute;n a manera de &ldquo;l&iacute;nea lim&iacute;trofe&rdquo; del SGE.</p>
 
-<p>When defining the scope and boundaries, energy-using equipment or systems should not be excluded unless they are separately metered or a dependable calculation can be made. Once the scope and boundaries are defined, an organization cannot exclude energy sources that cross or are within the defined boundaries of the EnMS.</p>
+<p>Al definir el alcance y los l&iacute;mites, no deber&aacute; excluirse ning&uacute;n equipo o sistema que consuma energ&iacute;a, a menos que &eacute;stos cuenten con medidores independientes o resulte viable realizar un c&aacute;lculo confiable. Una vez definidos el alcance y los l&iacute;mites, la organizaci&oacute;n no podr&aacute; excluir las fuentes de energ&iacute;a comprendidas dentro de los l&iacute;mites definidos para el SGE.</p>
 
-<p>EnMS scope and boundaries could include the building management operations of one or more commercial buildings at one or more specific locations; the manufacturing, warehousing, and distribution activities at a particular plant; or multiple facilities of a corporation at multiple sites, to name just a few. In many cases, the scope and boundary only includes one building or facility.</p>
+<p>El alcance y los l&iacute;mites del SGE podr&iacute;an abarcar, por ejemplo, las operaciones administrativas de edificaciones comerciales en una o m&aacute;s ubicaciones espec&iacute;ficas; las actividades de fabricaci&oacute;n, almacenamiento y distribuci&oacute;n en una planta en particular, o m&uacute;ltiples instalaciones de una corporaci&oacute;n en diversos sitios. Pero tambi&eacute;n en muchos casos, &eacute;stos comprender&aacute;n &uacute;nicamente una edificaci&oacute;n o instalaci&oacute;n.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong></p>
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
 
 <ul>
-	<li>Identified the extent of activities, facilities, and decision structures to be included in your EnMS</li>
-	<li>Defined site limits and/or organizational limits of your EnMS</li>
-	<li>Developed a scope and boundaries statement for your EnMS</li>
+	<li>identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGE;</li>
+	<li>definir los l&iacute;mites organizacionales y de sitio para su SGE, y</li>
+	<li>preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGE.</li>
 </ul>
 
-<p><em>This guidance is relevant to sections 4.1, 4.2.1, and 4.5.4.1 of the ISO 50001:2011 standard.</em></p>
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.1, 4.2.1 y 4.5.4.1 de la norma ISO 50001:2011.</em></p>
 ----------FULL DESCRIPTION-----4bcb4b77----------
 <p>[Accordion](<strong>Identify the extent of activities, facilities, and decision structures to be included in your EnMS</strong>)</p>
 
