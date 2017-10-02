@@ -22,14 +22,15 @@ class Task
         $task->id = $task_id;
         $task->language = $language;
 
-        list($task->task_file_contents,$task->language_displayed) = Support::getFile('task_'.$task_id,$language);
         $task->loadFile();
         return $task;
     }
 
-    protected function loadFile(){
-        $taskPieces = explode('----------',$this->task_file_contents);
-        $this->version = explode(" ",$taskPieces[2])[0];
+    protected function loadFile()
+    {
+        list($this->task_file_contents, $this->language_displayed) = Support::getFile('task_' . $this->id, $this->language);
+        $taskPieces = explode('----------', $this->task_file_contents);
+        $this->version = explode(" ", $taskPieces[2])[0];
         $this->section = trim($taskPieces[4]);
         $this->menuName = trim($taskPieces[6]);
         $this->title = trim($taskPieces[8]);

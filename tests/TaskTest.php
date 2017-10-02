@@ -33,6 +33,13 @@ class TaskTest extends TestCase
         $this->assertEquals('en', $task->language_displayed);
     }
 
+    public function test_spanish()
+    {
+        $task = Task::load(1, 'es');
+        $this->assertEquals('es', $task->language);
+        $this->assertEquals('es', $task->language_displayed);
+    }
+
     public function test_missing_task()
     {
         $this->expectExceptionMessage('Task ID not valid');
