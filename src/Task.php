@@ -11,6 +11,7 @@ class Task
     var $language;
     var $language_displayed;
     var $task_file_name;
+    var $section;
     var $title;
     var $menuName;
     var $getting_it_done;

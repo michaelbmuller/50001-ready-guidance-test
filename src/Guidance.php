@@ -37,7 +37,6 @@ class Guidance
             $sectionCode = Support::ConvertSectionName($file_contents[$sectionNumber*2-1]);
             $this->sections_name[$sectionCode] = trim($file_contents[$sectionNumber*2]);
         }
-        var_dump($this->sections_name);
     }
 
     protected function loadTaskStructure(){
@@ -45,11 +44,11 @@ class Guidance
         foreach(explode("\r\n",$file_contents) as $row){
             $items = explode(":",$row);
             if(count($items)<2) continue;
-            if ($items[0]=='Section') $currentSection = $items[1];
+            if ($items[0]=='Section') $currentSectionCode = Support::ConvertSectionName($items[1]);
             if ($items[0]=='Task') {
                 $currentTask = (int)$items[1];
-                $this->taskIDsBySection[Support::ConvertSectionName($currentSection)][$currentTask] = $currentTask;
-                $this->tasks[$currentTask]->section = $currentSection;
+                $this->taskIDsBySection[$currentSectionCode][$currentTask] = $currentTask;
+                $this->tasks[$currentTask]->section = $currentSectionCode;
             }
             if ($items[0]=='Prerequisite Tasks') $this->tasks[$currentTask]->prereqs = explode(',',trim($items[1]));
             if ($items[0]=='Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
@@ -65,7 +64,7 @@ class Guidance
         foreach ($this->tasksBySection as $section => $tasks) {
             $firstTaskID = key($tasks);
             $sectionTasks = count($tasks);
-            $sectionKey = Support::ConvertSectionName($section);
+            $sectionKey = $section;
             $this->sections[$sectionKey] = [
                 $this->sections_name[$sectionKey],
                 $firstTaskID,

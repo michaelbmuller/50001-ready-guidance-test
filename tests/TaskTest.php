@@ -9,6 +9,7 @@ use PHPUnit\Framework\TestCase;
 class TaskTest extends TestCase
 {
 
+
     public function test_task()
     {
         $task = Task::load(1);
@@ -64,6 +65,25 @@ class TaskTest extends TestCase
         }
     }
 
+    public function test_section_name()
+    {
+        $guidance = new Guidance();
+        $this->assertEquals('planning', $guidance->getTask(1)->section);
+
+    }
+
+    public function test_section()
+    {
+        $guidance = new Guidance();
+        foreach ($guidance->getTasks() as $task_id => $task) {
+            $this->assertEquals($task_id, $task->id);
+        }
+
+        foreach ($guidance->getTasks('planning') as $task_id => $task) {
+            $this->assertEquals($task_id, $task->id);
+        }
+    }
+
     public function test_getTask()
     {
         $guidance = new Guidance();
@@ -83,7 +103,7 @@ class TaskTest extends TestCase
             'systemManagement' => ['System Management', 19, 7],
         ];
 
-        $this->assertEquals($currentSections,$sections);
+        $this->assertEquals($currentSections, $sections);
     }
 
 
