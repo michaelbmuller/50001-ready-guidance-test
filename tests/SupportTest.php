@@ -13,4 +13,9 @@ class SupportTest extends TestCase
     {
         $this->assertEquals('testTest', Support::ConvertSectionName('test test'));
     }
+
+    public function test_missing_file(){
+        $this->expectExceptionMessage('Task File Not Found');
+        Support::getFile('asdf');
+    }
 }
