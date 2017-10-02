@@ -48,7 +48,7 @@ class Guidance
             if ($items[0]=='Task') {
                 $currentTask = (int)$items[1];
                 $this->taskIDsBySection[$currentSectionCode][$currentTask] = $currentTask;
-                $this->tasks[$currentTask]->section = $currentSectionCode;
+                $this->tasks[$currentTask]->section = $this->sections_name[$currentSectionCode];
             }
             if ($items[0]=='Prerequisite Tasks') $this->tasks[$currentTask]->prereqs = explode(',',trim($items[1]));
             if ($items[0]=='Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
