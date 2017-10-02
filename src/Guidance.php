@@ -37,6 +37,7 @@ class Guidance
             $sectionCode = Support::ConvertSectionName($file_contents[$sectionNumber*2-1]);
             $this->sections_name[$sectionCode] = trim($file_contents[$sectionNumber*2]);
         }
+        var_dump($this->sections_name);
     }
 
     protected function loadTaskStructure(){
