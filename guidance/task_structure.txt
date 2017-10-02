@@ -1,0 +1,21 @@
+Section:Planning
+
+Task:1
+Prerequisite Tasks:
+Level of Individual
+
+Task:2
+Prerequisite Tasks:
+Level of Effort:Shared
+
+Task:3
+Prerequisite Tasks:
+Level of Effort:Management
+
+Task:4
+Prerequisite Tasks:3
+Level of Effort:Team
+
+Task:5
+Prerequisite Tasks:3
+Level of Effort:Management

@@ -22,33 +22,9 @@ class Task
         $task->id = $task_id;
         $task->language = $language;
 
-        $task->task_file_contents = $task->getFile();
+        list($task->task_file_contents,$task->language_displayed) = Support::getFile('task_'.$task_id,$language);
         $task->loadFile();
         return $task;
-    }
-
-    protected function getFile()
-    {
-        $task_file_name = $this->TaskFileName($this->id, $this->language);
-        if (file_exists($task_file_name)){
-            $this->language_displayed = $this->language;
-            return file_get_contents($task_file_name);
-        }
-
-        //Default to English
-        $this->language_not_found = 'true';
-        $task_file_name = $this->TaskFileName($this->id, 'en');
-        if (file_exists($task_file_name)) {
-            $this->language_displayed = 'en';
-            return file_get_contents($task_file_name);
-        }
-
-        throw new \Exception('Task File Not Found', 404);
-    }
-
-    protected function TaskFileName($task_id, $language)
-    {
-        return dirname(__FILE__) . "/../" . $language . '/task_' . $task_id . ".txt";
     }
 
     protected function loadFile(){

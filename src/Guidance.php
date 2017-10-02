@@ -26,9 +26,14 @@ class Guidance
             $this->tasksBySection[$task->section][$task->id] = $task;
         }
         $this->loadSections();
+        $this->loadSectionTasks();
     }
 
-    protected function loadSections()
+    protected function loadSections(){
+
+    }
+
+    protected function loadSectionTasks()
     {
         foreach ($this->tasksBySection as $section => $tasks) {
             $firstTaskID = key($tasks);

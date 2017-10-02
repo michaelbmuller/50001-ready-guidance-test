@@ -1,0 +1,13 @@
+USDOE 50001 READY NAVIGATOR TASK [x]
+----------TASK VERSION----------
+[x.x] (content_update.format_update)
+----------MENU NAME----------
+[menu name]
+----------TITLE----------
+[title]
+----------GETTING IT DONE----------
+[getting it done
+----------TASK OVERVIEW----------
+[task overview]
+----------FULL DESCRIPTION----------
+[full description]
