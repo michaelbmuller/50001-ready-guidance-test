@@ -37,4 +37,8 @@ class Support
     {
         return dirname(__FILE__) . "/../guidance/" . $language . '/' . $file_name . ".txt";
     }
+
+    static function ConvertSectionName($name){
+        return lcfirst(str_replace(' ', '', ucwords(trim($name))));
+    }
 }

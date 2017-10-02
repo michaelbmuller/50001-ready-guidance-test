@@ -1,8 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 15
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
-----------SECTION----------
-Continual Improvement
 ----------MENU NAME----------
 Measurement
 ----------TITLE-----dbe33503----------

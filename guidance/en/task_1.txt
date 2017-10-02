@@ -1,12 +1,10 @@
 USDOE 50001 READY NAVIGATOR TASK 1
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
-----------SECTION----------
-Planning
 ----------MENU NAME----------
 Scope and Boundaries
 ----------TITLE-----b5112fb3----------
-Task 1: We have defined, documented and approved the Scope and Boundaries of our 50001 Ready energy management system
+Task 1asdf: We have defined, documented and approved the Scope and Boundaries of our 50001 Ready energy management system
 ----------GETTING IT DONE-----8b555b9b----------
 <ul>
 	<li>With management input, complete the [resource](Scope_Boundaries_Worksheet) to define the scope and boundaries of the energy management system (EnMS).</li>

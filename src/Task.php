@@ -14,6 +14,7 @@ class Task
     var $title;
     var $menuName;
     var $getting_it_done;
+    var $prereqs;
 
     static function load($task_id, $language = 'en')
     {

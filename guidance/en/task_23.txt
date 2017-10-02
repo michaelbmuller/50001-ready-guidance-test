@@ -1,8 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 23
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
-----------SECTION----------
-System Management
 ----------MENU NAME----------
 Internal Audit
 ----------TITLE-----c1b56646----------

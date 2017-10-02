@@ -59,7 +59,7 @@ class TaskTest extends TestCase
             $this->assertEquals($task_id, $task->id);
         }
 
-        foreach ($guidance->getTasks('Planning') as $task_id => $task) {
+        foreach ($guidance->getTasks('planning') as $task_id => $task) {
             $this->assertEquals($task_id, $task->id);
         }
     }

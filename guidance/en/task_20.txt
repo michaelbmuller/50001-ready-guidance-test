@@ -1,8 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 20
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
-----------SECTION----------
-System Management
 ----------MENU NAME----------
 Communications
 ----------TITLE-----3457364e----------

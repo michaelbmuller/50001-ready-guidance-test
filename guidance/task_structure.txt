@@ -19,3 +19,27 @@ Level of Effort:Team
 Task:5
 Prerequisite Tasks:3
 Level of Effort:Management
+
+Section:Energy Review
+Task:6
+Task:7
+Task:8
+Task:9
+Task:10
+Task:11
+Task:12
+Task:13
+Section:Continual Improvement
+Task:14
+Task:15
+Task:16
+Task:17
+Task:18
+Section:System Management
+Task:19
+Task:20
+Task:21
+Task:22
+Task:23
+Task:24
+Task:25
