@@ -18,9 +18,6 @@ class GuidanceTest extends TestCase
         $this->guidance = new Guidance();
     }
 
-    /**
-     * @covers Guidance::$language,Guidance::getTask(),Task
-     */
     public function test_alternate_language()
     {
         $guidance = new Guidance('es');
