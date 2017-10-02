@@ -12,6 +12,35 @@ This support library includes all of the USDOE 50001 Ready Navigator guidance br
 The 50001 Ready Navigator provides step-by-step guidance for implementing and maintaining 
 an energy management system in conformance with the ISO 50001 Energy Management System Standard.
 
- 
 
+## Installation
 
+### With Composer
+
+```
+$ composer require michaelbmuller/50001-ready-guidance-test
+```
+
+```json
+{
+    "require": {
+        "michaelbmuller/50001-ready-guidance-test": "dev-master"
+    }
+}
+```
+
+```php
+<?php
+require 'vendor/autoload.php';
+
+use Guidance\Guidance;
+
+//Load guidance
+$guidance = new Guidance();
+```
+
+#### Load alternate language
+```php
+//Load guidance in español (example) 
+$guidance = new Guidance('es'); 
+```
