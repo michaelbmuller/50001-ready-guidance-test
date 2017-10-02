@@ -68,7 +68,7 @@ class TaskTest extends TestCase
     public function test_section_name()
     {
         $guidance = new Guidance();
-        $this->assertEquals('planning', $guidance->getTask(1)->section);
+        $this->assertEquals('Planning', $guidance->getTask(1)->section);
 
     }
 
