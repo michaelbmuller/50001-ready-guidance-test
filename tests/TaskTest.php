@@ -8,8 +8,6 @@ use PHPUnit\Framework\TestCase;
 
 class TaskTest extends TestCase
 {
-
-
     public function test_task()
     {
         $task = Task::load(1);
@@ -52,59 +50,4 @@ class TaskTest extends TestCase
         $this->expectExceptionMessage('Task ID not valid');
         Task::load(26);
     }
-
-    public function test_tasks()
-    {
-        $guidance = new Guidance();
-        foreach ($guidance->getTasks() as $task_id => $task) {
-            $this->assertEquals($task_id, $task->id);
-        }
-
-        foreach ($guidance->getTasks('planning') as $task_id => $task) {
-            $this->assertEquals($task_id, $task->id);
-        }
-    }
-
-    public function test_section_name()
-    {
-        $guidance = new Guidance();
-        $this->assertEquals('Planning', $guidance->getTask(1)->section);
-
-    }
-
-    public function test_section()
-    {
-        $guidance = new Guidance();
-        foreach ($guidance->getTasks() as $task_id => $task) {
-            $this->assertEquals($task_id, $task->id);
-        }
-
-        foreach ($guidance->getTasks('planning') as $task_id => $task) {
-            $this->assertEquals($task_id, $task->id);
-        }
-    }
-
-    public function test_getTask()
-    {
-        $guidance = new Guidance();
-        $task = $guidance->getTask(1);
-
-        $this->assertEquals(1, $task->id);
-    }
-
-    public function test_sections()
-    {
-        $guidance = new Guidance();
-        $sections = $guidance->getSections();
-        $currentSections = [
-            'planning' => ['Planning', 1, 5],
-            'energyReview' => ['Energy Review', 6, 8],
-            'continualImprovement' => ['Continual Improvement', 14, 5],
-            'systemManagement' => ['System Management', 19, 7],
-        ];
-
-        $this->assertEquals($currentSections, $sections);
-    }
-
-
 }

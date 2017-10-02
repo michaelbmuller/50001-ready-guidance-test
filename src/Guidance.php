@@ -5,6 +5,7 @@ namespace Guidance;
 
 class Guidance
 {
+    public $language = 'en';
     protected $sections_name = [];
     protected $sections = [];
     protected $tasks = [];
@@ -81,7 +82,7 @@ class Guidance
     /**
      * Returns array of All tasks or tasks for the given section
      *
-     * @param bool $section
+     * @param bool|string $section
      * @return array
      */
     public function getTasks($section = false)
