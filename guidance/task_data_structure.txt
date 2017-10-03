@@ -11,3 +11,9 @@ USDOE 50001 READY NAVIGATOR TASK [x]
 [task overview]
 ----------FULL DESCRIPTION----------
 [full description]
+----------OTHER ISO EXPERIENCE TIPS----------
+[other iso tips]
+----------ENERGY STAR EXPERIENCE TIPS----------
+[energy star tips]
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
