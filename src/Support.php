@@ -57,7 +57,7 @@ class Support
      */
     static function setFileName($file_name, $language)
     {
-        return dirname(__FILE__) . "/../guidance/" . $language . '/' . $file_name . ".txt";
+        return dirname(__FILE__) . "/../guidance/" . $language . '/' . $file_name . "_" . $language . ".txt";
     }
 
     /**
@@ -66,7 +66,8 @@ class Support
      * @param $name
      * @return string
      */
-    static function ConvertSectionName($name){
+    static function ConvertSectionName($name)
+    {
         return lcfirst(str_replace(' ', '', ucwords(trim($name))));
     }
 }

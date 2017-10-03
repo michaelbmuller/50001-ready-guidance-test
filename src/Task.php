@@ -139,7 +139,8 @@ class Task
      */
     protected function loadFile()
     {
-        list($this->task_file_contents, $this->language_displayed) = Support::getFile('task_' . $this->id, $this->language);
+        $full_id = $this->id < 10 ? '0' . $this->id : $this->id;
+        list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language);
         $taskPieces = explode('----------', $this->task_file_contents);
         $this->version = explode(" ", $taskPieces[2])[0];
         $this->menuName = trim($taskPieces[4]);

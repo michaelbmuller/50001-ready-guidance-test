@@ -76,7 +76,7 @@ class Guidance
      * Load all sections
      */
     protected function loadSections(){
-        $file_contents = explode('----------',Support::getFile('sections',$this->language)[0]);
+        $file_contents = explode('----------',Support::getFile('50001_ready_sections',$this->language)[0]);
         for($sectionNumber = 1; $sectionNumber<=4;$sectionNumber++){
             $sectionCode = Support::ConvertSectionName($file_contents[$sectionNumber*2-1]);
             $this->sections_name[$sectionCode] = trim($file_contents[$sectionNumber*2]);
