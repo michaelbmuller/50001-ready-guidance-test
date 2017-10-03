@@ -80,9 +80,16 @@ $task->other_iso_tips;
 $task->energyStar_tips;
 ```
 
+## Important Notes
+
+* The English version of the guidance is both the default and primary version used as the basis for translated versions
+* If a requested language is not available, the English version will be returned
+* Non-English guidance content folders include a copy of the English version used for the translation to provide guidance on what needs to be updated when the English version is updated
+ 
+
 ## Contributors
 
-Primary Library Developer: Michael B Muller
+Library Developer: Michael B Muller
 
 50001 Ready Task Guidance Developed by the:
 * US Department of Energy
