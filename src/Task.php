@@ -97,6 +97,18 @@ class Task
      */
     var $full_description;
     /**
+     * Tips related to other implemented ISO management systems
+     *
+     * @var string
+     */
+    var $other_iso_tips;
+    /**
+     * Tips related to previous ENERGY STAR experience
+     *
+     * @var string
+     */
+    var $energyStar_tips;
+    /**
      * List of prerequisite task ids
      *
      * @var array

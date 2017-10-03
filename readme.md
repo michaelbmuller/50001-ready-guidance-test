@@ -29,18 +29,62 @@ $ composer require michaelbmuller/50001-ready-guidance-test
 }
 ```
 
+#### Loading Guidance
+
 ```php
 <?php
 require 'vendor/autoload.php';
 
-use Guidance\Guidance;
+use DOE_50001_Ready\Guidance;
 
 //Load guidance
 $guidance = new Guidance();
+
+//Load alternate language (example: español) 
+$guidance = new Guidance('es'); 
+
+//Get All Tasks
+$guidance->getTasks();
+
+//Get Section Tasks
+$guidance->getTasks([sectionCode]);
+
+//Get Task
+$guidance->getTask([taskId]);
 ```
 
-#### Load alternate language
+#### Accessing Task Details
+
 ```php
-//Load guidance in español (example) 
-$guidance = new Guidance('es'); 
+<?php
+require 'vendor/autoload.php';
+
+use DOE_50001_Ready\Guidance;
+
+//Load Task (example: task #1)
+$guidance = new Guidance();
+$task = $guidance->getTask(1);
+
+//Available Task Data 
+$task->id;
+$task->menuName;
+$task->version;
+$task->sectionCode;
+$task->section;
+$task->language;
+$task->language_displayed;
+$task->getting_it_done;
+$task->task_overview;
+$task->full_description;
+$task->other_iso_tips;
+$task->energyStar_tips;
 ```
+
+## Contributors
+
+Primary Library Developer: Michael B Muller
+
+50001 Ready Task Guidance Developed by the:
+* US Department of Energy
+* Lawrence Berkeley National Laboratory
+* Georgia Institute of Technology
