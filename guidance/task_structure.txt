@@ -22,24 +22,83 @@ Level of Effort:Management
 
 Section:Energy Review
 Task:6
+Prerequisite Tasks:1
+Level of Effort:Shared
+
 Task:7
+Prerequisite Tasks:6
+Level of Effort:Individual
+
 Task:8
+Prerequisite Tasks:7
+Level of Effort:Individual
+
 Task:9
+Prerequisite Tasks:1
+Level of Effort:Team
+
 Task:10
+Prerequisite Tasks:8,9
+Level of Effort:Shared
+
 Task:11
+Prerequisite Tasks:10
+Level of Effort:Individual
+
 Task:12
+Prerequisite Tasks:8,11
+Level of Effort:Team
+
 Task:13
+Prerequisite Tasks:12
+Level of Effort:Team
+
 Section:Continual Improvement
 Task:14
+Prerequisite Tasks:6,8,9,13
+Level of Effort:Shared
+
 Task:15
+Prerequisite Tasks:14
+Level of Effort:Team
+
 Task:16
+Prerequisite Tasks:9
+Level of Effort:Organization Wide
+
 Task:17
+Prerequisite Tasks:15
+Level of Effort:Team
+
 Task:18
+Prerequisite Tasks:12
+Level of Effort:Organization Wide
+
 Section:System Management
 Task:19
+Prerequisite Tasks:4
+Level of Effort:Team
+
 Task:20
+Prerequisite Tasks:4
+Level of Effort:Organization Wide
+
 Task:21
+Prerequisite Tasks:4,8
+Level of Effort:Organization Wide
+
 Task:22
+Prerequisite Tasks:4,10
+Level of Effort:Organization Wide
+
 Task:23
+Prerequisite Tasks:17,19,20
+Level of Effort:Team
+
 Task:24
+Prerequisite Tasks:10
+Level of Effort:Individual
+
 Task:25
+Prerequisite Tasks:2,5,16,18,21,22,23,24
+Level of Effort:Management
