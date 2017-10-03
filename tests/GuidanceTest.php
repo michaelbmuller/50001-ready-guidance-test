@@ -2,12 +2,15 @@
 
 namespace Tests;
 
-use Guidance\Guidance;
-use Guidance\Task;
+use DOE_50001_Ready\Guidance;
+use DOE_50001_Ready\Task;
 use PHPUnit\Framework\TestCase;
 
 class GuidanceTest extends TestCase
 {
+    /**
+     * @var Guidance
+     */
     protected $guidance;
 
     /**

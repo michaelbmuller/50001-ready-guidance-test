@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 10
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Performance Indicators (EnPIs) 
-----------TITLE-----771aade9----------
+----------TITLE----------
 Task 10: We have identified energy performance indicators (EnPIs) and developed a methodology for determining and updating them.
-----------GETTING IT DONE-----92ce2a53----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Checklists_Potential_EnPIs) to help determine energy performance indicators (EnPIs) that will provide useful information about your organization&rsquo;s energy performance.</li>
 	<li>Communicate proposed EnPIs to top management for their input and approval.</li>
@@ -13,7 +13,7 @@ Task 10: We have identified energy performance indicators (EnPIs) and developed 
 	<li>Compare EnPIs to their baseline values on a regular basis.</li>
 	<li>Implement a process for ongoing monitoring, measurement and analysis of your EnPIs.</li>
 </ul>
-----------TASK OVERVIEW-----d95bef6c----------
+----------TASK OVERVIEW----------
 <p>Energy performance metrics or indicators (called &ldquo;EnPIs&rdquo; in ISO 50001) are quantitative measures of energy performance and are used to determine improvements in energy use, energy consumption, and energy efficiency. They can be defined at a variety of levels within the EnMS. For example, EnPIs can be established at the level of your entire organization or at the level of a specific facility, piece of equipment, system, or process.</p>
 
 <p>As quantitative measures, EnPIs are measured values, ratios, or models your organization accepts as meaningful representations of energy performance. Improvement in energy performance is determined by comparing current EnPIs against the initial values from the relevant energy baseline(s) (see [task](Baselines, Objectives and Targets)).</p>
@@ -31,7 +31,7 @@ Task 10: We have identified energy performance indicators (EnPIs) and developed 
 </ul>
 
 <p><em>This guidance is relevant to Sections 4.4.5 and 4.6.1 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----d9176aac----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Determine energy performance indicators EnPIs)</p>
 
 <p>EnPIs are developed using the information from the energy review ([task](Data Collection) and [task](Improvement Opportunities)). The responsibility of developing a list of potential performance indicators falls to the management representative and any others assigned to assist, including members of the energy team.</p>
@@ -209,3 +209,11 @@ Task 10: We have identified energy performance indicators (EnPIs) and developed 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Your organization may already be using energy performance indicators (EnPIs) to monitor, measure and evaluate energy performance. Step 3.2, Step 4.1, Step 5.5, Step 6.0 and Step 6.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provide tips related to this topic, including establishing EnPIs such as Btu/ft<sup>2</sup> or Btu/product. Energy performance indicators used in the ENERGY STAR program may be applicable to the EnMS but should be reevaluated to ensure all EnMS requirements are met. And, Appendix 4 of the ENERGY STAR Guidelines provides detail on normalizing data. This 50001 Ready Navigator task provides additional guidance and DOE tools to help your organization establish a simple energy model that is often a more meaningful measure of energy performance than a single metric or simple ratio to accurately represent the relationship between operational activities and energy consumption.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Both ISO 14001:2015 and ISO 9001:2015 management systems involve the use of indicators, but not necessarily energy performance indicators (EnPIs). However, processes used to determine appropriate indicators for environmental or quality likely could be applied to determining EnPIs appropriate for an ISO 50001:2011 EnMS.</p>
+
+<p>ISO 14001:2015 uses indicators to evaluate progress towards the environmental objectives. Since ISO 14001 also requires the determination of the criteria against which environmental performance is evaluated, some organizations may be using environmental indicators to evaluate energy performance as well. In ISO 9001:2015, indicators are focused on effective operation and control of processes. Indicators in ISO 50001:2011 are quantitative values or measures of energy performance. Overall, indicators in these standards are different from one another in terms of focus and purpose. But, organizational familiarity with the development and use of indicators can be helpful in implementing EnPIs for an ISO 50001 EnMS.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

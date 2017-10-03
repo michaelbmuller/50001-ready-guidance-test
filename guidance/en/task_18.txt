@@ -3,13 +3,13 @@ USDOE 50001 READY NAVIGATOR TASK 18
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Energy Consideration in Design
-----------TITLE-----7bdb20f3----------
+----------TITLE----------
 Task 18: We consider energy performance opportunities when designing new, modified, or renovated facilities, equipment, systems and processes
-----------GETTING IT DONE-----266819fe----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Energy_Considerations_Design_Worksheet) to identify and evaluate energy performance improvement opportunities and operational controls in design activities.</li>
 </ul>
-----------TASK OVERVIEW-----ffb7cab2----------
+----------TASK OVERVIEW----------
 <p>In ISO 50001, the design requirements are not associated with the design of products or services; they are applicable to the development of new, modified, and renovated facilities, equipment, systems, and processes that can have a major impact on energy performance. <em>Energy performance</em> is defined as measurable results related to energy efficiency, energy use, and energy consumption. The design requirements of ISO 50001 incorporate energy performance improvement opportunities and operational control as considerations in design activities. This can provide the basis for more innovative and energy-efficient designs.</p>
 
 <p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
@@ -22,7 +22,7 @@ Task 18: We consider energy performance opportunities when designing new, modifi
 </ul>
 
 <p><em>This guidance is relevant to Section 4.5.6 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----3ab20ef0----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Identify the facilities, equipment, systems, and processes that can have significant impact on energy performance)</p>
 
 <p>Any facilities, equipment, systems, or processes that are within the scope of the EnMS that can or will significantly impact energy performance fall under the design requirements of ISO 50001. This means that energy performance improvement opportunities and operational controls must be considered when you design new, renovate, or modify any facilities, equipment, systems, and processes that can have a major effect on your energy efficiency, energy use, and energy consumption.</p>
@@ -85,3 +85,9 @@ Task 18: We consider energy performance opportunities when designing new, modifi
 <p>Maintain a record of the results of design activities to show energy considerations were properly addressed in the process. This can take a variety of forms, such as a completed checklist, meeting minutes, design drawings, purchasing specifications, project records, and more.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>When implementing an EnMS, you may need to review details in the design management portion contained in Step 4.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). An EnMS extends its methodology within design requirements for facilities, equipment, systems and processes. Records of results of energy performance evaluations within the designs are also required.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>For organizations with an ISO 9001:2015 quality management system and/or ISO 14001:2015 environmental management system, it is very important to note that the design requirements of ISO 50001:2011 <em>do not</em> include design of products and services. However, the ISO 9001 processes for infrastructure; environment for operation; planning and control of changes; and, control of externally provided processes, products and services could be leveraged (with some modifications) to help meet the design requirements of ISO 50001 <em>as related to new, modified and renovated facilities, equipment, systems and processes.</em> The ISO 14001:2015 processes for controlling planned changes might be a starting point for meeting the design requirements of ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

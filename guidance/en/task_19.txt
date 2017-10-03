@@ -3,16 +3,16 @@ USDOE 50001 READY NAVIGATOR TASK 19
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Documentation and Records
-----------TITLE-----15c9a7ff----------
+----------TITLE----------
 Task 19: We have developed and have processes in place to control the 50001 Ready systems documents and records
-----------GETTING IT DONE-----277a1774----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Understand the difference between documents and records.</li>
 	<li>Use the [resource](EnMS_Document_Control_Index) to list your EnMS documents, assign document owners and document approvers, and define the controls for distribution and periodic reviews. Make document owners responsible for conformance with document controls, including ensuring that documents remain legible, identifiable and traceable.</li>
 	<li>Use the [resource](EnMS_Records_Control_Index) to list your EnMS records, assign record owners, and define the storage, retrievability and minimum retention time for each type of record. Make record owners responsible for conformance with record controls, including ensuring that records remain legible, identifiable and traceable.</li>
 	<li>If your organization has an existing document control system, compare it to the [resource](Checklist_Document_Control_Basics) and customize it as necessary to conform to the ISO 50001 standard. If your organization has an existing records policy, make sure that the controls implemented for EnMS records are consistent with the requirements of that policy.</li>
 </ul>
-----------TASK OVERVIEW-----c78af7ea----------
+----------TASK OVERVIEW----------
 <p>Documentation is a key component of an EnMS. Documentation not only helps to implement the EnMS and ensure its proper functioning over time, but is also critical to show evidence of results achieved. There are two types or basic categories of documentation: <em>documents,</em> which provide information that guides actions or communicates expectations in the present (today), and <em>records,</em> which provide information about the past (&ldquo;snapshots in time&rdquo;).</p>
 
 <p>In ISO 50001, some documents and records are explicitly required. Other documentation is determined by the organization itself based on its own needs. The [resource](EnMS_Documentation_Guidance_Table) provides a full list of ISO 50001 required documents and records, as well as those about which your organization will need to make a decision (marked as &ldquo;Decision needed&rdquo; in the table).</p>
@@ -34,7 +34,7 @@ Task 19: We have developed and have processes in place to control the 50001 Read
 </ul>
 
 <p><em>This guidance is relevant to sections 4.1 c), 4.5.4.1, 4.5.4.2 and 4.6.5 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----d1b8eedf----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Determine necessary EnMS documents)</p>
 
 <p>Documents provide information that guides action or communicates expectations. They are used to state and implement current policies and commitments.</p>
@@ -605,3 +605,22 @@ Task 19: We have developed and have processes in place to control the 50001 Read
 <p>Some form of an [resource](EnMS_Records_Control_Index) can be helpful for defining the controls for records and assigning responsibilities. Clearly defined responsibilities are critical to effective record control. An [resource](Example_EnMS_Records_Control_Index) illustrates how the form can be completed.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>When implementing the EnMS program, the work performed and documented within the ENERGY STAR program should be included among the documents and records required and needed to meet the requirements of ISO 50001.</p>
+
+<p>The ENERGY STAR program does not require the development and implementation of an energy manual. While this is something that is also not required by ISO 50001, it is recommended. The benefits of developing an energy manual for your organization are described in this task.</p>
+
+<p>The ENERGY STAR program does not require processes to be in place to control EnMS documents and records, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>ISO 9001 and/or ISO 14001 experience can be helpful for the following documentation and records:</p>
+
+<ul>
+	<li>EnMS scope and boundaries. The scope of the management system is also maintained as documented information in ISO 14001:2015 and ISO 9001:2015 systems. If the organization is integrating its environmental and energy management systems, there may be a single scope statement that applies and is maintained as documented information.</li>
+	<li>Energy policy. Like ISO 50001:2011, ISO 14001:2015 and ISO 9001:2015 require the policy to be maintained as documented information. If the organization has integrated its management systems, there may be a single documented policy statement that applies across the management system.</li>
+	<li>Energy objectives, targets and action plans. Documented information is maintained on environmental objectives under ISO 14001:2015 and on quality objectives under ISO 9001:2015.</li>
+	<li>Internal audit process. Internal audits are a documented process under the definition and the definition applies across ISO 9001:2015, ISO 14001:2015 and ISO 50001:2011</li>
+</ul>
+
+<p>Documents determined by the organization to be necessary for the EnMS. An organization experienced with management system documentation for ISO 14001:2015 and/or ISO 9001:2015 can easily apply that experience to identifying and maintaining the documentation needed for an ISO 50001:2011 EnMS. ISO 14001:2015 (environmental), ISO 9001:2015 (quality) and ISO 50001:2011 (energy) do not require the use of a manual. However, many organizations that have implemented one of more of these standards have developed and use a management system manual to provide an overview or &ldquo;roadmap&rdquo; of the processes of the management system and their interactions and to point to related documentation. A common approach is to integrate management system manuals for energy, environmental and safety and health. The new editions (2015) of ISO 9001 ISO 14001 have incorporated the common management system text of the ISO High Level Structure (HLS) for requirements related to documented information. Similar to previous versions of ISO 9001 and ISO 14001, ISO 50001:2011 has separate sets of requirements for controlling document and records. However, there is no reason that processes for controlling documented information in ISO 9001 and ISO 14001 systems could not be easily applied to control EnMS documents and records. This is another area where it is not an efficient or effective use of resources to develop something different for ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

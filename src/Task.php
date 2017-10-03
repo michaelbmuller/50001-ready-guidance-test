@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Guidance;
+namespace DOE_50001_Ready;
 
 /**
  * Class Task
@@ -85,6 +85,18 @@ class Task
      */
     var $getting_it_done;
     /**
+     * Task Overview
+     *
+     * @var string
+     */
+    var $task_overview;
+    /**
+     * Full Description
+     *
+     * @var
+     */
+    var $full_description;
+    /**
      * List of prerequisite task ids
      *
      * @var array
@@ -123,5 +135,7 @@ class Task
         $this->getting_it_done = trim($taskPieces[8]);
         $this->task_overview = trim($taskPieces[10]);
         $this->full_description = trim($taskPieces[12]);
+        $this->other_iso_tips = trim($taskPieces[14]);
+        $this->energyStar_tips = trim($taskPieces[16]);
     }
 }

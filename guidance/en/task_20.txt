@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 20
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Communications
-----------TITLE-----3457364e----------
+----------TITLE----------
 Task 20: All organizational personnel have been informed about our energy policy and their roles and responsibilities, and solicited for suggestions. We have determined the policy and method (if applicable) for external communications about our energy policy/performance.
-----------GETTING IT DONE-----aa7fa9a7----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Have top management communicate the importance of energy management across the organization. Make sure to include your organization&rsquo;s energy policy in that communication.</li>
 	<li>Use the [resource](EnMS_Awareness_Requirements_Form) to develop the details for EnMS awareness training for specific personnel or departments.</li>
@@ -14,7 +14,7 @@ Task 20: All organizational personnel have been informed about our energy policy
 	<li>Use the [resource](Internal_EnMS_Communications_Planning_Worksheet) to plan and implement internal communication processes of the EnMS, including a suggestion system.</li>
 	<li>Determine the external communication policy and process of your organization&rsquo;s EnMS. Retain records of this decision and all external communications.</li>
 </ul>
-----------TASK OVERVIEW-----34021063----------
+----------TASK OVERVIEW----------
 <p>Creating organizational awareness about energy is an important part of getting buy-in to your EnMS. It is top management&rsquo;s job to communicate the importance of energy management and to encourage employee participation. Top management takes the first steps in conveying this message, which is then supported by ongoing processes for internal communications.</p>
 
 <p>Personnel must also be aware of their responsibilities related to the organization&rsquo;s EnMS. Energy awareness among personnel is the first step in integrating energy management into daily operations and supporting effective EnMS functioning. These personnel include anyone working on behalf of the organization, and include salaried, hourly, part-time, and temporary employees, as well as on-site contractors, suppliers, and consultants.</p>
@@ -33,7 +33,7 @@ Task 20: All organizational personnel have been informed about our energy policy
 </ul>
 
 <p><em>This guidance is relevant to sections 4.2.1 e), 4.3 g), 4.5.2, and 4.5.3 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----327d9250----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Develop and deliver the initial EnMS communication by top management)</p>
 
 <p>In the early stages of EnMS implementation, the goals of the initial EnMS communication to employees are to:</p>
@@ -250,3 +250,21 @@ Task 20: All organizational personnel have been informed about our energy policy
 <p>Records of external communication can include, for example, an [resource](EnMS_External_Communications_Log) or an [resource](EnMS_External_Communications_Record), among others.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 1.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) suggests communicating the energy policy to all staff and employees to encourage them to get involved. ISO 50001 <strong><em>requires</em></strong> that the energy policy is communicated at all levels within your organization.</p>
+
+<p>ENERGY STAR users communicate externally to stakeholders so the decision on whether to communicate externally has already been made and addressed in your communication plan. When implementing your EnMS, the method(s) used for external communication would be addressed in the communication plan.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Like ISO 50001:2011, both ISO 14001:2015 and ISO 9001:2015 require top management to establish, implement and maintain a policy that must be communicated within the organization. In all three standards, top management also is required to communicate the importance of effective [energy/environmental/quality] management. The communication processes in place in one management system to achieve these items can be used for the same purpose in the other management system(s).</p>
+
+<p>The training and awareness processes used in ISO 14001:2015 and ISO 9001:2015 management systems to ensure needed awareness among personnel are likely well suited for use by the ISO 50001:2011 energy management system. Although the content of the awareness training and communication will vary depending on the specific standard involved, the underlying processes used to achieve the requisite awareness can be common to the environmental, energy and/or quality management systems.</p>
+
+<p>Organizations that conform to ISO 14001:2015 should already have in place the processes needed to meet the internal communication requirements of ISO 50001. Processes used to communicate environmental information for ISO 14001, also can be used to convey the energy policy and EnMS and energy-specific information. The ISO 50001 comment/suggestion process is a communication process that allows contributions to continual improvement, also requirement of ISO 14001.</p>
+
+<p>Organizations that conform to ISO 9001:2015 have a number of internal communication processes in place that can be leveraged for the ISO 50001 system. These would include, for example, the ISO 9001 processes used to internally communicate the policy, objectives, and roles, responsibilities and authorities.</p>
+
+<p>In both ISO 9001:2015 and ISO 14001-2015 systems, some decisions on external communications already have been made. External communication of management system and compliance obligations information is required by ISO 14001. ISO 9001:2015 requires that the quality policy be available to relevant interested parties. Both standards require processes for communicating with external providers. So, an organization already conforming to ISO 9001 or ISO 14001 that is implementing ISO 50001 would typically evaluate whether these same decisions would be appropriate for the EnMS. Or, they simply could be accepted as de facto decisions on external communication for purposes of implementing ISO 50001.</p>
+
+<p>Organizations conforming to ISO 9001 or ISO 14001 already have external communication processes that address the what, when, with whom and how (i.e. method) of the communications. These same external communication processes can be used for purposes of the EnMS.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

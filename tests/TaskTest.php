@@ -2,8 +2,7 @@
 
 namespace Tests;
 
-use Guidance\Guidance;
-use Guidance\Task;
+use DOE_50001_Ready\Task;
 use PHPUnit\Framework\TestCase;
 
 class TaskTest extends TestCase

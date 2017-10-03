@@ -3,14 +3,14 @@ USDOE 50001 READY NAVIGATOR TASK 6
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Data Collection
-----------TITLE-----7bbf9bb9----------
+----------TITLE----------
 Task 6: We have identified all our energy sources and uses and accurately collected the related energy consumption data
-----------GETTING IT DONE-----79486c98----------
+----------GETTING IT DONE----------
 <ul>
 	<li>If you are using [resource](EnPI_Lite), have a member of your staff whose responsibilities include data management/tracking complete either (1) the <em>Energy Consumption</em> tab of the [resource](Energy_Footprint_Lite_Data_Uploader) or (2) the <em>Energy Consumption</em> tab of the [resource](Energy_Footprint_Tool). Follow the instructions on the homepage of [resource](EnPI_Lite). For EnPI Lite users, the [resource](Energy_Footprint_Lite_Data_Uploader) may be simpler to use as it is a version of the Footprint Tool that has been tailored for EnPI Lite.</li>
 	<li>If you are not using EnPI Lite, identify and note the central location where data is stored.</li>
 </ul>
-----------TASK OVERVIEW-----23fe5646----------
+----------TASK OVERVIEW----------
 <p>The first step in the data collection process is to identify the energy sources used by your organization within the defined scope and boundaries of the energy management system (EnMS). To ensure that all energy sources are identified, this effort should include identification of the facilities, equipment, systems, and processes associated with each energy source. Understanding the sources of energy used and how they are used sets the stage for determining, collecting, and analyzing the data needed to evaluate your organization&rsquo;s energy performance.</p>
 
 <p>The next step in the data collection process is to identify your organization&rsquo;s data needs. ISO 50001 requires that certain data are included in the energy review, including: energy sources, analysis of past and present energy use and energy consumption (and estimates of future energy use and consumption), and data detailing significant energy uses. These data will be critical to selecting energy performance indicators (EnPIs), establishing baselines, and setting energy objectives and targets.</p>
@@ -28,7 +28,7 @@ Task 6: We have identified all our energy sources and uses and accurately collec
 </ol>
 
 <p><em>This guidance is relevant to Sections 4.4.3 and 4.4.3 a) of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----776850fb----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Identify current energy sources)</p>
 
 <p>The first step in completing this task is to identify and document your organization&rsquo;s current energy sources. For ISO 50001, energy sources are the forms of energy that come across your organization&rsquo;s boundaries. This includes both primary energy and secondary energy. <em>Primary energy</em> is energy in its natural state, such as natural gas. <em>Secondary energy</em> is derived from primary energy and includes sources such as electricity, steam, and compressed air.</p>
@@ -306,3 +306,11 @@ Task 6: We have identified all our energy sources and uses and accurately collec
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 2.1 and Appendix 3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) each provide guidance on gathering and tracking data. The guidance in this part of the 50001 Ready Navigator provides additional suggestions, tools, and details on how to best gather and track your data.</p>
+
+<p>For EnPI Lite users with data already stored in the ENERGY STAR [resource](Portfolio_Manager), this data can be exported into the [resource](EnPI_Lite) tool in order to estimate energy savings relative to relevant variables like production levels and weather. More instructions are available on the [resource](EnPI_Lite) webpage.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>In an ISO 50001:2011 EnMS, all energy sources and energy uses within the defined EnMS scope and boundaries must be included and recorded in the energy review. Organizations with ISO 14001:2015 environmental management systems (EMSs) may be able to identify their energy sources and energy uses from their environmental aspects information. However, even if you start with the environmental aspects information, your team should reality-check the comprehensiveness of that information to ensure that all energy sources and energy uses have been identified for the EnMS. Since ISO 50001:2011 requires more extensive measurement and analysis of data than ISO 14001, it is recommended that the energy review be maintained separately from the environmental aspects information.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

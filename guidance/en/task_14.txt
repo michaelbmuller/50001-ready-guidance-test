@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 14
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Monitoring
-----------TITLE-----5175a754----------
+----------TITLE----------
 Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs, relevant variables, and action plan progress and effectiveness
-----------GETTING IT DONE-----9c03cf5b----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) and/or the [resource](Energy_Measurement_Plan_Worksheet) to determine how and how frequently your organization will monitor, measure and analyze the key characteristics that determine your energy performance. Key characteristics include:
 	<ul style="list-style-type:circle">
@@ -20,7 +20,7 @@ Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs
 	<li>If not already addressed as part of energy planning, assign responsibilities and implement ongoing monitoring, measurement, and analysis of your organization&rsquo;s energy consumption for all energy sources.</li>
 	<li>Implement regular monitoring, measurement, and analysis of your facility&rsquo;s key characteristics according to your monitoring, measurement, and analysis plan.</li>
 </ul>
-----------TASK OVERVIEW-----3db574dc----------
+----------TASK OVERVIEW----------
 <p>Monitoring, measurement, and analysis of performance metrics is the logical extension of the data analyses conducted in Group 2 (Energy Review). Effective decisions on energy management rely on the ongoing collection and analysis of energy and other data. Calibration systems are used to ensure that accurate data are collected for reliable analyses.</p>
 
 <p>Monitoring, measurement, and analysis enable the organization to determine:</p>
@@ -53,7 +53,7 @@ Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs
 </ul>
 
 <p><em>This guidance is relevant to Section 4.6.1 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----1bf54b16----------
+----------FULL DESCRIPTION----------
 <p>Monitoring, measurement and analysis is applied to the key characteristics of the organization&rsquo;s operations that determine energy performance. Key characteristics include:</p>
 
 <ul>
@@ -248,3 +248,13 @@ Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 2.4 and 4.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Your organization may already be monitoring, measuring and analyzing energy consumption for all sources, but guidance in this task can be helpful to ensure this is being done with appropriate detail and rigor to meet the requirements of ISO 50001.</p>
+
+<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be monitored and measured, something that is required by ISO 50001.</p>
+
+<p>Also, applying guidance from Steps 5.5, 6.1 and 6.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) to the EnMS action plans and periodically evaluating effectiveness will help support your EnMS implementation.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Organizations that have implemented ISO 9001:2015 and/or ISO 14001:2015 may or may not be monitoring and measuring energy-related metrics, but processes should be in place to plan and implement critical monitoring, measurement, analysis and evaluation activities. These processes can be leveraged to plan and implement the monitoring, measurement and analysis activities required for ISO 50001:2011.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

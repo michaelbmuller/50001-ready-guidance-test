@@ -3,13 +3,13 @@ USDOE 50001 READY NAVIGATOR TASK 13
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Improvement Projects
-----------TITLE-----2fd39f92----------
+----------TITLE----------
 Task 13: After using a documented project selection process, we have developed action plans and implemented energy improvement projects 
-----------GETTING IT DONE-----8e367c48----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Energy_Management_Action_Plan_Template) to create action plans for meeting your organization&rsquo;s energy objectives and targets identified in [task](Baselines, Objectives and Targets).</li>
 </ul>
-----------TASK OVERVIEW-----ad9917fe----------
+----------TASK OVERVIEW----------
 <p>Once you have selected the energy projects that will enable your organization to achieve its energy objectives and targets, designate a project leader for each project. If the scope and complexity of the project requires additional resources, assemble a project team with the support of the management representative and top management. Then, develop an energy management action plan for each project. A good plan considers resources and includes planning, implementing, verifying, and communicating.</p>
 
 <p>An energy management action plan developed to meet the requirements of ISO 50001 defines, at a minimum, the following:</p>
@@ -38,7 +38,7 @@ Task 13: After using a documented project selection process, we have developed a
 </ul>
 
 <p><em>This guidance is relevant to Section 4.4.6 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----d24a9d23----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Determine actions, time frames and responsible parties)</p>
 
 <p>Designate a project leader for each energy project. The project leader assembles a project team with representatives from the appropriate functions or areas. The project team develops a list of actions required for project implementation. Each of these actions requires resources. The project team will document, in an energy management action plan, the required actions and resources. The [resource](Energy_Management_Action_Plan_Template) can be a useful starting point.</p>
@@ -107,3 +107,11 @@ Task 13: After using a documented project selection process, we have developed a
 <p>[Accordion End]</p>
 
 <p>&nbsp;</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 3.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
+
+<p>Step 4 and Step 5 in the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) are all about developing and implementing action plans. The guidance in this 50001 Ready Navigator task contains similar guidance, including helpful resources like an action plan template.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is very similar (but not quite identical) to the information that must be included in action plans under ISO 50001:2011. All three standards are concerned with what will be done, who will be responsible, timeframes for completion and how the results will be evaluated. In this regard, there is considerable potential for integration of these planning activities across the three standards. The primary difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

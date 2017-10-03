@@ -3,14 +3,14 @@ USDOE 50001 READY NAVIGATOR TASK 9
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Relevant Variables
-----------TITLE-----1ff7e6ee----------
+----------TITLE----------
 Task 9: We have determined the relevant variables that affect energy consumption of each SEU and collected the associated data.
-----------GETTING IT DONE-----317b7f30----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Identify and list the relevant variables to your organization&rsquo;s significant energy uses (SEUs).</li>
 	<li>If your organization is using [resource](EnPI_Lite), have a member of your staff complete the &ldquo;Relevant Variables&rdquo; tab of the [resource](Energy_Footprint_Lite_Data_Uploader) or the [resource](Energy_Footprint_Tool) that is being used for [task](Data Collection).</li>
 </ul>
-----------TASK OVERVIEW-----d1b84713----------
+----------TASK OVERVIEW----------
 <p>Once SEUs have been determined, it&rsquo;s important to identify the factors that can affect them&mdash;their <em>relevant variables.</em> In manufacturing, production and weather are often two key relevant variables. In commercial buildings, occupancy or weather are most often the key variables affecting energy consumption. Understanding the relationship between relevant variables and energy consumption enables you to better understand how energy can be controlled and energy performance maximized at your organization.</p>
 
 <p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
@@ -21,7 +21,7 @@ Task 9: We have determined the relevant variables that affect energy consumption
 </ul>
 
 <p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----f92fb999----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Identify relevant variables affecting SEUs)</p>
 
 <p>Factors that can affect SEUs are called <em>relevant variables.</em> For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production is generally one of the key variables affecting energy consumption of SEUs. As production rate changes, consumption will generally change accordingly. However, SEU consumption can be influenced by other factors, and they should be examined for correlation. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
@@ -66,3 +66,9 @@ Task 9: We have determined the relevant variables that affect energy consumption
 <p>To add relevant variable information when starting from Portfolio Manager (PM), upload your PM file to [resource](EnPI_Lite), following the instructions shown on the EnPI Lite homepage. [resource](EnPI_Lite) will not provide a valid model since there is no relevant variable information listed in PM. However, it will still provide downloadable results. Download these from [resource](EnPI_Lite) and enter your relevant variable information into the Relevant Variables tab of the file (see [task](Performance Indicators) for guidance on relevant variables).</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>The ENERGY STAR program does not require determining relevant variables. Appendix 4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides detail on normalizing data, which may use similar variables.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Relevant variables are determined for an ISO 50001:2011 EnMS, something that does not apply to ISO 14001 environmental management systems (EMS).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

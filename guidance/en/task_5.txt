@@ -3,15 +3,15 @@ USDOE 50001 READY NAVIGATOR TASK 5
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Legal Requirements
-----------TITLE-----a1d7a45f----------
+----------TITLE----------
 Task 5: We have identified energy-related legal requirements that apply to our operations, have a process to evaluate and update these over time, and evaluated our compliance with them
-----------GETTING IT DONE-----5f6a798d----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Identify and document all applicable legal and other requirements related to energy in the [resource](Legal_Other_Requirements_Tracking_Matrix).</li>
 	<li>Assign responsibilities and establish a frequency for reviewing and updating the completed matrix.</li>
 	<li>Establish a process to periodically evaluate compliance with all requirements. Use the [resource](Compliance_Evaluation_Checklist) to conduct compliance evaluations and record your organization&rsquo;s results.</li>
 </ul>
-----------TASK OVERVIEW-----e86a606c----------
+----------TASK OVERVIEW----------
 <p>ISO 50001 recognizes that energy-related obligations, both legal and voluntary, are an important component of a comprehensive and systematic approach to energy management. The planning requirements of the EnMS include gathering information on the legal requirements and other requirements that apply to your organization&rsquo;s energy use, consumption, and efficiency. There must be processes in place to identify, access, evaluate, and keep current with those requirements.</p>
 
 <p>Identifying and accessing legal and other requirements occurs as the first step in the energy planning process, so that any energy data mandated by those requirements is known and can be input into the energy review. Legal requirements are those embedded in law or otherwise imposed by a governmental entity or regulatory agency. You need to develop a complete picture of your organization&rsquo;s energy-related legal requirements so ongoing compliance with those requirements can be maintained.</p>
@@ -34,7 +34,7 @@ Task 5: We have identified energy-related legal requirements that apply to our o
 </ul>
 
 <p><em>This guidance is relevant to Sections 4.4.2 and 4.6.2 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----63898c35----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Identify and access applicable legal requirements)</p>
 
 <p>This task involves identifying and establishing access to the federal, state, and local legal requirements that apply to your organization&rsquo;s energy use, consumption, and efficiency. For most organizations, this process is already in place for environmental legal and regulatory requirements. In addition, be aware that a number of environmental regulations, particularly some of those regulating air emissions, are relevant to both the organization&rsquo;s environmental impacts and its energy uses.</p>
@@ -150,3 +150,15 @@ Task 5: We have identified energy-related legal requirements that apply to our o
 <p>The results of the compliance evaluations must be recorded and maintained. How the results are recorded, including the format and level of detail, is up to you. One approach is to prepare a high-level summary that indicates whether or not concerns or non-compliances were found and whether or not corrective or preventive actions to address them have been undertaken and completed.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>The [resource](ENERGY_STAR_Guidelines_for_Energy_Management) does not make reference to legal and other requirements.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The ISO 14001:2015 processes for determining and accessing applicable legal and other requirements can be leveraged to meet similar requirements of ISO 50001:2011. Integrating energy-related legal and other requirements with environmental legal and other requirements is relatively straightforward, although the personnel assigned responsibilities for the energy requirements may be different than the assigned personnel for environmental. If integration is not an option, then the existing processes used to identify and access environmental requirements can be duplicated for use by the ISO 50001 system.</p>
+
+<p>The ISO 9001:2015 processes for identifying and meeting applicable statutory and regulatory requirements are embedded in customer focus and determination of requirements for products and services. Since ISO 50001:2011 does not address energy requirements as part of customer, product or service requirements, ISO 9001 may not provide the processes needed to fully meet the ISO 50001 requirements for legal and other requirements.</p>
+
+<p>Processes used to evaluate and update environmental legal and other requirements under ISO 14001:2015 can be adapted and applied to evaluate and update energy-related legal and other requirements for ISO 50001:2011. Or, a single integrated process can be used to meet the requirements of both standards.</p>
+
+<p>ISO 50001:2011 would not necessarily require any adaptions to a compliance evaluation processes maintained under ISO 14001:2015. The same process could be used for both systems separately or on an integrated basis. The differences would likely relate to the personnel assigned responsibility and authority for the compliance evaluation process and the specific legal and other requirements (called &ldquo;compliance obligations&rdquo; in ISO 14001) involved. Integrating energy-related compliance evaluations with environmental can be an effective use of resources. Such integration with an ISO 9001:2015 system would not be as straightforward and usually results in separate processes. This is due to the fact that in ISO 9001:2015 quality systems, statutory and regulatory requirements are part of the determination and review of the requirements for products and services, including customer requirements. They are almost exclusively product-or service-focused and are achieved through the controls and performance evaluation processes of the quality system.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 23
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Internal Audit
-----------TITLE-----c1b56646----------
+----------TITLE----------
 Task 23: We have conducted internal audits of the 50001 Ready system and reported those results and corresponding corrective/preventive action items to top management
-----------GETTING IT DONE-----73a2cfdf----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Appoint an EnMS internal audit program manager.</li>
 	<li>Develop a documented procedure that addresses the planning and conducting of EnMS internal audits and the reporting of audit results.
@@ -19,7 +19,7 @@ Task 23: We have conducted internal audits of the 50001 Ready system and reporte
 	<li>Record the results of your organization&rsquo;s internal audits on the [resource](Audit_Finding_Form). Alternatively, record negative findings in the [resource](Corrective_Action_Preventive_Action_Request_Form) and list the positive findings within an audit report or other summary of the audit results.</li>
 	<li>Assign responsibility to the management representative or the EnMS internal audit program manager to ensure that internal audit results are reported to top management, typically in the management review process (see [task](Management Review)).</li>
 </ul>
-----------TASK OVERVIEW-----dbdef439----------
+----------TASK OVERVIEW----------
 <p>An internal audit checks your energy performance and the implementation and effectiveness of your EnMS. It is a systematic and independent process that must be documented. Internal auditors collect and objectively evaluate evidence to determine whether your organization is meeting the requirements of its EnMS and ISO 50001.</p>
 
 <p>Management system audits are system-focused; they are very different from other types of audits with which you may be familiar, such as environmental compliance audits or financial audits. Hence, training in management system auditing is critical for internal auditors. Appropriate resources will be needed to ensure that this training is provided, either in-house or by an external training provider.</p>
@@ -48,7 +48,7 @@ Task 23: We have conducted internal audits of the 50001 Ready system and reporte
 </ul>
 
 <p><em>This guidance is relevant to Section 4.6.3 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----65d519f4----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Develop a documented internal audit procedure)</p>
 
 <p>ISO 50001 requires that you document your internal audit process. This process typically includes:</p>
@@ -240,3 +240,13 @@ Task 23: We have conducted internal audits of the 50001 Ready system and reporte
 <p>More detailed information about internal auditing is presented in [resource](Introduction_Internal_Auditing_Concepts). It is strongly recommended that if your organization is new to ISO management systems, you should review fully that document.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 5.1, Step 5.2, Step 5.5, Step 6.1 and Step 6.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). You can leverage and modify elements of these ENERGY STAR Guidelines in developing an EnMS internal audit program, however additional work will be needed to meet ISO 50001 requirements for conducting EnMS internal audits based on documented internal audit procedures, schedules, and plans. The ENERGY STAR Guidelines recommend creating a communications plan and raising awareness across the facility. ISO 50001 specifically requires documenting and maintaining records of internal audit results and ensuring that the results are communicated to top management as part of management&rsquo;s review of the performance of the EnMS and the organization&rsquo;s energy performance.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>There are very few differences between the structure and management of an internal audit programs for ISO 50001:2011 and those required for ISO 9001:2015 and ISO 14001:2015. The ISO 9001 and ISO 14001 standards actually have a few more specific program requirements (e.g. defining audit criteria and scope for each audit, taking into consideration changes affecting the organization) than are included in ISO 50001. Even if an organization chooses not to conduct integrated management system audits, the ISO 9001, ISO 14001 and ISO 50001 systems can share common procedures for internal audit planning, conducting and reporting. Or, alternatively, if the systems are to be maintained separately, the structure and requirements of those existing ISO 9001 or ISO 14001 internal audit processes, procedures, methods and responsibilities can be easily copied and adapted for an ISO 50001 EnMS.</p>
+
+<p>The key difference in internal audit requirements between ISO 50001 and the ISO 9001 and ISO 14001 standards is related to the intent of an internal audit. In addition to ensuring conformance and effective implementation and maintenance of the management system, ISO 50001 internal audits are conducted to ensure that the EnMS actually <em>improves</em> energy performance. One practical implication of this ISO 50001 requirement relates to the training and competency of the internal auditors. The pool of internal auditors for ISO 50001 must include personnel who are comfortable with (preferably experienced with) evaluation of data and data analyses. These skills may already be included among the members of the existing internal auditor pool, for example where internal auditors for ISO 9001 are experienced with evaluating quality data. In ISO 14001 systems, environmental performance must also be evaluated; however, this could be implemented only through the processes for monitoring, measurement, analysis and evaluation, not through the internal audit process itself. So, some adjustments to the skills sets of the internal auditors may be needed to effectively audit energy performance in an ISO 50001 system. Certainly, existing internal auditors for quality and environmental management systems would need training in the requirements of ISO 50001 and the energy topics addressed in that standard in order to conduct internal audits of the EnMS.</p>
+
+<p>Like ISO 9001:2015 and ISO 14001:2015, the ISO 5001-2011 standard requires the reporting of internal audit results. For ISO 50001, those results must be reported to &ldquo;top management.&rdquo; For ISO 9001 and 14001, internal audit results are reported to &ldquo;relevant management.&rdquo; From a practical perspective, there may be very little difference in &ldquo;to whom&rdquo; the results are reported across these different management systems. However, for the purposes of integrating ISO 50001 with ISO 9001 or ISO 14001, &ldquo;relevant management&rdquo; would have to include &ldquo;top management.&rdquo;</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

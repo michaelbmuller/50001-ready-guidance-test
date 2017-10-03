@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 22
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Procurement
-----------TITLE-----d20adb17----------
+----------TITLE----------
 Task 22: We have established energy performance criteria spanning the operating life for purchases affecting energy performance,  informed suppliers that this is a factor in procurement, and have defined and currently use specifications for energy supply purchases
-----------GETTING IT DONE-----b9ee2ce5----------
+----------GETTING IT DONE----------
 <ul>
 	<li>For purchases related to SEUs, procurement specifications should clearly identify any energy performance-related requirements. Communicate these requirements to suppliers and/or service providers, and inform them that energy performance is part of the evaluation criteria.</li>
 	<li>Use the [resource](Procurement_Checklist) to evaluate your organization&rsquo;s current procurement processes for items that can significantly impact energy performance. Determine and take any needed actions to adjust existing procurement processes to meet EnMS requirements.</li>
@@ -18,7 +18,7 @@ Task 22: We have established energy performance criteria spanning the operating 
 	<li>Determine if your organization has documented specifications for the purchase of energy supply. Review any existing specifications and compare with the [resource](Energy_Purchasing_Specification_Worksheets) to determine if any additional specifications are needed. If no energy supply specifications exist, use the [resource](Energy_Purchasing_Specification_Worksheets) to determine what specifications may be applicable to the different types of energy that your organization uses.</li>
 	<li>Incorporate relevant specifications into the requirements for purchases of energy.</li>
 </ul>
-----------TASK OVERVIEW-----bc5180cb----------
+----------TASK OVERVIEW----------
 <p>The purchase of energy-using products, equipment, and services can impact your organization&rsquo;s significant energy uses (SEUs) and energy performance. Your organization must establish a procurement process to ensure energy performance is considered when procurement is related to your organization&rsquo;s SEUs or when it can have a significant impact on energy performance. Your procurement activities need to support effective management of the significant energy uses and the achievement of improved energy performance.</p>
 
 <p>In an ISO 50001 EnMS, you must evaluate energy use, energy consumption, and energy efficiency over the planned or expected operating lifetime for any purchased items or services expected to have a significant impact on energy performance. Your organization must determine the evaluation criteria. These criteria look beyond your SEUs, so consider the bigger picture of how procurement impacts any item that affects energy performance.</p>
@@ -34,7 +34,7 @@ Task 22: We have established energy performance criteria spanning the operating 
 </ul>
 
 <p><em>This guidance is relevant to Section 4.5.7 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----fb1f4562----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Inform suppliers of energy performance as an evaluation factor for SEU-related purchases)</p>
 
 <p>You identified significant energy uses (SEUs) to focus your resources in the areas where you can achieve the most benefit (see [task](Relevant Variables)). When an energy use is identified as significant, you must address a number of ISO 50001 requirements that apply specifically to SEUs (see [task](Relevant Variables)), including those related to procurement.</p>
@@ -229,3 +229,13 @@ Task 22: We have established energy performance criteria spanning the operating 
 <p>Document the energy supply specifications to ensure the energy source, delivery, price, invoicing, payment, and contracting requirements are known by potential vendors and satisfied by selective purchasing. To help you prepare energy purchasing documentation, energy source specifications can be developed using the [resource](Energy_Purchasing_Specification_Worksheets), along with input from your procurement and legal departments. Consult your procurement specialists for help with delivery, invoicing, and payment requirements, and legal analysts for assistance with contractual issues. Document the energy purchasing specifications to ensure that initial and future energy supply will meet all requirements. The [resource](Energy_Purchasing_Specification_Summary) can be used to help organize the information needed for purchasing of energy supply.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>When implementing EnMS, you may need to review details in the supply management portion contained in Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. EnMS procurement requirements related to SEUs extends its reach to applicable suppliers and vendors.</p>
+
+<p>In addition, Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> briefly mentions identifying internal roles, including those related to supply management. ISO 50001 has more specific requirements related to lifecycle criteria and the purchase of energy supply, with guidance provided in this task.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems have processes in place to both determine and communicate the requirements that need to be met in their procurement actions. When implementing ISO 50001:2011, the existing procurement processes should be evaluated and leveraged as appropriate as the potential starting point for meeting the procurement-related requirements of ISO 50001:2011.</p>
+
+<p>Consistent with a life cycle perspective, determination of environmental requirements for the procurement of products and services are part of an ISO 14001:2015 system. These processes for determining environmental requirements could be leveraged to help meet the ISO 50001 requirements for life cycle criteria in procurement actions that can significantly impact energy performance. ISO 9001:2015 systems provide processes for control of externally provided products and services that could provide an excellent starting point for implementing ISO 50001:2011 procurement requirements.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

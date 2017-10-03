@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 15
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Measurement
-----------TITLE-----dbe33503----------
+----------TITLE----------
 Task 15: We have an energy measurement plan, reviewed periodically, which defines, organizes and documents our monitoring and measurement activities, and ensures they are accurate and repeatable.
-----------GETTING IT DONE-----22ef4dd2----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Energy_Measurement_Plan_Worksheet) to provide guidance on the requirements for adequate collection of data for determining energy performance. Ensure that all key characteristics that determine energy performance are addressed in the measurement plan.</li>
 	<li>Set the frequency for periodically reviewing your organization&rsquo;s measurement needs. Implement the review and update the measurement plan as needed.</li>
@@ -17,7 +17,7 @@ Task 15: We have an energy measurement plan, reviewed periodically, which define
 	</ul>
 	</li>
 </ul>
-----------TASK OVERVIEW-----7602d9fd----------
+----------TASK OVERVIEW----------
 <p>Good data relies on good measurement, so it is no surprise that ISO 50001:2011 requires an energy measurement plan. The energy measurement plan is developed to define, organize, and document the monitoring and measurement activities. Each of the key characteristics is evaluated to determine the appropriate qualities that should be measured or monitored so appropriate data can be collected for analysis. Requirements for monitoring, measuring, and analyzing performance metrics focus on the &ldquo;key characteristics&rdquo; of operations that determine energy performance.</p>
 
 <p>Periodically reviewing measurement needs helps to ensure the energy measurement plan stays up-to-date and reflective of modified energy performance requirements such as new energy objectives, targets, action plans, and EnPIs. This review should occur at a regular basis (e.g., monthly or quarterly) and should be integrated into your organization&rsquo;s &ldquo;real-time&rdquo; change management processes.</p>
@@ -34,7 +34,7 @@ Task 15: We have an energy measurement plan, reviewed periodically, which define
 </ul>
 
 <p><em>This guidance is relevant to Section 4.6.1 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----a874f756----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Define and implement an energy measurement plan)</p>
 
 <p>ISO 50001 requires an energy measurement plan. The energy measurement plan is developed to define, organize, and document the monitoring and measurement activities. Each of the key characteristics is evaluated to determine the appropriate qualities that should be measured or monitored so appropriate data can be collected for analysis.</p>
@@ -145,3 +145,17 @@ Task 15: We have an energy measurement plan, reviewed periodically, which define
 <p>The results of the monitoring and measurement activities must be recorded. This can be done in a variety of ways, including the use of spreadsheets, databases, log sheets, or other formats. Records are also needed to demonstrate periodic review of the organization&rsquo;s measurement needs. This can be accomplished by recording the dates of review and/or updating that information on the measurement plan. Records of calibration or other means used to ensure the accuracy and repeatability of collected data are needed to verify the effectiveness of the calibration program.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 4.1, 4.2, and 5.5 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. To define and implement an energy measurement plan, expand on the technical steps contained in Step 4.1 of the ENERGY STAR Guidelines by identifying key characteristics of your operations that determine energy performance and the associated monitoring and measurement requirements. This task contains guidance and several resources to help.</p>
+
+<p>Measurement needs may have been included when resources were identified in Step 4.2 of the ENERGY STAR Guidelines. When implementing the EnMS, it will be necessary to ensure measurement needs are periodically reviewed. These reviews of measurement needs can be incorporated to the periodic reviews your organization already has in place according to the guidance in Step 5.5 of the ENERGY STAR Guidelines.</p>
+
+<p>Monitoring and measurement systems for your EnMS will include calibration of the monitoring and measurement equipment to ensure data are accurate and repeatable, and maintaining associated records documentation and records.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>ISO 14001:2015 and ISO 9001:2015 do not require measurement plans. However, both require that the organization determine what needs monitored and measured and when, the methods, criteria for evaluation and when the results will be analyzed. This information could be maintained as part of an integrated measurement plan that covers energy (ISO 50001:2011) and environmental (ISO 14001) and/or quality (ISO 9001).</p>
+
+<p>Both ISO 9001:2015 and ISO 14001:2015 require that the organization determine what needs to be monitored and measured. Since management systems and all their component processes must be maintained, those needs could be determined periodically, as-needed, or on an ongoing basis. It would not be difficult to meet ISO 50001:2011 requirements in this area by integrating periodic review of measurement needs across multiple management systems or instituting a stand-alone measurement needs review just for the EnMS.</p>
+
+<p>Calibration and/or verification processes implemented for ISO 9001:2015, ISO 14001:2015 or ISO 50001:2011 can be modified for use by the other management systems. The specific requirements related to calibration and verification varies between these standards, but they are not so different that separate calibration systems could be easily justified. ISO 9001:2015 has more explicit and robust requirements in this area, but either ISO 9001 or ISO 14001 calibration and verification processes could be adapted for use in an EnMS with appropriate modifications. A potential implementation issue could be &ldquo;ownership&rdquo; of the calibration processes if they are used across multiple management systems.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

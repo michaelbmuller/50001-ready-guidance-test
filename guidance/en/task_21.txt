@@ -3,15 +3,15 @@ USDOE 50001 READY NAVIGATOR TASK 21
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Training
-----------TITLE-----44ef0b74----------
+----------TITLE----------
 Task 21: Training needs for the 50001 Ready system and the SEUs have been identified, and staff and contractors have been trained as needed to ensure they are qualified for their energy management role
-----------GETTING IT DONE-----480d2ed9----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Complete the [resource](EnMS_Training_Needs_Planning_Matrix).</li>
 	<li>Address training gaps as identified.</li>
 	<li>Retain records of training needs, offerings, and results.</li>
 </ul>
-----------TASK OVERVIEW-----f38aad58----------
+----------TASK OVERVIEW----------
 <p>Personnel performing work related to your organization&rsquo;s significant energy uses (SEUs) must be competent to perform those tasks in order to minimize any potential negative impact on the organizations&rsquo; energy performance. If there are any competency gaps among the relevant personnel, then those gaps must be identified and steps taken to ensure that they are brought up to the level required to perform the job.</p>
 
 <p>In addition to identifying training and other actions needed to address any competency gaps of personnel whose work is associated with the SEUs, your organization must identify training needs related to other EnMS elements. Typically, these training needs are identified and reviewed and updated at least annually by the management representative with support from the energy team and possibly environmental or safety and health personnel.</p>
@@ -25,7 +25,7 @@ Task 21: Training needs for the 50001 Ready system and the SEUs have been identi
 </ul>
 
 <p><em>This guidance is relevant to Section 4.5.2 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----add876f3----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Ensure competence of personnel)</p>
 
 <p>Personnel working on the organization&rsquo;s behalf who are performing tasks related to its significant energy uses (SEUs) must be competent to perform those tasks. These personnel include salaried, hourly, part-time, and temporary employees, as well as on-site contractors, suppliers, and consultants. Your initial list of personnel performing work related to the SEUs was documented in the [resource](SEU_Control_Chart) first introduced in [task](Significant Energy Uses) and [task](Performance Indicators). (An [resource](Example_SEU_Control_Chart) was also provided in [task](Significant Energy Uses) and [task](Performance Indicators).) Start with that information, and identify any additional personnel who may need to be included to meet the competency requirements of ISO 50001, Section 4.5.2.</p>
@@ -72,3 +72,13 @@ Task 21: Training needs for the 50001 Ready system and the SEUs have been identi
 <p>Once EnMS training needs are identified, you must follow through by providing the training or taking other necessary actions. Maintain records of training. Review EnMS training needs at least annually and update as needed. Some organizations integrate EnMS-related training with their EHS training.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 5.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) discusses building capacity through training of staff. This 50001 Ready Navigator task guidance, which focuses on qualification and training of personnel related to the operation of the ISO 50001 EnMS and the identified significant energy uses, could help to strengthen your existing training efforts.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>ISO 50001:2011, ISO 14001:2015 and ISO 9001:2015 all have requirements related to ensuring the competency of personnel on the basis of appropriate education, training or experience. An ISO 14001:2015 environmental management system focuses on the competency of personnel that affect the organization&rsquo;s environmental performance and environmental compliance obligations. An ISO 9001:2015 system focuses on personnel that affect the performance and effectiveness of the quality management system. The focus of an ISO 50001:2011 EnMS is more specific, focusing on personnel whose work is related to the organization&rsquo;s identified significant energy uses. However, the processes used by the organization to ensure the competency of personnel can be the same for all three management systems, although the personnel involved in each may be different. In implementing ISO 50001, it is recommended that the processes used to address the competency requirements of ISO 14001 and/or ISO 9001 be applied to the EnMS. Also, the types of competency records maintained for the quality and/or environmental management system(s) would be similar to those needed for the EnMS</p>
+
+<p>The processes used in an ISO 14001:2015 system to determine and address training needs related to environmental aspects and the environmental management system (EMS) could be applied to identify training needs related to the control of significant energy uses and operation of the ISO 50001:2011 EnMS. This is an area where the energy, environmental, and safety and health requirements related to training needs are frequently integrated so that a single process is used to address the training need requirements of all three management systems.</p>
+
+<p>Processes used to determine competency needs in an ISO 9001:2015 quality management system (QMS) can be adapted for use in the EnMS, although the personnel involved may be different.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

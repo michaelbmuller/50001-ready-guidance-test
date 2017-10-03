@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 11
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Baselines, Objectives and Targets
-----------TITLE-----e628afc7----------
+----------TITLE----------
 Task 11: We have established an energy baseline(s), approved objectives and energy performance improvement targets, and timeframes for their achievement
-----------GETTING IT DONE-----7a37d246----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Develop an energy baseline(s) for each EnPI.
 	<ul style="list-style-type:circle">
@@ -20,7 +20,7 @@ Task 11: We have established an energy baseline(s), approved objectives and ener
 	</ul>
 	</li>
 </ul>
-----------TASK OVERVIEW-----309c4f38----------
+----------TASK OVERVIEW----------
 <p>The energy baseline is the reference point used as the basis of comparison for determining energy performance. The baseline is established using the energy and organizational data from the energy review. It is responsibility of the management representative with support from the energy team.</p>
 
 <p>The baseline facilitates comparison between where an organization&rsquo;s energy performance is (or will be) and where it started the energy improvements. The baseline can be for any time period that is meaningful to your organization and the performance metric being evaluated. Often a baseline is established by an organization&rsquo;s strategic initiatives or in response to a legal or other requirement. The baseline is established considering the data period(s) suitable for your organization&rsquo;s energy use and consumption. Typically, each identified EnPI will have an associated baseline.</p>
@@ -41,7 +41,7 @@ Task 11: We have established an energy baseline(s), approved objectives and ener
 </ul>
 
 <p><em>This guidance is relevant to Sections 4.4.4 and 4.4.6 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----e5e4e901----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Establish baseline(s))</p>
 
 <p>The baseline can be established at any level of your organization, and there may be multiple baselines. A baseline can be established for the entire facility and/or there can be baselines for individual equipment, systems, or processes. The baseline(s) is the reference(s) for comparing current energy performance to determine if performance is improving. The following inputs will help to determine the appropriate baseline(s):</p>
@@ -260,3 +260,13 @@ Task 11: We have established an energy baseline(s), approved objectives and ener
 <p>Once the energy objectives and targets have been formally documented and approved by management, they should be broadly communicated across the organization using the communication and training processes of the EnMS (see [task](Communications) and [task](Training)). At a minimum, start by communicating the objectives and targets to the energy team and to all personnel who can affect them or have a role in achieving them. While some personnel may not have direct responsibility for achieving the objectives and targets, broad awareness of your organization&rsquo;s improvement efforts promotes a culture of energy efficiency and supports positive energy behavior. Employees and on-site contractors will need to be aware of how they contribute to achieving the objectives and target, so ensure that this information is incorporated into your organization&rsquo;s EnMS Awareness Training (see [task](Communications)). Periodically update personnel on progress made towards achieving the energy objectives and targets and celebrate success when they are achieved.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 2.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides tips on establishing a baseline--and Step 2.3, Step 3.0, Step 3.3, and Step 6.1 all provide tips on measuring energy performance against the energy baseline.</p>
+
+<p>If your organization already has data stored in the ENERGY STAR [resource](Portfolio_Manager), this data can be exported into [resource](EnPI_Lite) in order to estimate energy savings relative to relevant variables like production levels and weather. More instructions are available on the EnPI Lite webpage. The EnPI Lite energy model results in a normalized baseline using variables which impact energy consumption (variable such as weather and production).</p>
+
+<p>Your organization may have already established energy performance improvement objectives and targets using guidance from Step 3.3 &ldquo;Setting Goals&rdquo; and Step 4.1 &ldquo;Define Technical Steps and Targets&rdquo; of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). This 50001 Ready Navigator task provides specific guidance to ensure your organization&rsquo;s energy objectives and targets meet certain criteria specified in the ISO 50001 standard.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Objectives and information on when they will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting energy objectives and targets for the ISO 50001:2011 system. Different personnel may be involved but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

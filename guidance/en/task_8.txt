@@ -3,16 +3,16 @@ USDOE 50001 READY NAVIGATOR TASK 8
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Significant Energy Uses (SEUs)
-----------TITLE-----273fc61d----------
+----------TITLE----------
 Task 8: We have determined our Significant Energy Uses (SEUs) and determined their energy performance, estimated future consumption and have a plan for reviewing and updating them.
-----------GETTING IT DONE-----c1f7cc77----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Using the Energy Uses tab of the [resource](Energy_Footprint_Tool), identify the Significant Energy Uses (SEUs) that consume the most energy in your facility.</li>
 	<li>Determine SEU energy performance and complete the [resource](SEU_Future_Energy_Estimate_Worksheet).</li>
 	<li>Develop and implement a plan for reviewing and updating SEUs.</li>
 	<li>Include a review of the SEU evaluation and selection methodology as part of the SEU update process.</li>
 </ul>
-----------TASK OVERVIEW-----d81a27ec----------
+----------TASK OVERVIEW----------
 <p>It&rsquo;s important to identify your organization&rsquo;s significant energy uses (SEUs) using defined criteria for significance. SEUs can be determined based on major consumption and/or considerable opportunity for improvement.</p>
 
 <p>Once the SEUs are identified, the current performance of the significant energy uses (SEUs) needs to be determined as part of the energy review. Then processes are implemented to continually monitor that performance. Collecting, analyzing, and tracking data on SEU performance can help identify opportunities for energy performance improvement.</p>
@@ -31,7 +31,7 @@ Task 8: We have determined our Significant Energy Uses (SEUs) and determined the
 </ul>
 
 <p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----6ee71eb8----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Determine and apply criteria for significance)</p>
 
 <p>Recall that according to the definition of significant energy uses, substantial energy consumption and/or considerable opportunity for improvement are the criteria used in determining your organization&rsquo;s significant energy uses. Most organizations will determine SEUs based on the largest energy consuming systems and equipment identified in an energy balance. However, SEUs also may be determined based on considerable potential for energy performance improvement. This can be a good option if your organization has been engaged in energy management activities for many years and the opportunities for additional improvements to the largest energy-consuming systems are limited. In this situation, you can focus on smaller systems that have greater opportunity for energy performance improvement.</p>
@@ -116,3 +116,9 @@ Task 8: We have determined our Significant Energy Uses (SEUs) and determined the
 </ul>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be determined or a plan to be in place for updating them, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Both ISO 14001:2015 and ISO 50001:2011 use the construct of &ldquo;significance.&rdquo; In an ISO 14001 environmental management system (EMS) significant environmental aspects are determined, while in an ISO 50001:2011 EnMS, significant energy uses are determined. Although the criteria (and typically the methodologies) used to determine significance differs between ISO 50001 and ISO 14001, the end result is that determining significance helps to establish priorities and focus resources in both management systems.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

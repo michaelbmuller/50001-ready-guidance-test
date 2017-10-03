@@ -3,14 +3,14 @@ USDOE 50001 READY NAVIGATOR TASK 16
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Operational Controls
-----------TITLE-----86405271----------
+----------TITLE----------
 Task 16: We have set operations and maintenance criteria for our SEUs, operate them accordingly, and communicate these controls to relevant personnel
-----------GETTING IT DONE-----22b7cb34----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Complete the [resource](Significant_Energy_Use_Operating_Criteria_Worksheet) and the [resource](Operational_Controls_Checklist) to determine and set the required criteria and controls for each significant energy use. Ensure critical factors affecting energy performance are known, communicated to responsible personnel, and used.</li>
 	<li>Operate and maintain facilities, equipment, systems, or processes associated with your SEUs to meet the determined criteria.</li>
 </ul>
-----------TASK OVERVIEW-----ef30f2f0----------
+----------TASK OVERVIEW----------
 <p>Operational and maintenance controls ensure that critical equipment, systems, processes, and facilities are operated and maintained to achieve required output and efficient performance. Properly defined controls promote the efficient and uninterrupted functioning of critical equipment.</p>
 
 <p>Determining operational and maintenance controls involves identifying and planning activities to ensure that critical factors affecting energy performance are known, used, and communicated to responsible personnel. Operational and maintenance controls must be identified and planned for all significant energy uses (SEUs).</p>
@@ -26,7 +26,7 @@ Task 16: We have set operations and maintenance criteria for our SEUs, operate t
 </ul>
 
 <p><em>This guidance is relevant to Section 4.5.5 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----2a316af6----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Set operating and maintenance criteria)</p>
 
 <p>Your organization should have effective operating and maintenance criteria in place for all your major facilities, equipment, systems, and processes. Your major systems and significant energy uses (SEUs) have optimum running conditions and maintenance practices that maximize their operational efficiency and allow them to achieve their design service life.</p>
@@ -196,3 +196,13 @@ Task 16: We have set operations and maintenance criteria for our SEUs, operate t
 <p>Use the method(s) of communication most effective for your organization. What is important is that the operating and maintenance criteria are clear and accurate, and that you make appropriate employees and contractors aware of them.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 3.1, 3.3, 4.1, 4.2, and 5.3 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. In your EnMS program, operations and maintenance activities are identified and planned for your significant energy uses (SEUs). This ensures that those operations and activities are carried out consistently. It is likely that your organization already has operational and maintenance controls in place that can meet these ISO 50001 requirements.</p>
+
+<p>In addition, when implementing your EnMS, the operational and maintenance controls in place for your significant energy uses need to be communicated to employees and contractors who perform work related to those significant energy uses. You can leverage your existing training and communication processes for this purpose.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>ISO 14001:2015 and ISO 9001:2015 also have requirements for operational planning and control, although they may not be focused on specific energy uses. In implementing operational and maintenance controls for SEUs in ISO 50001:2011, it is not unusual for the organization to find that some of the operational controls already in place for an environmental or quality management system are relevant to the SEUs identified. In this case, it may be appropriate to leverage those existing controls. This is particularly true when the controls are based in procedures, work instructions and other documented information that must be followed in operating a specific process.</p>
+
+<p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems already have processes in place for internal and external communication, including the communication of relevant requirements to internal personnel and external providers. These same communication processes can be used to communicate operational controls to relevant internal and external personnel under ISO 50001:2011.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

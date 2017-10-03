@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Guidance\\": "src/"
+      "DOE_50001_Ready\\": "src/"
     }
   },
   "autoload-dev": {

@@ -3,9 +3,9 @@ USDOE 50001 READY NAVIGATOR TASK 17
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Corrective Actions
-----------TITLE-----63d7d030----------
+----------TITLE----------
 Task 17: We investigate and respond to significant deviations in energy performance and potential issues with the 50001 Ready system, taking corrective and preventative actions as needed
-----------GETTING IT DONE-----72823173----------
+----------GETTING IT DONE----------
 <ul>
 	<li>For each performance metric in the energy measurement plan, define the criteria or parameters for a significant deviation in energy performance.</li>
 	<li>Establish a process for investigating and responding to such deviations and retaining records of the results.</li>
@@ -14,7 +14,7 @@ Task 17: We investigate and respond to significant deviations in energy performa
 	<li>Define roles, responsibilities and authorities for the various steps in the corrective and preventive action processes.</li>
 	<li>Train employees on the types of actual and potential problems/nonconformities to be addressed through the CAR/PAR process.</li>
 </ul>
-----------TASK OVERVIEW-----79e102e1----------
+----------TASK OVERVIEW----------
 <p>Significant deviations in energy performance are defined by your organization. When a significant deviation occurs, your organization must investigate and provide an appropriate response and record the results of the response. The data you collect by monitoring and measuring the key characteristics of operations that determine energy performance is used to identify significant deviations. Your organization determines what will be considered a significant deviation but, in general, it is a departure from a level of energy performance that is acceptable, defined, or expected.</p>
 
 <p>ISO 50001:2011 requires that you have processes for identifying and addressing existing and potential problems or nonconformities. An existing nonconformity is a situation where a requirement is not met. A potential nonconformity is a situation where a nonconformity could or will occur in the future if appropriate action is not taken.</p>
@@ -42,7 +42,7 @@ Task 17: We investigate and respond to significant deviations in energy performa
 </ul>
 
 <p><em>This guidance is relevant to sections 4.5.5, 4.6.1 and 4.6.4 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----8f07a29f----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Set and implement criteria for significant deviations)</p>
 
 <p>A deviation may be identified by a specific level of variation or can be evaluated by knowledgeable personnel to determine if it is significant and if action is required. Examples of methods for specifying significant deviations can include the following:</p>
@@ -247,3 +247,17 @@ Task 17: We investigate and respond to significant deviations in energy performa
 <p>Like the other processes of the EnMS, implementation of the corrective and preventive action process involves putting the process into practice within your organization and ensuring that appropriate training is provided. Reviewing the steps to be followed, demonstrating the use of any required forms, and clearly communicating roles, responsibilities, and expectations across the workforce supports conformance with the requirements of the corrective and preventive system.</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). To implement the EnMS, expand on the tracking systems identified in Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) to include identifying and responding to significant deviations in energy performance. This may be achieved by monitoring and measuring the key characteristics of your operations that determine energy performance and developing an investigation process for major deviations that involves keeping records of the results of the investigation.</p>
+
+<p>ISO 50001 requires that organizations address any actual or potential nonconformities (including those identified in EnMS internal audits) by taking appropriate corrective and preventive actions. If your organization has developed a tracking system as described in Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management), this tracking system is a good starting point for developing and implementing what is needed to meet these ISO 50001 requirements.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>There is very little that is different between the requirements for correction and corrective action in ISO 50001:2011, ISO 9001:2015 and ISO 14001:2015. A fully functional corrective action process used for ISO 9001 and ISO 14001 will work for ISO 50001 with minimal modifications. In all three of these management systems, corrective actions must be appropriate to the effects of the nonconformities. For ISO 50001, the corrective action also must be appropriate to the energy performance consequences encountered. ISO 14001 requires the corrective actions to be appropriate to the significance of the effects, including the environmental impacts.</p>
+
+<p>The types of records retained on corrective actions and their results would be the same for ISO 50001 as they are for ISO 9001 and ISO 14001. Although ISO 50001 does not contain an explicitly stated requirement for documented information on corrective actions, maintaining records of nonconformities and the associated corrective actions is implicit under the record control requirements of ISO 50001.</p>
+
+<p>The real difference in this area between ISO 5000:2011 and ISO 9001:2015 and ISO 14001-2015 is due to the adoption and application of the High Level Structure (HLS) to ISO management system standards. The new versions of ISO 9001 and ISO 14001 have been published in the HLS, which removed &ldquo;preventive action&rdquo; from the management system. Under the HLS, &ldquo;preventive action&rdquo; is inherent in the &ldquo;actions to address risk and opportunities&rdquo; requirements of ISO 9001 and ISO 14001. Since ISO 50001 has not yet been revised and published in the HLS format, preventive action remains a part of the &ldquo;checking&rdquo; functions of an ISO 50001 EnMS.</p>
+
+<p>If the ISO 50001 system were to be integrated into an ISO 9001 or ISO 14001 management system, then the preventive action requirements of ISO 50001 likely would need to be reflected within the processes used by ISO 9001 and ISO 14001 to determine the risks and opportunities that need to be addressed by the management system. If the ISO 50001 EnMS is to be maintained separately, then preventive action processes as implemented for the old versions of ISO 9001 (2008) and ISO 14001 (2004) could be applied for ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

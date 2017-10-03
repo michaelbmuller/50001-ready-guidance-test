@@ -2,9 +2,7 @@
 
 namespace Tests;
 
-use Guidance\Guidance;
-use Guidance\Support;
-use Guidance\Task;
+use DOE_50001_Ready\Support;
 use PHPUnit\Framework\TestCase;
 
 class SupportTest extends TestCase

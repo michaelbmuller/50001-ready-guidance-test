@@ -3,13 +3,13 @@ USDOE 50001 READY NAVIGATOR TASK 24
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Calculate Energy Savings
-----------TITLE-----a3a17e47----------
+----------TITLE----------
 Task 24: We have determined our energy performance improvement.
-----------GETTING IT DONE-----324caee4----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Demonstrate an improvement&nbsp;in energy performance at your facility using the DOE [resource](EnPI_Lite) tool or an alternative facility-level energy performance calculator.</li>
 </ul>
-----------TASK OVERVIEW-----57051890----------
+----------TASK OVERVIEW----------
 <p>Implementation of an ISO 50001 EnMS is intended to realize and sustain energy savings and energy cost reductions. There are many ways to calculate energy savings and track improvements. The ISO 50001 standard and 50001 Ready allow for flexibility in defining the appropriate energy performance indicators and tracking methods for your facility and its selected SEUs.</p>
 
 <p>EnPI Lite is recommended but not required to meet the 50001 Ready energy reporting requirement. For your initial 50001 Ready designation, energy reporting recommendations and requirements are as follows:</p>
@@ -84,7 +84,7 @@ Task 24: We have determined our energy performance improvement.
 <p>The remainder of the guidance for this task will address using EnPI Lite for determination of your energy performance improvement.</p>
 
 <p><em>This guidance is relevant to Section 4.6.1 of the ISO 50001:2011 standard</em>.</p>
-----------FULL DESCRIPTION-----a802f038----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Run DOE EnPI Lite)</p>
 
 <p>Following instructions on the [resource](EnPI_Lite) homepage, upload your [resource](Energy_Footprint_Lite_Data_Uploader) file to EnPI Lite and view your energy performance improvement.</p>
@@ -229,3 +229,11 @@ Task 24: We have determined our energy performance improvement.
 <p>Once you have selected your energy consumption model(s), [resource](EnPI_Lite) will display your energy performance improvement against the baseline year. It is expressed as a percentage. See [task](Performance Indicators) for guidance on interpreting your facility&rsquo;s percent improvement. A 50001 Ready EnMS requires that your facility show a positive energy performance improvement against the baseline year. You can use this energy performance improvement to communicate the benefits of the EnMS within your facility and to your top management (Task 25, [task](Management Review)).</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Through ENERGY STAR programs, such as the ENERGY STAR Challenge for Industry, you may already be tracking your energy performance improvement. Connecting your ENERGY STAR reporting to your 50001 Ready EnMS is one way to complete this task.</p>
+
+<p>If you prefer to use EnPI Lite, ENERGY STAR Portfolio Manager data can be easily used as input data to the tool. Instructions for using EnPI Lite can be accessed at the EnPI Lite homepage.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Calculation of energy performance improvement is not required for ISO 9001:2015 or ISO 14001:2015.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

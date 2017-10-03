@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Guidance;
+namespace DOE_50001_Ready;
 
 /**
  * Class Guidance

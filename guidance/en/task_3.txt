@@ -3,15 +3,15 @@ USDOE 50001 READY NAVIGATOR TASK 3
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Management Commitment
-----------TITLE-----e3b93aef----------
+----------TITLE----------
 Task 3: Our top management has expressed its commitment to the 50001 Ready system, and are aware of their roles and responsibilities
-----------GETTING IT DONE-----aa70517e----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Use the [resource](Business_Drivers_EnMS) resource to identify business drivers and benefits applicable to your organization.</li>
 	<li>Prepare and deliver a briefing to top management on the identified business drivers and benefits, management roles and responsibilities, and how these responsibilities will be met.</li>
 	<li>Secure commitment from top management</li>
 </ul>
-----------TASK OVERVIEW-----e5e74cd1----------
+----------TASK OVERVIEW----------
 <p>The most critical key to the success of an EnMS is involvement and commitment by top management. In addition to providing the leadership needed to improve energy performance and the EnMS, top management must demonstrate that they perform the specific responsibilities assigned to them within the continual improvement framework of the EnMS ([resource](PDCA_Components_ISO_50001)). Not only does top management approve and authorize an EnMS, they are ultimately responsible for ensuring its ongoing suitability, adequacy, and effectiveness.</p>
 
 <p><strong>At the completion of this task, you will have&hellip;</strong></p>
@@ -26,7 +26,7 @@ Task 3: Our top management has expressed its commitment to the 50001 Ready syste
 </ul>
 
 <p><em>This guidance is relevant to sections 4.2.1, 4.2.2, 4.7.1, 4.7.2, and 4.7.3 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION-----4140178e----------
+----------FULL DESCRIPTION----------
 <p>[Accordion](Identify EnMS benefits and business drivers)</p>
 
 <p>Many organizations pursue energy efficiency and energy conservation, reduced environmental impacts, and sustainability initiatives because they are valued as the &ldquo;right thing to do.&rdquo; However, impacts to the bottom line and prospects for long-term viability are most often the determinants of proposed organizational initiatives, including those for energy management. The benefits of improved energy management and energy performance need to be identified and communicated to top management in terms they understand. Consequently, making the business case is an important part of establishing an EnMS.</p>
@@ -168,3 +168,9 @@ Task 3: Our top management has expressed its commitment to the 50001 Ready syste
 <p>After initial implementation, top management will demonstrate most of its responsibilities through management review (see [task](Calculate Energy Savings)).</p>
 
 <p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 5.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) gives guidance on raising awareness across a number of key stakeholders, including top management. Step 1 of the ENERGY STAR Guidelines also gives a suggestion for the Energy Director to involve upper management as an &ldquo;executive ally.&rdquo; In ISO 50001, this suggestion is formalized by <em>requiring</em> that top management demonstrates its commitment to the EnMS and energy performance improvement, which includes understanding their specific roles and responsibilities.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>ISO 9001:2015, ISO 14001:2015 and ISO 50001:2011 all specify the responsibilities for the role of top management within the management system. There is considerable overlap between these three standards with respect to those responsibilities. ISO 50001 does include some additional management responsibilities that are unique, but they are consistent with the leadership requirements of ISO 14001 and ISO 9001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
