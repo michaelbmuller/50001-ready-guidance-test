@@ -1,0 +1,219 @@
+USDOE 50001 READY NAVIGATOR TASK 10
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Performance Indicators (EnPIs) 
+----------TITLE----------
+Task 10: We have identified energy performance indicators (EnPIs) and developed a methodology for determining and updating them.
+----------GETTING IT DONE----------
+<ul>
+	<li>Use the [resource](Checklists_Potential_EnPIs) to help determine energy performance indicators (EnPIs) that will provide useful information about your organization&rsquo;s energy performance.</li>
+	<li>Communicate proposed EnPIs to top management for their input and approval.</li>
+	<li>Record and regularly review the method used to determine and update EnPIs.</li>
+	<li>Compare EnPIs to their baseline values on a regular basis.</li>
+	<li>Implement a process for ongoing monitoring, measurement and analysis of your EnPIs.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Energy performance metrics or indicators (called &ldquo;EnPIs&rdquo; in ISO 50001) are quantitative measures of energy performance and are used to determine improvements in energy use, energy consumption, and energy efficiency. They can be defined at a variety of levels within the EnMS. For example, EnPIs can be established at the level of your entire organization or at the level of a specific facility, piece of equipment, system, or process.</p>
+
+<p>As quantitative measures, EnPIs are measured values, ratios, or models your organization accepts as meaningful representations of energy performance. Improvement in energy performance is determined by comparing current EnPIs against the initial values from the relevant energy baseline(s) (see [task](Baselines, Objectives and Targets)).</p>
+
+<p>Responsibility for determining the EnPIs typically rests with the management representative, and may involve other members of the energy team. It is top management&rsquo;s responsibility to ensure that the EnPIs are appropriate for your organization and to provide the resources needed to establish, track, and evaluate the EnPIs.</p>
+
+<p>Once the EnPIs are established, it is vital to analyze and monitor them. The benefit of analyzing EnPIs by making the comparison between an actual and expected EnPI is that it shows the direction and rate of change in organizational energy performance. Since the ultimate objective of energy management is continual improvement, consistent trends in actual and predicted EnPIs can demonstrate and quantify the improvement.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Determined energy performance indicators (EnPIs)</li>
+	<li>Recorded a methodology for determining and updating EnPIs</li>
+	<li>Monitored and analyze the EnPIs</li>
+</ul>
+
+<p><em>This guidance is relevant to Sections 4.4.5 and 4.6.1 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determine energy performance indicators EnPIs)</p>
+
+<p>EnPIs are developed using the information from the energy review ([task](Data Collection) and [task](Improvement Opportunities)). The responsibility of developing a list of potential performance indicators falls to the management representative and any others assigned to assist, including members of the energy team.</p>
+
+<p>Stakeholder needs can vary significantly, and their requirements should be considered in EnPI development. It may be necessary to develop different EnPIs for different stakeholders. Top management typically will be interested in an EnPI that is related to your organization&rsquo;s strategic business goals and improves the bottom line. Operations or production personnel may want a metric that provides guidance for operating equipment and systems at maximum efficiency. External agencies may require specific performance metrics to provide information related to regulatory or other requirements.</p>
+
+<p>There are no limits on the number of EnPIs that your organization can have. EnPIs are developed where they are needed for monitoring or measuring energy performance. The [resource](Checklists_Potential_EnPIs) provides examples and can serve as a thought starter for your organization&rsquo;s formulation of appropriate energy performance metrics. The [resource](Checklist_Other_Factors_Affecting_EnPIs) can be helpful in identifying the relevant variables that might have an impact on energy performance and the identified EnPIs. EnPIs usually are tracked over time using common spreadsheet software tools.</p>
+
+<p>EnPIs are typically established in one of three forms:</p>
+
+<ul>
+	<li>a single metric, such as consumption;</li>
+	<li>a ratio or per unit basis such as Btu/square foot or Btu/pound or Btu/unit; or</li>
+	<li>a numerical model that accounts for relevant variables.</li>
+</ul>
+
+<p><strong>A single metric</strong>, such as consumption, is frequently adequate to determine and monitor energy performance if the equipment, system, or process is not affected by other variables or the relevant variables are constant.</p>
+
+<p>[Learn More](Examples of single metrics)</p>
+
+<ul>
+	<li>A warehouse with no heating or cooling, equipped only with lighting, and operates on a set schedule every day would be expected to have consistent energy consumption. Any changes would be a reflection of facility changes (e.g., adjusted schedule, facility expansion) or changes in energy performance (e.g., installed high efficiency lighting, removed excess fixtures).</li>
+	<li>A motor operated 24 hours a day at a constant load. A change in consumption may indicate motor problems, or if the current motor is replaced with an energy-efficient motor, a consumption decrease would be expected.</li>
+</ul>
+
+<p>In these examples, monitoring consumption as the EnPI provides guidance on the operational status of equipment or information on the results of changes.</p>
+
+<p>[Learn More End]</p>
+
+<p><strong>A ratio</strong> or a per unit basis EnPI may be desired so it is possible to make comparisons over time at different output levels or at different locations of a similar process. These EnPIs typically relate energy consumption, cost, or environmental impact to an appropriate organizational output. One form of a ratio EnPI that relates performance to production or to one single output is commonly referred to as <em>simple energy intensity.</em> An energy intensity EnPI is defined and calculated by dividing energy consumption by productive output for an organization, facility, department, product, equipment, system, process, or other part of the organization under consideration.</p>
+
+<p>When calculating the EnPI, the energy measurement must accurately capture energy consumption for the unit under consideration, and the chosen unit, such as production measure, must cover the same time frame as the energy consumption.</p>
+
+<p>[Learn More](Examples of ratio metrics)</p>
+
+<ul>
+	<li>For a commercial operation, an EnPI may be Btu/occupied-square foot or Btu/type-square foot or use (e.g., a commercial warehouse may calculate an EnPI for refrigerated square footage and another EnPI for dry goods square footage).</li>
+	<li>For an industrial plant, an EnPI may be Btu/unit produced or Btu/$-value added to product.</li>
+	<li>For an organization that makes bricks, a typical EnPI is Btu/lb. or Btu/ton of bricks. A change in this EnPI provides an indication that some parameter in the process has changed and warrants investigation.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p><strong>A model</strong> may provide a more meaningful measure of energy performance than a single metric or simple ratio to accurately represent the relationship between operational activities and energy consumption. In this case, more sophisticated models that allow the use of multiple factors for estimating energy consumption may be required. Depending on your needs, regression analysis or calculations using engineering theory may be required to provide a sufficiently accurate model. Modeling based on regression analysis or engineering theory can be complex, and typically requires analysis by someone skilled in the systems, processes, operations, or equipment being modeled. The U.S. Department of Energy offers a regression-based tool called the Energy Performance Indicator Tool Lite ([resource](EnPI_Lite)). The U.S. Department of Energy also lists [resource](Several_Energy_Modeling_Software_Programs) that are available from various sources.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Record methodology for determining and updating EnPIs)</p>
+
+<p>The methods you use to determine and update your organization&rsquo;s EnPIs must be recorded and reviewed on a regular basis. Regular reviews help ensure that your methods remain valid. Some organizations document their methods within an energy manual, which is not required, but can be useful as a &ldquo;roadmap&rdquo; to the EnMS (see [resource](Energy_Manual_Guidelines) for additional information). Other organizations address their methods for determining and updating EnPIs within their energy planning procedure. Another approach is to create and maintain a record of the method or calculation used and the updates performed each time the EnPIs are reviewed.</p>
+
+<p>EnPIs are reviewed on a regular basis to ensure continuing applicability for the energy performance being measured. Changes in facilities, equipment, systems, processes, operating procedures, materials, relevant variables, and many other factors could result in a change in the validity of the EnPI used to measure energy performance. When changes occur, they are evaluated so the EnPI can be updated as needed. Top management is responsible for ensuring that the EnPIs are appropriate for the organization ([task](Management Commitment)). Usually this is accomplished through management review ([task](Management Review)), which evaluates energy performance based on updated comparisons of the EnPIs to their baseline values. ([task](Baselines, Objectives and Targets) addresses establishment of energy baselines.)</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Monitor and analyze the EnPIs)</p>
+
+<p>Calculated EnPIs are recorded and reviewed on a regular basis. Updated EnPIs are an input to management review ([task](Management Review)) and used to help determine energy performance. These performance data will verify the success of activities such as energy-efficiency projects, operator or maintenance personnel energy-efficiency training, and energy management awareness programs. This provides a positive message for middle and top management to build support for the EnMS. Improvements in EnPIs are indicators of successes in energy management and should be linked to them. Accurately recording and storing EnPIs creates a historical registry that will display the impact of energy management practices over time.</p>
+
+<p>The components of EnPIs that are measured or calculated will be managed for accuracy and repeatability on the energy measurement plan (addressed in [task](Measurement)). Top management&rsquo;s review of energy performance must include a review of performance as determined by the EnPIs. In addition, top management has an ongoing responsibility to ensure that the EnPIs are appropriate for the organization and to recommend changes when EnPIs are no longer appropriate.</p>
+
+<p>[Learn More](Using DOE EnPI Lite)</p>
+
+<p>As described in [task](Data Collection) and Task(Relevant Variables), [resource](EnPI_Lite) will perform regression analysis on your facility&rsquo;s energy consumption and relevant variable data compiled in your [resource](Energy_Footprint_Tool) or [resource](Energy_Footprint_Lite_Data_Uploader). [resource](EnPI_Lite) will provide you with a facility-level EnPI based on a regression model (a type of numerical model) that accounts for relevant variables. This is the percent improvement in energy performance over the previous year determined using regression analysis. To learn more about regression analysis, please refer to the DOE&rsquo;s [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) (for information specifically on regression analysis, refer to <em>Step 5: Use Regression Analysis to Normalize Each Facility&rsquo;s Data</em>). The statistical validity requirements used by EnPI Lite are as follows:</p>
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>R<sup>2</sup></p>
+			</td>
+			<td>
+			<p>&gt;0.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>P-values for all relevant variables in model</p>
+			</td>
+			<td>
+			<p>&lt;0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>P-values for at least one relevant variable in model</p>
+			</td>
+			<td>
+			<p>&lt;0.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Overall model p-value</p>
+			</td>
+			<td>
+			<p>&lt;0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>The mean of the relevant variables used in the model must fall within the range of relevant variables used to generate the model</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>The mean of the relevant variables used in the model must be within three standard deviations of the relevant variable data that went into the model</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>If using [resource](EnPI_Lite), the EnPI is calculated based on &ldquo;primary energy&rdquo;. This is the energy required to generate, transmit, and distribute energy to your facility. [resource](EnPI_Lite) will automatically convert your site energy consumption data (i.e., values reported on your energy bills such as kWh) to primary energy consumption using the following values:</p>
+
+<table border="1" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Energy Source</p>
+			</td>
+			<td>
+			<p>Primary Energy Multiplier</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Grid purchased electricity</p>
+			</td>
+			<td>
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Onsite generated renewable electricity from solar, wind, or geothermal</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Fossil fuels combusted on site</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>All others</p>
+			</td>
+			<td>
+			<p>Consult 50001 Ready Protocol</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>EnPI Lite can determine the energy performance improvement percentage using a forecast or backcast model. The significance of each is as follows:</p>
+
+<p><strong>Forecast</strong>: A positive energy performance improvement indicates the percent reduction in energy consumption in the reporting year as a result of the action plans and/or any other energy efficiency measures implemented since the baseline year. It is measured using the actual energy consumption in the reporting year against a hypothetical energy consumption in which no action plans or energy efficiency measures were implemented.</p>
+
+<p><strong>Backcast</strong>: A positive energy performance improvement indicates the percent reduction in energy consumption in your baseline year had your facility implemented all the action plans and other energy efficiency measures in the baseline year. It is measured using the actual energy consumption in the baseline year against hypothetical energy consumption in which all the action plans and energy efficiency measures were implemented in the baseline year.</p>
+
+<p>If you are using [resource](EnPI_Lite), it will be run to calculate energy savings in [task](Calculate Energy Savings).</p>
+
+<p>EnPI Lite will also provide the following:</p>
+
+<ul>
+	<li>Facility-level site energy performance improvement percentage</li>
+	<li>Site and primary energy performance improvement percentage for each energy source</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Your organization may already be using energy performance indicators (EnPIs) to monitor, measure and evaluate energy performance. Step 3.2, Step 4.1, Step 5.5, Step 6.0 and Step 6.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provide tips related to this topic, including establishing EnPIs such as Btu/ft<sup>2</sup> or Btu/product. Energy performance indicators used in the ENERGY STAR program may be applicable to the EnMS but should be reevaluated to ensure all EnMS requirements are met. And, Appendix 4 of the ENERGY STAR Guidelines provides detail on normalizing data. This 50001 Ready Navigator task provides additional guidance and DOE tools to help your organization establish a simple energy model that is often a more meaningful measure of energy performance than a single metric or simple ratio to accurately represent the relationship between operational activities and energy consumption.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Both ISO 14001:2015 and ISO 9001:2015 management systems involve the use of indicators, but not necessarily energy performance indicators (EnPIs). However, processes used to determine appropriate indicators for environmental or quality likely could be applied to determining EnPIs appropriate for an ISO 50001:2011 EnMS.</p>
+
+<p>ISO 14001:2015 uses indicators to evaluate progress towards the environmental objectives. Since ISO 14001 also requires the determination of the criteria against which environmental performance is evaluated, some organizations may be using environmental indicators to evaluate energy performance as well. In ISO 9001:2015, indicators are focused on effective operation and control of processes. Indicators in ISO 50001:2011 are quantitative values or measures of energy performance. Overall, indicators in these standards are different from one another in terms of focus and purpose. But, organizational familiarity with the development and use of indicators can be helpful in implementing EnPIs for an ISO 50001 EnMS.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -3,15 +3,15 @@
 1.0 [content_update.format_update]
 ----------MENU NAME----------
 Alcance y límites
-----------TITLE-----b5112fb3----------
+----------TITLE----------
 Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready.
-----------GETTING IT DONE-----8b555b9b----------
+----------GETTING IT DONE----------
 <ul>
 	<li>Complete la [resource](Scope_Boundaries_Worksheet) para definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE). Tome en cuenta las observaciones de los mandos directivos de la empresa.</li>
 	<li>Prepare una declaraci&oacute;n del alcance y los l&iacute;mites del SGE.</li>
 	<li>Presente dicha declaraci&oacute;n a la alta direcci&oacute;n para su aprobaci&oacute;n, y luego comun&iacute;quela a toda la organizaci&oacute;n.</li>
 </ul>
-----------TASK OVERVIEW-----e5b4bc49----------
+----------TASK OVERVIEW----------
 <p>Los altos directivos son los responsables de definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE) de su organizaci&oacute;n. Estos par&aacute;metros &mdash;alcance y l&iacute;mites&mdash; permiten a la organizaci&oacute;n determinar la magnitud de las actividades, as&iacute; como qu&eacute; instalaciones y decisiones abarcar&aacute; el SGE, y, con base en ello, concentrar acciones y recursos. El alcance puede contener distintos l&iacute;mites: de &iacute;ndole f&iacute;sica, de sitio u organizacionales, en todos los casos establecidos por la propia organizaci&oacute;n a manera de &ldquo;l&iacute;nea lim&iacute;trofe&rdquo; del SGE.</p>
 
 <p>Al definir el alcance y los l&iacute;mites, no deber&aacute; excluirse ning&uacute;n equipo o sistema que consuma energ&iacute;a, a menos que &eacute;stos cuenten con medidores independientes o resulte viable realizar un c&aacute;lculo confiable. Una vez definidos el alcance y los l&iacute;mites, la organizaci&oacute;n no podr&aacute; excluir las fuentes de energ&iacute;a comprendidas dentro de los l&iacute;mites definidos para el SGE.</p>
@@ -27,54 +27,54 @@ Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sist
 </ul>
 
 <p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.1, 4.2.1 y 4.5.4.1 de la norma ISO 50001:2011.</em></p>
-----------FULL DESCRIPTION-----4bcb4b77----------
-<p>[Accordion](<strong>Identify the extent of activities, facilities, and decision structures to be included in your EnMS</strong>)</p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](<strong>Identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGE</strong>)</p>
 
-<p>Consider these questions when defining the extent of activities, facilities and decisions to be included in the scope and boundaries of your energy management system (EnMS). The [resource](Scope_Boundaries_Worksheet) can be used to help formulate the scope.</p>
+<p>Considere las siguientes preguntas al definir las actividades, instalaciones y decisiones a incluir en el alcance y los l&iacute;mites de su sistema de gesti&oacute;n de energ&iacute;a (SGE). La [resource](Scope_Boundaries_Worksheet) puede servirle de apoyo para delimitar el alcance.</p>
 
 <ul>
-	<li>Is there an area for which you do not have energy information?</li>
-	<li>Is there an area where you cannot obtain employee involvement or participation?</li>
-	<li>Are there areas that have a different management team or decision structure?</li>
-	<li>Do you have a building or location that you are not including?
+	<li>&iquest;Hay alguna &aacute;rea sobre la que no se dispone de informaci&oacute;n en materia energ&eacute;tica?</li>
+	<li>&iquest;Hay alguna &aacute;rea en la que no podr&aacute; contarse con la participaci&oacute;n de sus empleados?</li>
+	<li>&iquest;Se tienen &aacute;reas sujetas a un equipo directivo o una estructura de decisi&oacute;n distintos?</li>
+	<li>&iquest;Hay alg&uacute;n edificio o sitio que no est&eacute; incluy&eacute;ndose?
 	<ul style="list-style-type:circle">
-		<li>Can you isolate the energy consumption of those locations?</li>
+		<li>&iquest;Es posible aislar el consumo de energ&iacute;a de esos sitios?</li>
 	</ul>
 	</li>
 </ul>
 
-<p>Resources within your organization that can be useful in identifying the scope and boundaries of the EnMS include the following:</p>
+<p>Entre los recursos que pueden resultar de utilidad para definir el alcance y los l&iacute;mites del SGE se incluyen:</p>
 
 <ul>
-	<li>Organization chart</li>
-	<li>Site map or site plan</li>
-	<li>Site photographs</li>
-	<li>List of on-site contractors and related operations</li>
-	<li>Facility/building layout</li>
-	<li>Process layouts/maps</li>
-	<li>Process flow diagrams</li>
-	<li>Utilities drawings</li>
-	<li>Facility/building energy consumption data</li>
-	<li>Equipment energy consumption data</li>
+	<li>Organigrama</li>
+	<li>Mapa o planos del sitio</li>
+	<li>Fotograf&iacute;as del sitio</li>
+	<li>Lista de contratistas y operaciones relacionadas en el sitio</li>
+	<li>Planos de la instalaci&oacute;n o edificaci&oacute;n</li>
+	<li>Esquema o mapas de los procesos</li>
+	<li>Diagramas de flujos de procesos</li>
+	<li>Croquis de los servicios p&uacute;blicos</li>
+	<li>Datos de consumo de energ&iacute;a por cuanto a la instalaci&oacute;n o edificaci&oacute;n</li>
+	<li>Informaci&oacute;n sobre el consumo de energ&iacute;a del equipo</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](<strong>Define site limits and/or organizational limits of your EnMS</strong>)</p>
+<p>[Accordion](<strong>Definir los l&iacute;mites organizacionales y de sitio para su SGE</strong>)</p>
 
-<p>Now that you have considered and answered the questions related to the extent of activities, facilities and decisions to be included in the scope of your EnMS, what are the physical implications of your decision? How would they be translated into a statement of the boundaries of your EnMS? Consider your answers to these questions when defining the boundaries of your EnMS. The [resource](Scope_Boundaries_Worksheet) can be used to help formulate the boundaries to be defined in the statement.</p>
+<p>Habiendo considerado y respondido a las preguntas referentes a la magnitud de las actividades, instalaciones y decisiones a incluir en el alcance de su SGE, &iquest;qu&eacute; implicaciones f&iacute;sicas tiene su decisi&oacute;n? &iquest;En qu&eacute; forma se traducir&aacute;n &eacute;stas en una declaraci&oacute;n de los l&iacute;mites de su SGE? Considere sus respuestas a las siguientes preguntas al definir los l&iacute;mites de su SGE. La [resource](Scope_Boundaries_Worksheet) servir&aacute; para ayudar a establecer los l&iacute;mites a definir en la declaraci&oacute;n.</p>
 
 <ul>
-	<li>What are the physical or organizational limitations of the areas that are included?</li>
-	<li>What are the physical or organizational limitations of the areas that are NOT included?</li>
-	<li>How do the areas that are included and are not included compare to the site map or site plan?</li>
+	<li>&iquest;Cu&aacute;les son los l&iacute;mites f&iacute;sicos u organizacionales de las &aacute;reas a incluir?</li>
+	<li>&iquest;Cu&aacute;les son los l&iacute;mites f&iacute;sicos u organizacionales de las &aacute;reas que NO se incluir&aacute;n?</li>
+	<li>&iquest;C&oacute;mo contrastan las &aacute;reas incluidas y las no incluidas respecto del mapa o los planos del sitio?</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](<strong>Develop a scope and boundaries statement for your EnMS</strong>)</p>
+<p>[Accordion](<strong>Preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGE</strong>)</p>
 
-<p>Using the output of the first two tasks, develop a written statement of the scope and boundaries of the EnMS. See [resource](Example_Scope_Boundaries_Worksheet) for additional guidance on how to formalize a statement of scope and boundaries. The statement of the EnMS scope and boundaries can be a stand-alone document or included within an energy manual, which is not required, but which many organizations find useful as a &ldquo;road map&rdquo; to their EnMS. (See the [resource](Energy_Manual_Guidelines) for additional information.)</p>
+<p>Con base en los resultados obtenidos de las dos actividades anteriores, elabore una declaraci&oacute;n por escrito del alcance y los l&iacute;mites del SGE. Consulte la [resource](Example_Scope_Boundaries_Worksheet), que le brindar&aacute; orientaci&oacute;n adicional sobre c&oacute;mo formalizar una declaraci&oacute;n de alcance y l&iacute;mites. Este documento puede ser independiente o formar parte de un manual en materia energ&eacute;tica que, sin ser propiamente un requisito, para muchas organizaciones resulta de gran utilidad como &ldquo;mapa de ruta&rdquo; de su SGE. (Si desea informaci&oacute;n m&aacute;s detallada, cons&uacute;ltese [resource](Energy_Manual_Guidelines).)</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------

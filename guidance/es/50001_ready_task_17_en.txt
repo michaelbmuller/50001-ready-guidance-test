@@ -1,0 +1,263 @@
+USDOE 50001 READY NAVIGATOR TASK 17
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Corrective Actions
+----------TITLE----------
+Task 17: We investigate and respond to significant deviations in energy performance and potential issues with the 50001 Ready system, taking corrective and preventative actions as needed
+----------GETTING IT DONE----------
+<ul>
+	<li>For each performance metric in the energy measurement plan, define the criteria or parameters for a significant deviation in energy performance.</li>
+	<li>Establish a process for investigating and responding to such deviations and retaining records of the results.</li>
+	<li>Train the appropriate personnel on how to identify and respond to significant deviations in energy performance.</li>
+	<li>Use the [resource](Corrective_Action_Preventive_Action_Request_Form) and [resource](CAR_PAR_Tracking_Log) to develop and implement a process for corrective and preventive action at your organization,.</li>
+	<li>Define roles, responsibilities and authorities for the various steps in the corrective and preventive action processes.</li>
+	<li>Train employees on the types of actual and potential problems/nonconformities to be addressed through the CAR/PAR process.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Significant deviations in energy performance are defined by your organization. When a significant deviation occurs, your organization must investigate and provide an appropriate response and record the results of the response. The data you collect by monitoring and measuring the key characteristics of operations that determine energy performance is used to identify significant deviations. Your organization determines what will be considered a significant deviation but, in general, it is a departure from a level of energy performance that is acceptable, defined, or expected.</p>
+
+<p>ISO 50001:2011 requires that you have processes for identifying and addressing existing and potential problems or nonconformities. An existing nonconformity is a situation where a requirement is not met. A potential nonconformity is a situation where a nonconformity could or will occur in the future if appropriate action is not taken.</p>
+
+<p>A nonconformity generally is a situation where evidence indicates that:</p>
+
+<ul>
+	<li>a requirement or the intent of ISO 50001 or your EnMS is not being met,</li>
+	<li>your organization is not doing what it said it would do,</li>
+	<li>the current processes in place are not effective, or</li>
+	<li>the intended energy performance improvement is not being achieved.</li>
+</ul>
+
+<p>The processes involved here are correction, corrective action, and preventive action. <em>Correction</em> is action taken to eliminate a detected nonconformity. <em>Corrective action</em> is action taken to eliminate the cause of a detected nonconformity. <em>Preventive action</em> is used to identify and eliminate the cause of a potential nonconformity before it occurs.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;&nbsp;</p>
+
+<ul>
+	<li>Set and implemented criteria for significant deviations</li>
+	<li>Developed and implemented an investigation process</li>
+	<li>Recorded results</li>
+	<li>Developed the process for corrective and preventive action</li>
+	<li>Defined roles and responsibilities</li>
+	<li>Implemented the process for corrective and preventive action</li>
+</ul>
+
+<p><em>This guidance is relevant to sections 4.5.5, 4.6.1 and 4.6.4 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Set and implement criteria for significant deviations)</p>
+
+<p>A deviation may be identified by a specific level of variation or can be evaluated by knowledgeable personnel to determine if it is significant and if action is required. Examples of methods for specifying significant deviations can include the following:</p>
+
+<ul>
+	<li>Values outside of control limits</li>
+	<li>Percent variation in value</li>
+	<li>Trends identified</li>
+	<li>Specified variation in EnPIs</li>
+	<li>Specified variation in SEU performance</li>
+	<li>Level of variance between expected and actual performance</li>
+	<li>Change in equipment efficiency</li>
+	<li>Variation in specific relevant variable performance</li>
+	<li>Failure to meet objectives and targets</li>
+	<li>Failure to meet a specific performance level</li>
+</ul>
+
+<p>Once you determine the method(s) for identifying a significant deviation, you must determine the criteria you will use to evaluate if a significant deviation occurs. Your organization determines the method and criteria in accordance with what you deem acceptable or unacceptable relative to the impact on energy performance. A significant deviation can be an improvement or a decline in energy performance. An improvement in energy performance is a deviation (although generally desired), and you must investigate if it is deemed significant.</p>
+
+<p>[Learn More](Significant deviation example)</p>
+
+<p>Your organization may decide that if electricity consumption for the current month increases by more than 10 percent over the previous month, that will be considered a significant deviation. To be more proactive about improving energy performance, you may decide to set a 5 percent or more increase as the deviation to be considered significant.</p>
+
+<p>Alternatively, the criteria could be <strong><em>any change</em></strong> in consumption of 5 percent or more comparing the current month to the previous month will be considered a significant deviation. In this case, a 5 percent or more improvement would require that your company investigate the deviation and respond.</p>
+
+<p>[Learn More End]</p>
+
+<p>Consider documenting the criteria for significant deviations within the energy measurement plan (see [task](Measurement)).</p>
+
+<p>Significant deviations are also related to operational and maintenance controls, as discussed in [task](Operational Controls). The methods for identifying significant deviations relative to operational and maintenance controls would be similar to the process for key characteristics discussed here. Operational and maintenance criteria could be a factor in the determination of significant deviations, and [task](Operational Controls) lists significant deviations that could be the result of operational or maintenance issues.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop and implement investigation process)</p>
+
+<p>Once you have set the criteria for determining a significant deviation for each of the key characteristics that are measured and monitored, you must investigate and respond if the deviation occurs. Many organizations use the corrective action process to address significant deviations, which is a best practice (not a requirement).</p>
+
+<p>A well-developed and implemented corrective action process can be an effective tool for investigating significant deviations. However, the ISO 50001 standard only requires that you investigate and respond to significant deviations. It does not require that they be addressed by your corrective action process. You may decide to investigate significant deviations outside the corrective action system. A formal investigative process is not required; however, consider using the corrective action process described below as a best practice.</p>
+
+<p>The investigation addresses normal operation, as well as evaluation of energy use and consumption expected as the result of process changes or implementation of improvement opportunities.</p>
+
+<p>[Learn More](Example investigation)</p>
+
+<p>As an example:</p>
+
+<p>You may decide that improvements achieved as the result of planned activities will not be considered significant deviations if the actual results are in line with pre-project estimates. On the other hand, if there is a difference of 5 percent or more between the actual and estimated results, you may decide this is a significant deviation. If the results were better by 5 percent or more, this would require an investigation into why the results were better than the estimates.</p>
+
+<p>Significant deviations that result in improved energy performance can be analyzed for actions to be replicated in other energy systems.</p>
+
+<p>[Learn More End]</p>
+
+<p>You must develop a response as a result of the investigation. Your response will likely be some type of action that is required to alleviate a significant deviation that results in declining energy performance or reproducing the conditions in other areas if performance is improved. However, note that a decision not to respond is a legitimate response. This may occur if the significant deviation meets any of the following criteria:</p>
+
+<ul>
+	<li>Is a one-time occurrence</li>
+	<li>Is the result of an improvement that will persist</li>
+	<li>Is the result of process changes</li>
+	<li>Is too expensive to fix</li>
+	<li>Requires currently unavailable technology</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Record results)</p>
+
+<p>You must record the results of the investigation and the response(s). If your corrective action process is used to investigate significant deviations, then the record requirements would already be addressed (ISO 50001 requires records of corrective actions). Otherwise, consider developing a record process in line with the ISO 50001 records requirements (see [task](Documentation and Records)).</p>
+
+<p>[Learn More](Items to consider recording)</p>
+
+<p>There are no specific record requirements for investigations of significant deviations beyond records of the investigation results and the response taken; however, items to consider recording include the following:</p>
+
+<ul>
+	<li>Responsibilities</li>
+	<li>Time frames</li>
+	<li>Activities undertaken</li>
+	<li>Resources consulted</li>
+	<li>Equipment/meters used</li>
+	<li>Analysis conducted and results</li>
+	<li>Response</li>
+	<li>Effectiveness of response</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop the process for corrective and preventive action)</p>
+
+<p>Because most of the steps involved in corrective action and preventive action are the same, most organizations implement one process that addresses both. This process consists of the following elements:</p>
+
+<ol>
+	<li>Correct the immediate situation</li>
+	<li>Evaluate the magnitude and impact of the nonconformity</li>
+	<li>Determine the cause of the actual or potential nonconformity</li>
+	<li>Take action to eliminate the cause</li>
+	<li>Review the effectiveness of the action taken</li>
+	<li>Maintain records</li>
+</ol>
+
+<p>The process for corrective and preventive action that you develop for your organization needs to account for all of these elements. Most organizations use a corrective/preventive action form (usually electronic) to outline the steps in the process and capture the needed information. For an example, see the [resource](Corrective_Action_Preventive_Action_Request_Form).</p>
+
+<p>If your organization has an integrated management system, consider using (or at least &ldquo;harvesting from&rdquo;) processes already in place. For example, your organization may already have corrective and preventive action process as part of another management system, such as an ISO 9001 quality management system or an ISO 14001 environmental management system.</p>
+
+<p>[Learn More](Process for corrective and preventive action)</p>
+
+<p><strong>1. Correct the current situation</strong></p>
+
+<p>When an existing nonconformity is detected, the first step is to take appropriate action to resolve the immediate situation. For example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">A facility has a compressed air system which is a large consumer of energy. The facility&rsquo;s procedure states that the operating pressure set point for the compressed air system shall be 105 psig. The facility was found to be operating their compressor system at 115 psig. An example of correcting the current situation is to change the operating pressure back to 105 psig, but consider the effects on production before assuming the procedure is correct. The appropriate correction may be to change the procedure to state 115 psig.</div>
+
+<p>&nbsp;</p>
+
+<p>This is called <em>correction.</em> Correction is necessary for existing nonconformities and does not apply to potential nonconformities.</p>
+
+<p><strong>2. Evaluate the magnitude and impact of the nonconformity</strong></p>
+
+<p>The next step is to determine the magnitude of the nonconformity and its impact on energy performance. This involves consideration of the extent of the nonconformity and its actual and potential effects on any of the following:</p>
+
+<ul>
+	<li>Energy objectives, targets, and action plans</li>
+	<li>Significant energy uses</li>
+	<li>Energy efficiency of facilities, equipment, systems, and processes</li>
+	<li>Existing or planned operational or maintenance controls</li>
+	<li>Other energy sources or energy uses within the organization</li>
+</ul>
+
+<p>Based on this information, a decision is made as to whether the nonconformity or potential nonconformity should be subject to further review and investigation to ensure the situation is prevented from recurring (corrective action) or prevented from occurring in the future (preventive action). If so, the nonconformity is entered into the organization&rsquo;s corrective and preventive action system.</p>
+
+<p><strong>3. Determine the cause of the actual or potential nonconformity </strong></p>
+
+<p>Once entered into the system (for an example, see the [resource](Corrective_Action_Preventive_Action_Request_Form)), the nonconformity is reviewed to determine its cause. For example:</p>
+
+<p>In the compressed air system example above, determining the cause consists of considering how and why the operating pressure was changed. Although any type of problem-solving process can be used, it can be helpful to apply the &ldquo;Five Why&rdquo; concept to determine the cause of an existing or potential nonconformity. In this case, you might ask the following:</p>
+
+<p>Question: Why was the operating pressure changed?</p>
+
+<p>Answer: Because the operator thought it should be.</p>
+
+<p>Question: Why did the operator think it should be changed?</p>
+
+<p>Answer: Because the operator was experiencing problems at 105 psig that were not experienced at 115 psig.</p>
+
+<p>Question: What problem was the operator experiencing?</p>
+
+<p>Answer: A lack of sufficient pressure to actuate the press.</p>
+
+<p>Question: What was the cause of the problem?</p>
+
+<p>Answer: The pressure gauge was out of calibration and indicated incorrect pressures.</p>
+
+<p>Question: Why was the pressure gauge out of calibration?</p>
+
+<p>Answer: The calibration frequency was annual. The calibration history shows the gauge has been found to be out of calibration at each calibration for the past two years.</p>
+
+<p><strong>4. Take action to eliminate the cause </strong></p>
+
+<p>Next, you decide on and implement an appropriate course of action to eliminate the cause of the actual or potential nonconformity.</p>
+
+<p>The actions taken to address a problem can sometimes result in the need to make other adjustments or changes to the EnMS. For example, if existing operational controls were modified as part of implementing a corrective action, then there may be a need to modify the associated EnMS documentation. The actions taken need to be appropriate to the extent of the problem and its impact on energy performance. For example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">In the compressed air system example, one action to eliminate the cause would be to increase the calibration frequency of the pressure gauges.</div>
+
+<p>&nbsp;</p>
+
+<p>Once identified, a best practice in many organizations is to determine whether the same corrective or preventive action is needed elsewhere, perhaps in another process, area, or facility. A system-wide approach to problem identification and resolution such as this helps further a culture of proactive continual improvement. For most organizations, over time, this approach results in fewer nonconformities and negative audit findings. As an example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">In the example, you may decide that a look at the calibration frequency for all gauges is appropriate.</div>
+
+<p>&nbsp;</p>
+
+<p><strong>5. Review the effectiveness of the action taken </strong></p>
+
+<p>After the appropriate action is taken, a review is performed to determine if the action taken was effective. In other words, did the action taken eliminate the cause and result in the nonconformity not occurring or recurring? In some situations, it may be necessary to let a reasonable interval of time pass after the solution is implemented before the review for effectiveness is performed. Sometimes a solution needs time to work before its effectiveness can be fully evaluated. Returning to the compressed air system example:</p>
+
+<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">The effectiveness review could consist of verifying that the calibration frequency was changed in the calibration system and then verify that the actual operating pressure is the same as that indicated in the procedure.</div>
+
+<p>&nbsp;</p>
+
+<p><strong>6. Maintain records </strong></p>
+
+<p>A [resource](Corrective_Action_Preventive_Action_Request_Form), along with a [resource](CAR_PAR_Tracking_Log) are commonly used to record and track the status of corrective and preventive actions. An [resource](Example_CAR_PAR_Tracking_Log) illustrates how a log sheet can be used to track actions to completion. Such log sheets can be particularly useful when it is time to compile data and other information on the status of corrective and preventive actions for management review (see [task](Management Review)).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Define roles and responsibilities)</p>
+
+<p>The management representative is typically assigned responsibility for managing the corrective and preventive action system. However, responsibilities for conducting investigation and cause analysis and for taking action can be delegated as long as s/he ensures that all required steps are followed and the appropriate records are maintained.</p>
+
+<p>Most commonly, all employees are responsible for identifying actual and potential nonconformities in their work areas and for either informing the appropriate supervisory personnel or making an immediate correction.</p>
+
+<p>Corrective and preventive actions are usually assigned to the manager of the department or area where the problem or potential problem exists. That manager may assign the corrective or preventive action for investigation and development of proposed actions to a specific individual or may assemble a team to address the problem. The follow-up that evaluates the effectiveness of the action(s) taken should be assigned to personnel who are independent from the area which was responsible for developing and implementing the corrective or preventive action.</p>
+
+<p>Typically, time frames are established for completion of the investigation and development of proposed action(s), and for implementation and the follow-up for effectiveness. A 30-day time frame is very common. However, it can be a good idea to allow for time extensions where appropriate justifications can be provided. For example, a solution that calls for capital investment in new equipment can take more time for full implementation.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Implement the process for corrective and preventive action)</p>
+
+<p>Like the other processes of the EnMS, implementation of the corrective and preventive action process involves putting the process into practice within your organization and ensuring that appropriate training is provided. Reviewing the steps to be followed, demonstrating the use of any required forms, and clearly communicating roles, responsibilities, and expectations across the workforce supports conformance with the requirements of the corrective and preventive system.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). To implement the EnMS, expand on the tracking systems identified in Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) to include identifying and responding to significant deviations in energy performance. This may be achieved by monitoring and measuring the key characteristics of your operations that determine energy performance and developing an investigation process for major deviations that involves keeping records of the results of the investigation.</p>
+
+<p>ISO 50001 requires that organizations address any actual or potential nonconformities (including those identified in EnMS internal audits) by taking appropriate corrective and preventive actions. If your organization has developed a tracking system as described in Step 5.5 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management), this tracking system is a good starting point for developing and implementing what is needed to meet these ISO 50001 requirements.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>There is very little that is different between the requirements for correction and corrective action in ISO 50001:2011, ISO 9001:2015 and ISO 14001:2015. A fully functional corrective action process used for ISO 9001 and ISO 14001 will work for ISO 50001 with minimal modifications. In all three of these management systems, corrective actions must be appropriate to the effects of the nonconformities. For ISO 50001, the corrective action also must be appropriate to the energy performance consequences encountered. ISO 14001 requires the corrective actions to be appropriate to the significance of the effects, including the environmental impacts.</p>
+
+<p>The types of records retained on corrective actions and their results would be the same for ISO 50001 as they are for ISO 9001 and ISO 14001. Although ISO 50001 does not contain an explicitly stated requirement for documented information on corrective actions, maintaining records of nonconformities and the associated corrective actions is implicit under the record control requirements of ISO 50001.</p>
+
+<p>The real difference in this area between ISO 5000:2011 and ISO 9001:2015 and ISO 14001-2015 is due to the adoption and application of the High Level Structure (HLS) to ISO management system standards. The new versions of ISO 9001 and ISO 14001 have been published in the HLS, which removed &ldquo;preventive action&rdquo; from the management system. Under the HLS, &ldquo;preventive action&rdquo; is inherent in the &ldquo;actions to address risk and opportunities&rdquo; requirements of ISO 9001 and ISO 14001. Since ISO 50001 has not yet been revised and published in the HLS format, preventive action remains a part of the &ldquo;checking&rdquo; functions of an ISO 50001 EnMS.</p>
+
+<p>If the ISO 50001 system were to be integrated into an ISO 9001 or ISO 14001 management system, then the preventive action requirements of ISO 50001 likely would need to be reflected within the processes used by ISO 9001 and ISO 14001 to determine the risks and opportunities that need to be addressed by the management system. If the ISO 50001 EnMS is to be maintained separately, then preventive action processes as implemented for the old versions of ISO 9001 (2008) and ISO 14001 (2004) could be applied for ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

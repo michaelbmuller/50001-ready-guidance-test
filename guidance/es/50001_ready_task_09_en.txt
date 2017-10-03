@@ -1,0 +1,74 @@
+USDOE 50001 READY NAVIGATOR TASK 9
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Relevant Variables
+----------TITLE----------
+Task 9: We have determined the relevant variables that affect energy consumption of each SEU and collected the associated data.
+----------GETTING IT DONE----------
+<ul>
+	<li>Identify and list the relevant variables to your organization&rsquo;s significant energy uses (SEUs).</li>
+	<li>If your organization is using [resource](EnPI_Lite), have a member of your staff complete the &ldquo;Relevant Variables&rdquo; tab of the [resource](Energy_Footprint_Lite_Data_Uploader) or the [resource](Energy_Footprint_Tool) that is being used for [task](Data Collection).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Once SEUs have been determined, it&rsquo;s important to identify the factors that can affect them&mdash;their <em>relevant variables.</em> In manufacturing, production and weather are often two key relevant variables. In commercial buildings, occupancy or weather are most often the key variables affecting energy consumption. Understanding the relationship between relevant variables and energy consumption enables you to better understand how energy can be controlled and energy performance maximized at your organization.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Identified relevant variables affecting SEUs</li>
+	<li>Identified the relevant variables affecting the facility</li>
+</ul>
+
+<p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identify relevant variables affecting SEUs)</p>
+
+<p>Factors that can affect SEUs are called <em>relevant variables.</em> For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production is generally one of the key variables affecting energy consumption of SEUs. As production rate changes, consumption will generally change accordingly. However, SEU consumption can be influenced by other factors, and they should be examined for correlation. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
+
+<p>Below are some common relevant variables including their potential impacts on energy consumption.</p>
+
+<ul>
+	<li><strong>Weather</strong> &ndash; Temperature changes can affect both process and comfort heating and cooling energy consumption. Drying processes are another example. Other weather characteristics (e.g., humidity, wind, rain, etc.) may also affect energy consumption.</li>
+	<li><strong>Operating schedule (e.g., hours, days, weeks, holidays)</strong> &ndash; Generally, a longer schedule will require more energy.</li>
+	<li><strong>Occupancy</strong> &ndash; A change in the number of occupants in a building can change the requirement for lighting, plug loads and air conditioning, and therefore, their associated energy consumption.</li>
+	<li><strong>Production output </strong>&ndash; Changes in the production rate (i.e. number of units produced within a given time period) will affect energy consumption.</li>
+	<li><strong>Product mix</strong> &ndash; Each different product produced by the organization can consume a different amount of energy. Consequently, the product mix may affect energy consumption.</li>
+	<li><strong>Input materials </strong>&ndash; Variations in the raw material characteristics, such as moisture content, could affect energy required for forming, cutting, drying, evaporation, product temperature, etc.</li>
+	<li><strong>Season of the year</strong> &ndash; Products or services that have seasonal demand will influence production or occupancy and affect consumption.</li>
+	<li><strong>Production line(s) and/or SEUs in operation</strong> &ndash; The number or the size of the production lines or SEUs that are in operation will affect consumption.</li>
+</ul>
+
+<p>Verify the impact on SEUs of specific variables by collecting relevant energy data and comparing it to appropriate variable data to determine the relationship, if any, of the change in energy consumption coinciding with the change in the variable. One way to define the relationship is to graph the energy data over a defined time period and compare it to a graph of the variable data, such as average daily temperature, over the same period and determine if there are coincidental variations. Consistent variations between the two could indicate a valid relevant variable. Anomalies between the two may indicate other relevant variables are also a factor in energy consumption of the SEU. Statistical techniques or more sophisticated engineering calculations may be required for analysis of multiple variables.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify the relevant variables affecting the facility)</p>
+
+<p>DOE [resource](EnPI_Lite) is an online regression-based tool that estimates energy savings relative to relevant variables like production levels and weather. Use of EnPI Lite in conjunction with 50001 Ready Navigator for tracking your energy performance improvement is recommended.</p>
+
+<p>Production and weather should be considered as relevant variables. For more guidance on selecting facility-level relevant variables, please refer to DOE&rsquo;s [resource](Energy_Intensity_Baselining_And_Tracking_Guidance), for information specifically on selecting relevant variables, refer to <em>Step 3: Determine Relevant Variables, Including Units of Output, for Each Facility</em>).</p>
+
+<p>The time period over which your relevant variable data spans must match that of the energy consumption data collected in [task](Data Collection). Further, the intervals for your relevant variable data should be monthly and correspond to the energy consumption data for the same interval. See the guidance in [task](Data Collection) for additional details on selecting a baseline and reporting year when using EnPI Lite.</p>
+
+<p>You can use the QUEST by inputting your relevant variables in one of three ways:</p>
+
+<p><strong>1. Inputting Data from the DOE Energy Footprint Lite Tool</strong></p>
+
+<p>The Energy Lite Data Uploader, which can be downloaded from the [resource](EnPI_Lite)homepage, will compile your facility&rsquo;s relevant variable data for your 50001 Ready EnMS Scope into one spreadsheet. If you have completed [task](Data Collection), your facility&rsquo;s energy consumption information will be stored in the <em>Energy Consumption </em>sheet in the same [resource](Energy_Footprint_Lite_Data_Uploader) file. After uploading your data and running EnPI Lite (this is done in Task 24), EnPI Lite will return your Energy Lite Data Uploader file with the results of your energy analysis in the same file. Detailed instructions for using the Energy Lite Data Uploader can be at the [resource](EnPI_Lite) homepage.</p>
+
+<p><strong>2. Inputting Data from the DOE Footprint Tool</strong></p>
+
+<p>You may also use your compiled relevant variable data from the DOE [resource](Energy_Footprint_Tool). Complete the <em>Relevant Variables</em> tab in the Energy Footprint Tool. For instructions on using the Footprint tool, see the [resource](Energy_Footprint_Tool)<strong> </strong>homepage. [resource](EnPI_Lite) cannot return the results of your energy analysis within the Energy Footprint Tool (as it can when using the Energy Lite Data Uploader).</p>
+
+<p><strong>3. Inputting Data from the EPA ENERGY STAR Portfolio Manager</strong></p>
+
+<p>To add relevant variable information when starting from Portfolio Manager (PM), upload your PM file to [resource](EnPI_Lite), following the instructions shown on the EnPI Lite homepage. [resource](EnPI_Lite) will not provide a valid model since there is no relevant variable information listed in PM. However, it will still provide downloadable results. Download these from [resource](EnPI_Lite) and enter your relevant variable information into the Relevant Variables tab of the file (see [task](Performance Indicators) for guidance on relevant variables).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>The ENERGY STAR program does not require determining relevant variables. Appendix 4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides detail on normalizing data, which may use similar variables.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Relevant variables are determined for an ISO 50001:2011 EnMS, something that does not apply to ISO 14001 environmental management systems (EMS).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

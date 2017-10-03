@@ -1,0 +1,204 @@
+USDOE 50001 READY NAVIGATOR TASK 12
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Improvement Opportunities
+----------TITLE----------
+Task 12: We have identified and prioritized energy performance improvement opportunities, and have a process in place to continue to update them
+----------GETTING IT DONE----------
+<ul>
+	<li>Use the [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) to determine and document how your organization will identify, prioritize and update energy performance opportunities.</li>
+	<li>Use your prioritized opportunities to select projects for implementation .</li>
+	<li>Apply any criteria set by your organization to justify and gain approval of the project.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Opportunities for energy performance improvement are a key component of the energy review. Energy opportunities are identified by examining current practice and determining how it can be improved. This process can bring to light the potential for improved operating practices, equipment and system improvements, and advanced technologies that would benefit your organization.</p>
+
+<p>Opportunities are prioritized in accordance with your organization&rsquo;s criteria for the most effective use of resources to improve energy performance.</p>
+
+<p>After setting the energy objectives and targets, you must determine how your organization will achieve them. This involves reviewing the list of prioritized opportunities and selecting projects for implementation. This process helps to ensure that the projects best suited to meet the energy objectives and targets are planned and implemented.</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Identified energy opportunities</li>
+	<li>Established and applied criteria for prioritizing opportunities</li>
+	<li>Selected opportunities (projects) for implementation</li>
+</ul>
+
+<p><em>This guidance is relevant to Sections 4.4.3 c) and 4.4.6 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identify energy opportunities)</p>
+
+<p>Identification of energy opportunities is the management representative&rsquo;s responsibility, with support from the energy team and the EnMS internal audit team (see [task](Internal Audit)). However, input from all employees, as well as from external resources, should be solicited and considered, as appropriate.</p>
+
+<p>[Learn More](Benefits from implementing energy performance improvement opportunities)</p>
+
+<ul>
+	<li>Reduced energy consumption</li>
+	<li>Lowered emissions</li>
+	<li>Decreased operating costs</li>
+	<li>Improved operating efficiency</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>One common method for identifying opportunities is an energy assessment. Energy assessments are an excellent method for collecting data for all components of the energy review (see [task](Data Collection)) and provide a vital source of information for energy management planning, including identification of energy improvement opportunities. Assessments yield a &ldquo;snapshot&rdquo; of your organization&rsquo;s current energy performance and offer a list of quantified improvement measures. Assessments can be conducted by the management representative and/or energy team members, corporate energy specialists, external energy consultants, utility personnel, and university experts.</p>
+
+<p>[Learn More](Energy assessments)</p>
+
+<p>The types of opportunities identified depend on the scope and intent of the assessment, but they may address energy purchasing improvements, better operating and maintenance practices, and renovation or replacement of existing energy equipment. Elements of an energy assessment include:</p>
+
+<ul>
+	<li>Determining the scope of an assessment, including buildings, systems, and utility metering</li>
+	<li>Reviewing any past energy-efficiency projects to help focus the scope of the assessment</li>
+	<li>Reviewing past assessments and determining additional or updated information requirements</li>
+	<li>Developing the energy assessment plan based on the identified scope</li>
+	<li>Conducting the assessment</li>
+	<li>Recording the findings of the assessment(s)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>DOE&rsquo;s Advanced Manufacturing Office also provides a variety of resources for identifying energy savings opportunities in specific energy systems, including a variety of [resource](System_Tool_Assessment). System analysis tools are available for compressed air systems, fans, motors, pumps, process heating systems, steam systems, and industrial buildings. The American Society of Mechanical Engineers (ASME) System Assessment standards also provide guidance on energy system assessments. ASME guidance is available on facilities and specific energy systems related to both industrial and commercial organizations.</p>
+
+<p>Personnel working for or on behalf of your organization are generally useful in defining energy opportunities not discovered during an energy assessment. These personnel may be closely associated with energy equipment or processes and may uncover unique opportunities because of their experience. Using this type of asset offers the potential to discover unconventional improvements and engage personnel who otherwise may not be actively involved in energy management.</p>
+
+<p>Energy assessments are very effective but can be expensive. Other approaches to defining energy performance improvement opportunities are described in the &ldquo;Learn More&rdquo; link directly below.</p>
+
+<p>[Learn More](Other approaches to defining energy performance improvement opportunities)</p>
+
+<p>The following sources can help to identify energy performance improvement opportunities:</p>
+
+<ul>
+	<li>Employee suggestions</li>
+	<li>Utility representatives</li>
+	<li>Service technicians</li>
+	<li>Commercial building standards</li>
+	<li>Industrial sector standards</li>
+	<li>Equipment standards</li>
+	<li>Government organizations</li>
+	<li>Equipment vendors</li>
+</ul>
+
+<p>The [resource](Checklists_Identify_Energy_Opportunities_Other_Methods) can be helpful in finding and using other methods to identify energy opportunities. It identifies several different methods for spotting opportunities, as well as suggested contact points and possible outcomes of applying the method.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establish and apply criteria for prioritizing opportunities)</p>
+
+<p>The next step in energy planning is to prioritize the energy opportunities. The choice of prioritization method is up to the organization; however, it must be systematic and ongoing. It can be difficult and time-consuming for your organization to process every potential improvement idea; prioritizing them based on defined criteria helps you focus resources on the most practical opportunities.</p>
+
+<p>The following activities will help you develop and apply criteria for prioritizing energy opportunities.</p>
+
+<ul>
+	<li>Get the right people together</li>
+	<li>Review relevant organizational information</li>
+	<li>Determine criteria</li>
+	<li>Develop tools or techniques for applying criteria</li>
+	<li>Apply criteria to prioritize opportunities</li>
+</ul>
+
+<p><strong>Get the right people together</strong> &ndash; Involve individuals from different functions and levels within your organization in developing the criteria for prioritizing your organization&rsquo;s energy opportunities. Different points of view will ensure consideration of a wide range of potential factors. If the energy team already has adequate representation from across the various functions and levels, then no additions to the team may be needed. On the other hand, this can be a time to involve other personnel who may bring specific knowledge or experience useful to the process of setting the criteria for prioritizing energy opportunities. This could include, for example, personnel knowledgeable about your organization&rsquo;s capital planning or project justification processes.</p>
+
+<p><strong>Review relevant organizational information</strong> &ndash; The energy team should gather and review organizational information that may impact the criteria and/or the approach to be used in prioritizing energy opportunities. In addition, it may be helpful for the energy team to be aware of any existing risk assessment processes already in use by your organization, as well as a having clear understanding of your organization&rsquo;s safety and environmental risk tolerance.</p>
+
+<p>[Learn More](Relevant organizational information)</p>
+
+<p>Relevant organizational information could include:</p>
+
+<ul>
+	<li>Organizational business strategies</li>
+	<li>Current hurdles or financial requirements for proposed capital projects</li>
+	<li>Operations and maintenance (O&amp;M) projects</li>
+	<li>Other types of resource or funding requests</li>
+	<li>Production or market forecasts</li>
+	<li>Corporate requirements</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p><strong>Determine criteria</strong> &ndash; When selecting criteria, consider the organizational information you collected, and develop criteria that will address your organization&rsquo;s needs and requirements.</p>
+
+<p>[Learn More](Criteria examples)</p>
+
+<p>Examples of criteria include:</p>
+
+<ul>
+	<li>Estimated energy or cost savings</li>
+	<li>Cost of opportunity implementation</li>
+	<li>Return on investment, internal rate of return, net present value, life cycle cost</li>
+	<li>Ease of opportunity implementation</li>
+	<li>Length of implementation period</li>
+	<li>Possible safety, health, and environmental issues</li>
+	<li>Maintenance impact</li>
+	<li>Production or operational impact</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>You determine the type and number of criteria to be used. One or two criteria may be sufficient, or many criteria may be required. You also determine whether scoring or rating scales for each criterion will be established and applied (e.g., a range of energy savings that are acceptable). If only one criterion is to be used, a simple go/no go limit may be adequate. Multiple criteria typically require a process for determining the relative importance of each criteria and how they will be evaluated (see the next activity).</p>
+
+<p>Remember to document the criteria that will be used to prioritize the energy opportunities. This ensures the criteria are clearly understood and uniformly applied. The [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) file can give you some ideas on how criteria can be documented.</p>
+
+<p><strong>Develop tools or techniques for applying criteria</strong> &ndash; You now have developed criteria for prioritizing opportunities. This ensures that your organization&rsquo;s resources are focused on the most viable set of potential energy projects. Developing tools or techniques to apply the criteria can make the process of prioritization easier.</p>
+
+<p>If your organization already has tools to prioritize potential projects, it may make sense to use (or adapt) those same tools for prioritizing energy opportunities. If there are no existing tools, then the [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) file may be a good starting point. Within this file, the table titled &ldquo;Criteria and Ratings for Prioritizing Energy Opportunities&rdquo; is available under the Blank Worksheet tab. It can be used to prioritize your opportunities using criteria and ratings selected by your organization. Under the Example Worksheet tab of that spreadsheet is a completed example of that table that shows how a rating scale can be established for each criterion. Use the Example Worksheet as a guide for completing a Blank Worksheet to obtain opportunity scores for prioritizing your organization&rsquo;s opportunities.</p>
+
+<p>Typically, the criteria used to evaluate projects will have different levels of importance. If the criteria are not equally important, then the energy team should determine the relative weighting.</p>
+
+<p>As an example, within your organization, estimated cost savings may be more important than the ease of implementing the opportunity. In this case, cost savings might be weighted twice as heavily as the ease of implementation criteria.</p>
+
+<p>In the [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) file, the Blank Worksheet (Weighted) tab provides the table titled &ldquo;Example Criteria and Ratings for Prioritizing Energy Opportunities (Weighted).&rdquo; This table illustrates one approach to defining and using weighted criteria. The Example Worksheet (Weighted) tab provides a completed example that illustrates how the table can be used to define criteria and weightings for prioritizing energy opportunities in your organization.</p>
+
+<p><strong>Apply criteria to prioritize opportunities</strong> &ndash; In the previous two activities you developed criteria for prioritizing energy opportunities and incorporated them into tools you have developed, or chosen, to uniformly apply the prioritization criteria to the energy opportunities. Examples of how criteria and ratings can be applied are available under both the Example Worksheet tab and the Example Worksheet (Weighted) tab in the [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) file. (Under those tabs, see &ldquo;Example Worksheet for Prioritizing Energy Opportunities.&rdquo;) Note that in both examples, the opportunity scores are calculated for each opportunity and compared to determine the priorities. In these examples, the scoring is such that higher numbers will indicate higher priority.</p>
+
+<p>Reorder the list of energy opportunities from highest to lowest priority. Use a &ldquo;reality check&rdquo; to evaluate the prioritized list; that is, ensure the list makes sense from perspectives that may not be directly reflected by the criteria, and that the opportunities seem to fall in line with the organization&rsquo;s expectations. If one or more of the opportunities appear to not make sense, it may be necessary to reevaluate the criteria or the weightings used for the criteria. Consider the following questions:</p>
+
+<ul>
+	<li>Does the prioritized list make sense with regard to your organization&rsquo;s overall business objectives and plans?</li>
+	<li>Are there criteria that have not been considered that have skewed the prioritization?</li>
+	<li>Do the weights reflect your organization&rsquo;s priorities?</li>
+	<li>Are there any planned organizational or other changes that will impact the prioritized list?</li>
+</ul>
+
+<p>As new energy opportunities are identified, ensure they are prioritized and included in the list.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Select opportunities (projects) for implementation)</p>
+
+<p>After identifying and prioritizing energy opportunities, your organization will next need to select projects to achieve the specific energy objectives and targets established in [task](Baselines, Objectives and Targets). However, it is unlikely that management can provide resources for all of the potential projects on your list of energy opportunities.</p>
+
+<p>Review the list of prioritized energy opportunities. When selecting a project for implementation, consider the following:</p>
+
+<ul>
+	<li>The energy objectives and targets you have established</li>
+	<li>The estimated energy savings associated with implementation of the project</li>
+	<li>Organizational constraints, such as
+	<ul style="list-style-type:disc">
+		<li>
+		<ul style="list-style-type:circle">
+			<li>Funding requirements or limitations</li>
+			<li>Availability of personnel expertise and time (both internal and external, as applicable)</li>
+			<li>Effect on other organizational priorities</li>
+		</ul>
+		</li>
+		<li>Any applicable capital justification or other criteria required for project approval by your organization (e.g. ROI, payback, etc.)</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Using this information, identify and select the projects that are feasible for your organization to implement and that will enable it to meet your stated energy objectives and targets. In [task](Improvement Projects), you will develop detailed energy management action plans for the selected projects.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Step 2.5 and Step 3.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> provide guidance on identifying energy improvement opportunities such as conducting energy audits. The <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Energy_Treasure_Hunt_Guide_Jan2014.pdf">ENERGY STAR Energy Treasure Hunt Guide</a> is another helpful ENERGY STAR resource that your organization may already be using to help identify low-cost/no-cost energy saving opportunities. The guidance contained in this task contains additional details, tools and worksheets that can be helpful to identifying additional opportunities and prioritizing all opportunities</p>
+
+<p>Step 3.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Although not required, organizations with an ISO 14001:2015 environmental management system may have processes in place to capture and prioritize environmental performance improvement opportunities (i.e. potential environmental projects) as inputs to the setting of environmental objectives and the planning of actions to achieve them. Some of those opportunities could be energy-related. Any processes in place to identify and prioritize those opportunities could be useful for energy opportunities as well under ISO 50001:2011.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

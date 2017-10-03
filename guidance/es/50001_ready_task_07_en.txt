@@ -1,0 +1,287 @@
+USDOE 50001 READY NAVIGATOR TASK 7
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Data Analysis
+----------TITLE----------
+Task 7: We have analyzed our energy consumption data at the system/equipment level
+----------GETTING IT DONE----------
+<ul>
+	<li>Use the [resource](Energy_Use_Worksheet) to help develop a list of energy-using systems and equipment, and their corresponding energy sources and consumption.</li>
+	<li>Complete the Energy Uses and Energy Consumption tabs in the [resource](Energy_Footprint_Tool). Refer to the [resource](Energy_Footprint_Tool) webpage for instructions.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>ISO 50001 is data-driven and focused on measurable energy performance improvement. Data analyses are critical not only to the energy planning processes of the EnMS, but also to the overall effectiveness of the EnMS. To analyze energy use and consumption data, you must identify or develop methods that are effective and best fit your organization&rsquo;s needs. There are many choices available for your consideration.</p>
+
+<p>Significant energy uses are determined as part of the energy review process. Designating a few important facilities, equipment, systems, or processes, and their associated operating personnel as &ldquo;significant&rdquo; allows your organization to focus the limited available resources for improving and maintaining optimum energy performance. This means that your organization needs to develop a reliable methodology for evaluating energy uses and determining their significance. An excellent starting point is to inventory energy uses and quantify their consumption with a &ldquo;list of equipment and systems&rdquo; and to, potentially, develop an energy balance (optional).</p>
+
+<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+
+<ul>
+	<li>Determined data analysis method(s) and assigned responsibilities</li>
+	<li>Analyzed past and present energy use and consumption</li>
+	<li>Prepared a list of equipment and systems</li>
+</ul>
+
+<p><em>This guidance is relevant to sections 4.4.3, 4.4.3 b) and 4.6.1 of the ISO 50001:2011 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determine data analysis method(s) and assign responsibilities)</p>
+
+<p>Your organization can analyze and track energy in many different ways, from simple &ldquo;homegrown&rdquo; spreadsheets to very sophisticated software and web-enabled applications. The DOE [resource](Energy_Footprint_Tool) provides basic energy data analysis for your building or facility.</p>
+
+<p>Finding an effective data analysis method is important for identifying energy opportunities that lead to cost savings. It will show areas that are significant and deserve the most attention. It can also help identify billing errors and hidden costs within utility rate structures. It will help your management representative communicate the value of energy management to top management and get the resources needed to make the EnMS successful.</p>
+
+<p>The data analysis method(s) appropriate to your organization may depend on several factors:</p>
+
+<ul>
+	<li>Data availability</li>
+	<li>Desired output</li>
+	<li>Level of available competency for data analysis</li>
+	<li>Audience</li>
+</ul>
+
+<p>[Learn More](Factors impacting the choice of data analysis methods)</p>
+
+<p><strong>Data availability</strong> &ndash; [task](Data Collection) discusses the data needs for your EnMS, much of which relates to the energy review, energy performance indicators (EnPIs), baselines, and energy objectives and targets. The scope of data collection can be considerable, and the ability to collect these data is generally dependent on metering availability (see [task](Data Collection)). Your organization&rsquo;s facilities, equipment, systems, and processes can have many potential sources for data collection (e.g., pressure, temperature, flow, etc.). However, if the metering is not available it may not be possible for you to collect the data necessary to determine and evaluate the desired performance metric until additional metering is installed.</p>
+
+<p>For example, if a boiler is separately metered, direct consumption data may be collected for energy performance evaluation. If facility metering is the only available metering, boiler performance may have to be evaluated using a portable flue gas analyzer or other measurement methods.</p>
+
+<p><strong>Desired output</strong> &ndash; What is the output you want to achieve from the analysis? Before determining the analysis method to be used, you should clearly understand the goal of the data analysis. The Task Overview for this task mentions several uses for the data, but you may also want to:</p>
+
+<ul>
+	<li>Determine performance level</li>
+	<li>Monitor operations</li>
+	<li>Evaluate against a benchmark or like equipment or systems</li>
+	<li>Evaluate the result of maintenance or improvement activities</li>
+	<li>Validate the impact of relevant variables</li>
+</ul>
+
+<p>Consider the output you desire when you select a method for analyzing data.</p>
+
+<p>For example, significant energy uses can be simply determined (see [task](Significant Energy Uses) and [task](Relevant Variables)) by listing your identified energy uses (see [task](Data Collection)) in order by consumption and selecting the one or two top consumers. On the other hand, to determine the <em>energy performance</em> of one of the significant energy uses, it could require multiple data points and calculations with reference to performance tables. Similarly, if you want to validate the impact of relevant variables on a significant energy use, it may be necessary to conduct a statistical analysis.</p>
+
+<p><strong>Level of available competency for data analysis</strong> &ndash; Personnel performing the analysis must be capable of conducting the analysis and evaluating the results. Personnel experienced in data analysis may be able to use a range of methods to analyze data. Less experienced personnel may only be able to conduct a very simple analysis using simple tools. Or if a more detailed analysis is required, personnel may need very sophisticated tools that require little manipulation or interpretation. Your organization must possess or obtain the level of competency necessary to conduct the desired data analysis.</p>
+
+<p><strong>Audience</strong> &ndash; Who is the audience for the analysis? Management will typically be more interested in financial data and effect of the EnMS on the bottom line. Operators will be interested in ensuring their equipment is operating at peak performance. Maintenance personnel will use performance as an indicator of the need for routine maintenance or repairs. Engineering personnel will want to verify that improvements made to a process are achieving the expected results.</p>
+
+<p>As an example, assume an improvement project is implemented in your organization. The Engineering department will want to perform calculations to verify that the estimated 10,000 MMBtu of natural gas was actually saved. Management will want calculations to verify the initial estimate of $40,000 cost savings and that the life cycle cost and return on investment will be realized.</p>
+
+<p>Many simple analysis methods can be very effective in analyzing data collected in the energy review and providing the desired results. Some of these are discussed below.</p>
+
+<p>[Learn More End]</p>
+
+<p>Your organization is responsible for selecting one or more data analysis methods for the purpose of EnMS and energy performance improvement. Examples of common methods include trend analysis, benchmarking, graphing, trending, Pareto analysis, energy balance, heat balance, utility analysis, financial analysis, and regression analysis. Choose the method or combination of methods that meets the specific goals of your organization and consider learning from other organization&rsquo;s experience during this process will likely to be the most effective. If you are using [resource](EnPI_Lite), you will be conducting regression analysis on your facility-level data (see [task](Performance Indicators)).</p>
+
+<p>[Learn More](Common data analysis methods)</p>
+
+<p><strong>Trend analysis</strong> &ndash; In a trend analysis you try to identify a pattern in the data. If a pattern can be established, any change in the pattern can indicate a change in energy performance that may require investigation.</p>
+
+<p>For example, generally, the electricity consumption of an organization with natural gas heat will decrease during the winter because of the absence of air conditioning loads. A smaller decrease or the absence of a decrease could indicate equipment being left on or in need of repair (or an extremely warm winter).</p>
+
+<p><strong>Benchmarking</strong> &ndash; Benchmarking is the process of comparing energy performance data against a standard, to evaluate current energy performance. Some of these standards can include:</p>
+
+<ul>
+	<li>Industry standards</li>
+	<li>Theoretical calculations</li>
+	<li>Similar equipment</li>
+	<li>Similar processes</li>
+	<li>Sister organizations</li>
+	<li>Competitor organizations</li>
+	<li>Previously established performance levels</li>
+</ul>
+
+<p><strong>Graphs</strong> &ndash; Graphs present data in a way that is much easier to evaluate than large quantities of numbers on a page or in a table. Graphs ease detection of data that is not fitting the pattern in a trend analysis or is out of line with a benchmark. They can be very helpful in identifying anomalies or significant deviations, which ISO 50001 requires you investigate (see [task](Corrective Actions)). A few types of graphs include:</p>
+
+<ul>
+	<li>Line graphs</li>
+	<li>Bar graphs</li>
+	<li>Pie charts</li>
+	<li>Scatterplot</li>
+	<li>Time series graph</li>
+</ul>
+
+<p><strong>Ranking</strong> &ndash; Ranking is an ordering of items to establish a relationship. Ranking is a typical method for ordering equipment, systems, and/or processes to determine significant energy uses (see [task](Significant Energy Uses)). It is useful for establishing the relative relationship among items so you can apply the appropriate criteria for focus.</p>
+
+<p><strong>Pareto analysis</strong> &ndash; A Pareto analysis is a form of ranking that can help identify focus areas. Also known as the <em>80/20 rule</em>, this generalizes that 80 percent of the effects come from 20 percent of the causes. With respect to energy consumption, 80 percent of the energy supplied will generally be associated with 20 percent of the equipment, processes, or systems. While the actual ratio can vary significantly from the 80/20 ratio within a facility or organization, a large part of energy consumption can generally be attributed to a small number of equipment, processes, or systems. A Pareto Analysis is helpful when evaluating projects or determining significant energy uses, since it can serve to focus resources.</p>
+
+<p><strong>Energy balance</strong> &ndash; An energy balance can help with accounting for energy consumption.</p>
+
+<p><strong>Heat balance</strong> &ndash; A heat balance is similar to an energy balance, but typically is focused on one piece of equipment or one system, and involves balancing the amount of heat entering and leaving the equipment or system.</p>
+
+<p>For example, the amount of heat entering a dryer via a gas burner must equal the total of the amount of heat absorbed by the dried product, emitted through the walls of the dryer and escaping through the dryer stack. A change in the stack temperature could indicate a change in energy performance (air circulation problems, incorrect dryer temperature, change in product flow, change in product moisture or temperature, etc. that allows more or less heat to exit via the stack).</p>
+
+<p><strong>Utility analysis</strong> &ndash; Analyzing utility bills is important to understanding how energy entering your organization is measured and how the cost is determined. Also, it allows you to monitor the bill for changes in consumption and cost. Monitoring the bill for each of your organization&rsquo;s energy sources enables you to identify errors, compare your energy performance with other organizations, and review improvement project results. Identifying errors is particularly effective if your organization has submeters that collect consumption data and/or if it conducts a regular energy balance to verify the amount of energy received from each source.</p>
+
+<p><strong>Financial analysis</strong> &ndash; One of the chief reasons for improving energy performance is to reduce costs. Tracking costs and evaluating the effect on the bottom line is a key function of management, and they require data necessary to conduct their evaluation. Data needs can be related to general operating costs or the need to evaluate organizational changes. Management generally wants a financial analysis either before a change (to evaluate how to proceed), or after a change (to evaluate the impact and how it affects the organization&rsquo;s economics). Sometimes they want both. Many financial methods and tools are available for conducting the necessary financial analysis.</p>
+
+<p><strong>Regression analysis </strong>&ndash; This is a statistical analysis for understanding the relationship between a dependent variable and one or more independent variables. The dependent variable depends on the independent variable(s) and will change in response to a change in the independent variable(s). Regression analysis can be used to predict consumption, which is a dependent variable, based on independent variables such as production, weather, occupancy, or operating hours. Linear regression is the simplest and most frequently used, but there are many other types of regression models.</p>
+
+<p>For example, natural gas consumption for a building heating system (a dependent variable) will increase when the temperature (an independent variable) decreases, and will decrease when the temperature increases.</p>
+
+<p>[Learn More End]</p>
+
+<p>Two case study examples of energy tracking are provided to show the variation in energy tracking methods. The first, a [resource](Case_Study_Large_Enterprise), illustrates the use of several tables and graphs to perform basic analysis. The analysis includes several different accounts for a given utility, converting the different energy sources into a common unit (Btu), and reporting the combined energy consumption and cost for a given facility. In the second, a [resource](Case_Study_Small_Enterprise), there is only one source of energy (electricity), and a simple spreadsheet is used to track energy consumption and cost.</p>
+
+<p>Once you have determined the analysis method, assign data analysis responsibilities. Some considerations for assigning the responsibilities include:</p>
+
+<ul>
+	<li>Analysis complexity</li>
+	<li>Resource availability</li>
+	<li>Data access</li>
+	<li>Experience with process/equipment being analyzed</li>
+	<li>Need for results</li>
+</ul>
+
+<p>[Learn More](Considerations for assigning data analysis responsibilities)</p>
+
+<p><strong>Analysis complexity</strong> &ndash; Competency was discussed previously, and the analysis capabilities within your organization can dictate the analysis method. On the other hand, if a desired analysis method is necessary to obtain the desired results for evaluating energy performance, the person(s) responsible for the analysis must have the necessary competency to handle the analysis complexity.</p>
+
+<p>For example, electricity consumption for lighting in a windowless office will be directly related to occupancy and can be demonstrated with a simple graph and easily understood by personnel with basic training. Electricity consumption for air conditioning can be affected by weather, time of the year, time of day, and occupancy, and could require complicated statistical techniques to analyze the relationship between consumption and all these factors, and may require someone with a high level of competency in statistical techniques.</p>
+
+<p><strong>Resource availability</strong> &ndash; In addition to being competent, the person(s) conducting the analysis may need resources such as time, data, and appropriate analysis equipment such as calculators or computers.</p>
+
+<p><strong>Data access</strong> &ndash; Data access may include physical access to the equipment for data collection or access to the personnel who are responsible for the data collection. Some data may be in locations that are difficult to access and may require assistance or protective or other special equipment for collection. To conduct a regular, consistent analysis, data must be available on a regular basis.</p>
+
+<p><strong>Experience with the process/equipment being analyzed</strong> &ndash; Personnel who are experienced with the process or equipment being analyzed bring an extra measure of knowledge that can be useful to those responsible for data analysis. Organizations may consider forming data analysis teams that include process and equipment expertise as well as analysis expertise.</p>
+
+<p><strong>Need for results</strong> &ndash; When an accurate analysis is necessary for someone in your organization to perform his or her job, that person will have an interest in ensuring the data are accurate and the analysis is correct. Someone with a vested self-interest is a good candidate for the data analysis responsibility.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Analyze past and present energy use and consumption)</p>
+
+<p>Data needs were identified in [task](Data Collection), and analysis of past and present energy use and consumption are a part of the energy review.</p>
+
+<p>The energy review requires that you collect energy consumption and analyze the data to:</p>
+
+<ul>
+	<li>Determine significant energy uses (see [task](Data Analysis) and [task](Significant Energy Uses))</li>
+	<li>Identify energy opportunities (see [task](Improvement Opportunities))</li>
+	<li>Develop EnPIs (see [task](Baselines, Objectives and Targets))</li>
+	<li>Establish baselines (see [task](Baselines, Objectives and Targets))</li>
+	<li>Set energy objectives and targets (see [task](Improvement Opportunities))</li>
+	<li>Monitor energy performance</li>
+</ul>
+
+<p>Once you have determined the above items, you will still continue to regularly collect and update the data to monitor conditions in the EnMS so you can make changes as required. Organizational changes related to processes, equipment, occupancy, improvement projects, etc. may require adjustments in your EnPIs, baselines, SEUs, objectives and targets, or other parts of the EnMS. Continue to collect data to evaluate any required adjustments to energy metrics or energy performance.</p>
+
+<p>[Learn More](Data analysis best practices)</p>
+
+<p>Energy uses were identified in [task](Data Collection). One recommended best practice is to maintain ongoing data analysis for energy uses in order to help determine whether the delineation of uses remains relevant to the EnMS and to identify potential improvement opportunities. Things to consider during the analysis include the following:</p>
+
+<ul>
+	<li>Do energy uses lend themselves to data collection?</li>
+	<li>Are the data collected sufficient for energy use evaluation?</li>
+	<li>Is metering needed to collect data for evaluation of energy uses?</li>
+	<li>Can energy performance be evaluated with the current energy uses?</li>
+	<li>Do energy uses need modification because of organizational or other changes?</li>
+	<li>Do energy uses account for all your organization&rsquo;s energy?</li>
+	<li>Would a different energy source result in better efficiency or energy utilization?</li>
+</ul>
+
+<p>Energy consumption analysis will initially consist of determining the big energy consumers and addressing the components of the energy review and other metrics, as discussed in [task](Data Collection). Continue collecting and analyzing consumption data to:</p>
+
+<ul>
+	<li>Evaluate results of improvement projects</li>
+	<li>Ensure operational consistency</li>
+	<li>Verify continued relevancy of significant energy uses</li>
+	<li>Evaluate effects of process changes or additions</li>
+	<li>Identify areas for improvement</li>
+	<li>Evaluate energy performance</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Use the methods you developed in this task to analyze the data and make changes to the system for continuous improvement. Additional discussion on monitoring and analyzing energy consumption is provided in [task](Monitoring).</p>
+
+<p>The DOE [resource](Energy_Footprint_Tool) referred to in [task](Energy Team), [task](Data Collection) and [task](Data Analysis) can also help you perform fundamental analyses of past and present energy use and consumption, including the following:</p>
+
+<ul>
+	<li>Calculating the annual energy consumption and costs for all fuel sources and all years of energy data</li>
+	<li>Plotting energy consumption of individual and combined fuels by month and year</li>
+	<li>Generating an energy balance using a &ldquo;bottom up&rdquo; energy calculation of your major energy equipment, systems, and processes to allow a comparison to the &ldquo;top down&rdquo; total facility or building energy consumption. This could be done as a precursor to determining your significant energy uses. (A &ldquo;bottom-up&rdquo; energy analysis estimates the energy consumption by large equipment, system, or process energy uses.)</li>
+</ul>
+
+<p>An example of the input and output of the [resource](Energy_Footprint_Tool) is provided for both a prototypical commercial building and industrial facility.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Prepare a list of equipment and systems)</p>
+
+<p>In [task](Data Collection), you identified your organization&rsquo;s energy uses and data needs as a first step in understanding your organization&rsquo;s energy equipment, systems and processes and identifying SEUs. The energy data collection process established in [task](Data Collection) and the energy consumption analysis that was discussed in this task are also a precursor to identifying SEUs.</p>
+
+<p>The next step is to break down the energy uses you have identified and determine the energy they consume. To do this, gather detailed information on your energy-using systems and prepare an equipment list. Then use consumption information to begin the process of SEU identification. To accomplish this, take the following actions:</p>
+
+<ul>
+	<li><strong>Obtain process flow diagrams</strong> &ndash; Process flow diagrams are a good place to start because they display the major process equipment in process order and aid identification. Process flow diagrams help an organization understand and organize its operations and energy systems. An [resource](Example_Process_Flow_Diagram) is provided. Note: You might need an enlarged version of the diagram to complete the actions that follow.</li>
+	<li><strong>Obtain facility equipment lists</strong> &ndash; Facility equipment lists may also be needed because they will typically include building systems that are not included in the process flow diagram. Examples of facility systems/equipment include:
+	<ul style="list-style-type:disc">
+		<li>Air conditioners</li>
+		<li>Air handler fans</li>
+		<li>Lighting</li>
+		<li>Water heaters</li>
+		<li>Chillers</li>
+		<li>Cooling tower</li>
+		<li>Computers</li>
+		<li>Office equipment</li>
+		<li>Elevator</li>
+		<li>Compressed air</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Example equipment lists for a [resource](Example_Equipment_List_Small_Manufacturer) and a [resource](Example_Equipment_List_Commercial_Building) are provided. Locate these systems and equipment on the process flow diagram to provide a complete picture of the energy consumers in your organization. Note that it might not be possible to locate every piece of equipment on the diagram, but represent at least the major systems in some fashion.</p>
+
+<p>[Learn More](Process flow diagram best practices)</p>
+
+<ul>
+	<li><strong>Show both primary and secondary energy streams on the process flow diagram</strong> &ndash; Also include secondary forms of energy because the energy systems that supply them can be very energy intensive.<br />
+	Gather the data you collected in [task](Data Collection). Obtain nameplate data, operating hours, duty factors, and load factors for the equipment and processes associated with your uses that you documented on the [resource](Energy_Use_Worksheet). This information is necessary to determine the energy consumption of the different uses and to develop an energy balance. Also gather any submeter or portable equipment measurements you collected and recorded.</li>
+	<li><strong>Locate the energy uses you identified in </strong><strong>[task]</strong><strong>(Data Collection)</strong><strong> on the process flow diagram and draw a line around the boundary of each</strong> &ndash; Using the consumption data you collected in [task](Data Collection), add up the average consumption of all the energy consumers within the boundary of the energy use and indicate the total on the process flow diagram or in a separate list. Review all the uses you have identified and the associated energy consumption. Ask yourself the following questions:
+	<ul>
+		<li>Do&nbsp;I have sufficient data for all of the identified uses?</li>
+		<li>Does the list of energy uses and associated consumption distribute the consumption in a reasonable fashion?</li>
+		<li>Does the consumption of one or a few of the energy consumers within an energy use far overshadow others?</li>
+		<li>Are there interactions between energy uses that might require a reevaluation of energy use identification?</li>
+		<li>Does the collection of energy consumers within each use lend itself to data collection and energy performance evaluation?</li>
+		<li>Based on metering availability, would some other organization of energy uses allow for easier or more realistic determination of energy performance?</li>
+		<li>Does the collection of energy consumers within each energy use make sense?</li>
+	</ul>
+	</li>
+</ul>
+
+<p>The above questions will help you evaluate your initial identification of energy uses. You may need to reevaluate and modify your initial designation of energy uses based on the available data and the equipment, system, or process interactions. Energy uses should be chosen to account for most of the interactions that will affect their energy performance.</p>
+
+<p>[Learn More End]</p>
+
+<p>Energy uses identified on the list can also depend on the information available to determine the amount of energy they consume, either through metered data, nameplate data, and/or engineering calculations. Consider that the energy uses may range from one piece of equipment to an entire building. If energy consumption is significant, you may want some pieces of equipment to stand alone. Once you are satisfied with the equipment and system list, conduct an energy balance to verify the total consumption of all energy uses balances with the total facility consumption. This step is not required but is recommended to ensure that no significant components of energy consumption is neglected or miscounted for.</p>
+
+<ul>
+	<li><strong>Consider personnel</strong> &ndash; Finally, consider the personnel whose work activities can or do impact the SEUs or whose job duties significantly affect how energy is procured, used, or consumed within the organization. This can be particularly true for personnel responsible for the operation or maintenance of facilities, equipment, systems, or processes identified as SEUs. As the EnMS is implemented, such personnel may need additional training or specific qualifications to ensure that operational controls are followed and energy performance objectives are achieved. [resource](Example_Personnel_Associated_SEUs) can be found through the provided link.</li>
+</ul>
+
+<p>[Learn More](Develop an energy balance)</p>
+
+<p>An energy balance is one reliable approach for providing reasonable assurance that you have accounted for all your organization&rsquo;s energy use. Link the total energy provided to your organization to specific equipment and systems (see [task](Data Collection)). The amount of energy consumed by the equipment and systems must closely match the total energy consumed by your organization. Obtaining a match (usually +/- about 5 percent) provides an indication that equipment and system consumption estimates are accurate. A [resource](Methodology_for_Conducting_Energy_Balance) is provided.</p>
+
+<p>The energy consumption of specific equipment and systems can be determined through metered data, but a calculation using information from other sources, such as nameplate data or portable meters (see [task](Data Collection)) can provide a good approximation. Over time, the energy consumption can be refined by using meters or by becoming more familiar with the operation of the energy systems.</p>
+
+<p>The DOE [resource](Energy_Footprint_Tool) develops an energy balance for commercial buildings or industrial facilities. It assists the user to balance the amount of energy calculated from the aggregate of major equipment, systems, and processes relative to the total energy of all energy sources.</p>
+
+<p>See an [resource](Example_Energy_Balance) performed by the [resource](Energy_Footprint_Tool) for a small food processing manufacturer. The balance was determined using the [resource](Example_Process_Flow_Diagram) and [resource](Example_Industrial_Plant_Equipment_List). A bar chart developed for the calculated energy consumption clearly shows the largest consumers.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>As an ENERGY STAR user, you may likely already be analyzing your organization&rsquo;s past and present energy consumption, using tools like Portfolio Manager. Data analysis tips are discussed in Steps 2.1, 2.2, 2.3 and 2.4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). The 50001 Ready Navigator guidance in this step provides additional analysis tools and tips for your consideration.</p>
+
+<p>The [resource](ENERGY_STAR_Guidelines_for_Energy_Management) do not provide guidance on keeping a list of energy-using systems. Instead, it&rsquo;s left up to each organization to determine the appropriate level of detail when collecting data. ISO 50001 requires that the organization determine its significant energy uses (SEUs).</p>
+
+<p>Note: SEUs may be different from those areas, facilities, equipment identified in the Energy Star program.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Organizations with an ISO 14001:2015 environmental management system may have information that identifies energy using systems and equipment within the environmental aspects information. But the comprehensiveness of that information for purposes of the EnMS may be lacking and should be reality checked by the energy team.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
