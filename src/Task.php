@@ -17,6 +17,12 @@ namespace DOE_50001_Ready;
 class Task
 {
     /**
+     * Class name of set task markup processor
+     *
+     * @var string
+     */
+    protected $markupProcessor;
+    /**
      * @var integer
      */
     var $id;
@@ -119,15 +125,17 @@ class Task
      *
      * @param $task_id
      * @param string $language
+     * @param string $markupProcessor
      * @return Task
      * @throws \Exception
      */
-    static function load($task_id, $language = 'en')
+    static function load($task_id, $language = 'en', $markupProcessor = DefaultMarkupProcessor::class)
     {
         if ($task_id < 1 or $task_id > 25) throw new \Exception('Task ID not valid', 404);
         $task = new self();
         $task->id = $task_id;
         $task->language_requested = $language;
+        $task->markupProcessor = $markupProcessor;
 
         $task->loadFile();
         return $task;
@@ -156,8 +164,9 @@ class Task
      *
      * @return mixed|string
      */
-    public function getGettingItDone(){
-        return Markup::process($this->getting_it_done);
+    public function getGettingItDone()
+    {
+        return Markup::process($this->getting_it_done, $this->markupProcessor);
     }
 
     /**
@@ -165,8 +174,9 @@ class Task
      *
      * @return mixed|string
      */
-    public function getTaskOverview(){
-        return Markup::process($this->task_overview);
+    public function getTaskOverview()
+    {
+        return Markup::process($this->task_overview, $this->markupProcessor);
     }
 
     /**
@@ -174,8 +184,9 @@ class Task
      *
      * @return mixed|string
      */
-    public function getFullDescription(){
-        return Markup::process($this->full_description);
+    public function getFullDescription()
+    {
+        return Markup::process($this->full_description, $this->markupProcessor);
     }
 
     /**
@@ -183,8 +194,9 @@ class Task
      *
      * @return mixed|string
      */
-    public function getOtherIsoTips(){
-        return Markup::process($this->other_iso_tips);
+    public function getOtherIsoTips()
+    {
+        return Markup::process($this->other_iso_tips, $this->markupProcessor);
     }
 
     /**
@@ -192,8 +204,9 @@ class Task
      *
      * @return mixed|string
      */
-    public function getEnergyStarTips(){
-        return Markup::process($this->energyStar_tips);
+    public function getEnergyStarTips()
+    {
+        return Markup::process($this->energyStar_tips, $this->markupProcessor);
     }
 
 }

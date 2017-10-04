@@ -23,6 +23,12 @@ class Guidance
      */
     public $language = 'en';
     /**
+     * Class name of set task markup processor
+     *
+     * @var string
+     */
+    protected $markupProcessor;
+    /**
      * Array of section names with section code keys
      *
      * @var array
@@ -51,10 +57,13 @@ class Guidance
 
     /**
      * Guidance constructor.
+     * @param string $language
+     * @param string $markupProcessor
      */
-    public function __construct($language = 'en')
+    public function __construct($language = 'en',$markupProcessor = DefaultMarkupProcessor::class)
     {
         $this->language = $language;
+        $this->markupProcessor = $markupProcessor;
         $this->loadTasks();
         $this->loadSections();
         $this->loadTaskStructure();
@@ -67,7 +76,7 @@ class Guidance
     protected function loadTasks()
     {
         for ($task_id = 1; $task_id <= 25; $task_id++) {
-            $task = Task::load($task_id, $this->language);
+            $task = Task::load($task_id, $this->language, $this->markupProcessor);
             $this->tasks[$task->id] = $task;
         }
     }
