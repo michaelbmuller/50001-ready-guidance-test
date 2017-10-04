@@ -99,7 +99,7 @@ Embedded link to Resources
 _Requires opening and closing tags_
 ```php
 [Accordion](Title of Accordion Content)
-**Learn More Content**
+**Accordion Content**
 [Accordion End]
 
 [Learn More](Title of Learn More Content)

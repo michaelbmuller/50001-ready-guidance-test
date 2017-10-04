@@ -34,8 +34,8 @@ class Markup
     {
         $text = self::addResourceLinks($text);
         $text = self::addTaskLinks($text);
-        //$text = self::addExpandables($text, 'Learn More');
-        //$text = self::addExpandables($text, 'Accordion');
+        $text = self::addExpandables($text, 'Learn More');
+        $text = self::addExpandables($text, 'Accordion');
         return $text;
     }
 
@@ -70,7 +70,7 @@ class Markup
             self::$TASK_TAG_PATTERN,
             function ($matches) {
                 $task_menu_name = trim(substr($matches[0], 7, -1));
-                return $task_menu_name . " Task";
+                return "the " . $task_menu_name . " Task";
             },
             $text
         );
@@ -96,7 +96,7 @@ class Markup
             unset($sub_sub_pieces[0]);
             $content = implode(')', $sub_sub_pieces);
 
-            $updatedContent = "<h4>".$title."</h4>". $content;
+            $updatedContent = "<h4>" . $title . "</h4>" . $content;
 
             $pieces[$x] = $updatedContent . $regularContent;
         }
