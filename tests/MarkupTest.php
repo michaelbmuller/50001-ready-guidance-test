@@ -20,7 +20,7 @@ class MarkupTest extends TestCase
     {
         $initialText = 'Asdf [task](Menu Name) Asdf';
         $markedUpText = Markup::addTaskLinks($initialText);
-        $this->assertEquals('Asdf Menu Name Task Asdf', $markedUpText);
+        $this->assertEquals('Asdf the Menu Name Task Asdf', $markedUpText);
     }
 
     public function test_accordions()
