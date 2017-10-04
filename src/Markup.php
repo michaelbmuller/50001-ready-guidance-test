@@ -36,9 +36,9 @@ class Markup
     static function process($text, $markup_processor = DefaultMarkupProcessor::class)
     {
         $text = self::addResourceLinks($text, $markup_processor);
-        $text = self::addTaskLinks($text);
-        $text = self::addExpandables($text, 'Learn More');
-        $text = self::addExpandables($text, 'Accordion');
+        $text = self::addTaskLinks($text, $markup_processor);
+        $text = self::addExpandables($text, 'Learn More', $markup_processor);
+        $text = self::addExpandables($text, 'Accordion', $markup_processor);
         return $text;
     }
 
