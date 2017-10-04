@@ -60,4 +60,9 @@ class GuidanceTest extends TestCase
         ];
         $this->assertEquals($currentSections, $this->guidance->getSections());
     }
+
+    public function test_iso_sections(){
+        $tasks = $this->guidance->getTasksByISO('4.7');
+        $this->assertEquals(25,$tasks[0]->id);
+    }
 }

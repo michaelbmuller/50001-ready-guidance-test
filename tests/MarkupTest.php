@@ -52,7 +52,7 @@ class MarkupTest extends TestCase
     public function test_task_markups()
     {
         $guidance = new Guidance();
-        foreach($guidance->getTasks() as $task){
+        foreach ($guidance->getTasks() as $task) {
             /** @var Task $task */
             $task->getGettingItDone();
             $task->getTaskOverview();
@@ -60,6 +60,21 @@ class MarkupTest extends TestCase
             $task->getOtherIsoTips();
             $task->getEnergyStarTips();
         }
+    }
+
+    public function test_all_markups()
+    {
+
+        $initialText = 'Asdf [resource](Resource_Name) Asdf'
+            . 'Asdf [task](Menu Name) Asdf'
+            . 'Asdf <p>[Accordion](Accordion Title)</p> Asdf <p>[Accordion End]</p> Asdf '
+            . 'Asdf <p>[Learn More](Learn More Title)</p> Asdf <p>[Learn More End]</p> Asdf ';
+        $finalText = 'Asdf Resource Name Asdf'
+            . 'Asdf the Menu Name Task Asdf'
+            . 'Asdf <h4>Accordion Title</h4> Asdf Asdf '
+            . 'Asdf <h4>Learn More Title</h4> Asdf Asdf ';
+        $this->assertEquals($finalText, Markup::process($initialText));
+
     }
 
 

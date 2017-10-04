@@ -2,103 +2,128 @@ Section:Planning
 
 Task:1
 Prerequisite Tasks:
-Level of Individual
+Level of Effort:Individual
+Related ISO Sections:4.1, 4.2.1, 4.5.4.1
 
 Task:2
 Prerequisite Tasks:
 Level of Effort:Shared
+Related ISO Sections:4.2.1a, 4.3
 
 Task:3
 Prerequisite Tasks:
 Level of Effort:Management
+Related ISO Sections:4.2.1, 4.2.2, 4.7.1, 4.7.2, 4.7.3
 
 Task:4
 Prerequisite Tasks:3
 Level of Effort:Team
+Related ISO Sections:4.2.1, 4.2.2
 
 Task:5
 Prerequisite Tasks:3
 Level of Effort:Management
+Related ISO Sections:4.4.2, 4.6.2
 
 Section:Energy Review
 Task:6
 Prerequisite Tasks:1
 Level of Effort:Shared
+Related ISO Sections:4.4.3, 4.4.3a
 
 Task:7
 Prerequisite Tasks:6
 Level of Effort:Individual
+Related ISO Sections:4.4.3, 4.4.3b, 4.6.1
 
 Task:8
 Prerequisite Tasks:7
 Level of Effort:Individual
+Related ISO Sections:4.4.3b
 
 Task:9
 Prerequisite Tasks:1
 Level of Effort:Team
+Related ISO Sections:4.4.3b
 
 Task:10
 Prerequisite Tasks:8,9
 Level of Effort:Shared
+Related ISO Sections:4.4.5, 4.6.1
 
 Task:11
 Prerequisite Tasks:10
 Level of Effort:Individual
+Related ISO Sections:4.4.4, 4.4.6
 
 Task:12
 Prerequisite Tasks:8,11
 Level of Effort:Team
+Related ISO Sections:4.4.3c, 4.4.6
 
 Task:13
 Prerequisite Tasks:12
 Level of Effort:Team
+Related ISO Sections:4.4.6
 
 Section:Continual Improvement
 Task:14
 Prerequisite Tasks:6,8,9,13
 Level of Effort:Shared
+Related ISO Sections:4.6.1
 
 Task:15
 Prerequisite Tasks:14
 Level of Effort:Team
+Related ISO Sections:4.6.1
 
 Task:16
 Prerequisite Tasks:9
 Level of Effort:Organization Wide
+Related ISO Sections:4.5.5
 
 Task:17
 Prerequisite Tasks:15
 Level of Effort:Team
+Related ISO Sections:4.5.5, 4.6.1, 4.6.4
 
 Task:18
 Prerequisite Tasks:12
 Level of Effort:Organization Wide
+Related ISO Sections:4.5.6
 
 Section:System Management
 Task:19
 Prerequisite Tasks:4
 Level of Effort:Team
+Related ISO Sections:4.1c, 4.5.4.1, 4.5.4.2, 4.6.5
 
 Task:20
 Prerequisite Tasks:4
 Level of Effort:Organization Wide
+Related ISO Sections:4.2.1e, 4.3g, 4.5.2, 4.5.3
 
 Task:21
 Prerequisite Tasks:4,8
 Level of Effort:Organization Wide
+Related ISO Sections:4.5.2
 
 Task:22
 Prerequisite Tasks:4,10
 Level of Effort:Organization Wide
+Related ISO Sections:4.5.7
 
 Task:23
 Prerequisite Tasks:17,19,20
 Level of Effort:Team
+Related ISO Sections:4.6.3
 
 Task:24
 Prerequisite Tasks:10
 Level of Effort:Individual
+Related ISO Sections:4.6.1
 
 Task:25
 Prerequisite Tasks:2,5,16,18,21,22,23,24
 Level of Effort:Management
+Related ISO Sections:4.7, 4.7.1, 4.7.2, 4.7.3

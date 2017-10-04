@@ -44,27 +44,21 @@ $guidance = new Guidance();
 $guidance = new Guidance('es'); 
 
 //Get All Tasks
-$guidance->getTasks();
+$tasks = $guidance->getTasks();
 
 //Get Section Tasks
-$guidance->getTasks([sectionCode]);
+$tasks = $guidance->getTasks([sectionCode]);
 
 //Get Task
-$guidance->getTask([taskId]);
+$task = $guidance->getTask([taskId]);
+
+//Or load Task 1 directly
+$task = Task::load(1,'en');
 ```
 
 #### Accessing Task Details
 
 ```php
-<?php
-require 'vendor/autoload.php';
-
-use DOE_50001_Ready\Guidance;
-
-//Load Task (example: task #1)
-$guidance = new Guidance();
-$task = $guidance->getTask(1);
-
 //Available Task Data 
 $task->id;
 $task->menuName;
@@ -78,6 +72,7 @@ $task->task_overview;
 $task->full_description;
 $task->other_iso_tips;
 $task->energyStar_tips;
+$task->relatedIsoSections;
 
 //With Processed Markup Text
 $task->getGettingItDone();
@@ -88,26 +83,50 @@ $task->getEnergyStarTips();
 ```
 
 ## Guidance Markup
-```php
-Embedded link to other Tasks
-[task](Menu Name)
+The DefaultMarkupProcessor flattens the task markup tags by replacing them with basic text.
 
+How to set a new Markup Processor:
+```php
+//Create a new Markup Processor that implements the required interface
+class NewMarkupProcessor implementes MarkupProcessorInterface
+
+//Inject the new Markup Processor into the Guidance or Tasks
+$guidance = new Guidance($language, NewMarkupProcessor::class);
+$task = new Task::load($task_id, $language, NewMarkupProcessor::class);
+```
+
+### Types of Markup
+
+#### Task Links
+Embedded link to other Tasks 
+```php
+[task](Menu Name)
+```
+
+#### Resource Links
 Embedded link to Resources
+```php
 [resource](Resource_Code_Name)
 ```
 #### Accordions
 _Requires opening and closing tags_
+
+Allows content to be open and collapsed
 ```php
 [Accordion](Title of Accordion Content)
 **Accordion Content**
 [Accordion End]
+```
 
+#### Learn More
+_Requires opening and closing tags_
+
+Allows content to be open and collapsed
+```php
 [Learn More](Title of Learn More Content)
 **Learn More Content**
 [Learn More End]
-
 ```
-
 
 
 ## Important Notes

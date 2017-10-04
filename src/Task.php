@@ -119,6 +119,12 @@ class Task
      * @var array
      */
     var $prerequisites = [];
+    /**
+     * List of related ISO sections
+     *
+     * @var array
+     */
+    var $relatedIsoSections = [];
 
     /**
      * Load task

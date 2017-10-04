@@ -109,6 +109,7 @@ class Guidance
             }
             if ($items[0]=='Prerequisite Tasks') $this->tasks[$currentTask]->prerequisites = explode(',',trim($items[1]));
             if ($items[0]=='Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
+            if ($items[0]=='Related ISO Sections') $this->tasks[$currentTask]->relatedIsoSections = array_map('trim', explode(',', $items[1]));
         }
     }
 
@@ -164,5 +165,19 @@ class Guidance
     public function getTask($task_id)
     {
         return $this->tasks[$task_id];
+    }
+
+    /**
+     * Return array of Tasks matching ISO section
+     *
+     * @param $iso_section
+     * @return array
+     */
+    public function getTasksByISO($iso_section){
+        $matchingTasks = [];
+        foreach($this->tasks as $task){
+            if(in_array($iso_section, $task->relatedIsoSections)) $matchingTasks[] = $task;
+        }
+        return $matchingTasks;
     }
 }
