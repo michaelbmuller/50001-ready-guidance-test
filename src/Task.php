@@ -114,6 +114,13 @@ class Task
      */
     var $energyStar_tips;
     /**
+     * Optional custom tips
+     * - default null
+     *
+     * @var string
+     */
+    var $custom_tips;
+    /**
      * List of prerequisite task ids
      *
      * @var array
@@ -214,5 +221,16 @@ class Task
     {
         return Markup::process($this->energyStar_tips, $this->markupProcessor);
     }
+
+    /**
+     * Returned marked up version of custom tips
+     *
+     * @return mixed|string
+     */
+    public function getCustomTips()
+    {
+        return Markup::process($this->custom_tips, $this->markupProcessor);
+    }
+
 
 }

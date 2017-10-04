@@ -61,8 +61,20 @@ class GuidanceTest extends TestCase
         $this->assertEquals($currentSections, $this->guidance->getSections());
     }
 
-    public function test_iso_sections(){
+    public function test_iso_sections()
+    {
         $tasks = $this->guidance->getTasksByISO('4.7');
-        $this->assertEquals(25,$tasks[0]->id);
+        $this->assertEquals(25, $tasks[0]->id);
+    }
+
+    public function test_set_custom_tips()
+    {
+        $this->guidance->setCustomTips([
+            1 => 'Something Useful',
+            5 => 'Something Else Useful'
+        ]);
+        $this->assertTrue($this->guidance->custom_tips_added);
+        $this->assertEquals('Something Useful',$this->guidance->getTask(1)->custom_tips);
+        $this->assertEquals('Something Else Useful',$this->guidance->getTask(5)->custom_tips);
     }
 }

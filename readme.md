@@ -43,6 +43,9 @@ $guidance = new Guidance();
 //Load alternate language (example: español) 
 $guidance = new Guidance('es'); 
 
+//Set Custom Task Tips
+$guidance->setCustomTips($customTips);
+
 //Get All Tasks
 $tasks = $guidance->getTasks();
 
@@ -72,6 +75,7 @@ $task->task_overview;
 $task->full_description;
 $task->other_iso_tips;
 $task->energyStar_tips;
+$task->custom_tips;
 $task->relatedIsoSections;
 
 //With Processed Markup Text
@@ -80,6 +84,7 @@ $task->getTaskOverview();
 $task->getFullDescription();
 $task->getOtherIsoTips();
 $task->getEnergyStarTips();
+$task->getCustomTips();
 ```
 
 ## Guidance Markup

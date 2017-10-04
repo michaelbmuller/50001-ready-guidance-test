@@ -55,12 +55,15 @@ class Guidance
      */
     protected $tasksBySection = [];
 
+
+    public $custom_tips_added = false;
+
     /**
      * Guidance constructor.
      * @param string $language
      * @param string $markupProcessor
      */
-    public function __construct($language = 'en',$markupProcessor = DefaultMarkupProcessor::class)
+    public function __construct($language = 'en', $markupProcessor = DefaultMarkupProcessor::class)
     {
         $this->language = $language;
         $this->markupProcessor = $markupProcessor;
@@ -84,32 +87,34 @@ class Guidance
     /**
      * Load all sections
      */
-    protected function loadSections(){
-        $file_contents = explode('----------',Support::getFile('50001_ready_sections',$this->language)[0]);
-        for($sectionNumber = 1; $sectionNumber<=4;$sectionNumber++){
-            $sectionCode = Support::ConvertSectionName($file_contents[$sectionNumber*2-1]);
-            $this->sections_name[$sectionCode] = trim($file_contents[$sectionNumber*2]);
+    protected function loadSections()
+    {
+        $file_contents = explode('----------', Support::getFile('50001_ready_sections', $this->language)[0]);
+        for ($sectionNumber = 1; $sectionNumber <= 4; $sectionNumber++) {
+            $sectionCode = Support::ConvertSectionName($file_contents[$sectionNumber * 2 - 1]);
+            $this->sections_name[$sectionCode] = trim($file_contents[$sectionNumber * 2]);
         }
     }
 
     /**
      * Load task structure
      */
-    protected function loadTaskStructure(){
+    protected function loadTaskStructure()
+    {
         $file_contents = file_get_contents(dirname(__FILE__) . "/../guidance/task_structure.txt");
-        foreach(explode("\r\n",$file_contents) as $row){
-            $items = explode(":",$row);
-            if(count($items)<2) continue;
-            if ($items[0]=='Section') $currentSectionCode = Support::ConvertSectionName($items[1]);
-            if ($items[0]=='Task') {
+        foreach (explode("\r\n", $file_contents) as $row) {
+            $items = explode(":", $row);
+            if (count($items) < 2) continue;
+            if ($items[0] == 'Section') $currentSectionCode = Support::ConvertSectionName($items[1]);
+            if ($items[0] == 'Task') {
                 $currentTask = (int)$items[1];
                 $this->taskIDsBySection[$currentSectionCode][$currentTask] = $currentTask;
                 $this->tasks[$currentTask]->sectionCode = $currentSectionCode;
                 $this->tasks[$currentTask]->section = $this->sections_name[$currentSectionCode];
             }
-            if ($items[0]=='Prerequisite Tasks') $this->tasks[$currentTask]->prerequisites = explode(',',trim($items[1]));
-            if ($items[0]=='Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
-            if ($items[0]=='Related ISO Sections') $this->tasks[$currentTask]->relatedIsoSections = array_map('trim', explode(',', $items[1]));
+            if ($items[0] == 'Prerequisite Tasks') $this->tasks[$currentTask]->prerequisites = explode(',', trim($items[1]));
+            if ($items[0] == 'Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
+            if ($items[0] == 'Related ISO Sections') $this->tasks[$currentTask]->relatedIsoSections = array_map('trim', explode(',', $items[1]));
         }
     }
 
@@ -119,8 +124,8 @@ class Guidance
     protected function loadSectionTasks()
     {
         $this->tasksBySection = [];
-        foreach($this->taskIDsBySection as $sectionCode => $task_ids){
-            foreach($task_ids as $task_id) $this->tasksBySection[$sectionCode][$task_id] = $this->tasks[$task_id];
+        foreach ($this->taskIDsBySection as $sectionCode => $task_ids) {
+            foreach ($task_ids as $task_id) $this->tasksBySection[$sectionCode][$task_id] = $this->tasks[$task_id];
         }
         foreach ($this->tasksBySection as $section => $tasks) {
             $firstTaskID = key($tasks);
@@ -132,6 +137,18 @@ class Guidance
                 $sectionTasks,
             ];
         }
+    }
+
+    /**
+     * Set Custom Tips on Tasks
+     * - The array keys for $customTips should match the associated Task ID
+     *
+     * @@param array $customTips
+     */
+    public function setCustomTips($customTips)
+    {
+        foreach ($customTips as $task_id => $customTip) $this->tasks[$task_id]->custom_tips = $customTip;
+        $this->custom_tips_added = true;
     }
 
     /**
@@ -173,10 +190,11 @@ class Guidance
      * @param $iso_section
      * @return array
      */
-    public function getTasksByISO($iso_section){
+    public function getTasksByISO($iso_section)
+    {
         $matchingTasks = [];
-        foreach($this->tasks as $task){
-            if(in_array($iso_section, $task->relatedIsoSections)) $matchingTasks[] = $task;
+        foreach ($this->tasks as $task) {
+            if (in_array($iso_section, $task->relatedIsoSections)) $matchingTasks[] = $task;
         }
         return $matchingTasks;
     }
