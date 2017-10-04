@@ -49,7 +49,7 @@ class Task
      *
      * @var string
      */
-    protected $task_file_contents;
+    var $task_file_contents;
     /**
      * Section code
      *
@@ -151,4 +151,50 @@ class Task
         $this->other_iso_tips = trim($taskPieces[14]);
         $this->energyStar_tips = trim($taskPieces[16]);
     }
+
+    /**
+     * Returned marked up version of Getting It Done
+     *
+     * @return mixed|string
+     */
+    public function getGettingItDone(){
+        return Markup::process($this->getting_it_done);
+    }
+
+    /**
+     * Returned marked up version of Task Overview
+     *
+     * @return mixed|string
+     */
+    public function getTaskOverview(){
+        return Markup::process($this->task_overview);
+    }
+
+    /**
+     * Returned marked up version of Full Description
+     *
+     * @return mixed|string
+     */
+    public function getFullDescription(){
+        return Markup::process($this->full_description);
+    }
+
+    /**
+     * Returned marked up version of Other ISO tips
+     *
+     * @return mixed|string
+     */
+    public function getOtherIsoTips(){
+        return Markup::process($this->other_iso_tips);
+    }
+
+    /**
+     * Returned marked up version of ENERGY STAR tips
+     *
+     * @return mixed|string
+     */
+    public function getEnergyStarTips(){
+        return Markup::process($this->energyStar_tips);
+    }
+
 }

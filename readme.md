@@ -78,7 +78,37 @@ $task->task_overview;
 $task->full_description;
 $task->other_iso_tips;
 $task->energyStar_tips;
+
+//With Processed Markup Text
+$task->getGettingItDone();
+$task->getTaskOverview();
+$task->getFullDescription();
+$task->getOtherIsoTips();
+$task->getEnergyStarTips();
 ```
+
+## Guidance Markup
+```php
+Embedded link to other Tasks
+[task](Menu Name)
+
+Embedded link to Resources
+[resource](Resource_Code_Name)
+```
+#### Accordions
+_Requires opening and closing tags_
+```php
+[Accordion](Title of Accordion Content)
+**Learn More Content**
+[Accordion End]
+
+[Learn More](Title of Learn More Content)
+**Learn More Content**
+[Learn More End]
+
+```
+
+
 
 ## Important Notes
 
