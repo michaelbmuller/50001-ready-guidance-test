@@ -11,7 +11,7 @@ class TaskTest extends TestCase
     {
         $task = Task::load(1);
         $this->assertEquals(1, $task->id);
-        $this->assertEquals('en', $task->language);
+        $this->assertEquals('en', $task->language_requested);
         $this->assertEquals('en', $task->language_displayed);
         $this->assertEquals("Scope and Boundaries", $task->menuName);
     }
@@ -27,14 +27,14 @@ class TaskTest extends TestCase
     public function test_default_to_english()
     {
         $task = Task::load(1, 'XX');
-        $this->assertEquals('XX', $task->language);
+        $this->assertEquals('XX', $task->language_requested);
         $this->assertEquals('en', $task->language_displayed);
     }
 
     public function test_spanish()
     {
         $task = Task::load(1, 'es');
-        $this->assertEquals('es', $task->language);
+        $this->assertEquals('es', $task->language_requested);
         $this->assertEquals('es', $task->language_displayed);
     }
 

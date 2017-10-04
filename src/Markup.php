@@ -1,9 +1,11 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Mike
- * Date: 10/3/2017
- * Time: 9:06 PM
+ * This file is part of the 50001 Ready Guidance package.
+ *
+ * Written by Michael B Muller <muller.michaelb@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace DOE_50001_Ready;
@@ -28,11 +30,12 @@ class Markup
      * Processes markup of current task guidance and returns updated text
      *
      * @param $text
+     * @param string $markup_processor
      * @return mixed|string
      */
-    static function process($text)
+    static function process($text, $markup_processor = DefaultMarkupProcessor::class)
     {
-        $text = self::addResourceLinks($text);
+        $text = self::addResourceLinks($text, $markup_processor);
         $text = self::addTaskLinks($text);
         $text = self::addExpandables($text, 'Learn More');
         $text = self::addExpandables($text, 'Accordion');
@@ -43,15 +46,16 @@ class Markup
      * Update resource tags
      *
      * @param $text
+     * @param string $markup_processor
      * @return mixed
      */
-    static function addResourceLinks($text)
+    static function addResourceLinks($text, $markup_processor = DefaultMarkupProcessor::class)
     {
         return preg_replace_callback(
             self::$RESOURCE_TAG_PATTERN,
-            function ($matches) {
+            function ($matches) use ($markup_processor) {
                 $resource_id = substr($matches[0], 11, -1);
-                return preg_filter("[_]", " ", $resource_id);
+                return $markup_processor::ResourceLink($resource_id);
             },
             $text
         );
@@ -62,15 +66,16 @@ class Markup
      * Update task tags
      *
      * @param $text
+     * @param string $markup_processor
      * @return mixed
      */
-    static function addTaskLinks($text)
+    static function addTaskLinks($text, $markup_processor = DefaultMarkupProcessor::class)
     {
         return preg_replace_callback(
             self::$TASK_TAG_PATTERN,
-            function ($matches) {
+            function ($matches) use ($markup_processor) {
                 $task_menu_name = trim(substr($matches[0], 7, -1));
-                return "the " . $task_menu_name . " Task";
+                return $markup_processor::TaskLink($task_menu_name);
             },
             $text
         );
@@ -84,7 +89,7 @@ class Markup
      * @param $text
      * @return string
      */
-    static function addExpandables($text, $triggerText)
+    static function addExpandables($text, $triggerText, $markup_processor = DefaultMarkupProcessor::class)
     {
         $pieces = explode("<p>[{$triggerText}]", $text);
         for ($x = 1; $x <= count($pieces) - 1; $x++) {
@@ -96,7 +101,8 @@ class Markup
             unset($sub_sub_pieces[0]);
             $content = implode(')', $sub_sub_pieces);
 
-            $updatedContent = "<h4>" . $title . "</h4>" . $content;
+            if ($triggerText == 'Accordion') $updatedContent = $markup_processor::Accordion('learnMore_' . $x, $title, $content);
+            if ($triggerText == 'Learn More') $updatedContent = $markup_processor::LearnMore('learnMore_' . $x, $title, $content);
 
             $pieces[$x] = $updatedContent . $regularContent;
         }

@@ -25,12 +25,11 @@ class Task
      */
     var $version;
     /**
-     * Language Code
-     * - default 'en'
+     * Language Code Requested
      *
      * @var string
      */
-    var $language = 'en';
+    var $language_requested;
     /**
      * Language displayed
      *  - may not be selected language if not available
@@ -128,7 +127,7 @@ class Task
         if ($task_id < 1 or $task_id > 25) throw new \Exception('Task ID not valid', 404);
         $task = new self();
         $task->id = $task_id;
-        $task->language = $language;
+        $task->language_requested = $language;
 
         $task->loadFile();
         return $task;
@@ -140,7 +139,7 @@ class Task
     protected function loadFile()
     {
         $full_id = $this->id < 10 ? '0' . $this->id : $this->id;
-        list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language);
+        list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language_requested);
         $taskPieces = explode('----------', $this->task_file_contents);
         $this->version = explode(" ", $taskPieces[2])[0];
         $this->menuName = trim($taskPieces[4]);
