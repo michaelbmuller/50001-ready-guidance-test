@@ -10,7 +10,7 @@
 
 namespace DOE_50001_Ready;
 
-class DefaultMarkupProcessor implements MarkupProcessorInterface
+interface MarkupProcessorInterface
 {
     /**
      * Return resource id as string only
@@ -18,10 +18,7 @@ class DefaultMarkupProcessor implements MarkupProcessorInterface
      * @param $resource_id
      * @return mixed
      */
-    static function ResourceLink($resource_id)
-    {
-        return preg_filter("[_]", " ", $resource_id);
-    }
+    static function ResourceLink($resource_id);
 
     /**
      * Return Task Menu Name only
@@ -29,10 +26,7 @@ class DefaultMarkupProcessor implements MarkupProcessorInterface
      * @param $task_menu_name
      * @return string
      */
-    static function TaskLink($task_menu_name)
-    {
-        return "the " . $task_menu_name . " Task";
-    }
+    static function TaskLink($task_menu_name);
 
     /**
      * Format Accordion tags
@@ -42,10 +36,7 @@ class DefaultMarkupProcessor implements MarkupProcessorInterface
      * @param $content
      * @return string
      */
-    static function Accordion($code, $title, $content)
-    {
-        return "<h4>" . $title . "</h4>" . $content;
-    }
+    static function Accordion($code, $title, $content);
 
     /**
      * Format Learn More tags
@@ -55,10 +46,5 @@ class DefaultMarkupProcessor implements MarkupProcessorInterface
      * @param $content
      * @return string
      */
-    static function LearnMore($code, $title, $content)
-    {
-        return "<h4>" . $title . "</h4>" . $content;
-    }
-
-
+    static function LearnMore($code, $title, $content);
 }
