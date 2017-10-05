@@ -46,6 +46,12 @@ $guidance = new Guidance('es');
 //Set Custom Task Tips
 $guidance->setCustomTips($customTips);
 
+//Section Related Functions
+$sections = $guidance->getSections();
+$sectionName = $guidance->getSectionName($sectionCode);
+$previousSectionCode = $guidance->previousSection($sectionCode, $dashboardCode = 'dashboard');
+$nextSectionCode = $guidance->nextSection($sectionCode, $dashboardCode = 'dashboard');
+
 //Get All Tasks
 $tasks = $guidance->getTasks();
 

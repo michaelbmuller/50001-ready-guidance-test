@@ -174,6 +174,50 @@ class Guidance
     }
 
     /**
+     * Return section name
+     *
+     * @return array
+     */
+    public function getSectionName($sectionCode)
+    {
+        return $this->sections[$sectionCode][0];
+    }
+
+    /**
+     * Returns code for previous section or dashboardCode if first section
+     *
+     * @param $sectionCode
+     * @param $dashboardCode
+     * @return string
+     */
+    public function previousSection($sectionCode, $dashboardCode = 'dashboard')
+    {
+        $previousSectionCode = $dashboardCode;
+        foreach ($this->sections as $code => $sectionDetails) {
+            if ($code == $sectionCode) return $previousSectionCode;
+            $previousSectionCode = $code;
+        }
+        return $dashboardCode;
+    }
+
+    /**
+     * Returns code for next section or dashboardCode if last section
+     *
+     * @param $sectionCode
+     * @param $dashboardCode
+     * @return string
+     */
+    public function nextSection($sectionCode, $dashboardCode = 'dashboard')
+    {
+        $nextSection = false;
+        foreach ($this->sections as $code => $sectionDetails) {
+            if ($nextSection) return $code;
+            if ($code == $sectionCode) $nextSection = true;
+        }
+        return $dashboardCode;
+    }
+
+    /**
      * Returns array of All tasks or tasks for the given section
      *
      * @param bool|string $section

@@ -61,6 +61,24 @@ class GuidanceTest extends TestCase
         $this->assertEquals($currentSections, $this->guidance->getSections());
     }
 
+    public function test_section_name(){
+        $this->assertEquals('Planning',$this->guidance->getSectionName('planning'));
+    }
+
+    public function test_previous_section(){
+        $previousSection = $this->guidance->previousSection('planning');
+        $this->assertEquals('dashboard',$previousSection);
+        $previousSection = $this->guidance->previousSection('energyReview');
+        $this->assertEquals('planning',$previousSection);
+    }
+
+    public function test_next_section(){
+        $previousSection = $this->guidance->nextSection('planning');
+        $this->assertEquals('energyReview',$previousSection);
+        $previousSection = $this->guidance->nextSection('systemManagement');
+        $this->assertEquals('dashboard',$previousSection);
+    }
+
     public function test_iso_sections()
     {
         $tasks = $this->guidance->getTasksByISO('4.7');
