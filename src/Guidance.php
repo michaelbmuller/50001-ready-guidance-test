@@ -241,6 +241,20 @@ class Guidance
     }
 
     /**
+     * Return first Task with Matching Menu Name
+     *
+     * @return string
+     */
+    public function getTaskByMenuName($menuName)
+    {
+        foreach($this->tasks as $task){
+            if($task->menuName = $menuName) return $task;
+        }
+        return false;
+    }
+
+
+    /**
      * Return array of Tasks matching ISO section
      *
      * @param $iso_section

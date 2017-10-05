@@ -60,6 +60,7 @@ $tasks = $guidance->getTasks([sectionCode]);
 
 //Get Task
 $task = $guidance->getTask([taskId]);
+$task = $guidance->getTaskByMenuName($menuName);
 
 //Or load Task 1 directly
 $task = Task::load(1,'en');
