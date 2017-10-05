@@ -77,6 +77,7 @@ $task->other_iso_tips;
 $task->energyStar_tips;
 $task->custom_tips;
 $task->relatedIsoSections;
+$task->prerequisites;
 
 //With Processed Markup Text
 $task->getGettingItDone();

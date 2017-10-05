@@ -98,10 +98,13 @@ class Guidance
 
     /**
      * Load task structure
+     *
+     * @throws \Exception
      */
     protected function loadTaskStructure()
     {
         $file_contents = file_get_contents(dirname(__FILE__) . "/../guidance/task_structure.txt");
+        $currentTask = null;
         foreach (explode("\r\n", $file_contents) as $row) {
             $items = explode(":", $row);
             if (count($items) < 2) continue;
@@ -112,7 +115,16 @@ class Guidance
                 $this->tasks[$currentTask]->sectionCode = $currentSectionCode;
                 $this->tasks[$currentTask]->section = $this->sections_name[$currentSectionCode];
             }
-            if ($items[0] == 'Prerequisite Tasks') $this->tasks[$currentTask]->prerequisites = explode(',', trim($items[1]));
+            if ($items[0] == 'Prerequisite Tasks') {
+                $prerequisites = [];
+                if ($items[1]) $prerequisites = array_map('trim', explode(',', trim($items[1])));
+                $this->tasks[$currentTask]->prerequisites = $prerequisites;
+                foreach ($prerequisites as $prerequisite) {
+                    if ($prerequisite < 1 or $prerequisite > 25) throw new \Exception('Prerequisite Task ID not valid ' . $prerequisite, 404);
+                    $this->tasks[$prerequisite]->leadsTo[$currentTask] = $currentTask;
+                }
+
+            }
             if ($items[0] == 'Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
             if ($items[0] == 'Related ISO Sections') $this->tasks[$currentTask]->relatedIsoSections = array_map('trim', explode(',', $items[1]));
         }

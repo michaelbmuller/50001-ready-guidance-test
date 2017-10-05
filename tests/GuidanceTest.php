@@ -67,6 +67,11 @@ class GuidanceTest extends TestCase
         $this->assertEquals(25, $tasks[0]->id);
     }
 
+    public function test_task_leads_to()
+    {
+        $this->assertEquals([6 => 6, 9 => 9], $this->guidance->getTask(1)->leadsTo);
+    }
+
     public function test_set_custom_tips()
     {
         $this->guidance->setCustomTips([
@@ -74,7 +79,7 @@ class GuidanceTest extends TestCase
             5 => 'Something Else Useful'
         ]);
         $this->assertTrue($this->guidance->custom_tips_added);
-        $this->assertEquals('Something Useful',$this->guidance->getTask(1)->custom_tips);
-        $this->assertEquals('Something Else Useful',$this->guidance->getTask(5)->custom_tips);
+        $this->assertEquals('Something Useful', $this->guidance->getTask(1)->custom_tips);
+        $this->assertEquals('Something Else Useful', $this->guidance->getTask(5)->custom_tips);
     }
 }

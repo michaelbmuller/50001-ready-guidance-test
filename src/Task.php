@@ -121,13 +121,19 @@ class Task
      */
     var $custom_tips;
     /**
-     * List of prerequisite task ids
+     * Array of prerequisite task ids
      *
      * @var array
      */
     var $prerequisites = [];
     /**
-     * List of related ISO sections
+     * Array of Tasks this Task leads to
+     *
+     * @var array
+     */
+    var $leadsTo = [];
+    /**
+     * Array of related ISO sections
      *
      * @var array
      */
