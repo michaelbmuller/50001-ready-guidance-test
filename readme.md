@@ -66,8 +66,6 @@ $task = Task::load(1,'en');
 $task->id;
 $task->menuName;
 $task->version;
-$task->sectionCode;
-$task->section;
 $task->language;
 $task->language_displayed;
 $task->getting_it_done;
@@ -75,9 +73,15 @@ $task->task_overview;
 $task->full_description;
 $task->other_iso_tips;
 $task->energyStar_tips;
-$task->custom_tips;
+
+/** ONLY AVAILABLE WHEN TASKS LOADED THROUGH GUIDANCE */
+$task->sectionCode;
+$task->section;
 $task->relatedIsoSections;
 $task->prerequisites;
+$task->leadsTo;
+$task->custom_tips;
+//customTips Must be externally loaded with $guidance->setCustomTips($customTips);
 
 //With Processed Markup Text
 $task->getGettingItDone();

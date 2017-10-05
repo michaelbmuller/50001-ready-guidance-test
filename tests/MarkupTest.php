@@ -59,6 +59,7 @@ class MarkupTest extends TestCase
             $task->getFullDescription();
             $task->getOtherIsoTips();
             $task->getEnergyStarTips();
+            $task->getCustomTips();
         }
     }
 
