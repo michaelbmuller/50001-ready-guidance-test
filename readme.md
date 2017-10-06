@@ -69,6 +69,8 @@ $task = Task::load(1,'en');
 #### Accessing Task Details
 
 ```php
+<?php
+/** @var \DOE_50001_Ready\Task $task */
 //Available Task Data 
 $task->id;
 $task->menuName;
@@ -89,6 +91,7 @@ $task->prerequisites;
 $task->leadsTo;
 $task->custom_tips;
 //customTips Must be externally loaded with $guidance->setCustomTips($customTips);
+$task->resources;
 
 //With Processed Markup Text
 $task->getGettingItDone();
@@ -97,6 +100,20 @@ $task->getFullDescription();
 $task->getOtherIsoTips();
 $task->getEnergyStarTips();
 $task->getCustomTips();
+```
+
+#### Accessing Task Details
+   
+```php
+<?php
+/** @var \DOE_50001_Ready\Resource $resource */
+//Available Task Data 
+$resource->id;
+$resource->name;
+$resource->file_type;
+$resource->short_description;
+$resource->file_name;
+$resource->link;
 ```
 
 ## Guidance Markup

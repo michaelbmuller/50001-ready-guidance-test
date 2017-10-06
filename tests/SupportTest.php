@@ -13,7 +13,7 @@ class SupportTest extends TestCase
     }
 
     public function test_missing_file(){
-        $this->expectExceptionMessage('Task File Not Found');
+        $this->expectExceptionMessage('Requested File Not Found');
         Support::getFile('asdf');
     }
 }

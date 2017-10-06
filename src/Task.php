@@ -121,6 +121,12 @@ class Task
      */
     var $custom_tips;
     /**
+     * Array of associated resources
+     *
+     * @var
+     */
+    public $resources;
+    /**
      * Array of prerequisite task ids
      *
      * @var array

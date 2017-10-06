@@ -54,9 +54,14 @@ class Guidance
      * @var array
      */
     protected $tasksBySection = [];
-
-
+    /**
+     * @var bool
+     */
     public $custom_tips_added = false;
+    /**
+     * @var array
+     */
+    public $resources = [];
 
     /**
      * Guidance constructor.
@@ -71,6 +76,7 @@ class Guidance
         $this->loadSections();
         $this->loadTaskStructure();
         $this->loadSectionTasks();
+        $this->loadResources();
     }
 
     /**
@@ -150,6 +156,21 @@ class Guidance
             ];
         }
     }
+
+    /**
+     * Load resources
+     */
+    protected function loadResources()
+    {
+        $this->resources = Resource::load();
+
+        foreach($this->resources as $resource){
+            foreach($resource->associatedTasks as $associatedTask) {
+                $this->tasks[$associatedTask]->resources[$resource->id] = $resource;
+            }
+        }
+    }
+
 
     /**
      * Set Custom Tips on Tasks
@@ -247,8 +268,8 @@ class Guidance
      */
     public function getTaskByMenuName($menuName)
     {
-        foreach($this->tasks as $task){
-            if($task->menuName = $menuName) return $task;
+        foreach ($this->tasks as $task) {
+            if ($task->menuName = $menuName) return $task;
         }
         return false;
     }

@@ -28,12 +28,14 @@ class Support
      */
     static function getFile($file_name, $language = 'en')
     {
-        $full_file_name = self::setFileName($file_name, $language);
-        if (file_exists($full_file_name)) {
-            return [
-                file_get_contents($full_file_name),
-                $language
-            ];
+        if ($language != 'en') {
+            $full_file_name = self::setFileName($file_name, $language);
+            if (file_exists($full_file_name)) {
+                return [
+                    file_get_contents($full_file_name),
+                    $language
+                ];
+            }
         }
 
         //Default to English
@@ -45,7 +47,7 @@ class Support
             ];
         }
 
-        throw new \Exception('Task File Not Found', 404);
+        throw new \Exception('Requested File Not Found', 404);
     }
 
     /**
