@@ -94,8 +94,15 @@ class Resource
         return $resources;
     }
 
-    public function getLink(){
-        if ($this->file_name) return $this->file_name;
+    /**
+     * Return link to resource
+     * - resource_directory added to local files
+     *
+     * @param null $resource_directory
+     * @return string
+     */
+    public function getLink($resource_directory= null){
+        if ($this->file_name) return $resource_directory."/".$this->file_name;
         return $this->link;
     }
 

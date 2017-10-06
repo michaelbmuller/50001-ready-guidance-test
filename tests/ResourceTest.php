@@ -32,7 +32,11 @@ class ResourceTest extends TestCase
     }
 
     public function test_get_link(){
-        $this->guidance->resources['Business_Drivers_EnMS']->getLink();
+        $this->assertEquals('Directory/Business Drivers and the EnMS Resource Sheet.docx',
+            $this->guidance->resources['Business_Drivers_EnMS']->getLink('Directory'));
+        $this->assertEquals('http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20SAdoc_Energy%20Manual%20Guidelines.pdf',
+            $this->guidance->resources['Energy_Manual_Guidelines']->getLink('Directory'));
+
     }
 
 
