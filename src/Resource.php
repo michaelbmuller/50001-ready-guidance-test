@@ -73,7 +73,7 @@ class Resource
                     list($field, $value) =$data;
                     if ($field == 'Name') {
                         //Store last resource if present
-                        if (!is_null($resource)) $resources[] = $resource;
+                        if (!is_null($resource)) $resources[$resource->id] = $resource;
                         $resource = new Resource();
                         $resource->name = $value;
                         $resource->language_displayed = $language_displayed;
@@ -90,6 +90,7 @@ class Resource
                 }
             }
         }
+        uasort($resources,function($a, $b){ strcmp($a->name, $b->name); });
         return $resources;
     }
 

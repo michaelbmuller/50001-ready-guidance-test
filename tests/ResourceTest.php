@@ -32,7 +32,7 @@ class ResourceTest extends TestCase
     }
 
     public function test_get_link(){
-        $this->guidance->resources[0]->getLink();
+        $this->guidance->resources['Business_Drivers_EnMS']->getLink();
     }
 
 
