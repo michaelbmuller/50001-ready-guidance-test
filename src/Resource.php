@@ -92,4 +92,10 @@ class Resource
         }
         return $resources;
     }
+
+    public function getLink(){
+        if ($this->file_name) return $this->file_name;
+        return $this->link;
+    }
+
 }

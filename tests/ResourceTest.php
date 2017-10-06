@@ -31,4 +31,9 @@ class ResourceTest extends TestCase
         $this->assertGreaterThan(0,count($this->guidance->getTask(1)->resources));
     }
 
+    public function test_get_link(){
+        $this->guidance->resources[0]->getLink();
+    }
+
+
 }
