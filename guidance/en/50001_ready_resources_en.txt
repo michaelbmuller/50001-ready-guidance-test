@@ -1,19 +1,1035 @@
 USDOE 50001 READY NAVIGATOR
 ----------RESOURCES----------
-Name::Something
-ID::Something_something
-File Type::PDF
-Short Description::This resource can be used to document the members of the energy team and their responsibilities, as well as to provide a reference for determining whether the functions and individuals who can provide a relevant perspective on energy use and the energy management system have been included.
-File Name::1
-Link:http:://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_5%20Tool%20Energy%20Team%20Roster.docx
-Associated Tasks::1,8
+Name||Business Drivers and the EnMS
+ID||Business_Drivers_EnMS
+File Type||Business_Drivers_EnMS
+Short Description||This Resource is helpful to understand the different types of business drivers for the development of an EnMS amd to help organizations to think about energy, energy management and improved energy performance within the context of an organization and its current and future business priorities and needs.  
+File Name||Business Drivers and the EnMS Resource Sheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Business%20Drivers%20and%20EnMS%20Res%20Sheet.docx
+Associated Tasks||3
 ----------
-Name::Something2
-ID::Something_something2
-File Type::PDF
-Short Description::This resource can be used to document the members of the energy team and their responsibilities, as well as to provide a reference for determining whether the functions and individuals who can provide a relevant perspective on energy use and the energy management system have been included.
-File Name::Energy Team Roster.docx
-Link:http:://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_5%20Tool%20Energy%20Team%20Roster.docx
-Associated Tasks::1,4,7,15
+Name||Plan-Do-Check-Act Components of ISO 50001
+ID||PDCA_Components_ISO_50001
+File Type||PDCA_Components_ISO_50001
+Short Description||A description of the Plan-Do-Check-Act continual improvement structure and how it relates to ISO 50001.
+File Name||PDCA Components of ISO 50001.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_1%20PDCA%20Components%20of%20ISO%2050001.pdf
+Associated Tasks||25
+----------
+Name||Key Internal Influencers Worksheet 
+ID||Key_Internal_Influencers_Worksheet
+File Type||Key_Internal_Influencers_Worksheet
+Short Description||A worksheet to identify individuals in the organization whose responsibilities or activities would affect or be affected by the organization’s energy use and consumption.
+File Name||Key Internal Influencers Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Key%20Internal%20Influencers%20Worksheet.doc
+Associated Tasks||3
+----------
+Name||Key Internal Influencers Worksheet (example)
+ID||Example_Key_Internal_Influencers_Worksheet
+File Type||Example_Key_Internal_Influencers_Worksheet
+Short Description||An example worksheet used to identify individuals in the organization whose responsibilities or activities would affect or be affected by the organization’s energy use and consumption.
+File Name||Key Internal Influencers Worksheet (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Example%20Key%20Internal%20Influencers%20Worksheet.pdf
+Associated Tasks||3
+----------
+Name||Elevator Speech Worksheet
+ID||Elevator_Speech_Worksheet
+File Type||Elevator_Speech_Worksheet
+Short Description||A worksheet used to develop the presentation for “selling” the energy management system (EnMS) to top management and other key decision makers.  
+File Name||Elevator Speech Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Elevator%20Speech%20Worksheet.docx
+Associated Tasks||3
+----------
+Name||Management Briefing Agenda (example)
+ID||Example_Management_Briefing_Agenda
+File Type||Example_Management_Briefing_Agenda
+Short Description||This resources details an example agenda for an energy management system business case briefing to be delivered to senior leadership.
+File Name||
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Example%20Management%20Briefing%20Agenda.pdf
+Associated Tasks||3
+----------
+Name||Project Management for EnMS Implementation
+ID||Project_Management_for_EnMS_Implementation
+File Type||Project_Management_for_EnMS_Implementation
+Short Description||This resource details the steps that need to be taken to establish the structure for EnMS implementation at an organization. The four steps described in this resource are: Step 1 - Set the timeframe for implementation Step 2 - Develop the implementation plan Step 3 - Establish communication channels Step 4 - Celebrate success often
+File Name||Project Management for EnMS Implementation.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20SAdoc_Project%20Mgt%20for%20EnMS%20Implementation.pdf
+Associated Tasks||3,4,13
+----------
+Name||Energy Manual Guidelines
+ID||Energy_Manual_Guidelines
+File Type||Energy_Manual_Guidelines
+Short Description||This resource provides information on using an energy manual to document the elements of the EnMS.
+File Name||
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20SAdoc_Energy%20Manual%20Guidelines.pdf
+Associated Tasks||1,4,10
+----------
+Name||Energy Team Roster
+ID||Team_Roster
+File Type||Team_Roster
+Short Description||This resource can be used to document the members of the energy team and their responsibilities, as well as to provide a reference for determining whether the functions and individuals who can provide a relevant perspective on energy use and the energy management system have been included.
+File Name||Energy Team Roster.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_5%20Tool%20Energy%20Team%20Roster.docx
+Associated Tasks||4
+----------
+Name||Initial EnMS Awareness Presentation (example)
+ID||Example_Initial_EnMS_Awareness_Presentation
+File Type||Example_Initial_EnMS_Awareness_Presentation
+Short Description||This resource shows an example presentation that can be used to raise awareness of your energy management system to your organization.
+File Name||Initial EnMS Awareness Presentation (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_8%20Example%20Initial%20EnMS%20Awareness%20Pres.pdf
+Associated Tasks||20
+----------
+Name||Initial EnMS Awareness Presentation Template
+ID||Initial_EnMS_Awareness_Presentation_Template
+File Type||Initial_EnMS_Awareness_Presentation_Template
+Short Description||This resource shows a template powerpoint presentation that can be used to raise awareness of your energy management system to your organization.
+File Name||Initial EnMS Awareness Presentation (example).pptx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_8%20Tool%20Initial%20EnMS%20Awareness%20Pres%20Template.ppt
+Associated Tasks||20
+----------
+Name||Scope and Boundaries Worksheet
+ID||Scope_Boundaries_Worksheet
+File Type||Scope_Boundaries_Worksheet
+Short Description||This worksheet is helpful in defining the scope and boundaries of an energy management system.
+File Name||Scope and Boundaries Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_6%20Tool%20Scope%20and%20Boundaries%20Worksheet.docx
+Associated Tasks||1
+----------
+Name||Scope and Boundaries (example)
+ID||Example_Scope_Boundaries_Worksheet
+File Type||Example_Scope_Boundaries_Worksheet
+Short Description||This resources provides example scope and boundaries statements for both industrial facilities and commercial buildings.
+File Name||Scope and Boundaries (examples).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_6%20Example%20Scope%20and%20Boundaries.pdf
+Associated Tasks||
+----------
+Name||Energy Policy Example
+ID||Example_Energy_Policy
+File Type||Example_Energy_Policy
+Short Description||This resource is an example energy policy that can be useful in developing an organizational energy policy.
+File Name||Energy Policy (example).pptx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_7%20Example%20Energy%20Policy.pdf
+Associated Tasks||2
+----------
+Name||Energy Policy Worksheets
+ID||Energy_Policy_Worksheets
+File Type||Energy_Policy_Worksheets
+Short Description||This resource is used to help develop an organizational energy policy that meets the basic expectations for an ISO 50001 energy policy.
+File Name||Energy Policy Worksheets.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_7%20Tool%20Energy%20Policy%20Worksheets.docx
+Associated Tasks||2
+----------
+Name||ISO 50001 standard (single license)
+ID||N/A
+File Type||N/A
+Short Description||Single license electronic copies of the ISO 50001 standard available for purchase
+File Name||
+Link||https://epay.gatech.edu/C20793_ustores/web/product_detail.jsp?PRODUCTID=2608
+Associated Tasks||
+----------
+Name||ISO 50001 standard (site license)
+ID||N/A
+File Type||N/A
+Short Description||Site licenses of the ISO 50001 standard (for posting on internal networks) available for purchase
+File Name||
+Link||http://webstore.ansi.org/RecordDetail.aspx?sku=ISO+50001%3A2011
+Associated Tasks||
+----------
+Name||Superior Energy Performance
+ID||Superior_Energy_Performance_Program
+File Type||Superior_Energy_Performance_Program
+Short Description||
+File Name||
+Link||www.energy.gov/ISOSEP
+Associated Tasks||
+----------
+Name||SEU Control Chart
+ID||SEU_Control_Chart
+File Type||SEU_Control_Chart
+Short Description||A template spreadsheet form to track, record, and validate the implementation process for SEUs.
+File Name||SEU Control Chart.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_3%20Tool%20Significant%20Energy%20Uses%20Control%20Chart.xlsx
+Associated Tasks||8,14,15,16,21
+----------
+Name||SEU Control Chart Example
+ID||Example_SEU_Control_Chart
+File Type||Example_SEU_Control_Chart
+Short Description||An example of what an SEU control chart can look like and may be used to track/record/document/validate the PDCA process.
+File Name||SEU Control Chart (example).xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_3%20Example%20Significant%20Energy%20Uses%20Control%20Chart.xlsx
+Associated Tasks||8,14,15,16,21
+----------
+Name||Competency Requirements and Record Form
+ID||Competency_Requirements_Record_Form
+File Type||Competency_Requirements_Record_Form
+Short Description||A standard form may be used to track, record and validate SEU competency requirements.
+File Name||Competency Requirements and Record Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_1%20Tool%20Competency%20Requirements%20and%20Record%20Form.doc
+Associated Tasks||21
+----------
+Name||Competency Requirments and Record Form Example
+ID||Example_Competency_Requirements_Records_Form
+File Type||Example_Competency_Requirements_Records_Form
+Short Description||This resource gives users an example of how the competency requirements and record form may look and be used for tracking/following up/validation.
+File Name||Competency Requirements and Record Form (Example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_1%20Example%20Competency%20Req%20and%20Record%20Form.pdf
+Associated Tasks||21
+----------
+Name||AMO Training Webpage
+ID||AMO_Training_Webpage
+File Type||AMO_Training_Webpage
+Short Description||This resource link is to guide users to available AMO courses offerings available through Instructor-led classes and workshops and self-paced interactive e-learning courses.
+File Name||
+Link||http://www1.eere.energy.gov/industry/bestpractices/training.html  
+Associated Tasks||
+----------
+Name||EnMS Awareness Requirements Form
+ID||EnMS_Awareness_Requirements_Form
+File Type||EnMS_Awareness_Requirements_Form
+Short Description||This resource gives the user a planning form to track, document, follow up and record the awareness program
+File Name||EnMS Awareness Requirements Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_2%20Tool%20EnMS%20Awareness%20Requirements%20Form.doc
+Associated Tasks||20
+----------
+Name||EnMS Training Needs Planning Matrix
+ID||EnMS_Training_Needs_Planning_Matrix
+File Type||EnMS_Training_Needs_Planning_Matrix
+Short Description||This resource gives users a standard form they may use to track, document their training plan needs.
+File Name||EnMS Training Needs Planning Matrix.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_2%20Tool%20EnMS%20Training%20Needs%20Planning%20Matrix.doc
+Associated Tasks||20
+----------
+Name||EnMs Training Needs Planning Matrix Example
+ID||Example_EnMS_Training_Needs_Planning_Matrix
+File Type||Example_EnMS_Training_Needs_Planning_Matrix
+Short Description||This resource provides a training needs planning matrix with example information to support users in beginning this process. 
+File Name||EnMS Training Needs Planning Matrix (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_2%20Example%20EnMS%20Training%20Needs%20Planning%20Matrix.pdf
+Associated Tasks||20
+----------
+Name||General EnMS Awareness Presentation
+ID||General_EnMS_Awareness_Presentation
+File Type||General_EnMS_Awareness_Presentation
+Short Description||An example of a presentation that can be used as a basis to help train and communicate EnMS Awareness to all affected employees.
+File Name||General EnMS Awareness Presentation (example).pptx
+Link||https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#
+Associated Tasks||20
+----------
+Name||General EnMS Awareness Presentation Template
+ID||Template_General_EnMS_Awareness_Presentation
+File Type||Template_General_EnMS_Awareness_Presentation
+Short Description||This Powerpoint resource can be used as a basis to help train and communicate EnMS Awareness to all affected employees.
+File Name||General EnMS Awareness Presentation Template.pptx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_2%20Tool%20Gen%20EnMS%20Awareness%20Pres%20Template.ppt
+Associated Tasks||20
+----------
+Name||Internal EnMS Communications Planning Worksheet
+ID||Internal_EnMS_Communications_Planning_Worksheet
+File Type||Internal_EnMS_Communications_Planning_Worksheet
+Short Description||A standard template to use for communications organizational planning.
+File Name||Internal EnMS Communication Planning Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_3%20Tool%20Internal%20EnMS%20Commun%20Planning%20Worksheet.docx
+Associated Tasks||20
+----------
+Name||EnMS Suggestion Form
+ID||EnMS_Suggestion_Form
+File Type||EnMS_Suggestion_Form
+Short Description||An example of a form employees may use to submit suggestions on energy improvments.
+File Name||EnMS Suggestion Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_3%20Tool%20Suggestion%20Form.doc
+Associated Tasks||20
+----------
+Name||External Communications Planning Worksheet
+ID||External_Communications_Planning_Worksheet
+File Type||External_Communications_Planning_Worksheet
+Short Description||Resource template worksheet provided to support the users while developing their external communication plan 
+File Name||External Communication Planning Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_4%20Tool%20External%20Commun%20Planning%20Worksheet.doc
+Associated Tasks||20
+----------
+Name||Responsibility and Authority Matrix for Energy-Related External Communications (example)
+ID||Example_External_Communications_Responsibility_Authority_Matrix_Energy_Related
+File Type||Example_External_Communications_Responsibility_Authority_Matrix_Energy_Related
+Short Description||This resource gives users an overview of the people, and organizations that should receive EnMS external communication.
+File Name||Responsibility and Auth Matrix for Energy External Communication.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_4%20Example%20Respons%20Auth%20Matrix%20for%20Energy%20Ext%20Comm.pdf
+Associated Tasks||20
+----------
+Name||EnMS External Communications Log
+ID||EnMS_External_Communications_Log
+File Type||EnMS_External_Communications_Log
+Short Description||A worksheet template to log EnMS external communications within an organization.
+File Name||EnMS External Communication Log.docx
+Link||https://ecenter.ee.doe.govhttp//www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_4%20Tool%20External%20Commun%20Log.doc
+Associated Tasks||20
+----------
+Name||EnMS External Communications Record
+ID||EnMS_External_Communications_Record
+File Type||EnMS_External_Communications_Record
+Short Description||A resource that may be used as documented evidence as a "record" on external communication.
+File Name||EnMS External Communication Record.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_4%20Tool%20External%20Commun%20Record.docx
+Associated Tasks||20
+----------
+Name||EnMS Documentation Guidance Table
+ID||EnMS_Documentation_Guidance_Table
+File Type||EnMS_Documentation_Guidance_Table
+Short Description||A guidance table showing ISO 50001 references applicable to the 50001 Ready Navigator Tasks.
+File Name||EnMS Documentation Guidance.docx
+Link||
+Associated Tasks||19
+----------
+Name||Understanding EnMS Documentation
+ID||Understand_EnMS_Documentation_Form
+File Type||Understand_EnMS_Documentation_Form
+Short Description||The purpose of this guidance is to help in understanding the basics of EnMS documentation. It provides information on items that must be documented or recorded, as well as guidance for determining what additional documentation your specific organization needs. 
+File Name||Understanding EnMS Documentation.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20SAdoc_Understand%20EnMS%20Documentation.pdf
+Associated Tasks||
+----------
+Name||Checklist for Making Decisions on EmNS Documentation
+ID||Checklist_Making_Decisions_EnMS_Documentation
+File Type||Checklist_Making_Decisions_EnMS_Documentation
+Short Description||This resource provides users examples of criteria that could be useful in making decisions about documentation needed by the organization for its EnMS.
+File Name||Checklist for Making Decisions on EnMS Documentation.docx
+Link||
+Associated Tasks||
+----------
+Name||EnMS Records Check and Use the Evidence
+ID||EnMS_Records_Check_Use_Evidence
+File Type||EnMS_Records_Check_Use_Evidence
+Short Description||This resource presents users with the PDCA methodolgy to be used in checking records and using evidence from the EnMS.
+File Name||EnMS Records Check and Use the Evidence.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20SA%20doc_EnMS%20Records%20Check%20and%20Use%20the%20Evidence.pdf
+Associated Tasks||
+----------
+Name||System Assessment Tools
+ID||System_Tool_Assessment
+File Type||System_Tool_Assessment
+Short Description||A listing of industrial energy system tools developed by the U.S. DOE Advanced Manufacturing Office.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Pages/HomeTools_old.aspx
+Associated Tasks||12
+----------
+Name||Checklist of Document Control Basics
+ID||Checklist_Document_Control_Basics
+File Type||Checklist_Document_Control_Basics
+Short Description||This resource supports the tracking of documents, helping to keep them up-to-date.
+File Name||Checklist of Document Control Basics.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_3_1%20Tool%20Checklist%20of%20Document%20Control%20Basics.docx
+Associated Tasks||19
+----------
+Name||EnMS Document Control Index
+ID||EnMS_Document_Control_Index
+File Type||EnMS_Document_Control_Index
+Short Description||A resource for users to keep track of documents: where they are distributed, next review date, document owner and approval authority.
+File Name||EnMS Document Control Index.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_3_1%20Tool%20EnMS%20Document%20Control%20Index.docx
+Associated Tasks||19
+----------
+Name||EnMS Document Control Index Example
+ID||Example_EnMS_Document_Control_Index
+File Type||Example_EnMS_Document_Control_Index
+Short Description||An example EnMS document control index, with information filled out to show the tracking of documents: where they are distributed, next review date, document owner and approval authority.
+File Name||EnMS Document Control Index (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_3_1%20Tool%20EnMS%20Document%20Control%20Index.docx
+Associated Tasks||19
+----------
+Name||EnMS Records Control Index
+ID||EnMS_Records_Control_Index
+File Type||EnMS_Records_Control_Index
+Short Description||A template for use while documenting an EnMS Control Index .
+File Name||EnMS Records Control Index.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_3_1%20Tool%20EnMS%20Document%20Control%20Index.docx
+Associated Tasks||19
+----------
+Name||EnMS Records Control Index Example
+ID||Example_EnMS_Records_Control_Index
+File Type||Example_EnMS_Records_Control_Index
+Short Description||This resource provides an example of an EnMS document control index table.  
+File Name||EnMS Records Control Index (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_3_2%20Example%20EnMS%20Records%20Control%20Index.pdf
+Associated Tasks||19
+----------
+Name||Significant Energy Use Operating Criteria Worksheet
+ID||Significant_Energy_Use_Operating_Criteria_Worksheet
+File Type||Significant_Energy_Use_Operating_Criteria_Worksheet
+Short Description||This document provides guidance in developing criteria for SEUs, helping to define operating criteria specifications for an equipment related significant energy use. 
+File Name||SEU Operating Criteria Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_5_1%20Tool%20SEU%20Operating%20Criteria%20Worksheet.docx
+Associated Tasks||16
+----------
+Name||Operational Controls Checklist
+ID||Operational_Controls_Checklist
+File Type||Operational_Controls_Checklist
+Short Description||This checklist provides guidance on SEU operational controls.
+File Name||Operational Controls Checklist.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_5_1%20Tool%20Operational%20Controls%20Checklist.docx
+Associated Tasks||16
+----------
+Name||Generally accepted EnPIs
+ID||Generally_Accepted_EnPIs
+File Type||Generally_Accepted_EnPIs
+Short Description||A list of examples of energy performance indicators (EnPIs) for common energy systems.
+File Name||Generally Accepted EnPIs.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_5%20Example%20EnPIs%20for%20Common%20Energy%20Systems.docx
+Associated Tasks||8
+----------
+Name||EnPI Tracking Example
+ID||Example_EnPI_Tracking
+File Type||Example_EnPI_Tracking
+Short Description||A worksheet with example data populating a matrix that may be used to track EnPIs.
+File Name||EnPI Tracking Example.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_5%20Example%20EnPI%20Tracking.xlsx
+Associated Tasks||8
+----------
+Name||Energy Considerations in Design Worksheet
+ID||Energy_Considerations_Design_Worksheet
+File Type||Energy_Considerations_Design_Worksheet
+Short Description||A template for use when reviewing and considering design energy inputs.
+File Name||Energy Considerations in Design Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_6%20Tool%20Worksheet%20for%20Energy%20Considerations%20in%20Design.doc
+Associated Tasks||18
+----------
+Name||Example Misapplications of Energy-Efficient Technologies
+ID||Example_Misapplications_Energy_Efficient_Technologies
+File Type||Example_Misapplications_Energy_Efficient_Technologies
+Short Description||This resource gives users a practical example of how energy efficient technologies may be used incorrectly in motor and AC applications.
+File Name||Example Misapplications of Energy Efficiency Technologies.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_6%20Example%20Misapplications%20of%20EE%20Technologies.pdf
+Associated Tasks||18
+----------
+Name||Life Cycle Cost Assessment Worksheet
+ID||Life_Cycle_Cost_Assessment_Worksheet
+File Type||Life_Cycle_Cost_Assessment_Worksheet
+Short Description||This spreadsheet assists users in performing a life-cycle cost analysis.
+File Name||Life Cycle Cost Assessment Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Tool%20Life%20Cycle%20Cost%20Assessment%20Worksheet.doc
+Associated Tasks||22
+----------
+Name||Life Cycle Resources List
+ID||Tool_Life_Cycle_Resources_List
+File Type||Tool_Life_Cycle_Resources_List
+Short Description||This resource provides various links for users to reference on different websites.
+File Name||Life Cycle Resource List.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Tool%20Life%20Cycle%20Resource%20List.pdf
+Associated Tasks||22
+----------
+Name||Life Cycle Cost Assessment Worksheet (example)
+ID||Example_Life_Cycle_Cost_Assessment_Worksheet
+File Type||Example_Life_Cycle_Cost_Assessment_Worksheet
+Short Description||A spreadsheet with example data filled in to help guide users through the cost analysis process.
+File Name||Life Cycle Cost Assessment Worksheet (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Example%20LCC%20Assessment%20Worksheet.pdf
+Associated Tasks||22
+----------
+Name||Working with Corporate to Establish Energy Related Procurement Processes
+ID||Establishing_Energy_Related_Procurement_Processes
+File Type||Establishing_Energy_Related_Procurement_Processes
+Short Description||This resource is a "questions" checklist for users to evaluate and determine a baseline and develop action plans in establishing energy related procurement processes.
+File Name||Working with Corporate to Establish Energy Related Procurement.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Tool%20Working%20w%20Corp%20to%20Estab%20Energy%20Related%20Proc.docx
+Associated Tasks||22
+----------
+Name||Procurement Checklist
+ID||Procurement_Checklist
+File Type||Procurement_Checklist
+Short Description||This checklist can be used to review your organization’s current purchasing process for products, equipment and energy services that can significantly impact energy performance.  
+File Name||Procurement Checklist.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Tool%20Procurement%20Checklist.doc
+Associated Tasks||22
+----------
+Name||Energy Purchasing Specification Worksheets
+ID||Energy_Purchasing_Specification_Worksheets
+File Type||Energy_Purchasing_Specification_Worksheets
+Short Description||This resource is a worksheet for users that provide details in their energy purchases.
+File Name||Energy Purchasing Specifications Worksheets.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_8_1%20Tool%20Energy%20Purchasing%20Specifications%20Worksheets.xlsx
+Associated Tasks||22
+----------
+Name||Energy Purchasing Specification Summary
+ID||Energy_Purchasing_Specification_Summary
+File Type||Energy_Purchasing_Specification_Summary
+Short Description||A summary sheet that may be used for documentation on energy purchases including authorization. 
+File Name||Energy Purchasing Specifications Summary.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_8_1%20Tool%20Energy%20Purchasing%20Specifications%20Summary.docx
+Associated Tasks||22
+----------
+Name||SEU Future Energy Estimate Worksheet
+ID||SEU_Future_Energy_Estimate_Worksheet
+File Type||SEU_Future_Energy_Estimate_Worksheet
+Short Description||This worsheet provides users with a spreadsheet to calculate expected energy consumption demands.
+File Name||SEU Future Energy Estimate Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_6%20Tool%20SEU%20Future%20Energy%20Estimate%20Worksheet.docx
+Associated Tasks||8,14
+----------
+Name||Energy Measurement Plan Worksheet
+ID||Energy_Measurement_Plan_Worksheet
+File Type||Energy_Measurement_Plan_Worksheet
+Short Description||A worksheet to assist in the development an energy measurement plan for their facility 
+File Name||Energy Measurement Plan Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_8%20Tool%20Energy%20Measuremt%20Plan%20Worksheet.doc
+Associated Tasks||15
+----------
+Name||Equipment Energy Measurement Plan
+ID||Equipment_Energy_Measurement_Plan
+File Type||Equipment_Energy_Measurement_Plan
+Short Description||This resource provides guidance on developing an equipment energy measurement plan.
+File Name||Equipment Energy Measurement Plan.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_8%20Tool%20Equipment%20Energy%20Measurement%20Plan.docx
+Associated Tasks||15
+----------
+Name||Equipment Energy Measurement Plan Example
+ID||Example_Equipment_Energy_Measurement_Plan
+File Type||Example_Equipment_Energy_Measurement_Plan
+Short Description||This worksheet shows an example of an Equipment Energy Measurement Plan.
+File Name||Equipment Energy Measurement Plan (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_8%20Example%20Equipment%20Energy%20Measurement%20Plan.pdf
+Associated Tasks||15
+----------
+Name||Calibration Plan
+ID||Calibration_Plan
+File Type||Calibration_Plan
+Short Description||This worksheet is a reference for users who wish to develop a calibration plan. 
+File Name||Calibration Plan.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_10%20Tool%20Calibration%20Plan.doc
+Associated Tasks||15
+----------
+Name||Calibration Record
+ID||Calibration_Record
+File Type||Calibration_Record
+Short Description||This reference may be used as documented evidence of implementation of the facility calibration plan.
+File Name||Calibration Record.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_10%20Tool%20Calibration%20Record.doc
+Associated Tasks||15
+----------
+Name||Equipment Calibration Record
+ID||Equipment_Calibration_Record
+File Type||Equipment_Calibration_Record
+Short Description||This resource can be used as documented evidence of an implemented Equipment Calibration process within the facility.
+File Name||Equipment Calibration Record.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_10%20Tool%20Equipment%20Calibration%20Record.doc
+Associated Tasks||15
+----------
+Name||Monitoring and Measurement of Key Characteristics Planning Worksheet
+ID||Monitoring_Measurement_Key_Characteristics_Planning_Worksheet
+File Type||Monitoring_Measurement_Key_Characteristics_Planning_Worksheet
+Short Description||A worksheet to assist users in identifying, planning and documenting key characteristics.
+File Name||Monitoring and Measure Key Characteristics Planning Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1%20Tool%20Monit%20and%20Measure%20Key%20Char%20Planning%20Wrksht.doc
+Associated Tasks||15
+----------
+Name||Monitoring and Measurement of Key Characteristics Planning Worksheet (example)
+ID||Example_Monitoring_Measurement_Key_Characteristics_Planning_Worksheet
+File Type||Example_Monitoring_Measurement_Key_Characteristics_Planning_Worksheet
+Short Description||This worksheet helps to understand key characteristics needed in during the  monitoring and measurement planning cycle.
+File Name||Monitoring and Measure Key Characteristics Planning Worksheet (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1%20Example%20Monit%20and%20Measure%20Key%20Char%20Planng%20Wrksht.pdf
+Associated Tasks||15
+----------
+Name||Compliance Evaluation Checklist
+ID||Compliance_Evaluation_Checklist
+File Type||Compliance_Evaluation_Checklist
+Short Description||A checklist template to document compliance evaluations.
+File Name||Compliance Evaluation Checklist.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_3%20Tool%20Compliance%20Evaluation%20Checklist.docx
+Associated Tasks||5
+----------
+Name||Internal Audit Schedule Template
+ID||Internal_Audit_Schedule_Template
+File Type||Internal_Audit_Schedule_Template
+Short Description||This template provides users a monthly overview when beginning to schedule internal audits.
+File Name||Internal Audit Schedule Template.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Internal%20Audit%20Schedule%20Template.docx
+Associated Tasks||23
+----------
+Name||Format for Internal Audit Schedule-Commercial Building (example)
+ID||Example_Format_Internal_Audit_ Schedule_Commercial_Building
+File Type||Example_Format_Internal_Audit_ Schedule_Commercial_Building
+Short Description||An example format for an annual Internal Audit Schedule by department/function. This format is designed to capture the auditing of all EnMS processes and energy performance improvements across all relevant departments/functions. 
+File Name||Format for Internal Audit Schedule _Commercial Bldg (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Example%20Format%20for%20Internal%20Audit%20Sch_%20Comm%20Bldg.pdf
+Associated Tasks||23
+----------
+Name||Format for Internal Audit Schedule-Manufacturing (example)
+ID||Example_Format_Internal_Audit_ Schedule_Manufacturing
+File Type||Example_Format_Internal_Audit_ Schedule_Manufacturing
+Short Description||An example format for an annual Internal Audit Schedule by department/function. This format is designed to capture the auditing of all EnMS processes and energy performance improvements across all relevant departments/functions. 
+File Name||Format for Internal Audit Schedule _Mfg (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Example%20Format%20for%20Internal%20Audit%20Schedule_%20Mfg.pdf
+Associated Tasks||23
+----------
+Name||Internal Audit Schedule (example)
+ID||Example_Internal_Audit_Schedule
+File Type||Example_Internal_Audit_Schedule
+Short Description||An audit schedule filled in to provide users with a demonstration of what the audit schedule may simulate.
+File Name||Internal Audit Schedule (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Example%20Internal%20Audit%20Schedule.pdf
+Associated Tasks||23
+----------
+Name||Internal Audit Plan-Commercial (example)
+ID||Example_Internal_Audit_Plan_Commercial
+File Type||Example_Internal_Audit_Plan_Commercial
+Short Description||An audit schedule filled in with commercial building headers to provide users with a demonstration of what the audit schedule may simulate.
+File Name||
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Example%20Internal%20Audit%20Plan_Commercial%20Bldg%20141021.pdf
+Associated Tasks||23
+----------
+Name||Internal Audit Plan-Industrial (example)
+ID||Example_Internal_Audit_Plan_Industrial
+File Type||Example_Internal_Audit_Plan_Industrial
+Short Description||An audit schedule filled in with industrial facility headers to provide users with a demonstration of what the audit schedule may simulate.
+File Name||Internal Audit Plan_Industrial (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Example%20Internal%20Audit%20Plan_Industrial%20141021.pdf
+Associated Tasks||23
+----------
+Name||Internal Audit Plan Template
+ID||Internal_Audit_Plan_Template
+File Type||Internal_Audit_Plan_Template
+Short Description||A template that can be used when starting an internal audit plan.
+File Name||Internal Audit Plan Template.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Internal%20Audit%20Plan%20Template.doc
+Associated Tasks||23
+----------
+Name||Audit Finding Form
+ID||Audit_Finding_Form
+File Type||Audit_Finding_Form
+Short Description||Template for users to document audit findings.
+File Name||Audit Finding Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Audit%20Finding%20Form.docx
+Associated Tasks||23
+----------
+Name||Introduction to Internal Auditing Concepts
+ID||Introduction_Internal_Auditing_Concepts
+File Type||Introduction_Internal_Auditing_Concepts
+Short Description||A detailed overview of internal audit concepts.
+File Name||Introduction to Internal Auditing Concepts.pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Intro%20to%20Internal%20Auditing%20Concepts.pdf
+Associated Tasks||23
+----------
+Name||Corrective Action/Preventive Action Request Form
+ID||Corrective_Action_Preventive_Action_Request_Form
+File Type||Corrective_Action_Preventive_Action_Request_Form
+Short Description||A template to create an internal corrective action request form in order to process their organizational corrective action / preventive action request requests.
+File Name||Correct Action-Preventive Action Request Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_5%20Tool%20CARPAR%20Form.doc
+Associated Tasks||17
+----------
+Name||Corrective Action-Preventive Action Request Tracking Log
+ID||CAR_PAR_Tracking_Log
+File Type||CAR_PAR_Tracking_Log
+Short Description||A template to track and log organizational corrective action / preventive action requests.
+File Name||Correct Action-Preventive Action Request Tracking Log.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_5%20Tool%20CARPAR%20Tracking%20Log.docx
+Associated Tasks||17
+----------
+Name||CAR/PAR Tracking Log (example)
+ID||Example_CAR_PAR_Tracking_Log
+File Type||Example_CAR_PAR_Tracking_Log
+Short Description||This resource gives users an example of a corrective action / preventive action request tracking log.
+File Name||
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_5%20Example%20CARPAR%20Tracking%20Log.pdf
+Associated Tasks||17
+----------
+Name||Management Review Data Assignment Sheet
+ID||Management_Review_Data_Assignment_Sheet
+File Type||Management_Review_Data_Assignment_Sheet
+Short Description||A template to assist in planning out the management review with assignments.
+File Name||Management Review Data Assignment Sheet.docx
+Link||https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#
+Associated Tasks||25
+----------
+Name||Management Review Presentation (example)
+ID||Example_Management_Review_Presentation
+File Type||Example_Management_Review_Presentation
+Short Description||An example management review presentation that can be customized for any organization.
+File Name||Management Review Presentation_Industrial (example).pptx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%205_1%20Example%20Mgmt%20Review%20Presentation_Industrial.pdf
+Associated Tasks||25
+----------
+Name||Management Review Preparation Information (example) 
+ID||Example_Management_Review_Preparation_Information
+File Type||Example_Management_Review_Preparation_Information
+Short Description||This resource provides an example of detailed information compiled for management review that would be summarized further and visually enhanced to present to top management. These details would then be maintained as back-up information for the management representative in the event it is needed to answer questions from management during the review.
+File Name||Management Review Prep Info_Industrial (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%205_1%20Example%20Mgmt%20Review%20Prep%20Info_Industrial.pdf
+Associated Tasks||25
+----------
+Name||Management Review Record Form
+ID||Management_Review_Record_Form
+File Type||Management_Review_Record_Form
+Short Description||A template that may be used to document the management review, attendees and what was covered/need follow up.
+File Name||Management Review Record Form.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%205_1%20Tool%20Management%20Review%20Record%20Form.doc
+Associated Tasks||25
+----------
+Name||Legal and Other Requirements Related to Energy (example)
+ID||Example_Legal_Other_Requirements_Related_Energy
+File Type||Example_Legal_Other_Requirements_Related_Energy
+Short Description||This resource provides examples of the energy-related legal and other requirements related to the use and consumption of energy at an industrial facility.
+File Name||Legal and Other Requirements (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_1%20Example%20Legal%20and%20Other%20Requirements.pdf
+Associated Tasks||5
+----------
+Name||Legal and Other Requirements Tracking Matrix
+ID||Legal_Other_Requirements_Tracking_Matrix
+File Type||Legal_Other_Requirements_Tracking_Matrix
+Short Description||A blank template for users to begin tracking legal and other requirements.
+File Name||Legal and Other Requirements Tracking Matrix.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_1%20Tool%20Legal%20and%20Other%20Rqmts%20Tracking%20Matrix.doc
+Associated Tasks||5
+----------
+Name||Types of Energy Management Data (examples)
+ID||Example_Types_Energy_Management_Data
+File Type||Example_Types_Energy_Management_Data
+Short Description||A list of examples of energy management data.
+File Name||Types of Energy Management Data (examples).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_2_3%20Example%20Types%20of%20Energy%20Management%20Data.pdf
+Associated Tasks||6
+----------
+Name||Process Flow Diagram (example)
+ID||Example_Process_Flow_Diagram
+File Type||Example_Process_Flow_Diagram
+Short Description||This document shows users an example of what a process flow diagram looks like for an energy system.
+File Name||Process Flow Diagram (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_1%20Example%20Process%20Flow%20Diagram.docx
+Associated Tasks||7
+----------
+Name||Energy Use Worksheet
+ID||Energy_Use_Worksheet
+File Type||Energy_Use_Worksheet
+Short Description||This resource helps users identify systems, equipment, processes and operations that use the most significant amounts of energy.
+File Name||Energy Use Worksheet Template.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_1%20Tool%20Energy%20Use%20Worksheet.xlsx
+Associated Tasks||6,7
+----------
+Name||Potential Responsible Parties for Data Collection
+ID||Potential_Responsible_Parties_Data_Collection
+File Type||Potential_Responsible_Parties_Data_Collection
+Short Description||This document provides a listing of the possible positions to be assigned energy management data collection responsibilities.
+File Name||Potential Responsible Parties for Data Collection.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_2%20Tool%20Pot%20Responsible%20Parties%20for%20Data%20Collection.doc
+Associated Tasks||4
+----------
+Name||Data Collection Responsibilities Table
+ID||Data_Collection_Responsibilities_Table
+File Type||Data_Collection_Responsibilities_Table
+Short Description||A matrix table template for users to document their organization's data collection responsibilities.
+File Name||Data Collection Responsibilities Table.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_2%20Tool%20Data%20Collection%20Management%20Matrix.docx
+Associated Tasks||4
+----------
+Name||Data Collection Management Matrix
+ID||Data_Collection_Management_Matrix
+File Type||Data_Collection_Management_Matrix
+Short Description||This matrix table can be used to track and collect data.
+File Name||Data Collection Management Matrix.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_2%20Tool%20Data%20Collection%20Management%20Matrix.docx
+Associated Tasks||4
+----------
+Name||Data Collection Management Matrix Industrial (example)
+ID||Example_Data_Collection_Management_Matrix_Industrial
+File Type||Example_Data_Collection_Management_Matrix_Industrial
+Short Description||A data collection matrix table with example industrial data populating fields for reference purposes.
+File Name||Data Collection Management Matrix_Industrial (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_2%20Example%20Data%20Collection%20Mgmt%20Matrix_Ind.pdf
+Associated Tasks||4
+----------
+Name||Data Collection Management Matrix Commercial (example)
+ID||Example_Data_Collection_Management_Matrix_Commercial
+File Type||Example_Data_Collection_Management_Matrix_Commercial
+Short Description||A data collection management matrix table with example commercial data populating fields for reference purposes.
+File Name||Data Collection Management Matrix_Commercial (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_2%20Example%20Data%20Collection%20Mgmt%20Matrix_Comm.pdf
+Associated Tasks||4
+----------
+Name||Energy Footprint Tool
+ID||Energy_Footprint_Tool
+File Type||Energy_Footprint_Tool
+Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Associated Tasks||6,7
+----------
+Name||Case Study for a Large Enterprise
+ID||Case_Study_Large_Enterprise
+File Type||Case_Study_Large_Enterprise
+Short Description||This resource shows energy tracking data for a large food manufacturing plant. Energy data being tracked include  utility inputs,  annual energy cost for electricity and natural gas, and water usage and cost.
+File Name||Energy Tracking Large Enterprise Case Study (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_4_1%20Example%20Case%20Study%20Large%20Ent%20Energy%20Tracking.pdf
+Associated Tasks||7
+----------
+Name||Energy Tracking Small Enterprise Case Study (example)
+ID||Case_Study_Small_Enterprise
+File Type||Case_Study_Small_Enterprise
+Short Description||This resource shows a very simple approach to energy tracking which may be adequate for many small businesses.
+File Name||Energy Tracking Small Enterprise Case Study (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_4_1%20Example%20Case%20Study%20Small%20Ent%20Energy%20Tracking.pdf
+Associated Tasks||7
+----------
+Name||DOE Energy Performance Indicator (EnPI) tool
+ID||DOE_Energy_Performance_Indicator_Tool
+File Type||DOE_Energy_Performance_Indicator_Tool
+Short Description||The EnPI tool is a regression analysis based tool developed by the U.S. Department of Energy to help plant and corporate managers establish a normalized baseline of energy consumption, track annual progress of intensity improvements, energy savings, Superior Energy Performance (SEP) EnPIs, and other EnPIs that account for variations due to weather, production, and other variables.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnPI.aspx
+Associated Tasks||
+----------
+Name||Equipment List for a Small Manufacturer
+ID||Example_Equipment_List_Small_Manufacturer
+File Type||Example_Equipment_List_Small_Manufacturer
+Short Description||This resource lists examples of industrial plant equipment.
+File Name||Equipment List for a Small Manufacturer (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_1%20Example%20Industrial%20Plant%20Equipment%20List.doc
+Associated Tasks||7
+----------
+Name||Equipment List for a Commercial Building
+ID||Example_Equipment_List_Commercial_Building
+File Type||Example_Equipment_List_Commercial_Building
+Short Description||This resource lists examples of commercial building equipment.
+File Name||Equipment List for a Commercial Building (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_1%20Example%20Commercial%20Building%20Equipment%20List.doc
+Associated Tasks||7
+----------
+Name||Personnel Associated with Significant Energy Uses (example)
+ID||Example_Personnel_Associated_SEUs
+File Type||Example_Personnel_Associated_SEUs
+Short Description||This resource lists examples of personnel associated with significant energy users within the organization.
+File Name||Personnel Associated with SEUs (example).pdf
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_1%20Example%20Personnel%20Associated%20with%20SEUs.docx
+Associated Tasks||7
+----------
+Name||Methodology for Conducting an Energy Balance
+ID||Methodology_for_Conducting_Energy_Balance
+File Type||Methodology_for_Conducting_Energy_Balance
+Short Description||A description of the methodology for conducting an energy balance.
+File Name||Methodology for Conducting an Energy Balance.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_2%20Tool%20Energy%20Balance%20Methodology.docx
+Associated Tasks||7
+----------
+Name||Energy Balance Example
+ID||Example_Energy_Balance
+File Type||Example_Energy_Balance
+Short Description||An example energy balance for a small food processing plant. 
+File Name||Energy Balance Example.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_2%20Example%20Energy%20Balance.xlsx
+Associated Tasks||7
+----------
+Name||Equipment List for an Industrial Plant
+ID||Example_Industrial_Plant_Equipment_List
+File Type||Example_Industrial_Plant_Equipment_List
+Short Description||This resource lists examples of industrial plant equipment.
+File Name||Equipment List for an Industrial Plant (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_1%20Example%20Industrial%20Plant%20Equipment%20List.doc
+Associated Tasks||7
+----------
+Name||Documenting SEU Criteria and Method Worksheet
+ID||Worksheet_Documenting_SEU_Criteria_Method
+File Type||Worksheet_Documenting_SEU_Criteria_Method
+Short Description||A template for users to document their organizational criteria method used in identifying and establishing significant energy uses. 
+File Name||Documenting SEU Criteria and Method Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_3%20Tool%20Worksheet%20for%20Documenting%20SEU%20Criteria%20and%20Method.doc
+Associated Tasks||8
+----------
+Name||Checklist of Other Methods to Identify Energy Opportunities
+ID||Checklists_Identify_Energy_Opportunities_Other_Methods
+File Type||Checklists_Identify_Energy_Opportunities_Other_Methods
+Short Description||A checklist that users may use to document recommendations/findings of other methods being used to identify energy opportunities.
+File Name||Checklist of Other Methods to Identify Opportunities.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_6_1%20Tool%20Checklist%20of%20Other%20Methods%20to%20Identify%20Opps.docx
+Associated Tasks||12
+----------
+Name||Prioritizing Energy Opportunities Examples and Worksheets
+ID||Prioritizing_Energy_Opportunities_Examples_Worksheets
+File Type||Prioritizing_Energy_Opportunities_Examples_Worksheets
+Short Description||This checklist shows examples on documenting how and why opportunities are prioritized.
+File Name||Prioritizing Energy Opportunities Example Worksheets.xlsx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_6_2%20Tool%20Prioritizing%20Energy%20Opps%20Ex%20Worksheets.xlsx
+Associated Tasks||12
+----------
+Name||Checklist of Potential EnPIs
+ID||Checklists_Potential_EnPIs
+File Type||Checklists_Potential_EnPIs
+Short Description||A Y/N checklist to determine potential EnPIs.
+File Name||Checklist of Potential EnPIs.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_7_1%20Tool%20Checklist%20of%20Potential%20EnPIs.docx
+Associated Tasks||10
+----------
+Name||Checklist of Other Factors Affecting EnPIs
+ID||Checklist_Other_Factors_Affecting_EnPIs
+File Type||Checklist_Other_Factors_Affecting_EnPIs
+Short Description||This resource is a checklist of other factors affecting the EnPIs, with indicators showing R^2 and P values.
+File Name||Checklist of Other Factors Affecting EnPIs.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_7_1%20Tool%20Checklist%20of%20Other%20Factors%20Affecting%20EnPIs.docx
+Associated Tasks||10
+----------
+Name||several energy modeling and software programs
+ID||Several_Energy_Modeling_Software_Programs
+File Type||Several_Energy_Modeling_Software_Programs
+Short Description||Resource gives a brief overview of several energy modeling software programs to help users decide which application may be best for their organization
+File Name||
+Link||http://www.buildingenergysoftwaretools.com/
+Associated Tasks||10
+----------
+Name||Energy Objectives and Targets Worksheet
+ID||Energy_Objectives_Targets_Worksheet
+File Type||Energy_Objectives_Targets_Worksheet
+Short Description||This worksheet provides a template for users to document Energy Objectives and Targets for their EnMS.
+File Name||Energy Objectives and Targets Worksheet.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_9%20Tool%20Energy%20Objectives%20and%20Targets%20Worksheet.doc
+Associated Tasks||11
+----------
+Name||Energy Management Action Plan Template
+ID||Energy_Management_Action_Plan_Template
+File Type||Energy_Management_Action_Plan_Template
+Short Description||A template to assist in the preparation of an energy management action plan (i.e., action plan)
+File Name||Energy Management Action Plan Template.docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_11%20Tool%20Energy%20Mgmt%20Action%20Plan%20Template.doc
+Associated Tasks||13
+----------
+Name||Energy Management Action Plan Example
+ID||Example_Energy_Management_Action_Plan
+File Type||Example_Energy_Management_Action_Plan
+Short Description||An example energy management action plan.
+File Name||
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_11%20Example%20Energy%20Management%20Action%20Plan.pdf
+Associated Tasks||13
+----------
+Name||Example input and output of the Energy Footprint tool for a hypothetical commercial building
+ID||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Commercial_Building
+File Type||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Commercial_Building
+Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Associated Tasks||
+----------
+Name||Example input and output of the Energy Footprint tool for a hypothetical industrial facility
+ID||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Industrial_Facility
+File Type||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Industrial_Facility
+Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Associated Tasks||
+----------
+Name||Energy Performance Indicators (EnPIs) for Common Energy Systems (example)
+ID||Example_EnPIs_Common_Energy_Systems
+File Type||Example_EnPIs_Common_Energy_Systems
+Short Description||This resources shows examples on tracking energy performance indicators (EnPIs): units, related system and notes.
+File Name||EnPIs for Common Energy Systems (example).docx
+Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_5%20Example%20EnPIs%20for%20Common%20Energy%20Systems.docx
+Associated Tasks||
+----------
+Name||ENERGY STAR Guidelines for Energy Management
+ID||ENERGY_STAR_Guidelines_for_Energy_Management
+File Type||ENERGY_STAR_Guidelines_for_Energy_Management
+Short Description||ENERGY STAR Guidelines for Energy Management guidance document.
+File Name||
+Link||https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf
+Associated Tasks||1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20
+----------
+Name||The Business Case for Energy Efficiency
+ID||Energy_Efficiency_Business_Case
+File Type||Energy_Efficiency_Business_Case
+Short Description||
+File Name||
+Link||https://www.energystar.gov/buildings/about-us/how-can-we-help-you/build-energy-program/business-case
+Associated Tasks||3
+----------
+Name||The Benefits of ISO 50001
+ID||ISO_50001_Benefits
+File Type||ISO_50001_Benefits
+Short Description||The DOE Advanced Manufacturing Office ISO 50001 Frequently Asked Questions webpage.
+File Name||
+Link||https://www.energy.gov/eere/amo/iso-50001-frequently-asked-questions
+Associated Tasks||3
+----------
+Name||EnPI Lite
+ID||EnPI_Lite
+File Type||EnPI_Lite
+Short Description||The U.S. DOE Energy Performance Indicator Lite (EnPI Lite) tool estimates energy savings relative to relevant variables like production levels and weather.
+File Name||
+Link||https://enpi.industrialenergytools.com/
+Associated Tasks||10
+----------
+Name||50001 Ready Protocol
+ID||50001_Ready_Protocol
+File Type||50001_Ready_Protocol
+Short Description||The U.S. DOE 50001 Ready Protocol sets forth the verifiable methodology for determining and demonstrating achievement of the energy performance improvement level claimed by an organization for a defined facility.
+File Name||
+Link||https://enpi.industrialenergytools.com/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
+Associated Tasks||
+----------
+Name||50001 Ready Self-Attestation Form
+ID||50001_Ready_Self-Attestation_Form
+File Type||50001_Ready_Self-Attestation_Form
+Short Description||This document is for energy management teams using the 50001 Ready Navigator tool to attest to the U.S. Department of Energy that they have successfully implemented a 50001 Ready energy management system. This document must be signed by an Energy Management Representative with the responsibility and authority to make this attestation and by an Top Management executive.
+File Name||
+Link||https://betterbuildingssolutioncenter.energy.gov/resources/50001-ready-self-attestation-form
+Associated Tasks||25
+----------
+Name||Energy Footprint Lite Data Uploader
+ID||Energy_Footprint_Lite_Data_Uploader
+File Type||Energy_Footprint_Lite_Data_Uploader
+Short Description||The Energy Footprint Lite Data Uploader provides a structure format to track energy consumption and relevant variables.
+File Name||
+Link||https://enpi.industrialenergytools.com/footprint_tool_lite_blank.xlsm
+Associated Tasks||6,9,10,14,24
+----------
+Name||ENERGY STAR Portfolio Manager®
+ID||Portfolio_Manager
+File Type||Portfolio_Manager
+Short Description||EPA's online energy management and tracking tool enables you to measure and track the energy and water performance of any building over time.
+File Name||
+Link||http://portfoliomanager.energystar.gov/
+Associated Tasks||6,11
+----------
+Name||Energy Intensity Baselining and Tracking Guidance
+ID||Energy_Intensity_Baselining_And_Tracking_Guidance
+File Type||Energy_Intensity_Baselining_And_Tracking_Guidance
+Short Description||The Energy Intensity Baselining and Tracking Guidance for the Better Buildings, Better Plants Program helps companies meet the program’s reporting requirements by describing the steps necessary to develop an energy consumption and energy intensity baseline and calculating consumption and intensity changes over time. Most of the calculation steps described in this document are performed automatically by DOE’s Energy Performance Indicator 4.0 tool.
+File Name||
+Link||https://energy.gov/sites/prod/files/2016/02/f29/Energy%20Intensity%20Baselining%20and%20Tracking%20Guidance.pdf
+Associated Tasks||6,9,10
+----------
+Name|| Advanced Manufacturing Office Training Website
+ID||AMO_Training
+File Type||AMO_Training
+Short Description||Training on various systems/components that use energy is available to help manufacturing plants and buildings run more efficiently.
+File Name||
+Link||https://energy.gov/eere/amo/training
+Associated Tasks||21
+----------
+Name||Energy Footprint Tool Guide
+ID||Energy_Footprint_Tool_Guide
+File Type||Energy_Footprint_Tool_Guide
+Short Description||Detailed guide for the Energy Footprint Tool.
+File Name||
+Link||https://ecenter.ee.doe.gov/EM/tools/Documents/downloads/EnergyFootprintGuide.pdf
+Associated Tasks||6
+----------
+Name||Energy Footprint Tool Video
+ID||Energy_Footprint_Tool_Video
+File Type||Energy_Footprint_Tool_Video
+Short Description||Video walk-through of the Energy Footprint Tool.
+File Name||
+Link||https://youtu.be/JxJJobiVBRs
+Associated Tasks||6
+----------
+Name||50001 Ready Energy Consumption Baseline Report
+ID||50001Ready_Energy_Consumption_Baseline_Report
+File Type||50001Ready_Energy_Consumption_Baseline_Report
+Short Description||Energy Consumption Baseline report to satisfy the energy reporting requirement for initial 50001 Ready recognition.
+File Name||
+Link||https://betterbuildingssolutioncenter.energy.gov/resources/50001-ready-energy-consumption-baseline-report
+Associated Tasks||24
+----------
+Name||50001 Ready Energy Report for Portfolio Manager
+ID||50001Ready_PortfolioManager
+File Type||50001Ready_PortfolioManager
+Short Description||50001 Ready reporting template for Portfolio Manager
+File Name||
+Link||http://portfoliomanager.energystar.gov/pm/reports/template/1853651/share/48541d01-da7a-4490-b48e-4a09b6a269e6
+Associated Tasks||24
 ----------LICENSE----------
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License

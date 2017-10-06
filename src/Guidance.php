@@ -159,14 +159,17 @@ class Guidance
 
     /**
      * Load resources
+     *
+     * @throws \Exception
      */
     protected function loadResources()
     {
         $this->resources = Resource::load();
 
         foreach($this->resources as $resource){
-            foreach($resource->associatedTasks as $associatedTask) {
-                $this->tasks[$associatedTask]->resources[$resource->id] = $resource;
+            foreach($resource->associatedTasks as $associatedTaskID) {
+                if ($associatedTaskID < 1 or $associatedTaskID > 25) throw new \Exception('Task ID not valid', 404);
+                $this->tasks[$associatedTaskID]->resources[$resource->id] = $resource;
             }
         }
     }

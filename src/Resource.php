@@ -41,6 +41,12 @@ class Resource
      * @var array
      */
     public $associatedTasks = [];
+    /**
+     * Language displayed for resource
+     *
+     * @var string
+     */
+    public $language_displayed;
 
     /**
      * Load resource file and return array of Resources
@@ -58,16 +64,19 @@ class Resource
         array_shift($resource_file_contents);
         array_pop($resource_file_contents);
         array_pop($resource_file_contents);
+        $resource = null;
         foreach ($resource_file_contents as $resource_file_content) {
             $resource_details = explode(PHP_EOL, $resource_file_content);
-            $resource = null;
             foreach ($resource_details as $resource_detail) {
-                $data = explode('::', $resource_detail);
+                $data = array_map('trim',explode('||', $resource_detail));
                 if (count($data) > 1) {
                     list($field, $value) =$data;
                     if ($field == 'Name') {
+                        //Store last resource if present
+                        if (!is_null($resource)) $resources[] = $resource;
                         $resource = new Resource();
                         $resource->name = $value;
+                        $resource->language_displayed = $language_displayed;
                     }
                     if ($field == 'ID') $resource->id = $value;
                     if ($field == 'File Type') $resource->file_type = $value;
@@ -75,12 +84,11 @@ class Resource
                     if ($field == 'File Name') $resource->file_name = $value;
                     if ($field == 'Link') $resource->link = $value;
                     if ($field == 'Associated Tasks') {
-                        $resource->associatedTasks = array_map('trim', explode(',', trim($value)));
-                        $resources[] = $resource;
+                        $associatedTasks = array_map('trim', explode(',', trim($value)));
+                        if ($associatedTasks[0]!="") $resource->associatedTasks = $associatedTasks;
                     }
                 }
             }
-
         }
         return $resources;
     }
