@@ -125,7 +125,7 @@ class Task
      *
      * @var
      */
-    public $resources;
+    public $resources = [];
     /**
      * Array of prerequisite task ids
      *
