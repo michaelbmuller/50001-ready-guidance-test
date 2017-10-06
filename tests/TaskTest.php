@@ -10,17 +10,17 @@ class TaskTest extends TestCase
     public function test_task()
     {
         $task = Task::load(1);
-        $this->assertEquals(1, $task->id);
+        $this->assertEquals(1, $task->id());
         $this->assertEquals('en', $task->language_requested);
         $this->assertEquals('en', $task->language_displayed);
-        $this->assertEquals("Scope and Boundaries", $task->menuName);
+        $this->assertEquals("Scope and Boundaries", $task->getMenuName());
     }
 
     public function test_load_all_tasks()
     {
         for ($task_id = 1; $task_id <= 25; $task_id++) {
             $task = Task::load($task_id);
-            $this->assertEquals($task_id, $task->id);
+            $this->assertEquals($task_id, $task->id());
         }
     }
 

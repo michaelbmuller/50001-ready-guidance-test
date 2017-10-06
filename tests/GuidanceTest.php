@@ -32,7 +32,7 @@ class GuidanceTest extends TestCase
     {
         foreach ($this->guidance->getTasks() as $task_id => $task) {
             $this->assertInstanceOf(Task::class, $task);
-            $this->assertEquals($task_id, $task->id);
+            $this->assertEquals($task_id, $task->id());
         }
     }
 
@@ -40,19 +40,19 @@ class GuidanceTest extends TestCase
     {
         foreach ($this->guidance->getTasks('planning') as $task_id => $task) {
             $this->assertInstanceOf(Task::class, $task);
-            $this->assertEquals($task_id, $task->id);
+            $this->assertEquals($task_id, $task->id());
             $this->assertEquals('Planning', $task->section);
         }
     }
 
     public function test_get_task()
     {
-        $this->assertEquals(1, $this->guidance->getTask(1)->id);
+        $this->assertEquals(1, $this->guidance->getTask(1)->id());
     }
 
     public function test_task_by_menu_name()
     {
-        $this->assertEquals('1', $this->guidance->getTaskByMenuName('	Scope and Boundaries')->id);
+        $this->assertEquals('1', $this->guidance->getTaskByMenuName('Scope and Boundaries')->id());
     }
 
     public function test_sections()
@@ -90,7 +90,7 @@ class GuidanceTest extends TestCase
     public function test_iso_sections()
     {
         $tasks = $this->guidance->getTasksByISO('4.7');
-        $this->assertEquals(25, $tasks[0]->id);
+        $this->assertEquals(25, $tasks[0]->id());
     }
 
     public function test_task_leads_to()

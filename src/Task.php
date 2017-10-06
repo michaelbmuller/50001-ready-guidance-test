@@ -25,11 +25,11 @@ class Task
     /**
      * @var integer
      */
-    var $id;
+    protected $id;
     /**
      * @var string
      */
-    var $version;
+    protected $version;
     /**
      * Language Code Requested
      *
@@ -74,45 +74,45 @@ class Task
      *
      * @var string
      */
-    var $title;
+    protected $title;
     /**
      * Menu Name
      * - translated if selected and available
      *
      * @var string
      */
-    var $menuName;
+    protected $menuName;
     /**
      * Getting It Done
      * - translated if selected and available
      *
      * @var string
      */
-    var $getting_it_done;
+    protected $getting_it_done;
     /**
      * Task Overview
      *
      * @var string
      */
-    var $task_overview;
+    protected $task_overview;
     /**
      * Full Description
      *
      * @var
      */
-    var $full_description;
+    protected $full_description;
     /**
      * Tips related to other implemented ISO management systems
      *
      * @var string
      */
-    var $other_iso_tips;
+    protected $other_iso_tips;
     /**
      * Tips related to previous ENERGY STAR experience
      *
      * @var string
      */
-    var $energyStar_tips;
+    protected $energyStar_tips;
     /**
      * Optional custom tips
      * - default null
@@ -182,6 +182,36 @@ class Task
         $this->full_description = trim($taskPieces[12]);
         $this->other_iso_tips = trim($taskPieces[14]);
         $this->energyStar_tips = trim($taskPieces[16]);
+    }
+
+    /**
+     * Return ID
+     *
+     * @return integer
+     */
+    public function id()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Return Menu Name
+     *
+     * @return mixed|string
+     */
+    public function getMenuName()
+    {
+        return $this->menuName;
+    }
+
+    /**
+     * Return Title
+     *
+     * @return mixed|string
+     */
+    public function getTitle()
+    {
+        return $this->title;
     }
 
     /**

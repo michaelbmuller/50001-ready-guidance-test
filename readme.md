@@ -72,16 +72,11 @@ $task = Task::load(1,'en');
 <?php
 /** @var \DOE_50001_Ready\Task $task */
 //Available Task Data 
-$task->id;
-$task->menuName;
-$task->version;
-$task->language;
+$task->id();
+$task->getMenuName();
+$task->getTitle();
+$task->language_requested;
 $task->language_displayed;
-$task->getting_it_done;
-$task->task_overview;
-$task->full_description;
-$task->other_iso_tips;
-$task->energyStar_tips;
 
 /** ONLY AVAILABLE WHEN TASKS LOADED THROUGH GUIDANCE */
 $task->sectionCode;

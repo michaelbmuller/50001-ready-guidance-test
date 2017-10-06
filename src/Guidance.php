@@ -86,7 +86,7 @@ class Guidance
     {
         for ($task_id = 1; $task_id <= 25; $task_id++) {
             $task = Task::load($task_id, $this->language, $this->markupProcessor);
-            $this->tasks[$task->id] = $task;
+            $this->tasks[$task->id()] = $task;
         }
     }
 
@@ -111,6 +111,7 @@ class Guidance
     {
         $file_contents = file_get_contents(dirname(__FILE__) . "/../guidance/task_structure.txt");
         $currentTask = null;
+        $currentSectionCode = null;
         foreach (explode("\r\n", $file_contents) as $row) {
             $items = explode(":", $row);
             if (count($items) < 2) continue;
@@ -166,8 +167,8 @@ class Guidance
     {
         $this->resources = Resource::load();
 
-        foreach($this->resources as $resource){
-            foreach($resource->associatedTasks as $associatedTaskID) {
+        foreach ($this->resources as $resource) {
+            foreach ($resource->associatedTasks as $associatedTaskID) {
                 if ($associatedTaskID < 1 or $associatedTaskID > 25) throw new \Exception('Task ID not valid', 404);
                 $this->tasks[$associatedTaskID]->resources[$resource->id] = $resource;
             }
@@ -200,6 +201,7 @@ class Guidance
     /**
      * Return section name
      *
+     * @param  $sectionCode string
      * @return array
      */
     public function getSectionName($sectionCode)
@@ -267,21 +269,21 @@ class Guidance
     /**
      * Return first Task with Matching Menu Name
      *
+     * @param $menuName string
      * @return string
      */
     public function getTaskByMenuName($menuName)
     {
         foreach ($this->tasks as $task) {
-            if ($task->menuName = $menuName) return $task;
+            if ($task->getMenuName() == $menuName) return $task;
         }
         return false;
     }
 
-
     /**
      * Return array of Tasks matching ISO section
      *
-     * @param $iso_section
+     * @param $iso_section string
      * @return array
      */
     public function getTasksByISO($iso_section)
