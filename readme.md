@@ -102,7 +102,7 @@ $task->getEnergyStarTips();
 $task->getCustomTips();
 ```
 
-#### Accessing Task Details
+#### Accessing Resource Details
    
 ```php
 <?php
