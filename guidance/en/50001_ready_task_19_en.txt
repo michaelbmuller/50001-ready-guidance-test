@@ -606,12 +606,6 @@ Task 19: We have developed and have processes in place to control the 50001 Read
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>When implementing the EnMS program, the work performed and documented within the ENERGY STAR program should be included among the documents and records required and needed to meet the requirements of ISO 50001.</p>
-
-<p>The ENERGY STAR program does not require the development and implementation of an energy manual. While this is something that is also not required by ISO 50001, it is recommended. The benefits of developing an energy manual for your organization are described in this task.</p>
-
-<p>The ENERGY STAR program does not require processes to be in place to control EnMS documents and records, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>ISO 9001 and/or ISO 14001 experience can be helpful for the following documentation and records:</p>
 
 <ul>
@@ -622,5 +616,11 @@ Task 19: We have developed and have processes in place to control the 50001 Read
 </ul>
 
 <p>Documents determined by the organization to be necessary for the EnMS. An organization experienced with management system documentation for ISO 14001:2015 and/or ISO 9001:2015 can easily apply that experience to identifying and maintaining the documentation needed for an ISO 50001:2011 EnMS. ISO 14001:2015 (environmental), ISO 9001:2015 (quality) and ISO 50001:2011 (energy) do not require the use of a manual. However, many organizations that have implemented one of more of these standards have developed and use a management system manual to provide an overview or &ldquo;roadmap&rdquo; of the processes of the management system and their interactions and to point to related documentation. A common approach is to integrate management system manuals for energy, environmental and safety and health. The new editions (2015) of ISO 9001 ISO 14001 have incorporated the common management system text of the ISO High Level Structure (HLS) for requirements related to documented information. Similar to previous versions of ISO 9001 and ISO 14001, ISO 50001:2011 has separate sets of requirements for controlling document and records. However, there is no reason that processes for controlling documented information in ISO 9001 and ISO 14001 systems could not be easily applied to control EnMS documents and records. This is another area where it is not an efficient or effective use of resources to develop something different for ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>When implementing the EnMS program, the work performed and documented within the ENERGY STAR program should be included among the documents and records required and needed to meet the requirements of ISO 50001.</p>
+
+<p>The ENERGY STAR program does not require the development and implementation of an energy manual. While this is something that is also not required by ISO 50001, it is recommended. The benefits of developing an energy manual for your organization are described in this task.</p>
+
+<p>The ENERGY STAR program does not require processes to be in place to control EnMS documents and records, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

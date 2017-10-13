@@ -276,12 +276,12 @@ Task 7: We have analyzed our energy consumption data at the system/equipment lev
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
+<p>Organizations with an ISO 14001:2015 environmental management system may have information that identifies energy using systems and equipment within the environmental aspects information. But the comprehensiveness of that information for purposes of the EnMS may be lacking and should be reality checked by the energy team.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
 <p>As an ENERGY STAR user, you may likely already be analyzing your organization&rsquo;s past and present energy consumption, using tools like Portfolio Manager. Data analysis tips are discussed in Steps 2.1, 2.2, 2.3 and 2.4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). The 50001 Ready Navigator guidance in this step provides additional analysis tools and tips for your consideration.</p>
 
 <p>The [resource](ENERGY_STAR_Guidelines_for_Energy_Management) do not provide guidance on keeping a list of energy-using systems. Instead, it&rsquo;s left up to each organization to determine the appropriate level of detail when collecting data. ISO 50001 requires that the organization determine its significant energy uses (SEUs).</p>
 
 <p>Note: SEUs may be different from those areas, facilities, equipment identified in the Energy Star program.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Organizations with an ISO 14001:2015 environmental management system may have information that identifies energy using systems and equipment within the environmental aspects information. But the comprehensiveness of that information for purposes of the EnMS may be lacking and should be reality checked by the energy team.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

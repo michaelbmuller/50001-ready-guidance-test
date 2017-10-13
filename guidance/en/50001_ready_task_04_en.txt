@@ -261,12 +261,12 @@ Task 4: We have established an energy team that meets regularly and includes a m
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The Energy Director role described in Step 1.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) is very similar to the role of the management representative for ISO 50001&mdash;and likely should be the same person. This task describes the management representative&rsquo;s specific responsibilities according to the ISO 50001 standard.</p>
-
-<p>The Energy Team that your organization formed in Step 1.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) can effectively function as your energy team for ISO 50001. In the case of ENERGY STAR, the energy team is led by an Energy Director. For ISO 50001, the team is led by the management representative (i.e., energy manager) and authorized by top management.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>An appointed management representative is no longer a requirement in the ISO 14001:2015 and ISO 9001:2015 standards. However, the ISO 50001:2011 standard retains the construct of a management representative. An organization that conformed to the previous versions of ISO 14001 and ISO 9001 has experience with the roles and responsibilities of the management representative position. Under ISO 14001 and ISO 9001 systems, the level of personnel assigned to report to top management on the performance of the management system could be equivalent to the ISO 50001 management representative position.</p>
 
 <p>For ISO 50001:2011, the energy management team is an important construct. Teams are not explicitly included in ISO 14001:2015 or ISO 9001:2015 requirements, but both those standards do address top management support for personnel in relevant roles important to the management system.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The Energy Director role described in Step 1.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) is very similar to the role of the management representative for ISO 50001&mdash;and likely should be the same person. This task describes the management representative&rsquo;s specific responsibilities according to the ISO 50001 standard.</p>
+
+<p>The Energy Team that your organization formed in Step 1.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) can effectively function as your energy team for ISO 50001. In the case of ENERGY STAR, the energy team is led by an Energy Director. For ISO 50001, the team is led by the management representative (i.e., energy manager) and authorized by top management.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

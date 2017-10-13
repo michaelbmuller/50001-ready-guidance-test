@@ -108,10 +108,10 @@ Task 13: After using a documented project selection process, we have developed a
 
 <p>&nbsp;</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
+<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is very similar (but not quite identical) to the information that must be included in action plans under ISO 50001:2011. All three standards are concerned with what will be done, who will be responsible, timeframes for completion and how the results will be evaluated. In this regard, there is considerable potential for integration of these planning activities across the three standards. The primary difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Step 3.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
 
 <p>Step 4 and Step 5 in the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) are all about developing and implementing action plans. The guidance in this 50001 Ready Navigator task contains similar guidance, including helpful resources like an action plan template.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is very similar (but not quite identical) to the information that must be included in action plans under ISO 50001:2011. All three standards are concerned with what will be done, who will be responsible, timeframes for completion and how the results will be evaluated. In this regard, there is considerable potential for integration of these planning activities across the three standards. The primary difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

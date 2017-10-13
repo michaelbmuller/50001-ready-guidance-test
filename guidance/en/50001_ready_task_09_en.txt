@@ -67,8 +67,8 @@ Task 9: We have determined the relevant variables that affect energy consumption
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The ENERGY STAR program does not require determining relevant variables. Appendix 4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides detail on normalizing data, which may use similar variables.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Relevant variables are determined for an ISO 50001:2011 EnMS, something that does not apply to ISO 14001 environmental management systems (EMS).</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The ENERGY STAR program does not require determining relevant variables. Appendix 4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides detail on normalizing data, which may use similar variables.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

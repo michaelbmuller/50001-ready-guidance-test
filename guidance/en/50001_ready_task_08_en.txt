@@ -117,8 +117,8 @@ Task 8: We have determined our Significant Energy Uses (SEUs) and determined the
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be determined or a plan to be in place for updating them, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Both ISO 14001:2015 and ISO 50001:2011 use the construct of &ldquo;significance.&rdquo; In an ISO 14001 environmental management system (EMS) significant environmental aspects are determined, while in an ISO 50001:2011 EnMS, significant energy uses are determined. Although the criteria (and typically the methodologies) used to determine significance differs between ISO 50001 and ISO 14001, the end result is that determining significance helps to establish priorities and focus resources in both management systems.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be determined or a plan to be in place for updating them, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

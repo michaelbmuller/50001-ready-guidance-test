@@ -230,10 +230,10 @@ Task 24: We have determined our energy performance improvement.
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
+<p>Calculation of energy performance improvement is not required for ISO 9001:2015 or ISO 14001:2015.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Through ENERGY STAR programs, such as the ENERGY STAR Challenge for Industry, you may already be tracking your energy performance improvement. Connecting your ENERGY STAR reporting to your 50001 Ready EnMS is one way to complete this task.</p>
 
 <p>If you prefer to use EnPI Lite, ENERGY STAR Portfolio Manager data can be easily used as input data to the tool. Instructions for using EnPI Lite can be accessed at the EnPI Lite homepage.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Calculation of energy performance improvement is not required for ISO 9001:2015 or ISO 14001:2015.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

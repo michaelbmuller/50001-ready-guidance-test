@@ -230,12 +230,12 @@ Task 22: We have established energy performance criteria spanning the operating 
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>When implementing EnMS, you may need to review details in the supply management portion contained in Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. EnMS procurement requirements related to SEUs extends its reach to applicable suppliers and vendors.</p>
-
-<p>In addition, Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> briefly mentions identifying internal roles, including those related to supply management. ISO 50001 has more specific requirements related to lifecycle criteria and the purchase of energy supply, with guidance provided in this task.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems have processes in place to both determine and communicate the requirements that need to be met in their procurement actions. When implementing ISO 50001:2011, the existing procurement processes should be evaluated and leveraged as appropriate as the potential starting point for meeting the procurement-related requirements of ISO 50001:2011.</p>
 
 <p>Consistent with a life cycle perspective, determination of environmental requirements for the procurement of products and services are part of an ISO 14001:2015 system. These processes for determining environmental requirements could be leveraged to help meet the ISO 50001 requirements for life cycle criteria in procurement actions that can significantly impact energy performance. ISO 9001:2015 systems provide processes for control of externally provided products and services that could provide an excellent starting point for implementing ISO 50001:2011 procurement requirements.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>When implementing EnMS, you may need to review details in the supply management portion contained in Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. EnMS procurement requirements related to SEUs extends its reach to applicable suppliers and vendors.</p>
+
+<p>In addition, Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> briefly mentions identifying internal roles, including those related to supply management. ISO 50001 has more specific requirements related to lifecycle criteria and the purchase of energy supply, with guidance provided in this task.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

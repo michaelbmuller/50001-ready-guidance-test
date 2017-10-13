@@ -261,12 +261,12 @@ Task 11: We have established an energy baseline(s), approved objectives and ener
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
+<p>Objectives and information on when they will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting energy objectives and targets for the ISO 50001:2011 system. Different personnel may be involved but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Step 2.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides tips on establishing a baseline--and Step 2.3, Step 3.0, Step 3.3, and Step 6.1 all provide tips on measuring energy performance against the energy baseline.</p>
 
 <p>If your organization already has data stored in the ENERGY STAR [resource](Portfolio_Manager), this data can be exported into [resource](EnPI_Lite) in order to estimate energy savings relative to relevant variables like production levels and weather. More instructions are available on the EnPI Lite webpage. The EnPI Lite energy model results in a normalized baseline using variables which impact energy consumption (variable such as weather and production).</p>
 
 <p>Your organization may have already established energy performance improvement objectives and targets using guidance from Step 3.3 &ldquo;Setting Goals&rdquo; and Step 4.1 &ldquo;Define Technical Steps and Targets&rdquo; of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). This 50001 Ready Navigator task provides specific guidance to ensure your organization&rsquo;s energy objectives and targets meet certain criteria specified in the ISO 50001 standard.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Objectives and information on when they will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting energy objectives and targets for the ISO 50001:2011 system. Different personnel may be involved but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

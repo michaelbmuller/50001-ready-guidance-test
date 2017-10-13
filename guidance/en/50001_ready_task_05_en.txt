@@ -151,8 +151,6 @@ Task 5: We have identified energy-related legal requirements that apply to our o
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The [resource](ENERGY_STAR_Guidelines_for_Energy_Management) does not make reference to legal and other requirements.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>The ISO 14001:2015 processes for determining and accessing applicable legal and other requirements can be leveraged to meet similar requirements of ISO 50001:2011. Integrating energy-related legal and other requirements with environmental legal and other requirements is relatively straightforward, although the personnel assigned responsibilities for the energy requirements may be different than the assigned personnel for environmental. If integration is not an option, then the existing processes used to identify and access environmental requirements can be duplicated for use by the ISO 50001 system.</p>
 
 <p>The ISO 9001:2015 processes for identifying and meeting applicable statutory and regulatory requirements are embedded in customer focus and determination of requirements for products and services. Since ISO 50001:2011 does not address energy requirements as part of customer, product or service requirements, ISO 9001 may not provide the processes needed to fully meet the ISO 50001 requirements for legal and other requirements.</p>
@@ -160,5 +158,7 @@ Task 5: We have identified energy-related legal requirements that apply to our o
 <p>Processes used to evaluate and update environmental legal and other requirements under ISO 14001:2015 can be adapted and applied to evaluate and update energy-related legal and other requirements for ISO 50001:2011. Or, a single integrated process can be used to meet the requirements of both standards.</p>
 
 <p>ISO 50001:2011 would not necessarily require any adaptions to a compliance evaluation processes maintained under ISO 14001:2015. The same process could be used for both systems separately or on an integrated basis. The differences would likely relate to the personnel assigned responsibility and authority for the compliance evaluation process and the specific legal and other requirements (called &ldquo;compliance obligations&rdquo; in ISO 14001) involved. Integrating energy-related compliance evaluations with environmental can be an effective use of resources. Such integration with an ISO 9001:2015 system would not be as straightforward and usually results in separate processes. This is due to the fact that in ISO 9001:2015 quality systems, statutory and regulatory requirements are part of the determination and review of the requirements for products and services, including customer requirements. They are almost exclusively product-or service-focused and are achieved through the controls and performance evaluation processes of the quality system.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The [resource](ENERGY_STAR_Guidelines_for_Energy_Management) does not make reference to legal and other requirements.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -169,8 +169,8 @@ Task 3: Our top management has expressed its commitment to the 50001 Ready syste
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Step 5.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) gives guidance on raising awareness across a number of key stakeholders, including top management. Step 1 of the ENERGY STAR Guidelines also gives a suggestion for the Energy Director to involve upper management as an &ldquo;executive ally.&rdquo; In ISO 50001, this suggestion is formalized by <em>requiring</em> that top management demonstrates its commitment to the EnMS and energy performance improvement, which includes understanding their specific roles and responsibilities.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>ISO 9001:2015, ISO 14001:2015 and ISO 50001:2011 all specify the responsibilities for the role of top management within the management system. There is considerable overlap between these three standards with respect to those responsibilities. ISO 50001 does include some additional management responsibilities that are unique, but they are consistent with the leadership requirements of ISO 14001 and ISO 9001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Step 5.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) gives guidance on raising awareness across a number of key stakeholders, including top management. Step 1 of the ENERGY STAR Guidelines also gives a suggestion for the Energy Director to involve upper management as an &ldquo;executive ally.&rdquo; In ISO 50001, this suggestion is formalized by <em>requiring</em> that top management demonstrates its commitment to the EnMS and energy performance improvement, which includes understanding their specific roles and responsibilities.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

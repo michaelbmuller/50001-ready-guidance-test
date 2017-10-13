@@ -86,8 +86,8 @@ Task 18: We consider energy performance opportunities when designing new, modifi
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>When implementing an EnMS, you may need to review details in the design management portion contained in Step 4.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). An EnMS extends its methodology within design requirements for facilities, equipment, systems and processes. Records of results of energy performance evaluations within the designs are also required.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>For organizations with an ISO 9001:2015 quality management system and/or ISO 14001:2015 environmental management system, it is very important to note that the design requirements of ISO 50001:2011 <em>do not</em> include design of products and services. However, the ISO 9001 processes for infrastructure; environment for operation; planning and control of changes; and, control of externally provided processes, products and services could be leveraged (with some modifications) to help meet the design requirements of ISO 50001 <em>as related to new, modified and renovated facilities, equipment, systems and processes.</em> The ISO 14001:2015 processes for controlling planned changes might be a starting point for meeting the design requirements of ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>When implementing an EnMS, you may need to review details in the design management portion contained in Step 4.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). An EnMS extends its methodology within design requirements for facilities, equipment, systems and processes. Records of results of energy performance evaluations within the designs are also required.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -249,12 +249,12 @@ Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
+<p>Organizations that have implemented ISO 9001:2015 and/or ISO 14001:2015 may or may not be monitoring and measuring energy-related metrics, but processes should be in place to plan and implement critical monitoring, measurement, analysis and evaluation activities. These processes can be leveraged to plan and implement the monitoring, measurement and analysis activities required for ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
 <p>This guidance is relevant to Step 2.4 and 4.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Your organization may already be monitoring, measuring and analyzing energy consumption for all sources, but guidance in this task can be helpful to ensure this is being done with appropriate detail and rigor to meet the requirements of ISO 50001.</p>
 
 <p>The ENERGY STAR program does not require significant energy uses (SEUs) to be monitored and measured, something that is required by ISO 50001.</p>
 
 <p>Also, applying guidance from Steps 5.5, 6.1 and 6.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) to the EnMS action plans and periodically evaluating effectiveness will help support your EnMS implementation.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Organizations that have implemented ISO 9001:2015 and/or ISO 14001:2015 may or may not be monitoring and measuring energy-related metrics, but processes should be in place to plan and implement critical monitoring, measurement, analysis and evaluation activities. These processes can be leveraged to plan and implement the monitoring, measurement and analysis activities required for ISO 50001:2011.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

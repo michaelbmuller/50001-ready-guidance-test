@@ -251,10 +251,6 @@ Task 20: All organizational personnel have been informed about our energy policy
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Step 1.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) suggests communicating the energy policy to all staff and employees to encourage them to get involved. ISO 50001 <strong><em>requires</em></strong> that the energy policy is communicated at all levels within your organization.</p>
-
-<p>ENERGY STAR users communicate externally to stakeholders so the decision on whether to communicate externally has already been made and addressed in your communication plan. When implementing your EnMS, the method(s) used for external communication would be addressed in the communication plan.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>Like ISO 50001:2011, both ISO 14001:2015 and ISO 9001:2015 require top management to establish, implement and maintain a policy that must be communicated within the organization. In all three standards, top management also is required to communicate the importance of effective [energy/environmental/quality] management. The communication processes in place in one management system to achieve these items can be used for the same purpose in the other management system(s).</p>
 
 <p>The training and awareness processes used in ISO 14001:2015 and ISO 9001:2015 management systems to ensure needed awareness among personnel are likely well suited for use by the ISO 50001:2011 energy management system. Although the content of the awareness training and communication will vary depending on the specific standard involved, the underlying processes used to achieve the requisite awareness can be common to the environmental, energy and/or quality management systems.</p>
@@ -266,5 +262,9 @@ Task 20: All organizational personnel have been informed about our energy policy
 <p>In both ISO 9001:2015 and ISO 14001-2015 systems, some decisions on external communications already have been made. External communication of management system and compliance obligations information is required by ISO 14001. ISO 9001:2015 requires that the quality policy be available to relevant interested parties. Both standards require processes for communicating with external providers. So, an organization already conforming to ISO 9001 or ISO 14001 that is implementing ISO 50001 would typically evaluate whether these same decisions would be appropriate for the EnMS. Or, they simply could be accepted as de facto decisions on external communication for purposes of implementing ISO 50001.</p>
 
 <p>Organizations conforming to ISO 9001 or ISO 14001 already have external communication processes that address the what, when, with whom and how (i.e. method) of the communications. These same external communication processes can be used for purposes of the EnMS.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Step 1.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) suggests communicating the energy policy to all staff and employees to encourage them to get involved. ISO 50001 <strong><em>requires</em></strong> that the energy policy is communicated at all levels within your organization.</p>
+
+<p>ENERGY STAR users communicate externally to stakeholders so the decision on whether to communicate externally has already been made and addressed in your communication plan. When implementing your EnMS, the method(s) used for external communication would be addressed in the communication plan.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

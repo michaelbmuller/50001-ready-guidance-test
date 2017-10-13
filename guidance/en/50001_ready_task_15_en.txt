@@ -146,16 +146,16 @@ Task 15: We have an energy measurement plan, reviewed periodically, which define
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>This guidance is relevant to Step 4.1, 4.2, and 5.5 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. To define and implement an energy measurement plan, expand on the technical steps contained in Step 4.1 of the ENERGY STAR Guidelines by identifying key characteristics of your operations that determine energy performance and the associated monitoring and measurement requirements. This task contains guidance and several resources to help.</p>
-
-<p>Measurement needs may have been included when resources were identified in Step 4.2 of the ENERGY STAR Guidelines. When implementing the EnMS, it will be necessary to ensure measurement needs are periodically reviewed. These reviews of measurement needs can be incorporated to the periodic reviews your organization already has in place according to the guidance in Step 5.5 of the ENERGY STAR Guidelines.</p>
-
-<p>Monitoring and measurement systems for your EnMS will include calibration of the monitoring and measurement equipment to ensure data are accurate and repeatable, and maintaining associated records documentation and records.</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
 <p>ISO 14001:2015 and ISO 9001:2015 do not require measurement plans. However, both require that the organization determine what needs monitored and measured and when, the methods, criteria for evaluation and when the results will be analyzed. This information could be maintained as part of an integrated measurement plan that covers energy (ISO 50001:2011) and environmental (ISO 14001) and/or quality (ISO 9001).</p>
 
 <p>Both ISO 9001:2015 and ISO 14001:2015 require that the organization determine what needs to be monitored and measured. Since management systems and all their component processes must be maintained, those needs could be determined periodically, as-needed, or on an ongoing basis. It would not be difficult to meet ISO 50001:2011 requirements in this area by integrating periodic review of measurement needs across multiple management systems or instituting a stand-alone measurement needs review just for the EnMS.</p>
 
 <p>Calibration and/or verification processes implemented for ISO 9001:2015, ISO 14001:2015 or ISO 50001:2011 can be modified for use by the other management systems. The specific requirements related to calibration and verification varies between these standards, but they are not so different that separate calibration systems could be easily justified. ISO 9001:2015 has more explicit and robust requirements in this area, but either ISO 9001 or ISO 14001 calibration and verification processes could be adapted for use in an EnMS with appropriate modifications. A potential implementation issue could be &ldquo;ownership&rdquo; of the calibration processes if they are used across multiple management systems.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 4.1, 4.2, and 5.5 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. To define and implement an energy measurement plan, expand on the technical steps contained in Step 4.1 of the ENERGY STAR Guidelines by identifying key characteristics of your operations that determine energy performance and the associated monitoring and measurement requirements. This task contains guidance and several resources to help.</p>
+
+<p>Measurement needs may have been included when resources were identified in Step 4.2 of the ENERGY STAR Guidelines. When implementing the EnMS, it will be necessary to ensure measurement needs are periodically reviewed. These reviews of measurement needs can be incorporated to the periodic reviews your organization already has in place according to the guidance in Step 5.5 of the ENERGY STAR Guidelines.</p>
+
+<p>Monitoring and measurement systems for your EnMS will include calibration of the monitoring and measurement equipment to ensure data are accurate and repeatable, and maintaining associated records documentation and records.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
