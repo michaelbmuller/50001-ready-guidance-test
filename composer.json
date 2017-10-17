@@ -3,7 +3,7 @@
   "type": "library",
   "description": "50001 Ready Guidance",
   "keywords": ["50001 Ready", "ISO 50001", "DOE","USDOE"],
-  "license": "Apache-2.0",
+  "license": "MPL-2.0",
   "authors": [
     {
       "name": "Michael B Muller",
