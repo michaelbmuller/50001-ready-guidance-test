@@ -1,0 +1,116 @@
+USDOE 50001 READY NAVIGATOR TASK 13
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Projets d’amélioration
+----------TITLE----------
+Tâche 13: Après avoir utilisé un processus documenté de sélection de projets, nous avons élaboré des plans d’action et mis en œuvre des projets d’amélioration énergétique
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez le [resource](Energy_Management_Action_Plan_Template) pour cr&eacute;er des plans d&rsquo;action en vue d&rsquo;atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques de votre organisation, identifi&eacute;s dans le cadre de la t&acirc;che [task](Baselines, Objectives and Targets).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Une fois que vous aurez s&eacute;lectionn&eacute; les projets &eacute;nerg&eacute;tiques qui permettront &agrave; votre organisation d&rsquo;atteindre ses objectifs et ses cibles &eacute;nerg&eacute;tiques, d&eacute;signez un chef de projet dans chaque cas. Si la port&eacute;e et la complexit&eacute; du projet n&eacute;cessitent davantage de ressources, mettez sur pied une &eacute;quipe de projet avec l&rsquo;aide du repr&eacute;sentant de la direction et de la haute direction. Ensuite, &eacute;laborez un plan d&rsquo;action de gestion de l&rsquo;&eacute;nergie pour chaque projet. Un bon plan tient compte des ressources et inclut des activit&eacute;s de planification, de v&eacute;rification et de communication.</p>
+
+<p>Un plan d&rsquo;action de gestion de l&rsquo;&eacute;nergie &eacute;labor&eacute; en vue de satisfaire aux exigences de la norme ISO 50001 d&eacute;finit au moins les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Les activit&eacute;s &agrave; entreprendre pour mener &agrave; bien le projet et atteindre les cibles &eacute;nerg&eacute;tiques</li>
+	<li>Les ressources n&eacute;cessaires &agrave; la mise en &oelig;uvre des activit&eacute;s</li>
+	<li>Le d&eacute;lai d&rsquo;ex&eacute;cution des activit&eacute;s</li>
+	<li>La ou les personnes charg&eacute;es d&rsquo;entreprendre les activit&eacute;s</li>
+	<li>Une description de la m&eacute;thode de v&eacute;rification des r&eacute;sultats des projets</li>
+	<li>Une description de la m&eacute;thode de v&eacute;rification de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>Les plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie doivent &ecirc;tre document&eacute;s et tenus &agrave; jour &agrave; intervalles d&eacute;finis.</p>
+
+<p>La d&eacute;signation d&rsquo;un chef de projet responsable de l&rsquo;ensemble de la mise en &oelig;uvre de ce projet cr&eacute;e un unique point de contact entre la direction et l&rsquo;&eacute;quipe de projet. Cette personne dirige l&rsquo;&eacute;quipe de projet pour s&rsquo;assurer que la mise en &oelig;uvre respectera le plan d&rsquo;action.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;termin&eacute; les mesures &agrave; prendre, les &eacute;ch&eacute;anciers et les parties responsables</li>
+	<li>D&eacute;fini les m&eacute;thodes de v&eacute;rification</li>
+	<li>Communiqu&eacute; les attentes</li>
+	<li>Document&eacute; et mis &agrave; jour le ou les plans d&rsquo;action</li>
+	<li>Pris les mesures appropri&eacute;es</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.4.6 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;terminer les mesures &agrave; prendre, les &eacute;ch&eacute;anciers et les parties responsables)</p>
+
+<p>D&eacute;signez un chef de projet pour chaque projet &eacute;nerg&eacute;tique. Il mettra sur pied une &eacute;quipe de projet compos&eacute;e de repr&eacute;sentants des postes ou des secteurs appropri&eacute;s. L&rsquo;&eacute;quipe de projet dresse une liste des mesures &agrave; prendre pour mettre en &oelig;uvre le projet. Chacune de ces mesures n&eacute;cessite des ressources. L&rsquo;&eacute;quipe de projet documentera dans des plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie les mesures et les ressources requises. Le [resource](Energy_Management_Action_Plan_Template) peut &ecirc;tre un point de d&eacute;part utile.</p>
+
+<p>Au moment de d&eacute;finir les mesures n&eacute;cessaires &agrave; la mise en &oelig;uvre du projet, assurez-vous de tenir compte des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Les m&eacute;thodes &agrave; utiliser pour v&eacute;rifier les r&eacute;sultats du plan d&rsquo;action et les am&eacute;liorations du rendement obtenues</li>
+	<li>Toute modification de proc&eacute;d&eacute; ou de proc&eacute;dure exig&eacute;e par le projet</li>
+	<li>La formation des employ&eacute;s ou des sous-traitants &agrave; propos des changements apport&eacute;s en raison du projet, au besoin</li>
+	<li>La surveillance et la mesure continues des param&egrave;tres du projet, pour garantir que l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique sera constante au fil du temps</li>
+	<li>La communication des avantages aux intervenants</li>
+</ul>
+
+<p>Une liste d&eacute;taill&eacute;e des mesures garantira que les membres de l&rsquo;&eacute;quipe comprennent ce qui est n&eacute;cessaire &agrave; la mise en &oelig;uvre du projet, et qu&rsquo;ils peuvent expliquer efficacement &agrave; la direction quelles ressources seront n&eacute;cessaires.</p>
+
+<p>Une fois que la liste des activit&eacute;s et des ressources n&eacute;cessaires aura &eacute;t&eacute; dress&eacute;e, l&rsquo;&eacute;quipe d&eacute;finira les &eacute;ch&eacute;anciers d&rsquo;ex&eacute;cution des activit&eacute;s, en tenant compte de la disponibilit&eacute; des ressources et des d&eacute;lais &eacute;tablis pour l&rsquo;atteinte des objectifs et des cibles &eacute;nerg&eacute;tiques. Veillez &agrave; ce que les plans d&rsquo;action pr&eacute;cisent des dates limites et &agrave; ce que ces plans soient r&eacute;vis&eacute;s et mis &agrave; jour r&eacute;guli&egrave;rement.</p>
+
+<p>Attribuez les responsabilit&eacute;s aux personnes ou aux &eacute;quipes appropri&eacute;es, afin de veiller &agrave; ce que chaque mesure soit mise en &oelig;uvre. Assurez-vous que le plan d&rsquo;action mentionne les parties responsables. Le chef de projet peut utiliser le plan d&rsquo;action pour faire le suivi des progr&egrave;s des activit&eacute;s li&eacute;es au projet.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir les m&eacute;thodes de v&eacute;rification)</p>
+
+<p>Pour &eacute;valuer efficacement les r&eacute;sultats d&rsquo;un projet, le chef ou l&rsquo;&eacute;quipe de projet devra d&eacute;terminer qui va &ecirc;tre responsable de la v&eacute;rification du projet. La personne ou l&rsquo;&eacute;quipe qui en sera charg&eacute;e devrait avoir une connaissance pratique des syst&egrave;mes concern&eacute;s et &ecirc;tre apte &agrave; effectuer la collecte et l&rsquo;analyse des donn&eacute;es n&eacute;cessaires.</p>
+
+<p>Pour d&eacute;finir clairement la m&eacute;thode de v&eacute;rification, il faudra r&eacute;pondre aux questions suivantes :</p>
+
+<ul>
+	<li>Que va-t-on mesurer ou &eacute;valuer pour d&eacute;terminer les impacts du projet?</li>
+	<li>Comment va-t-on effectuer le mesure ou l&rsquo;&eacute;valuation?</li>
+</ul>
+
+<p>Les r&eacute;ponses &agrave; ces questions d&eacute;termineront les activit&eacute;s de mesure ou d&rsquo;&eacute;valuation n&eacute;cessaires &agrave; la v&eacute;rification. Tenez compte de tout instrument ou appareil de mesure qu&rsquo;on pourrait int&eacute;grer &agrave; la port&eacute;e du projet pour am&eacute;liorer les capacit&eacute;s de mesure et d&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique des syst&egrave;mes et des r&eacute;sultats du projet.</p>
+
+<p>Une fois que ces activit&eacute;s seront d&eacute;termin&eacute;es, le processus de v&eacute;rification devra &eacute;tablir une valeur de base ou une mesure des op&eacute;rations pr&eacute;alables au projet. Une fois le projet termin&eacute;, le processus de v&eacute;rification devra &eacute;valuer ou mesurer les r&eacute;sultats post&eacute;rieurs au projet. On pourra alors comparer les r&eacute;sultats estim&eacute;s ou escompt&eacute;s aux donn&eacute;es r&eacute;elles issues de la v&eacute;rification du projet, afin de d&eacute;terminer l&rsquo;efficacit&eacute; du plan d&rsquo;action.</p>
+
+<p>Le projet ne sera pas termin&eacute; tant que la v&eacute;rification des r&eacute;sultats ne sera pas termin&eacute;e et que l&rsquo;&eacute;quipe de projet ne les aura pas examin&eacute;s. Les m&eacute;thodes de v&eacute;rification et les r&eacute;sultats de cette v&eacute;rification devraient &ecirc;tre consign&eacute;s dans les plans d&rsquo;action de gestion &eacute;nerg&eacute;tique.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Communiquer les attentes)</p>
+
+<p>La premi&egrave;re &eacute;tape de la communication des attentes relatives &agrave; un projet &eacute;nerg&eacute;tique consiste &agrave; les d&eacute;finir en d&eacute;tail dans le [resource](Energy_Management_Action_Plan_Template).</p>
+
+<p>Tout participant &agrave; un projet &eacute;nerg&eacute;tique doit conna&icirc;tre son r&ocirc;le et ses responsabilit&eacute;s. Puisque les plans d&rsquo;action visent souvent des employ&eacute;s ne faisant pas partie de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, il est essentiel de leur expliquer leurs responsabilit&eacute;s et les attentes &agrave; leur &eacute;gard. Pour ce faire, il faudrait utiliser les m&eacute;thodes existantes de communication interne. Une r&eacute;union de lancement du projet, avec l&rsquo;ensemble du personnel concern&eacute;, peut &ecirc;tre un moyen efficace de communiquer les attentes relatives &agrave; ce projet. Elle peut aider les participants &agrave; comprendre comment leurs t&acirc;ches ou leurs actions s&rsquo;inscriront dans l&rsquo;effort collectif.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Documenter et mettre &agrave; jour les plans d&rsquo;action)</p>
+
+<p>La norme ISO 50001 exige que les plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie soient document&eacute;s. Le format du plan d&rsquo;action document&eacute; est d&eacute;termin&eacute; par votre organisation. Si celle-ci a d&eacute;j&agrave; cr&eacute;&eacute; un formulaire de planification de la gestion des projets, comparez-le aux exigences de la norme ISO 50001 relatives aux plans d&rsquo;action, et modifiez-le au besoin pour vous conformer &agrave; ces exigences. S&rsquo;il n&rsquo;existe aucun format, envisagez d&rsquo;utiliser le [resource](Energy_Management_Action_Plan_Template).</p>
+
+<p>L&rsquo;&eacute;quipe de mise en &oelig;uvre du projet tient r&eacute;guli&egrave;rement des r&eacute;unions afin d&rsquo;examiner le plan d&rsquo;action et de d&eacute;terminer les progr&egrave;s r&eacute;alis&eacute;s par rapport &agrave; l&rsquo;&eacute;ch&eacute;ancier. Durant les r&eacute;unions de l&rsquo;&eacute;quipe, utilisez le plan d&rsquo;action pour d&eacute;terminer si la mise en &oelig;uvre progresse comme pr&eacute;vu. De plus, profitez de ces r&eacute;unions pour d&eacute;terminer si vous avez besoin de plus de ressources ou s&rsquo;il faut inclure davantage d&rsquo;activit&eacute;s au plan d&rsquo;action. R&eacute;visez et mettez &agrave; jour les plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie conform&eacute;ment &agrave; l&rsquo;&eacute;ch&eacute;ancier et utilisez-les pour communiquer r&eacute;guli&egrave;rement avec la direction.</p>
+
+<p>Un [resource](Example_Energy_Management_Action_Plan) illustre un plan d&rsquo;action mis en &oelig;uvre, y compris la v&eacute;rification de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique obtenue.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Prendre les mesures appropri&eacute;es)</p>
+
+<p>Pour prendre les mesures appropri&eacute;es afin de mettre en &oelig;uvre les plans d&rsquo;action, le personnel pertinent doit s&rsquo;acquitter efficacement et sans d&eacute;lai des t&acirc;ches qui lui ont &eacute;t&eacute; assign&eacute;es. Les employ&eacute;s concern&eacute;s doivent comprendre tout impact r&eacute;el ou potentiel d&rsquo;une t&acirc;che sur une autre, afin d&rsquo;&eacute;viter tout &laquo; effet de cascade &raquo; involontaire.</p>
+
+<p>Une bonne gestion de projet peut garantir que les plans d&rsquo;action seront correctement mis en &oelig;uvre. Une communication constante &ndash; p. ex., rapports d&rsquo;&eacute;tape et r&eacute;unions de l&rsquo;&eacute;quipe de projet, s&rsquo;il y a lieu &ndash; contribuera &agrave; ce succ&egrave;s. Pour en savoir plus sur la gestion de projet, consultez le document [resource](Project_Management_for_EnMS_Implementation), qui explique les pratiques exemplaires qu&rsquo;on peut appliquer &agrave; la fois &agrave; la mise en &oelig;uvre de l&rsquo;ensemble du SGE et aux projets &eacute;nerg&eacute;tiques assortis de plans d&rsquo;action.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+
+<p>Quand vous planifiez d&rsquo;atteindre des objectifs, les normes ISO 14001:2015 et ISO 9001:2015 exigent que l&rsquo;organisation recueille une information tr&egrave;s similaire (mais pas tout &agrave; fait identique) &agrave; celle qui doit &ecirc;tre incluse dans les plans d&rsquo;action en vertu de la norme ISO 50001:2011. Les trois normes portent sur ce qui va &ecirc;tre fait, sur les personnes qui seront responsables, sur les &eacute;ch&eacute;anciers d&rsquo;ex&eacute;cution et sur le mode d&rsquo;&eacute;valuation des r&eacute;sultats. &Agrave; cet &eacute;gard, il existe un &eacute;norme potentiel d&rsquo;int&eacute;gration de ces activit&eacute;s de planification dans le cadre des trois normes. La principale diff&eacute;rence entre les trois normes &agrave; propos de cette planification tient au fait que la norme ISO 50001 utilise le concept de planification pour atteindre les objectifs et les cibles, tandis que les normes ISO 14001 et ISO 9001 n&rsquo;utilisent pas le concept de &laquo; cibles &raquo;.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 3.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) donne certaines directives sur la fa&ccedil;on d&rsquo;&eacute;valuer le potentiel d&rsquo;am&eacute;lioration &ndash; notamment en examinant les possibilit&eacute;s de r&eacute;duction de la consommation d&rsquo;&eacute;nergie.</p>
+
+<p>Les sections 4 et 5 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) portent sur l&rsquo;&eacute;laboration et la mise en &oelig;uvre des plans d&rsquo;action. La pr&eacute;sente t&acirc;che du dossier 50001 Ready Navigator propose des directives similaires, incluant des ressources utiles, comme un mod&egrave;le de plan d&rsquo;action.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

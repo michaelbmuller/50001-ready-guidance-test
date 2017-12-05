@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 10
 ----------MENU NAME----------
 Indicateurs de rendement énergétique (IRE)
 ----------TITLE----------
-Tâche 10 : Nous avons établi les indicateurs de rendement énergétique (IRE) et trouvé un moyen de les déterminer et de les mettre à jour.
+Tâche 10: Nous avons établi les indicateurs de rendement énergétique (IRE) et trouvé un moyen de les déterminer et de les mettre à jour.
 ----------GETTING IT DONE----------
 <ul>
 	<li>Utilisez le document [resource](Checklists_Potential_IRE) pour mieux d&eacute;finir les indicateurs de rendement &eacute;nerg&eacute;tique (IRE), qui fourniront des donn&eacute;es utiles &agrave; propos du rendement &eacute;nerg&eacute;tique de votre organisation.</li>

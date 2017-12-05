@@ -105,8 +105,6 @@ Task 13: After using a documented project selection process, we have developed a
 <p>Good project management can ensure that the action plans are properly implemented. Ongoing communication such as status reporting and project team meetings when appropriate will contribute to this success. For further information on project management, see [resource](Project_Management_for_EnMS_Implementation), which provides best practice guidance that can be applied to both the entire EnMS implementation and energy projects with associated action plans.</p>
 
 <p>[Accordion End]</p>
-
-<p>&nbsp;</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
 <p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is very similar (but not quite identical) to the information that must be included in action plans under ISO 50001:2011. All three standards are concerned with what will be done, who will be responsible, timeframes for completion and how the results will be evaluated. In this regard, there is considerable potential for integration of these planning activities across the three standards. The primary difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------

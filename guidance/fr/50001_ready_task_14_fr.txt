@@ -1,0 +1,261 @@
+USDOE 50001 READY NAVIGATOR TASK 14
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Surveillance
+----------TITLE----------
+Tâche 14 : Nous surveillons et analysons constamment notre consommation énergétique, nos UES, nos variables pertinentes et la progression et l’efficacité de nos plans d’action
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez le document [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) et/ou [resource](Energy_Measurement_Plan_Worksheet) pour d&eacute;terminer comment et &agrave; quelle fr&eacute;quence votre organisation surveillera, mesurera et analysera les principales caract&eacute;ristiques qui d&eacute;terminent votre rendement &eacute;nerg&eacute;tique. Il s&rsquo;agit des caract&eacute;ristiques suivantes :
+	<ul style="list-style-type:circle">
+		<li>Consommation &eacute;nerg&eacute;tique pour toutes les sources d&rsquo;&eacute;nergie</li>
+		<li>[task](Significant Energy Uses) et [task](Relevant Variables)</li>
+		<li>[task](Improvement Opportunities)</li>
+		<li>[task](Performance Indicators)</li>
+		<li>Progression et efficacit&eacute; des plans d&rsquo;action</li>
+		<li>Consommation &eacute;nerg&eacute;tique escompt&eacute;e et r&eacute;elle</li>
+	</ul>
+	</li>
+	<li>Si la planification &eacute;nerg&eacute;tique ne l&rsquo;a pas d&eacute;j&agrave; pr&eacute;vu, attribuez les responsabilit&eacute;s et mettez en &oelig;uvre la surveillance, la mesure et l&rsquo;analyse de la consommation &eacute;nerg&eacute;tique de votre organisation pour toutes les sources d&rsquo;&eacute;nergie.</li>
+	<li>Mettez en &oelig;uvre la surveillance, la mesure et l&rsquo;analyse des principales caract&eacute;ristiques de vos installations conform&eacute;ment &agrave; votre plan de surveillance, de mesure et d&rsquo;analyse.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La surveillance, la mesure et l&rsquo;analyse des donn&eacute;es sur le rendement est le prolongement logique des analyses effectu&eacute;es dans le groupe 2 (revue &eacute;nerg&eacute;tique). L&rsquo;efficacit&eacute; des d&eacute;cisions relatives &agrave; la gestion de l&rsquo;&eacute;nergie d&eacute;pend de la collecte et de l&rsquo;analyse constantes des donn&eacute;es &eacute;nerg&eacute;tiques et d&rsquo;autres donn&eacute;es. On utilise des syst&egrave;mes d&rsquo;&eacute;talonnage pour garantir qu&rsquo;on recueillera des donn&eacute;es exactes afin de faire des analyses fiables.</p>
+
+<p>La surveillance, la mesure et l&rsquo;analyse permettent &agrave; l&rsquo;organisation de d&eacute;terminer :</p>
+
+<ul>
+	<li>si les usages &eacute;nerg&eacute;tiques significatifs (UES) sont bien g&eacute;r&eacute;s;</li>
+	<li>si l&rsquo;organisation atteint ses actuels objectifs et cibles &eacute;nerg&eacute;tiques;</li>
+	<li>si les tendances en mati&egrave;re de rendement &eacute;nerg&eacute;tique pointent vers la direction souhait&eacute;e.</li>
+</ul>
+
+<p>Pour aider l&rsquo;organisation &agrave; faite ces d&eacute;terminations, on surveille, mesure et analyse les principales caract&eacute;ristiques des op&eacute;rations de l&rsquo;organisation qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique, &agrave; savoir : la consommation &eacute;nerg&eacute;tique, les UES et leurs variables pertinentes, les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, les IRE, l&rsquo;efficacit&eacute; des plans d&rsquo;action et la consommation r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue.</p>
+
+<p>L&rsquo;identification des UES et des variables pertinentes fait partie de la planification &eacute;nerg&eacute;tique (voir [task](Data Analysis) et [task](Relevant Variables)). Une fois que c&rsquo;est fait, vous devez surveiller, mesurer et analyser les UES et les variables pertinentes afin d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique et tout changement ou toute am&eacute;lioration.</p>
+
+<p>Les UES constituent un volet important du SGE. Surveillez le rendement &eacute;nerg&eacute;tique de vos UES, car de l&eacute;gers changements touchant leur fonctionnement ou des &eacute;carts relatifs aux proc&eacute;dures, &agrave; l&rsquo;&eacute;quipement ou &agrave; la maintenance peuvent influer sur la consommation &eacute;nerg&eacute;tique globale de votre organisation.</p>
+
+<p>Les possibilit&eacute;s d&rsquo;am&eacute;lioration sont un autre r&eacute;sultat de la revue &eacute;nerg&eacute;tique. Il faut que ce processus soit dynamique pour garantir que l&rsquo;on identifie, &eacute;value et met en &oelig;uvre continuellement de nouvelles possibilit&eacute;s, afin d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique et le SGE. Une surveillance r&eacute;guli&egrave;re des plans d&rsquo;action garantit que les projets d&rsquo;am&eacute;lioration demeureront sur la bonne voie et que les plans d&rsquo;action seront tenus &agrave; jour. On mesure et on analyse la progression et les r&eacute;sultats des plan d&rsquo;action, afin de garantir que les objectifs et les cibles sont bel et bien atteints. Les plans d&rsquo;action devraient &eacute;galement inclure des estimations de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique que devrait g&eacute;n&eacute;rer la mise en &oelig;uvre des plans d&rsquo;action. Un examen approfondi du plan d&rsquo;action inclura une &eacute;valuation des r&eacute;sultats r&eacute;els de ce plan par rapport aux estimations.</p>
+
+<p>Dans le cadre de la prochaine t&acirc;che ([task](Measurement)), on &eacute;laborera un plan de mesure &eacute;nerg&eacute;tique.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Surveill&eacute; et analys&eacute; la consommation pour toutes les sources d&rsquo;&eacute;nergie</li>
+	<li>Surveill&eacute; et analys&eacute; les UES et les variables pertinentes</li>
+	<li>V&eacute;rifi&eacute; les progr&egrave;s r&eacute;alis&eacute;s dans le cadre du plan d&rsquo;action</li>
+	<li>V&eacute;rifi&eacute; l&rsquo;efficacit&eacute; du plan d&rsquo;action</li>
+	<li>Surveill&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;valu&eacute; la consommation &eacute;nerg&eacute;tique r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.6.1 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>On surveille, mesure et analyse les principales caract&eacute;ristiques des op&eacute;rations de l&rsquo;organisation, afin de d&eacute;terminer le rendement &eacute;nerg&eacute;tique. Il s&rsquo;agit des caract&eacute;ristiques suivantes :</p>
+
+<ul>
+	<li>Consommation &eacute;nerg&eacute;tique pass&eacute;e et actuelle</li>
+	<li>UES et leurs variables pertinentes</li>
+	<li>Possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+	<li>IRE</li>
+	<li>Efficacit&eacute; avec laquelle les plans d&rsquo;action atteignent les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+	<li>Consommation &eacute;nerg&eacute;tique r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue</li>
+</ul>
+
+<p>[Accordion](Surveiller et analyser la consommation pour toutes les sources d&rsquo;&eacute;nergie)</p>
+
+<p>Les sources d&rsquo;&eacute;nergie ont &eacute;t&eacute; identifi&eacute;es, et les donn&eacute;es sur la consommation &eacute;nerg&eacute;tique pass&eacute;e et actuelle (immeubles, &eacute;quipements, syst&egrave;mes ou proc&eacute;d&eacute;s) ont &eacute;t&eacute; initialement recueillies et analys&eacute;es, dans le cadre de la revue &eacute;nerg&eacute;tique (voir [task](Data Collection) et [task](Data Analysis)). Vous avez utilis&eacute; cette information pour accomplir ce qui suit :</p>
+
+<ul>
+	<li>&Eacute;tablir le profil de l&rsquo;utilisation et de la consommation &eacute;nerg&eacute;tique de votre organisation</li>
+	<li>D&eacute;terminer les UES de votre organisation</li>
+	<li>D&eacute;finir et classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;tablir les indicateurs de rendement &eacute;nerg&eacute;tique et la consommation de r&eacute;f&eacute;rence n&eacute;cessaires &agrave; l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>La consommation &eacute;nerg&eacute;tique doit &ecirc;tre continuellement surveill&eacute;e, car elle est un &eacute;l&eacute;ment cl&eacute; de l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique, et que l&rsquo;utilisation d&rsquo;une quantit&eacute; r&eacute;duite d&rsquo;&eacute;nergie est le but de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. On compare la consommation &eacute;nerg&eacute;tique actuelle &agrave; la consommation pass&eacute;e &agrave; l&rsquo;aide de courbes de tendance, de tableurs, de techniques statistiques et d&rsquo;autres m&eacute;thodes. Les diverses m&eacute;thodes d&rsquo;analyse des donn&eacute;es ont &eacute;t&eacute; pr&eacute;sent&eacute;es dans le cadre de la t&acirc;che [task](Data Analysis).</p>
+
+<p>Les donn&eacute;es sur la consommation &eacute;nerg&eacute;tique doivent :</p>
+
+<ul>
+	<li>&Ecirc;tre surveill&eacute;es et mesur&eacute;es avant qu&rsquo;on apporte quelque changement que ce soit (consommation de r&eacute;f&eacute;rence)</li>
+	<li>&Ecirc;tre surveill&eacute;es et mesur&eacute;es apr&egrave;s que le changement a &eacute;t&eacute; apport&eacute; et compar&eacute;es &agrave; la consommation de r&eacute;f&eacute;rence (ou &agrave; la mesure ant&eacute;rieure &agrave; la mise en &oelig;uvre)</li>
+	<li>&Ecirc;tre repr&eacute;sentatives des conditions normales d&rsquo;exploitation</li>
+	<li>Refl&eacute;ter l&rsquo;uniformit&eacute; des facteurs susceptibles d&rsquo;influer sur le rendement &eacute;nerg&eacute;tique, comme la m&eacute;t&eacute;o, l&rsquo;occupation, la production ou les heures de fonctionnement</li>
+</ul>
+
+<p>[Learn More](Surveiller et analyser la consommation pour toutes les sources d&rsquo;&eacute;nergie)</p>
+
+<p><strong>Exemples de sources de donn&eacute;es</strong> &ndash; Pour mesurer la consommation &eacute;nerg&eacute;tique &agrave; la source, il faut g&eacute;n&eacute;ralement utiliser des compteurs de services publics pour l&rsquo;&eacute;lectricit&eacute; et le gaz naturel; ces compteurs se trouvent dans les locaux de votre organisation. Ces donn&eacute;es sont pratiques et faciles &agrave; consulter sur les factures de services publics, mais l&rsquo;organisation peut aussi lire les compteurs et consigner les chiffres r&eacute;guli&egrave;rement dans le cadre d&rsquo;un programme de surveillance p&eacute;riodique. Les m&eacute;thodes de mesure peuvent varier pour les autres sources d&rsquo;&eacute;nergie. Le bois ou le charbon peuvent n&eacute;cessiter des balances soit sur place, soit chez le sous-traitant. Le propane et le mazout peuvent &ecirc;tre mesur&eacute;s &agrave; partir d&rsquo;un camion de livraison ou provenir d&rsquo;une citerne. Les &eacute;nergies renouvelables exigeront des appareils de mesure adapt&eacute;s au mode d&rsquo;approvisionnement.</p>
+
+<p><strong>Envisager la surveillance et la mesure &agrave; un niveau plus pr&eacute;cis</strong> &ndash; La mesure peut &eacute;galement viser un immeuble, un &eacute;quipement, un syst&egrave;me ou un proc&eacute;d&eacute; &agrave; l&rsquo;aide de compteurs divisionnaires, de compteurs int&eacute;gr&eacute;s &agrave; l&rsquo;&eacute;quipement ou de compteurs portatifs. La surveillance et la mesure &agrave; des niveaux plus pr&eacute;cis (p. ex., de l&rsquo;&eacute;quipement, des syst&egrave;mes ou des proc&eacute;d&eacute;s) permettent de faire des analyses plus d&eacute;taill&eacute;es et une meilleure &eacute;valuation du rendement &eacute;nerg&eacute;tique. La surveillance des donn&eacute;es &agrave; un niveau plus pr&eacute;cis pourrait r&eacute;v&eacute;ler facilement des &eacute;carts par rapport au rendement &eacute;nerg&eacute;tique escompt&eacute; et annoncer des probl&egrave;mes potentiels touchant l&rsquo;&eacute;quipement, les syst&egrave;mes ou les proc&eacute;d&eacute;s qui consomment de l&rsquo;&eacute;nergie. Par exemple, une augmentation de la consommation d&rsquo;&eacute;lectricit&eacute; pourrait indiquer qu&rsquo;on a laiss&eacute; des lumi&egrave;res allum&eacute;es ou que l&rsquo;&eacute;quipement commence &agrave; faire d&eacute;faut.</p>
+
+<p><strong>&Eacute;valuer les donn&eacute;es dans des conditions uniformes </strong>&ndash; Il faut &eacute;valuer la consommation dans des conditions uniformes pour qu&rsquo;elle soit un indicateur fiable d&rsquo;une am&eacute;lioration ou d&rsquo;une baisse du rendement &eacute;nerg&eacute;tique. Il faudrait recueillir les donn&eacute;es avant que des changements soient apport&eacute;s, afin qu&rsquo;elles servent de valeurs de base pour la comparaison avec les donn&eacute;es recueillies apr&egrave;s les changements (p. ex., mesures ant&eacute;rieures et post&eacute;rieures pour les plans d&rsquo;action, modification des proc&eacute;d&eacute;s et autres &eacute;l&eacute;ments similaires). Les donn&eacute;es recueillies avant et apr&egrave;s que les changements ont &eacute;t&eacute; apport&eacute;s devraient &ecirc;tre repr&eacute;sentatives des conditions normales d&rsquo;exploitation.</p>
+
+<p>Les donn&eacute;es devraient aussi refl&eacute;ter le plus d&rsquo;uniformit&eacute; possible dans d&rsquo;autres facteurs susceptibles d&rsquo;influer sur le rendement &eacute;nerg&eacute;tique, comme la m&eacute;t&eacute;o, l&rsquo;occupation, la production ou les heures de fonctionnement. Par exemple :</p>
+
+<p>L&rsquo;avantage de l&rsquo;installation d&rsquo;un &eacute;clairage plus &eacute;co&eacute;nerg&eacute;tique pourrait &ecirc;tre masqu&eacute;, voire &eacute;limin&eacute; si l&rsquo;on comparait l&rsquo;&eacute;lectricit&eacute; consomm&eacute;e par ce nouvel &eacute;clairage en hiver &agrave; l&rsquo;&eacute;lectricit&eacute; consomm&eacute;e par l&rsquo;ancien syst&egrave;me (moins efficace) durant l&rsquo;&eacute;t&eacute;, p&eacute;riode o&ugrave; les journ&eacute;es sont plus longues et o&ugrave; l&rsquo;on utilise potentiellement moins d&rsquo;&eacute;clairage.</p>
+
+<p>Pour pouvoir &eacute;valuer avec pr&eacute;cision le rendement &eacute;nerg&eacute;tique, il est important de comprendre les variations potentielles et leur effet sur la consommation &eacute;nerg&eacute;tique. Si l&rsquo;on peut &eacute;tablir l&rsquo;uniformit&eacute; des facteurs et des conditions, la consommation pourrait &ecirc;tre un indicateur viable du rendement &eacute;nerg&eacute;tique. Dans le cas contraire, la consommation pourrait quand m&ecirc;me &ecirc;tre un facteur cl&eacute; de d&eacute;termination du rendement dans le cadre des donn&eacute;es constituant un IRE (voir [task](Performance Indicators)).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Surveiller et analyser les UES et les variables pertinentes)</p>
+
+<p>Surveillez et mesurez le rendement &eacute;nerg&eacute;tique des UES et comparez-le aux chiffres pass&eacute;s, pour :</p>
+
+<ul>
+	<li>Maintenir ou r&eacute;tablir des op&eacute;rations efficaces</li>
+	<li>Contr&ocirc;ler les usages et la consommation &eacute;nerg&eacute;tiques</li>
+	<li>&Eacute;valuer les possibilit&eacute;s d&rsquo;am&eacute;lioration</li>
+	<li>D&eacute;terminer l&rsquo;efficacit&eacute; des am&eacute;liorations</li>
+	<li>&Eacute;valuer s&rsquo;il est pertinent d&rsquo;assurer la maintenance de l&rsquo;&eacute;quipement, des syst&egrave;mes, des proc&eacute;d&eacute;s ou des installations comme des UES</li>
+</ul>
+
+<p>Pour surveiller le rendement &eacute;nerg&eacute;tique d&rsquo;un UES, il faut parfois mesurer la consommation &eacute;nerg&eacute;tique, les param&egrave;tres op&eacute;rationnels et de maintenance connexes, les variables pertinentes associ&eacute;es &agrave; l&rsquo;UES ou certaines combinaisons de ces &eacute;l&eacute;ments. (La surveillance des IRE est abord&eacute;e dans le cadre de la t&acirc;che [task](Performance Indicators)).</p>
+
+<p>[Learn More](Surveiller le rendement &eacute;nerg&eacute;tique d&rsquo;un UES)</p>
+
+<p><strong>Consommation &eacute;nerg&eacute;tique </strong>&ndash; La comparaison directe de la consommation &eacute;nerg&eacute;tique est une des m&eacute;thodes les plus faciles d&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique, mais elle suppose que les conditions d&rsquo;exploitation sont toujours les m&ecirc;mes. (La t&acirc;che ([task](Monitoring) traite de la mesure de la consommation &eacute;nerg&eacute;tique.) On pr&eacute;sume &eacute;galement que l&rsquo;&eacute;quipement de mesure &eacute;nerg&eacute;tique appropri&eacute; est en place. Dans certains contextes, la mesure directe de la consommation est co&ucirc;teuse ou n&rsquo;est pas pratique. Par contre, si les conditions d&rsquo;exploitation sont toujours les m&ecirc;mes et qu&rsquo;on dispose d&rsquo;appareils de mesure, une comparaison directe de la consommation est g&eacute;n&eacute;ralement le moyen le plus pratique d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique.</p>
+
+<p><strong>Param&egrave;tres op&eacute;rationnels et de maintenance</strong> &ndash; La mesure de la consommation &eacute;nerg&eacute;tique et des IRE n&rsquo;est pas la seule m&eacute;thode permettant de d&eacute;terminer le rendement &eacute;nerg&eacute;tique. On peut aussi mesurer et analyser les param&egrave;tres op&eacute;rationnels et de maintenance. Il peut s&rsquo;agir des param&egrave;tres suivants :</p>
+
+<ul>
+	<li>Temp&eacute;rature</li>
+	<li>Pression</li>
+	<li>D&eacute;bit</li>
+	<li>Niveaux d&rsquo;occupation</li>
+	<li>Dur&eacute;e de fonctionnement</li>
+	<li>Demande</li>
+</ul>
+
+<p>Par exemple :</p>
+
+<p>Une baisse de la dur&eacute;e de fonctionnement d&rsquo;un syst&egrave;me de climatisation (dans des conditions environnementales &ndash; int&eacute;rieures et ext&eacute;rieures &ndash; stables) peut indiquer une am&eacute;lioration du rendement &eacute;nerg&eacute;tique imputable au changement des filtres et au nettoyage des serpentins. On peut d&eacute;terminer l&rsquo;efficacit&eacute; d&rsquo;une chaudi&egrave;re en mesurant la temp&eacute;rature et le niveau d&rsquo;oxyg&egrave;ne d&rsquo;un &eacute;chantillon de gaz de chemin&eacute;e &agrave; l&rsquo;aide d&rsquo;un analyseur. La surveillance r&eacute;guli&egrave;re de l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique est une activit&eacute; de maintenance type qui peut donner une indication du rendement &eacute;nerg&eacute;tique.</p>
+
+<p><strong>Variables pertinentes</strong> &ndash; Les variables pertinentes associ&eacute;es aux UES de votre organisation ont &eacute;t&eacute; identifi&eacute;es dans le cadre des t&acirc;ches [task](Data Analysis) et [task](Significant Energy Uses). Il peut s&rsquo;agir des variables suivantes :</p>
+
+<ul>
+	<li>M&eacute;t&eacute;o</li>
+	<li>Occupation</li>
+	<li>Heures de fonctionnement</li>
+	<li>Vitesse des cha&icirc;nes</li>
+	<li>Niveaux d&rsquo;humidit&eacute;</li>
+	<li>Taux d&rsquo;allumage</li>
+</ul>
+
+<p>Il faut r&eacute;guli&egrave;rement surveiller, mesurer et analyser les variables pertinentes afin d&rsquo;&eacute;valuer leur impact sur le rendement &eacute;nerg&eacute;tique de l&rsquo;UES. Utilisez ces donn&eacute;es parall&egrave;lement &agrave; celles qui portent sur les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes ou les processus, afin de vous assurer que le rendement &eacute;nerg&eacute;tique est r&eacute;guli&egrave;rement &eacute;valu&eacute;. Par exemple :</p>
+
+<p>La consommation d&rsquo;&eacute;lectricit&eacute; des syst&egrave;mes de climatisation variera selon les conditions m&eacute;t&eacute;orologiques. En recueillant des donn&eacute;es sur la temp&eacute;rature et l&rsquo;humidit&eacute;, vous pouvez &eacute;valuer l&rsquo;am&eacute;lioration du rendement de ces syst&egrave;mes dans des conditions stables, avant et apr&egrave;s la mise en place de l&rsquo;am&eacute;lioration, ou normaliser les donn&eacute;es en fonction de la m&eacute;t&eacute;o. L&rsquo;occupation peut aussi influer sur la consommation &eacute;nerg&eacute;tique, en raison de changements touchant les besoins en &eacute;clairage ou en chauffage et en climatisation. Utilisez les cartes de pointage, les horaires de vacances et les feuilles de pr&eacute;sence (entre autres) pour recueillir les donn&eacute;es qui permettront d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique dans des conditions stables ou en normalisant les donn&eacute;es sur l&rsquo;occupation.</p>
+
+<p>Recueillez des donn&eacute;es pour chacune des variables pertinentes &agrave; l&rsquo;aide de la m&eacute;thode de collecte appropri&eacute;e &ndash; par exemple, les donn&eacute;es sur la temp&eacute;rature et l&rsquo;humidit&eacute; &agrave; l&rsquo;aide d&rsquo;un thermom&egrave;tre manuel ou enregistreur et d&rsquo;un humidostat. Autre exemple : recueillez des donn&eacute;es sur l&rsquo;occupation des locaux &agrave; l&rsquo;aide des feuilles de pr&eacute;sence ou des donn&eacute;es des horodateurs (entre autres).</p>
+
+<p>[Learn More End]</p>
+
+<p><strong>&Eacute;tablir des liens entre les UES</strong><u> </u>&ndash; Le document [resource](SEU_Control_Chart) pr&eacute;sent&eacute; dans le cadre des t&acirc;ches [task](Relevant Variables) et [task](Data Analysis) se veut une feuille de route concise &agrave; propos de la gestion des UES de votre organisation. Il peut indiquer &agrave; l&rsquo;utilisateur les liens &agrave; &eacute;tablir entre chaque UES et les &eacute;l&eacute;ments connexes suivants :</p>
+
+<ul>
+	<li>contr&ocirc;les op&eacute;rationnels;</li>
+	<li>exigences en mati&egrave;re de comp&eacute;tences et de formation;</li>
+	<li><strong>surveillance et mesure (colonne 6);</strong></li>
+	<li>&eacute;talonnage;</li>
+	<li>registres.</li>
+</ul>
+
+<p>Dans le cadre des t&acirc;ches [task](Variables pertinentes) et [task](Data Analysis), on a expliqu&eacute; comment remplir les colonnes 1 &agrave; 5 du tableau de contr&ocirc;le des UES. Dans le cadre de la pr&eacute;sente t&acirc;che, vous pouvez remplir la colonne 6 afin d&rsquo;ajouter des r&eacute;f&eacute;rences &agrave; (ou des descriptions de) la surveillance et des mesures mises en &oelig;uvre pour suivre et analyser le rendement de chaque UES. Par ailleurs, vous pouvez ajouter des &eacute;l&eacute;ments &agrave; la colonne 8 en listant les registres de surveillance et de mesure qui seront tenus &agrave; jour en lien avec les UES. (Voir l&rsquo;exemple rempli de [resource](Example_SEU_Control_Chart)). Vous pouvez remplir la colonne 7 dans le cadre de la t&acirc;che [task](Measurement).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](V&eacute;rifier les progr&egrave;s r&eacute;alis&eacute;s dans le cadre du plan d&rsquo;action)</p>
+
+<p>Une surveillance r&eacute;guli&egrave;re des plans d&rsquo;action garantit que les projets d&rsquo;am&eacute;lioration demeurent sur la bonne voie et que les plans d&rsquo;action sont tenus &agrave; jour.</p>
+
+<p>Le repr&eacute;sentant de la direction et/ou l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie devrait examiner les &eacute;l&eacute;ments suivants &agrave; intervalles planifi&eacute;s (p. ex., chaque semaine, chaque mois ou chaque trimestre) :</p>
+
+<ul>
+	<li>&Eacute;tapes cl&eacute;s et dates d&rsquo;ex&eacute;cution des t&acirc;ches</li>
+	<li>Allocation des ressources</li>
+	<li>Affectations du personnel</li>
+	<li>Rapports d&rsquo;&eacute;tape</li>
+	<li>Surveillance et mesure constantes des objectifs et des cibles</li>
+	<li>Communication de l&rsquo;&eacute;quipe</li>
+</ul>
+
+<p>Il faut examiner les communications de l&rsquo;&eacute;quipe pour garantir que tout changement apport&eacute; aux plans d&rsquo;action est expliqu&eacute; au personnel concern&eacute; et qu&rsquo;on conna&icirc;t les impacts des retards dans l&rsquo;ex&eacute;cution des &eacute;tapes cl&eacute;s et des t&acirc;ches. Cet examen est particuli&egrave;rement utile lorsque les &eacute;tapes cl&eacute;s ou les t&acirc;ches d&eacute;pendent des progr&egrave;s r&eacute;alis&eacute;s dans le cadre d&rsquo;autres &eacute;tapes cl&eacute;s et d&rsquo;autres t&acirc;ches.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](V&eacute;rifier l&rsquo;efficacit&eacute; des plans d&rsquo;action)</p>
+
+<p>Comme nous l&rsquo;avons vu dans le cadre de la t&acirc;che [task](Improvement Projects), les plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie visent &agrave; d&eacute;finir les mesures qu&rsquo;on prendra pour atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques associ&eacute;s aux possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique qu&rsquo;on entend mettre en &oelig;uvre (les projets). On surveille, mesure et analyse les plans d&rsquo;action pour s&rsquo;assurer que ces objectifs et ces cibles sont bien atteints.</p>
+
+<p>La consommation &eacute;nerg&eacute;tique pr&eacute;vue dans le cadre d&rsquo;un projet qu&rsquo;on met en &oelig;uvre est compar&eacute;e aux r&eacute;sultats r&eacute;els au terme du projet. Cette comparaison vous indique si les &eacute;conomies d&rsquo;&eacute;nergie que vous aviez anticip&eacute;es se sont concr&eacute;tis&eacute;es. Les m&eacute;thodes de v&eacute;rification ont &eacute;t&eacute; d&eacute;finies dans le plan d&rsquo;action (voir [task](Improvement Projects)).</p>
+
+<p>On analyse les projets couronn&eacute;s de succ&egrave;s afin de pouvoir les reproduire de fa&ccedil;on appropri&eacute;e dans le cadre d&rsquo;autres processus. On analyse les projets qui n&rsquo;ont pas atteint leurs cibles afin de d&eacute;terminer la ou les raisons de cet &eacute;chec, et l&rsquo;on planifie/effectue le suivi appropri&eacute;. On peut analyser le plan d&rsquo;action pendant et/ou apr&egrave;s la mise en &oelig;uvre du projet. Les plans d&rsquo;action qui ne g&eacute;n&egrave;rent pas les r&eacute;sultats escompt&eacute;s sont modifi&eacute;s au besoin.</p>
+
+<p>[Learn More](Indicateurs de l&rsquo;inefficacit&eacute; des plans d&rsquo;action)</p>
+
+<ul>
+	<li>Les objectifs &eacute;nerg&eacute;tiques ne sont pas atteints.</li>
+	<li>Les cibles &eacute;nerg&eacute;tiques ne sont pas atteintes.</li>
+	<li>Il est impossible de respecter les &eacute;ch&eacute;ances.</li>
+	<li>Le personnel n&rsquo;est pas disponible.</li>
+	<li>Le budget est insuffisant/les fonds ne sont pas disponibles.</li>
+	<li>La technologie est inad&eacute;quate.</li>
+	<li>Les priorit&eacute;s changent.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Lorsque les plans d&rsquo;action sont men&eacute;s &agrave; terme, les am&eacute;liorations qu&rsquo;ils g&eacute;n&egrave;rent sont int&eacute;gr&eacute;es &agrave; l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique des syst&egrave;mes de gestion, ce qui garantit que les &eacute;conomies d&rsquo;&eacute;nergie r&eacute;sultant du plan d&rsquo;action sont maintenues avec le temps.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Surveiller les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique)</p>
+
+<p>Les possibilit&eacute;s d&rsquo;am&eacute;lioration sont un autre r&eacute;sultat de la revue &eacute;nerg&eacute;tique. Vous avez identifi&eacute;, &eacute;valu&eacute; et class&eacute; par ordre de priorit&eacute; ces possibilit&eacute;s dans le cadre de la t&acirc;che [task](Improvement Opportunities). Votre organisation exploite les possibilit&eacute;s appropri&eacute;es en &eacute;tablissant des objectifs/cibles &eacute;nerg&eacute;tiques et des plans d&rsquo;action, ou les supprime de la liste active. Il faudra peut-&ecirc;tre faire davantage de surveillance ou de mesure pour v&eacute;rifier la pertinence des proc&eacute;dures d&rsquo;installation, des crit&egrave;res op&eacute;rationnels, des contr&ocirc;les et des pratiques de maintenance, et &eacute;valuer ainsi l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Ces &eacute;l&eacute;ments sont g&eacute;n&eacute;ralement d&eacute;finis et examin&eacute;s dans le plan d&rsquo;action (voir [task](Improvement Projects)).</p>
+
+<p>De plus, vous devez surveiller le processus d&rsquo;identification et de classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration, pour vous assurer qu&rsquo;il demeure efficace, que la liste est tenue &agrave; jour et qu&rsquo;on exploite bien ces possibilit&eacute;s pour am&eacute;liorer le rendement &eacute;nerg&eacute;tique. Ce processus doit &ecirc;tre dynamique, pour garantir qu&rsquo;on identifie, &eacute;value et met en &oelig;uvre constamment de nouvelles possibilit&eacute;s en vue d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique et le SGE.</p>
+
+<p>[Learn More](Exemples d&rsquo;activit&eacute;s de surveillance des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique)</p>
+
+<ul>
+	<li>Fr&eacute;quence de l&rsquo;identification de nouvelles possibilit&eacute;s</li>
+	<li>Fr&eacute;quence de la mise en pratique de ces possibilit&eacute;s</li>
+	<li>Retrait de la liste quand elles ne sont plus appropri&eacute;es</li>
+	<li>&Eacute;valuation de la pertinence constante des crit&egrave;res de classement par ordre de priorit&eacute;</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;valuer la consommation &eacute;nerg&eacute;tique r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue)</p>
+
+<p>On peut mettre en &oelig;uvre les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique gr&acirc;ce aux plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie. Ces plans devraient inclure des estimations de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique que la mise en &oelig;uvre du plan est cens&eacute;e g&eacute;n&eacute;rer. Analysez les &eacute;carts entre les r&eacute;sultats r&eacute;els et les r&eacute;sultats escompt&eacute;s des plans d&rsquo;action, et &eacute;valuez cette information afin de d&eacute;finir les &eacute;l&eacute;ments qui am&eacute;liorent le rendement ou d&eacute;terminez les probl&egrave;mes &agrave; r&eacute;gler. Les r&eacute;sultats de cette analyse devraient &ecirc;tre consign&eacute;s en vue d&rsquo;&ecirc;tre utilis&eacute;s dans le cadre des mesures correctives, pour am&eacute;liorer les futurs plans d&rsquo;action et le rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Dans le cadre de la revue &eacute;nerg&eacute;tique, on a fait une estimation des usages et de la consommation &eacute;nerg&eacute;tiques futurs pour les UES (voir [task](Significant Energy Uses)). Votre organisation d&eacute;cide elle-m&ecirc;me quelle p&eacute;riode sera consid&eacute;r&eacute;e comme &laquo; l&rsquo;avenir &raquo; et surveille les hypoth&egrave;ses (ou les crit&egrave;res) que vous avez utilis&eacute;(e)s pour estimer la future consommation d&rsquo;&eacute;nergie des UES. Vous avez peut-&ecirc;tre d&eacute;j&agrave; commenc&eacute; ou rempli la [resource](SEU_Future_Energy_Estimate_Worksheet) dans le cadre de la t&acirc;che [task](Significant Energy Uses). Si c&rsquo;est le cas, assurez-vous que vous avez &eacute;tabli un processus d&rsquo;examen et de mise &agrave; jour de ces estimations, r&eacute;guli&egrave;rement au besoin, ou en r&eacute;ponse &agrave; d&rsquo;importants changements touchant les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s.</p>
+
+<p>[Learn More](Utiliser l&rsquo;outil EnPI Lite du DOE)</p>
+
+<p>Si vous utilisez [resource](EnPI_Lite), il serait bon que vous teniez &agrave; jour votre fichier [resource](Energy_Footprint_Lite_Data_Uploader). Cela facilitera l&rsquo;&eacute;tablissement de nouveaux mod&egrave;les &eacute;nerg&eacute;tiques pour les installations dans [resource](EnPI_Lite), et vous permettra de faire un suivi constant de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et de la consommation &eacute;nerg&eacute;tique de vos installations.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+
+<p>Les organisations qui ont adopt&eacute; la norme ISO 9001:2015 et/ou la norme ISO 14001:2015 surveillent et mesurent peut-&ecirc;tre (ou pas) leurs donn&eacute;es &eacute;nerg&eacute;tiques, mais elles devraient se doter de processus afin de planifier et de mettre en &oelig;uvre des activit&eacute;s essentielles de surveillance, de mesure, d&rsquo;analyse et d&rsquo;&eacute;valuation. On peut exploiter ces processus pour planifier et mettre en &oelig;uvre les activit&eacute;s de surveillance, de mesure et d&rsquo;analyse exig&eacute;es par la norme ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; aux sections 2.4 et 4.1 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Il se peut que votre organisation surveille, mesure et analyse d&eacute;j&agrave; la consommation &eacute;nerg&eacute;tique pour toutes les sources, mais les directives donn&eacute;es dans le cadre de la pr&eacute;sente t&acirc;che peuvent l&rsquo;aider &agrave; s&rsquo;assurer que ce sera fait avec le niveau de d&eacute;tail et la rigueur qu&rsquo;exige la norme ISO 50001.</p>
+
+<p>Contrairement &agrave; la norme ISO 50001, le programme ENERGY STAR n&rsquo;exige pas que les UES soient surveill&eacute;s et mesur&eacute;s.</p>
+
+<p>Par ailleurs, si vous appliquez aux plans d&rsquo;action du SGE les directives des sections 5.5, 6.1 et 6.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management), et que vous &eacute;valuez p&eacute;riodiquement leur efficacit&eacute;, cela vous aidera &agrave; mettre en &oelig;uvre le SGE.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

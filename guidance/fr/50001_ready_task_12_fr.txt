@@ -1,0 +1,205 @@
+USDOE 50001 READY NAVIGATOR TASK 12
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Possibilités d’amélioration
+----------TITLE----------
+Tâche 12: Nous avons défini et classé par ordre de priorité les possibilités d’amélioration du rendement énergétique, et établi un processus permettant de les mettre à jour.
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez les [resource](Prioritizing_Energy_Opportunuties_Examples_Worksheets) pour d&eacute;terminer et documenter la fa&ccedil;on dont votre organisation va d&eacute;finir, classer par ordre de priorit&eacute; et mettre &agrave; jour les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</li>
+	<li>Utilisez les possibilit&eacute;s que vous avez class&eacute;es par ordre de priorit&eacute; pour choisir les projets &agrave; mettre en &oelig;uvre.</li>
+	<li>Appliquez tous les crit&egrave;res qu&rsquo;a &eacute;tablis votre organisation pour justifier et faire approuver le projet.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique sont un &eacute;l&eacute;ment cl&eacute; de l&rsquo;examen &eacute;nerg&eacute;tique. On les d&eacute;finit en examinant les pratiques actuelles et en d&eacute;terminant comment elles peuvent &ecirc;tre am&eacute;lior&eacute;es. Ce processus peut mettre en lumi&egrave;re le potentiel d&rsquo;am&eacute;lioration des pratiques op&eacute;rationnelles, de l&rsquo;&eacute;quipement et des syst&egrave;mes, et des technologies de pointe susceptibles de profiter &agrave; votre organisation.</p>
+
+<p>Vous classez par ordre de priorit&eacute; les possibilit&eacute;s en fonction des crit&egrave;res qu&rsquo;a &eacute;tablis votre organisation pour une utilisation optimale des ressources en vue d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Apr&egrave;s avoir &eacute;tabli les objectifs et les cibles &eacute;nerg&eacute;tiques, vous devez d&eacute;terminer comment votre organisation les atteindra. Pour ce faire, vous devez passer en revue la liste possibilit&eacute;s class&eacute;es par ordre de priorit&eacute; et choisir les projets &agrave; mettre en &oelig;uvre. Ce processus garantit que les projets les mieux adapt&eacute;s aux objectifs et aux cibles &eacute;nerg&eacute;tiques seront planifi&eacute;s et mis en &oelig;uvre.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;fini les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;tabli et appliqu&eacute; les crit&egrave;res de classement des possibilit&eacute;s par ordre de priorit&eacute;</li>
+	<li>Choisi les possibilit&eacute;s (projets) &agrave; mettre en &oelig;uvre</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.3 c) et 4.4.6 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique)</p>
+
+<p>Il incombe au repr&eacute;sentant de la direction de d&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique, avec le soutien de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie et de l&rsquo;&eacute;quipe charg&eacute;e de l&rsquo;audit interne du SGE (voir [task](Internal Audit)). Par contre, il faut solliciter et prendre en compte les commentaires de tous les employ&eacute;s, s&rsquo;il y a lieu.</p>
+
+<p>[Learn More](Avantage de la mise en &oelig;uvre des possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique)</p>
+
+<ul>
+	<li>R&eacute;duction de la consommation d&rsquo;&eacute;nergie</li>
+	<li>Baisse des &eacute;missions</li>
+	<li>Baisse des co&ucirc;ts d&rsquo;exploitation</li>
+	<li>Meilleure efficacit&eacute; op&eacute;rationnelle</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Une m&eacute;thode courante de d&eacute;finition des possibilit&eacute;s d&rsquo;am&eacute;lioration est l&rsquo;&eacute;valuation &eacute;nerg&eacute;tique, m&eacute;thode id&eacute;ale permettant de recueillir des donn&eacute;es relatives &agrave; tous les volets de la revue &eacute;nerg&eacute;tique (voir [task](Data Collection)) et d&rsquo;offrir une source d&rsquo;information essentielle &agrave; la planification des orientations &eacute;nerg&eacute;tiques, notamment gr&acirc;ce &agrave; l&rsquo;identification des possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Les &eacute;valuations donnent un aper&ccedil;u de l&rsquo;actuel rendement &eacute;nerg&eacute;tique de votre organisation et pr&eacute;sentent une liste des mesures d&rsquo;am&eacute;lioration quantifi&eacute;es. Elles peuvent &ecirc;tre men&eacute;es par le repr&eacute;sentant de la direction et/ou les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, des sp&eacute;cialistes de l&rsquo;&eacute;nergie dans les entreprises, des consultants externes sp&eacute;cialistes de l&rsquo;&eacute;nergie, le personnel des soci&eacute;t&eacute;s de services publics et des experts universitaires.</p>
+
+<p>[Learn More](&Eacute;valuations &eacute;nerg&eacute;tiques)</p>
+
+<p>Les types de possibilit&eacute;s mis en lumi&egrave;re d&eacute;pendent de la port&eacute;e et de l&rsquo;objet de l&rsquo;&eacute;valuation, mais ils peuvent porter sur l&rsquo;am&eacute;lioration de l&rsquo;achat d&rsquo;&eacute;nergie, de meilleures pratiques d&rsquo;exploitation et d&rsquo;entretien, et sur la r&eacute;novation ou le remplacement de l&rsquo;&eacute;quipement &eacute;nerg&eacute;tique existant. L&rsquo;&eacute;valuation &eacute;nerg&eacute;tique comprend les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>D&eacute;terminer la port&eacute;e de l&rsquo;&eacute;valuation &ndash; immeubles, syst&egrave;mes et appareils de mesure des services publics</li>
+	<li>Examiner tous les anciens projets d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique afin de mieux cibler l&rsquo;&eacute;valuation</li>
+	<li>Examiner les &eacute;valuations pass&eacute;es et d&eacute;terminer les besoins d&rsquo;information suppl&eacute;mentaire ou mise &agrave; jour</li>
+	<li>&Eacute;laborer le plan d&rsquo;&eacute;valuation &eacute;nerg&eacute;tique en fonction du domaine d&rsquo;application qui a &eacute;t&eacute; d&eacute;fini</li>
+	<li>Proc&eacute;der &agrave; l&rsquo;&eacute;valuation</li>
+	<li>Consigner les observations issues de l&rsquo;&eacute;valuation</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>L&rsquo;Advanced Manufacturing Office du DOE propose &eacute;galement diverses ressources permettant de d&eacute;finir les possibilit&eacute;s d&rsquo;&eacute;conomies d&rsquo;&eacute;nergie pour certains syst&egrave;mes, notamment divers types d&rsquo;[resource](System_Tool_Assessment). Il existe des outils d&rsquo;analyse pour les syst&egrave;mes &agrave; air comprim&eacute;, les ventilateurs, les moteurs, les pompes, les syst&egrave;mes de chauffage industriels, les syst&egrave;mes &agrave; vapeur et les immeubles industriels. Les normes d&rsquo;&eacute;valuation des syst&egrave;mes &eacute;tablies par l&rsquo;<em>American Society of Mechanical Engineers</em> (ASME, Soci&eacute;t&eacute; am&eacute;ricaine des ing&eacute;nieurs m&eacute;caniciens) fournissent &eacute;galement des directives sur l&rsquo;&eacute;valuation des syst&egrave;mes &eacute;nerg&eacute;tiques, qui visent les installations et certains syst&egrave;mes li&eacute;s aux organisations industrielles et commerciales.</p>
+
+<p>Les employ&eacute;s travaillant pour votre organisation peuvent g&eacute;n&eacute;ralement d&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique non r&eacute;v&eacute;l&eacute;es par une &eacute;valuation &eacute;nerg&eacute;tique. Il arrive que ces employ&eacute;s travaillent de pr&egrave;s avec l&rsquo;&eacute;quipement ou les proc&eacute;d&eacute;s &eacute;nergivores, et d&eacute;couvrent des possibilit&eacute;s uniques gr&acirc;ce &agrave; leur exp&eacute;rience. Ce type d&rsquo;atout permet de mettre en lumi&egrave;re des am&eacute;liorations non conventionnelles et de mobiliser des employ&eacute;s qui ne participent pas habituellement &agrave; la d&eacute;finition des orientations &eacute;nerg&eacute;tiques.</p>
+
+<p>Les &eacute;valuations &eacute;nerg&eacute;tiques sont tr&egrave;s efficaces, mais peuvent &ecirc;tre tr&egrave;s co&ucirc;teuses. Le lien ci-dessous vous fera d&eacute;couvrir d&rsquo;autres moyens de d&eacute;finir des possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More](Autres moyens de d&eacute;finir des possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique)</p>
+
+<p>Les sources suivantes peuvent vous aider &agrave; d&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li>Suggestions des employ&eacute;s</li>
+	<li>Repr&eacute;sentants des services publics</li>
+	<li>Techniciens de maintenance</li>
+	<li>Normes visant les immeubles commerciaux</li>
+	<li>Normes visant les secteurs industriels</li>
+	<li>Normes visant l&rsquo;&eacute;quipement</li>
+	<li>Organisations gouvernementales</li>
+	<li>Fournisseurs d&rsquo;&eacute;quipement</li>
+</ul>
+
+<p>Le document [resource](Checklists_Identify_Energy_Opportunities_Other_Methods) peut aider &agrave; trouver et &agrave; utiliser d&rsquo;autres m&eacute;thodes d&rsquo;identification des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. Il propose diff&eacute;rentes m&eacute;thodes de d&eacute;tection des possibilit&eacute;s, ainsi que des suggestions de points de contact et de r&eacute;sultats possibles de l&rsquo;application de la m&eacute;thode.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir et appliquer les crit&egrave;res de classement des possibilit&eacute;s par ordre de priorit&eacute;)</p>
+
+<p>La prochaine &eacute;tape de la planification &eacute;nerg&eacute;tique consiste &agrave; classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration. Il incombe &agrave; l&rsquo;organisation de choisir la m&eacute;thode de classement par ordre de priorit&eacute;; toutefois, cette m&eacute;thode doit &ecirc;tre syst&eacute;matique et permanente. Il peut &ecirc;tre difficile et long pour votre organisation de traiter chaque id&eacute;e d&rsquo;am&eacute;lioration potentielle; en les classant par ordre de priorit&eacute; &agrave; l&rsquo;aide de crit&egrave;res d&eacute;finis, vous pourrez cibler vos ressources sur les possibilit&eacute;s les plus r&eacute;alistes.</p>
+
+<p>Les activit&eacute;s suivantes vous aideront &agrave; &eacute;tablir et &agrave; appliquer les crit&egrave;res de classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique.</p>
+
+<ul>
+	<li>R&eacute;unissez les bonnes personnes.</li>
+	<li>Passez en revue l&rsquo;information pertinente relative &agrave; l&rsquo;organisation.</li>
+	<li>D&eacute;terminez les crit&egrave;res.</li>
+	<li>&Eacute;laborez les outils ou les techniques d&rsquo;application des crit&egrave;res.</li>
+	<li>Appliquez les crit&egrave;res permettant de classer les possibilit&eacute;s par ordre de priorit&eacute;.</li>
+</ul>
+
+<p><strong>R&eacute;unissez les bonnes personnes</strong> &ndash; Mobilisez les personnes &agrave; diff&eacute;rents postes et dans diff&eacute;rents services au sein de votre organisation pour &eacute;laborer des crit&egrave;res de classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique pour votre organisation. Diff&eacute;rents points de vue garantiront qu&rsquo;on tient compte d&rsquo;une grande vari&eacute;t&eacute; de facteurs potentiels. Si l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie est d&eacute;j&agrave; repr&eacute;sent&eacute;e &agrave; divers postes et niveaux de l&rsquo;organisation, aucun autre membre ne devra &ecirc;tre ajout&eacute; &agrave; l&rsquo;&eacute;quipe. Par ailleurs, il sera peut-&ecirc;tre utile de faire appel &agrave; d&rsquo;autres employ&eacute;s susceptibles d&rsquo;apporter des connaissances ou une exp&eacute;rience pr&eacute;cises de l&rsquo;&eacute;tablissement des crit&egrave;res de classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. Cela pourrait inclure, par exemple, les employ&eacute;s connaissant bien la planification financi&egrave;re ou la justification des projets au sein de votre organisation.</p>
+
+<p><strong>Passez en revue l&rsquo;information pertinente relative &agrave; l&rsquo;organisation. </strong>L&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie devrait recueillir et passer en revue l&rsquo;information organisationnelle susceptible d&rsquo;influer sur les crit&egrave;res et/ou sur l&rsquo;approche &agrave; adopter pour classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. En outre, il peut &ecirc;tre utile que l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie soit au courant de tout processus d&rsquo;&eacute;valuation des risques actuellement utilis&eacute; par votre organisation, et qu&rsquo;elle comprenne bien la tol&eacute;rance de votre organisation aux risques pour la s&eacute;curit&eacute; et l&rsquo;environnement.</p>
+
+<p>[Learn More](Information pertinente sur l&rsquo;organisation)</p>
+
+<p>Cette information pourrait inclure les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Strat&eacute;gies commerciales de l&rsquo;organisation</li>
+	<li>Obstacles ou exigences financi&egrave;res visant actuellement les projets d&rsquo;investissement propos&eacute;s</li>
+	<li>Projets d&rsquo;exploitation et de maintenance</li>
+	<li>Autres types de demandes de ressources ou de financement</li>
+	<li>Pr&eacute;visions li&eacute;es &agrave; la production ou aux march&eacute;s</li>
+	<li>Exigences de l&rsquo;entreprise</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p><strong>D&eacute;finissez les crit&egrave;res </strong>&ndash; Au moment de choisir les crit&egrave;res, tenez compte de l&rsquo;information que vous avez recueillie &agrave; propos de l&rsquo;organisation et &eacute;tablissez des crit&egrave;res qui tiendront compte des besoins et des exigences de votre organisation.</p>
+
+<p>[Learn More](Exemples de crit&egrave;res)</p>
+
+<p>Voici des exemples de crit&egrave;res :</p>
+
+<ul>
+	<li>Estimation des &eacute;conomies d&rsquo;&eacute;nergie et de co&ucirc;ts</li>
+	<li>Co&ucirc;t de la mise en &oelig;uvre des possibilit&eacute;s</li>
+	<li>Rendement des investissements, taux de rendement interne, valeur nette actuelle, co&ucirc;t du cycle de vie</li>
+	<li>Facilit&eacute; de mise en &oelig;uvre des possibilit&eacute;s</li>
+	<li>Longueur de la p&eacute;riode de mise en &oelig;uvre</li>
+	<li>Probl&egrave;mes potentiels li&eacute;s &agrave; la s&eacute;curit&eacute;, &agrave; la sant&eacute; et &agrave; l&rsquo;environnement</li>
+	<li>Impact de la maintenance</li>
+	<li>Impact de la production ou des op&eacute;rations</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>C&rsquo;est vous qui d&eacute;terminez le type et le nombre de crit&egrave;res &agrave; utiliser. Un ou deux crit&egrave;res pourraient suffire, ou de nombreux crit&egrave;res pourraient &ecirc;tre n&eacute;cessaires. Vous d&eacute;terminez &eacute;galement si l&rsquo;on &eacute;tablira et appliquera des &eacute;chelles de notation pour chaque crit&egrave;re (p. ex., une fourchette d&rsquo;&eacute;conomies d&rsquo;&eacute;nergie jug&eacute;e acceptable). Si l&rsquo;on utilise un seul crit&egrave;re, une simple limite &laquo; oui ou non &raquo; pourrait &ecirc;tre ad&eacute;quate. Quand on utilise plusieurs crit&egrave;res, il faut habituellement d&eacute;terminer l&rsquo;importance relative de chacun de ces crit&egrave;res et la fa&ccedil;on dont ils seront &eacute;valu&eacute;s (voir l&rsquo;activit&eacute; suivante).</p>
+
+<p>N&rsquo;oubliez pas de documenter les crit&egrave;res qui seront utilis&eacute;s pour classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. Cela garantit que les crit&egrave;res sont bien compris et appliqu&eacute;s uniform&eacute;ment. Le fichier [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) peut vous donner certaines id&eacute;es sur la fa&ccedil;on de documenter les crit&egrave;res.</p>
+
+<p><strong>&Eacute;laborer des outils ou des techniques d&rsquo;application des crit&egrave;res</strong> &ndash; Vous avez maintenant &eacute;tabli des crit&egrave;res de classement par ordre de priorit&eacute; des possibilit&eacute;s. Cela garantit que les ressources de votre organisation sont concentr&eacute;es sur les projets &eacute;nerg&eacute;tiques potentiels les plus viables. L&rsquo;&eacute;laboration d&rsquo;outils et de techniques d&rsquo;application des crit&egrave;res facilite le processus de classement par ordre de priorit&eacute;.</p>
+
+<p>Si votre organisation poss&egrave;de d&eacute;j&agrave; les outils permettant de classer par ordre de priorit&eacute; les projets potentiels, il pourrait &ecirc;tre utile d&rsquo;utiliser (ou d&rsquo;adapter) ces m&ecirc;mes outils pour classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. En l&rsquo;absence d&rsquo;outils, le fichier [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) pourrait &ecirc;tre un bon point de d&eacute;part. Dans ce fichier, le tableau intitul&eacute; &laquo; Crit&egrave;res et notation pour le classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique &raquo; se trouve sous l&rsquo;onglet Feuille de travail vierge. Vous pouvez l&rsquo;utiliser pour classer vos possibilit&eacute;s par ordre de priorit&eacute; &agrave; l&rsquo;aide des crit&egrave;res et des notations choisis par votre organisation. Sous l&rsquo;onglet Feuille de travail (exemple) de ce tableur, vous trouverez un exemple d&eacute;taill&eacute; de ce tableau, qui montre comment on peut &eacute;tablir une &eacute;chelle de notation pour chaque crit&egrave;re. Utilisez cette feuille comme guide pour remplir la feuille de travail vierge, afin d&rsquo;obtenir le score attribu&eacute; aux possibilit&eacute;s de votre organisation et de classer celles-ci par ordre de priorit&eacute;.</p>
+
+<p>Habituellement, les crit&egrave;res utilis&eacute;s pour &eacute;valuer les projets ont diff&eacute;rents niveaux d&rsquo;importance. S&rsquo;ils ne sont pas tous aussi importants, l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie devra d&eacute;terminer leur pond&eacute;ration relative.</p>
+
+<p>Par exemple, au sein de votre organisation, les &eacute;conomies de co&ucirc;ts estim&eacute;es pourraient &ecirc;tre plus importantes que la facilit&eacute; de mise en &oelig;uvre de la possibilit&eacute;. Dans pareil cas, ces &eacute;conomies pourraient &ecirc;tre jug&eacute;es deux fois plus importantes que les crit&egrave;res de facilit&eacute; de mise en &oelig;uvre.</p>
+
+<p>Dans le fichier [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets), l&rsquo;onglet Feuille de calcul vierge (pond.) contient le tableau intitul&eacute; &laquo; Crit&egrave;res et notation pour le classement par ordre de priorit&eacute; des occasions en mati&egrave;re d&rsquo;&eacute;nergie (pond&eacute;r&eacute;) &ndash; exemples &raquo;. Ce tableau illustre une approche de la d&eacute;finition et de l&rsquo;utilisation des crit&egrave;res pond&eacute;r&eacute;s. L&rsquo;onglet Feuille de calcul (ex. pond.) fournit un exemple d&eacute;taill&eacute; qui illustre la fa&ccedil;on dont on peut utiliser le tableau pour d&eacute;finir les crit&egrave;res et les pond&eacute;rations en vue de classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique dans votre organisation.</p>
+
+<p><strong>Appliquer les crit&egrave;res permettant de classer les possibilit&eacute;s par ordre de priorit&eacute;</strong> &ndash; Dans le cadre des deux activit&eacute;s pr&eacute;c&eacute;dentes, vous avez &eacute;tabli les crit&egrave;res permettant de classer par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, et vous les avez int&eacute;gr&eacute;s aux outils que vous avez &eacute;labor&eacute;s ou choisis, afin d&rsquo;appliquer uniform&eacute;ment les crit&egrave;res de classement aux possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. Vous trouverez des exemples de la fa&ccedil;on d&rsquo;appliquer les crit&egrave;res et la notation sous les onglets Feuille de travail (exemple) et Feuille de calcul (ex. pond) du fichier [resource](Prioritizing_Energy_Les possibilit&eacute;s_Examples_Worksheets). (Sous ces onglets, voir &laquo; Exemple de feuille de travail pour le classement par ordre de priorit&eacute; des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique &raquo;.) Notez que, dans les deux exemples, les scores attribu&eacute;s sont calcul&eacute;s pour chaque possibilit&eacute;, et qu&rsquo;on les compare pour d&eacute;terminer les priorit&eacute;s. Dans ces exemples, les nombres &eacute;lev&eacute;s indiquent une priorit&eacute; plus &eacute;lev&eacute;e.</p>
+
+<p>R&eacute;organisez la liste des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, de la plus prioritaire &agrave; la moins prioritaire. Faites un examen objectif afin d&rsquo;&eacute;valuer l&rsquo;ordre de priorit&eacute; de cette liste; cela signifie que vous devez veiller &agrave; ce que la liste soit logique d&rsquo;un point de vue que ne refl&egrave;tent peut-&ecirc;tre pas directement les crit&egrave;res, et &agrave; ce que les possibilit&eacute;s aient l&rsquo;air d&rsquo;aller dans le sens des attentes de l&rsquo;organisation. S&rsquo;il semble qu&rsquo;une ou que plusieurs possibilit&eacute;s n&rsquo;aient aucun sens, il faudra peut-&ecirc;tre r&eacute;&eacute;valuer les crit&egrave;res ou les pond&eacute;rations utilis&eacute;s pour ces crit&egrave;res. R&eacute;pondez aux questions suivantes :</p>
+
+<ul>
+	<li>Est-ce que la liste class&eacute;e par ordre de priorit&eacute; est logique compte tenu des objectifs et des plans op&eacute;rationnels globaux de votre organisation?</li>
+	<li>A-t-on omis certains crit&egrave;res qui ont fauss&eacute; le classement par ordre de priorit&eacute;?</li>
+	<li>Est-ce que les pond&eacute;rations refl&egrave;tent les priorit&eacute;s de votre organisation?</li>
+	<li>A-t-on pr&eacute;vu des changements organisationnels ou autres qui auront une incidence sur la liste class&eacute;e par ordre de priorit&eacute;?</li>
+</ul>
+
+<p>Quand vous aurez d&eacute;fini de nouvelles possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, assurez-vous qu&rsquo;elles sont class&eacute;es par ordre de priorit&eacute; et incluses dans la liste.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Choisissez les possibilit&eacute;s (projets) &agrave; mettre en &oelig;uvre)</p>
+
+<p>Apr&egrave;s avoir d&eacute;fini et class&eacute; par ordre de priorit&eacute; les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, votre organisation devra s&eacute;lectionner certains projets pour atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques pr&eacute;cis qu&rsquo;elle a &eacute;tablis dans le cadre de la t&acirc;che [task](Baselines, Objectives and Targets). Cependant, il est peu probable que la direction puisse fournir les ressources pour tous les projets potentiels figurant sur votre liste de possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique.</p>
+
+<p>Passez en revue cette liste. Au moment de choisir un projet &agrave; mettre en &oelig;uvre, tenez compte des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Les objectifs et les cibles &eacute;nerg&eacute;tiques que vous avez &eacute;tablis</li>
+	<li>Les estimations d&rsquo;&eacute;conomies d&rsquo;&eacute;nergie associ&eacute;es &agrave; la mise en &oelig;uvre du projet</li>
+	<li>Les contraintes organisationnelles, par exemple
+	<ul style="list-style-type:disc">
+		<li>
+		<ul style="list-style-type:circle">
+			<li>Exigences ou limites financi&egrave;res</li>
+			<li>Disponibilit&eacute; du personnel (expertise et temps) &ndash; interne ou externe, selon le cas</li>
+			<li>Effet sur les autres priorit&eacute;s de l&rsquo;organisation</li>
+		</ul>
+		</li>
+		<li>Toute justification financi&egrave;re applicable ou tout autre crit&egrave;re d&rsquo;approbation du projet par votre organisation (p. ex., rendement des investissements, retomb&eacute;es, etc.)</li>
+	</ul>
+	</li>
+</ul>
+
+<p>&Agrave; l&rsquo;aide de cette information, identifiez et choisissez les projets dont la mise en &oelig;uvre est faisable pour votre organisation, et qui lui permettront d&rsquo;atteindre ses objectifs/cibles &eacute;nerg&eacute;tiques. Dans le cadre de la t&acirc;che [task](Improvement Projects), vous &eacute;laborerez des plans d&rsquo;action d&eacute;taill&eacute;s &eacute;non&ccedil;ant des orientations &eacute;nerg&eacute;tiques pour les projets s&eacute;lectionn&eacute;s.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+
+<p>M&ecirc;me si ce n&rsquo;est pas obligatoire, les organisations dot&eacute;es d&rsquo;un syst&egrave;me d&rsquo;orientation en mati&egrave;re d&rsquo;environnement conforme &agrave; la norme ISO 14001:2015 utilisent peut-&ecirc;tre d&eacute;j&agrave; des processus pour saisir et <a name="_Hlk496877662">classer par ordre de priorit&eacute; les possibilit&eacute;s </a>d&rsquo;am&eacute;lioration de leur performance environnementale (p. ex., de potentiels projets environnementaux), dont elles s&rsquo;inspirent pour &eacute;tablir des objectifs environnementaux et planifier les mesures permettant d&rsquo;atteindre ces objectifs. Certaines de ces possibilit&eacute;s pourraient &ecirc;tre li&eacute;es &agrave; l&rsquo;&eacute;nergie. Tout processus existant permettant de d&eacute;finir et de classer par ordre de priorit&eacute; ces possibilit&eacute;s pourrait s&rsquo;appliquer aussi aux possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique dans le cadre de la norme ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Les sections 2.5 et 3.2 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> expliquent comment d&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique, par exemple en menant des audits &eacute;nerg&eacute;tiques. Le document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Energy_Treasure_Hunt_Guide_Jan2014.pdf">ENERGY STAR Energy Treasure Hunt Guide</a> est une autre ressource utile du programme ENERGY STAR, que votre organisation utilise peut-&ecirc;tre d&eacute;j&agrave; pour d&eacute;finir les possibilit&eacute;s de faire des &eacute;conomies d&rsquo;&eacute;nergie &agrave; moindre co&ucirc;t ou sans frais. La pr&eacute;sente t&acirc;che pr&eacute;sente d&rsquo;autres d&eacute;tails, outils et feuilles de travail qui peuvent aider &agrave; d&eacute;finir davantage de possibilit&eacute;s et &agrave; toutes les classer par ordre de priorit&eacute;.</p>
+
+<p>La section 3.2 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> donne certaines directives sur l&rsquo;estimation du potentiel d&rsquo;am&eacute;lioration &ndash; par exemple en examinant les possibilit&eacute;s de r&eacute;duire la consommation d&rsquo;&eacute;nergie.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

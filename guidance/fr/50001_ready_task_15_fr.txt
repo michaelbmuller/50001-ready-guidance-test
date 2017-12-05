@@ -1,0 +1,161 @@
+USDOE 50001 READY NAVIGATOR TASK 15
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Mesure
+----------TITLE----------
+Tâche 15 : Nous avons établi un plan de mesure, révisé périodiquement, qui définit, organise et documente nos activités de surveillance et de mesure, et garantit qu’elles sont précises et reproductibles.
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez le document [resource](Energy_Measurement_Plan_Worksheet) pour d&eacute;terminer les donn&eacute;es ad&eacute;quates qu&rsquo;il faut recueillir en vue d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique. Veillez &agrave; ce que toutes les caract&eacute;ristiques principales d&eacute;terminant le rendement &eacute;nerg&eacute;tique soient mentionn&eacute;es dans le plan de mesure.</li>
+	<li>&Eacute;tablissez la fr&eacute;quence de r&eacute;vision p&eacute;riodique des besoins de votre organisation en mati&egrave;re de mesure. Proc&eacute;dez &agrave; cette r&eacute;vision et mettez le plan &agrave; jour au besoin.</li>
+	<li>&Eacute;tablissez et mettez en &oelig;uvre un programme d&rsquo;&eacute;talonnage garantissant que la maintenance de l&rsquo;&eacute;quipement de surveillance et de mesure est effectu&eacute;e ad&eacute;quatement et fournit des donn&eacute;es exactes.
+	<ul style="list-style-type:circle">
+		<li>Utilisez le [resource](Calibration_Plan) pour dresser la liste de l&rsquo;&eacute;quipement de surveillance et de mesure qui doit &ecirc;tre &eacute;talonn&eacute;. D&eacute;crivez la m&eacute;thode, le personnel charg&eacute; de l&rsquo;&eacute;talonnage, la fr&eacute;quence et l&rsquo;information de base sur l&rsquo;&eacute;quipement.</li>
+		<li>Utilisez le document [resource](Calibration_Record) pour consigner les r&eacute;sultats de l&rsquo;&eacute;talonnage de l&rsquo;&eacute;quipement.</li>
+		<li>Utilisez le document [resource](Equipment_Calibration_Record) pour consigner en permanence l&rsquo;information similaire &agrave; celle du plan d&rsquo;&eacute;talonnage et du registre d&rsquo;&eacute;talonnage, par pi&egrave;ce d&rsquo;&eacute;quipement de surveillance et de mesure.</li>
+	</ul>
+	</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Pour obtenir des donn&eacute;es de qualit&eacute;. Il faut effectuer des mesures de qualit&eacute;; il n&rsquo;est donc pas surprenant que la norme ISO 50001:2011 exige un plan de mesure &eacute;nerg&eacute;tique. On &eacute;labore ce plan pour d&eacute;finir, organiser et documenter les activit&eacute;s de surveillance et de mesure. On &eacute;value chacune des caract&eacute;ristiques principales pour d&eacute;terminer les qualit&eacute;s appropri&eacute;es qu&rsquo;il faudrait mesurer ou surveiller de mani&egrave;re &agrave; recueillir les bonnes donn&eacute;es aux fins d&rsquo;analyse. Les exigences en mati&egrave;re de surveillance, de mesure et d&rsquo;analyse du rendement mettent l&rsquo;accent sur les &laquo; caract&eacute;ristiques principales &raquo; des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Une r&eacute;vision p&eacute;riodique des mesures garantit que le plan de mesure &eacute;nerg&eacute;tique demeurera &agrave; jour et refl&eacute;tera les nouvelles exigences en mati&egrave;re de rendement &eacute;nerg&eacute;tique, comme les nouveaux objectifs/les nouvelles cibles &eacute;nerg&eacute;tiques, ou les nouveaux plans d&rsquo;action/indicateurs de rendement &eacute;nerg&eacute;tique (IRE). Cette r&eacute;vision devrait &ecirc;tre effectu&eacute;e r&eacute;guli&egrave;rement (p. ex., chaque mois ou chaque trimestre) et int&eacute;gr&eacute;e aux processus de gestion du changement &laquo; en temps r&eacute;el &raquo; de votre organisation.</p>
+
+<p>L&rsquo;&eacute;quipement utilis&eacute; pour surveiller et mesurer les caract&eacute;ristiques principales des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique doit produire des donn&eacute;es qui sont &agrave; la fois exactes et reproductibles. Les logiciels de surveillance et de mesure doivent eux aussi fournir des donn&eacute;es exactes et reproductibles, confirm&eacute;es par une v&eacute;rification. Cette exigence permet de valider le rendement &eacute;nerg&eacute;tique et de v&eacute;rifier les r&eacute;sultats des mesures d&rsquo;am&eacute;lioration.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;fini et mis en &oelig;uvre un plan de mesure &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;tabli un processus de r&eacute;vision p&eacute;riodique des besoins en mati&egrave;re de mesure</li>
+	<li>Veill&eacute; &agrave; ce que les donn&eacute;es de mesure soient exactes et reproductibles</li>
+	<li>Consign&eacute; les donn&eacute;es d&rsquo;&eacute;talonnage</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.6.1 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;finir et mettre en &oelig;uvre un plan de mesure &eacute;nerg&eacute;tique)</p>
+
+<p>La norme ISO 50001 exige un plan de mesure &eacute;nerg&eacute;tique. On &eacute;labore ce plan en vue de d&eacute;finir, d&rsquo;organiser et de documenter les activit&eacute;s de surveillance et de mesure. On &eacute;value chacune des caract&eacute;ristiques principales afin de d&eacute;terminer les qualit&eacute;s appropri&eacute;es qu&rsquo;il faudrait mesurer ou surveiller en vue de recueillir les bonnes donn&eacute;es aux fins d&rsquo;analyse.</p>
+
+<p>Ces &laquo; caract&eacute;ristiques principales &raquo; doivent inclure au moins les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Consommation &eacute;nerg&eacute;tique pass&eacute;e et actuelle</li>
+	<li>Usages &eacute;nerg&eacute;tiques significatifs (UES) et leurs variables pertinentes connexes</li>
+	<li>Possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et plans d&rsquo;action</li>
+	<li>IRE</li>
+	<li>Efficacit&eacute; avec laquelle les plans d&rsquo;action atteignent les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+	<li>Consommation &eacute;nerg&eacute;tique r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue</li>
+</ul>
+
+<p>[Learn More](Pratique exemplaire de planification des caract&eacute;ristiques principales)</p>
+
+<p>On peut utiliser une ressource comme le document [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) pour identifier et consigner les caract&eacute;ristiques principales et les exigences de surveillance et de mesure connexes pour votre organisation dans le cadre des t&acirc;ches d&eacute;crites ci-apr&egrave;s. Le document [resource](Example_Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) fourni vise &agrave; illustrer les types d&rsquo;information qu&rsquo;on peut saisir quand on planifie la surveillance, la mesure et l&rsquo;analyse des caract&eacute;ristiques principales.</p>
+
+<p>[Learn More End]</p>
+
+<p>Les &eacute;l&eacute;ments &agrave; inclure dans le plan varieront selon la taille et la complexit&eacute; de l&rsquo;organisation, et selon son &eacute;quipement de surveillance et de mesure. Habituellement, le plan r&eacute;pond au moins aux questions suivantes :</p>
+
+<ul>
+	<li>Qu&rsquo;est-ce qu&rsquo;on mesure (syst&egrave;mes, proc&eacute;d&eacute;s ou &eacute;quipement)?</li>
+	<li>Quand ou &agrave; quelle fr&eacute;quence effectue-t-on les mesures?</li>
+	<li>Comment les donn&eacute;es sont-elles recueillies (m&eacute;thodes et proc&eacute;dures)?</li>
+	<li>O&ugrave; les donn&eacute;es sont-elles stock&eacute;es?</li>
+	<li>Qui est responsable de la collecte des donn&eacute;es?</li>
+	<li>Comment les donn&eacute;es seront-elles analys&eacute;es, et par qui?</li>
+	<li>Comment maintient-on l&rsquo;exactitude et la reproductibilit&eacute; des donn&eacute;es (p. ex., par l&rsquo;&eacute;talonnage)?</li>
+</ul>
+
+<p>Une fois que les caract&eacute;ristiques principales et les exigences de surveillance et de mesure ont &eacute;t&eacute; d&eacute;finies, le document [resource](Energy_Measurement_Plan_Worksheet) explique les d&eacute;tails &agrave; prendre en compte pour garantir une collecte ad&eacute;quate des donn&eacute;es en vue de d&eacute;terminer le rendement &eacute;nerg&eacute;tique. Cette feuille de travail comprend les caract&eacute;ristiques principales pertinentes. Si vous avez besoin d&rsquo;information plus d&eacute;taill&eacute;e &agrave; propos de certains &eacute;quipements/syst&egrave;mes, vous pouvez utiliser le [resource](Equipment_Energy_Measurement_Plan). Un [resource](Example_Equipment_Energy_Measurement_Plan) pr&eacute;sente une version remplie.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](R&eacute;viser p&eacute;riodiquement les besoins en mati&egrave;re de mesure)</p>
+
+<p>La r&eacute;vision p&eacute;riodique des besoins de votre organisation en mati&egrave;re de mesure garantit que les caract&eacute;ristiques principales qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique &eacute;volueront au fil du temps, et que toute modification n&eacute;cessaire sera apport&eacute;e au plan de mesure &eacute;nerg&eacute;tique. Informez les employ&eacute;s concern&eacute;s de ces changements. Pour r&eacute;viser ad&eacute;quatement les besoins en mati&egrave;re de mesure et mettre &agrave; jour le plan de mesure, vous devez :</p>
+
+<ul>
+	<li>D&eacute;finir une fr&eacute;quence minimale de r&eacute;vision (p. ex., une fois par mois/par trimestre ou deux fois par an)</li>
+	<li>Int&eacute;grer la r&eacute;vision aux processus de gestion &laquo; en temps r&eacute;el &raquo; de votre organisation (principalement les communications)</li>
+</ul>
+
+<p>[Learn More](Importance de la r&eacute;vision p&eacute;riodique des besoins en mati&egrave;re de mesure)</p>
+
+<p>Par exemple :</p>
+
+<p>Il faudra peut-&ecirc;tre modifier les m&eacute;thodes, l&rsquo;&eacute;quipement et les proc&eacute;dures de surveillance et de mesure, et le personnel responsable, en r&eacute;ponse aux changement touchant les usages &eacute;nerg&eacute;tiques d&eacute;sign&eacute;s comme des UES. Les besoins en mati&egrave;re de mesure peuvent changer eux aussi en raison d&rsquo;exigences nouvelles ou modifi&eacute;es en mati&egrave;re de rendement &eacute;nerg&eacute;tique (p. ex., nouveaux(nouvelles) objectifs/cibles &eacute;nerg&eacute;tiques, nouveaux plans d&rsquo;action/IRE). La modification de tout objectif de planification &eacute;nerg&eacute;tique du SGE peut modifier les besoins en mati&egrave;re de mesure. Ces besoins peuvent aussi changer &agrave; la suite d&rsquo;une modification de l&rsquo;&eacute;quipement, des proc&eacute;dures, du personnel et des m&eacute;thodes de surveillance et de mesure.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Veiller &agrave; ce que les donn&eacute;es de mesure soient exactes et reproductibles)</p>
+
+<p>Un programme d&rsquo;&eacute;talonnage garantit une maintenance ad&eacute;quate de l&rsquo;&eacute;quipement de surveillance et de mesure, afin de g&eacute;n&eacute;rer des donn&eacute;es exactes. Les &eacute;l&eacute;ments de base d&rsquo;un tel programme sont les suivants :</p>
+
+<ul>
+	<li>Identifier l&rsquo;&eacute;quipement &agrave; &eacute;talonner &ndash; caract&eacute;ristiques principales</li>
+	<li>Pr&eacute;ciser la m&eacute;thode d&rsquo;&eacute;talonnage qui sera utilis&eacute;e &ndash; r&eacute;f&eacute;rence</li>
+	<li>&Eacute;tablir une tol&eacute;rance et une fr&eacute;quence d&rsquo;&eacute;talonnage &ndash; &eacute;cart</li>
+	<li>D&eacute;finir et attribuer les responsabilit&eacute;s en mati&egrave;re d&rsquo;&eacute;talonnage &ndash; multiples &eacute;l&eacute;ments</li>
+	<li>Tenir &agrave; jour la documentation appropri&eacute;e &ndash; plan et registres</li>
+</ul>
+
+<p>[Learn More](Volets d&rsquo;un programme d&rsquo;&eacute;talonnage)</p>
+
+<p><strong>Identifier l&rsquo;&eacute;quipement &agrave; &eacute;talonner</strong> &ndash; Commencez par identifier l&rsquo;&eacute;quipement &agrave; &eacute;talonner. La norme ISO 50001 met l&rsquo;accent sur la production de donn&eacute;es exactes et reproductibles, par l&rsquo;&eacute;quipement utilis&eacute; pour surveiller et mesurer les caract&eacute;ristiques principales des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique. Cet &eacute;quipement de surveillance et de mesure devrait d&eacute;j&agrave; &ecirc;tre identifi&eacute; dans le plan de mesure &eacute;nerg&eacute;tique. R&eacute;visez ce plan et identifiez et consignez l&rsquo;&eacute;quipement qui a besoin d&rsquo;&eacute;talonnage.</p>
+
+<p><strong>Pr&eacute;ciser la m&eacute;thode d&rsquo;&eacute;talonnage</strong> &ndash; Pour pr&eacute;ciser cette m&eacute;thode, vous devez d&eacute;terminer le document, la proc&eacute;dure, la norme ou toute autre r&eacute;f&eacute;rence appropri&eacute;(e) qui sera utilis&eacute;(e) pour chaque &eacute;quipement de surveillance et de mesure. L&rsquo;&eacute;talonnage peut aller d&rsquo;un processus complexe utilisant plusieurs documents avec des proc&eacute;dures et des tests d&eacute;finis, &agrave; une simple comparaison avec un &eacute;quipement de r&eacute;f&eacute;rence dont l&rsquo;&eacute;talonnage est normalis&eacute;. Les associations professionnelles, les fabricants d&rsquo;&eacute;quipement et les laboratoires de m&eacute;trologie peuvent vous aider &agrave; d&eacute;terminer l&rsquo;&eacute;quipement d&rsquo;&eacute;talonnage de r&eacute;f&eacute;rence appropri&eacute;. Les donn&eacute;es de r&eacute;f&eacute;rence ou les normes pr&eacute;cisent la fr&eacute;quence d&rsquo;&eacute;talonnage, les m&eacute;thodes, la tra&ccedil;abilit&eacute; et les qualifications du personnel. Elles peuvent aussi donner des informations sur les tol&eacute;rances.</p>
+
+<p><strong>&Eacute;tablir la tol&eacute;rance et la fr&eacute;quence d&rsquo;&eacute;talonnage</strong> &ndash; La tol&eacute;rance d&rsquo;&eacute;talonnage est l&rsquo;&eacute;cart autoris&eacute; par rapport &agrave; une valeur &eacute;tablie. On la sp&eacute;cifie afin de garantir que l&rsquo;&eacute;quipement sera calibr&eacute; avec la pr&eacute;cision requise dans le respect des limites acceptables. Tenez compte des facteurs suivants pour &eacute;tablir la tol&eacute;rance :</p>
+
+<ul>
+	<li><strong>Capacit&eacute; de l&rsquo;&eacute;quipement.</strong> L&rsquo;&eacute;quipement de surveillance ou de mesure doit pouvoir faire des mesures avec le niveau de pr&eacute;cision requis. On ne peut pas l&rsquo;&eacute;talonner avec une tol&eacute;rance &agrave; laquelle il ne pourra pas prendre de mesures.</li>
+	<li><strong>Exigences li&eacute;es aux proc&eacute;d&eacute;s ou aux produits.</strong> Les exigences li&eacute;es aux clients ou aux sous-ensembles, ou l&rsquo;utilisation finale peuvent dicter la tol&eacute;rance requise.</li>
+	<li><strong>Sp&eacute;cifications du fabricant.</strong> Les fabricants peuvent sugg&eacute;rer des tol&eacute;rances pour l&rsquo;&eacute;quipement utilis&eacute; dans le cadre des proc&eacute;d&eacute;s de l&rsquo;organisation. L&agrave; encore, l&rsquo;&eacute;quipement doit pouvoir effectuer les mesures avec le niveau de pr&eacute;cision requis.</li>
+	<li><strong>Normes/r&egrave;glements.</strong> La tol&eacute;rance peut &ecirc;tre dict&eacute;e par des normes li&eacute;es au produit ou exig&eacute;e par les organismes de r&eacute;glementation.</li>
+</ul>
+
+<p>Parall&egrave;lement &agrave; la tol&eacute;rance, on &eacute;tablit la fr&eacute;quence d&rsquo;&eacute;talonnage. M&ecirc;me si les recommandations du fabricant sont une source pour la fr&eacute;quence d&rsquo;&eacute;talonnage, il faut &eacute;galement tenir compte du r&ocirc;le et de l&rsquo;utilisation de l&rsquo;&eacute;quipement. Les environnements difficiles et les mesures dont la tol&eacute;rance est tr&egrave;s faible peuvent n&eacute;cessiter un &eacute;talonnage plus fr&eacute;quent. L&rsquo;historique de l&rsquo;&eacute;quipement est &eacute;galement important; un &eacute;quipement de surveillance et de mesure qui a d&eacute;j&agrave; g&eacute;n&eacute;r&eacute; des mesures peu exactes pourrait n&eacute;cessiter un &eacute;talonnage plus fr&eacute;quent. De plus, cet &eacute;quipement devra &ecirc;tre r&eacute;&eacute;talonn&eacute; quand on a des raisons de douter de son exactitude. Au besoin, modifiez les m&eacute;thodes, le calendrier ou l&rsquo;&eacute;quipement pour satisfaire aux exigences en mati&egrave;re de tol&eacute;rance.</p>
+
+<p><strong>D&eacute;finir et attribuer les responsabilit&eacute;s en mati&egrave;re d&rsquo;&eacute;talonnage </strong>&ndash; Pour garantir que l&rsquo;&eacute;quipement est ad&eacute;quatement &eacute;talonn&eacute; et g&eacute;n&eacute;rera des donn&eacute;es exactes, d&eacute;finissez les responsabilit&eacute;s et attribuez-les au personnel appropri&eacute;. R&eacute;pondez par exemple aux questions suivantes :</p>
+
+<ul>
+	<li><strong>Qui va proc&eacute;der &agrave; l&rsquo;&eacute;talonnage?</strong> Est-ce qu&rsquo;il sera fait &agrave; l&rsquo;interne ou confi&eacute; &agrave; un sous-traitant? S&rsquo;il est effectu&eacute; &agrave; l&rsquo;interne, est-ce que l&rsquo;expertise, l&rsquo;&eacute;quipement et la documentation n&eacute;cessaires sont accessibles? S&rsquo;il est donn&eacute; en sous-traitance, est-ce qu&rsquo;un seul sous-traitant peut &eacute;talonner tout l&rsquo;&eacute;quipement? Est-ce que l&rsquo;&eacute;talonnage par un sous-traitant peut &ecirc;tre effectu&eacute; sur place ou doit-il travailler hors site? Y a-t-il des exigences l&eacute;gales &agrave; respecter?</li>
+	<li><strong>Qui va consigner les donn&eacute;es d&rsquo;&eacute;talonnage?</strong> Est-ce que ce sera fait &agrave; l&rsquo;interne ou confi&eacute; &agrave; un sous-traitant? Quels registres seront tenus &agrave; jour et sous quelle forme? Quel type d&rsquo;acc&egrave;s sera requis pour ces registres?</li>
+	<li><strong>Qui assurera la maintenance et l&rsquo;utilisation de l&rsquo;&eacute;quipement?</strong> Faudra-t-il offrir une formation? Y a-t-il des exigences d&rsquo;&eacute;talonnage associ&eacute;es &agrave; la maintenance? Est-ce que les op&eacute;rateurs peuvent apporter des modifications? Que doivent-ils savoir &agrave; propos de l&rsquo;&eacute;talonnage?</li>
+	<li><strong>Qui devra s&rsquo;assurer que l&rsquo;&eacute;talonnage a bien lieu?</strong> Qui assurera l&rsquo;examen r&eacute;gulier des calendriers d&rsquo;&eacute;talonnage ou en sera responsable? Qui veillera &agrave; ce que l&rsquo;&eacute;quipement soit disponible au moment opportun pour l&rsquo;&eacute;talonnage?</li>
+	<li><strong>Qui v&eacute;rifiera qu&rsquo;on a effectu&eacute; l&rsquo;&eacute;talonnage appropri&eacute;?</strong> Est-ce que ce sera fait &agrave; l&rsquo;interne ou confi&eacute; &agrave; un sous-traitant? Que faut-il faire pour v&eacute;rifier l&rsquo;&eacute;talonnage? Dispose-t-on des ressources n&eacute;cessaires, ou faut-il de l&rsquo;&eacute;quipement/une formation destin&eacute;e au personnel?</li>
+</ul>
+
+<p><strong>Tenir &agrave; jour la documentation appropri&eacute;e</strong> &ndash; On a besoin de documents pr&eacute;cis pour v&eacute;rifier l&rsquo;&eacute;tat de l&rsquo;&eacute;talonnage de l&rsquo;&eacute;quipement de surveillance et de mesure, et d&eacute;finir les besoins et les responsabilit&eacute;s en mati&egrave;re d&rsquo;&eacute;talonnage. Il n&rsquo;existe aucun type ou format exig&eacute; pour la documentation. &Eacute;laborez ce qui fonctionne pour votre organisation. Parmi les mod&egrave;les disponibles : [resource](Calibration_Plan) et [resource](Equipment_Calibration_Record).</p>
+
+<p>Vous pouvez utiliser le [resource](Calibration_Plan) pour dresser la liste des &eacute;quipements de surveillance et de mesure qui doivent &ecirc;tre &eacute;talonn&eacute;s, et d&eacute;crire la m&eacute;thode, le personnel charg&eacute; de l&rsquo;&eacute;talonnage, la fr&eacute;quence et l&rsquo;information de base sur l&rsquo;&eacute;quipement. On peut utiliser le document [resource](Calibration_Record) pour consigner les r&eacute;sultats de l&rsquo;&eacute;talonnage de l&rsquo;&eacute;quipement. Ce document et le plan d&rsquo;&eacute;talonnage peuvent contenir les donn&eacute;es d&rsquo;&eacute;talonnage de plusieurs &eacute;quipements de surveillance et de mesure. Le document [resource](Equipment_Calibration_Record) consigne en permanence l&rsquo;information similaire &agrave; celle du plan d&rsquo;&eacute;talonnage et du registre d&rsquo;&eacute;talonnage, mais on l&rsquo;utilise pour un seul &eacute;quipement de surveillance et de mesure. Ce document montre l&rsquo;historique de l&rsquo;&eacute;quipement, qui sert &agrave; analyser les tendances et &agrave; indiquer quand l&rsquo;&eacute;quipement doit &ecirc;tre remplac&eacute;.</p>
+
+<p>[Learn More End]</p>
+
+<p><strong>&Eacute;tablir des liens entre les UES</strong> &ndash; La [resource](SEU_Control_Chart) pr&eacute;sent&eacute;e ans le cadre de la t&acirc;che [task](Relevant Variables), puis des t&acirc;ches [task](Operational Controls) et [task](Monitoring), vise &eacute;galement &agrave; consigner l&rsquo;information de base relative &agrave; l&rsquo;&eacute;talonnage de l&rsquo;&eacute;quipement de surveillance et de mesure utilis&eacute; pour les UES. Si vous utilisez ce tableau, remplissez la colonne 7 en entrant l&rsquo;&eacute;quipement (ou le logiciel) &agrave; &eacute;talonner (ou &agrave; v&eacute;rifier) pour chaque UES. De plus, ajoutez dans la colonne 8 les registres d&rsquo;&eacute;talonnage (ou de v&eacute;rification) &agrave; tenir &agrave; jour. Le document [resource](Example_SEU_Control_Chart) montre une feuille de contr&ocirc;le des UES remplie.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Tenir &agrave; jour les registres de surveillance et de mesure appropri&eacute;s)</p>
+
+<p>Il faut consigner les r&eacute;sultats des activit&eacute;s de surveillance et de mesure. Cela peut &ecirc;tre fait de diverses fa&ccedil;ons, notamment &agrave; l&rsquo;aide de tableurs, de bases de donn&eacute;es ou de feuilles de contr&ocirc;le, ou dans d&rsquo;autres formats. Il faut &eacute;galement tenir des registres pour d&eacute;montrer que les besoins de l&rsquo;organisation en mati&egrave;re de mesure sont r&eacute;vis&eacute;s p&eacute;riodiquement. Vous pouvez le faire en consignant les dates de la r&eacute;vision et/ou en mettant &agrave; jour cette information dans le plan de mesure. Il faut utiliser les registres d&rsquo;&eacute;talonnage ou d&rsquo;autres moyens pour garantir l&rsquo;exactitude et la reproductibilit&eacute; des donn&eacute;es recueillies, afin de v&eacute;rifier l&rsquo;efficacit&eacute; du programme d&rsquo;&eacute;talonnage.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 14001:2015 et ISO 9001:2015 n&rsquo;exigent aucun plan de mesure. Par contre, elles exigent toutes deux que l&rsquo;organisation d&eacute;termine ce qui doit &ecirc;tre surveill&eacute; et mesur&eacute; et quand, les m&eacute;thodes, les crit&egrave;res d&rsquo;&eacute;valuation et le moment o&ugrave; les r&eacute;sultats seront analys&eacute;s. Cette information pourrait &ecirc;tre tenue &agrave; jour dans un plan de mesure int&eacute;gr&eacute; qui couvre l&rsquo;&eacute;nergie (ISO 50001:2011), l&rsquo;environnement (ISO 14001) et/ou la qualit&eacute; (ISO 9001).</p>
+
+<p>Les normes ISO 9001:2015 et ISO 14001:2015 exigent que l&rsquo;organisation d&eacute;termine ce qui doit &ecirc;tre surveill&eacute; et mesur&eacute;. Parce que les syst&egrave;mes de gestion et tous les processus qu&rsquo;ils comprennent doivent &ecirc;tre tenus &agrave; jour, on pourrait d&eacute;terminer ces besoins p&eacute;riodiquement, au besoin ou de fa&ccedil;on permanente. Il ne serait pas difficile de respecter les exigences de la norme ISO 50001:2011 dans ce domaine, en int&eacute;grant une r&eacute;vision p&eacute;riodique des besoins en mati&egrave;re de mesure aux divers syst&egrave;mes de gestion, ou en instaurant un examen ind&eacute;pendant de ces besoins, uniquement pour le SGE.</p>
+
+<p>Les processus d&rsquo;&eacute;talonnage et/ou de v&eacute;rification mis en place pour la norme ISO 9001:2015, ISO 14001:2015 ou ISO 50001:2011 peuvent &ecirc;tre modifi&eacute;s en vue d&rsquo;&ecirc;tre utilis&eacute;s par les autres syst&egrave;mes de gestion. Les exigences pr&eacute;cises li&eacute;es &agrave; l&rsquo;&eacute;talonnage et &agrave; la v&eacute;rification varient d&rsquo;une norme &agrave; l&rsquo;autre, mais elles ne sont pas assez diff&eacute;rentes pour justifier des syst&egrave;mes d&rsquo;&eacute;talonnage distincts. La norme ISO 9001:2015 &eacute;nonce des exigences plus explicites et plus strictes dans ce domaine, mais les processus d&rsquo;&eacute;talonnage et de v&eacute;rification de la norme ISO 9001 ou de la norme ISO 14001 pourraient &ecirc;tre adapt&eacute;s en vue d&rsquo;&ecirc;tre utilis&eacute;s par un SGE, avec les modifications appropri&eacute;es. Un des probl&egrave;mes potentiels de mise en &oelig;uvre pourrait &ecirc;tre li&eacute; &agrave; la &laquo; responsabilit&eacute; &raquo; des processus d&rsquo;&eacute;talonnage s&rsquo;ils sont utilis&eacute;s par plusieurs syst&egrave;mes de gestion.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; aux sections 4.1, 4.2 et 5.5 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. Pour &eacute;tablir et mettre en &oelig;uvre un plan de mesure &eacute;nerg&eacute;tique, inspirez-vous des &eacute;tapes techniques d&eacute;crites &agrave; la section 4.1 des lignes directrices ENERGY STAR, en identifiant les caract&eacute;ristiques principales de vos op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique, ainsi que les exigences connexes en mati&egrave;re de surveillance et de mesure. La pr&eacute;sente t&acirc;che contient des directives et plusieurs ressources utiles &agrave; cet effet.</p>
+
+<p>Il se peut que les besoins en mati&egrave;re de mesure aient &eacute;t&eacute; inclus quand on a identifi&eacute; les ressources &agrave; la section 4.2 des lignes directrices ENERGY STAR. Quand vous mettrez en &oelig;uvre le SGE, vous devrez vous assurer que les besoins en mati&egrave;re de mesure sont r&eacute;vis&eacute;s p&eacute;riodiquement. Cette r&eacute;vision peut &ecirc;tre int&eacute;gr&eacute;e aux examens p&eacute;riodiques que votre organisation a d&eacute;j&agrave; mis en place conform&eacute;ment aux directives de la section 5.5 des lignes directrices ENERGY STAR.</p>
+
+<p>Les syst&egrave;mes de surveillance et de mesure de votre SGE incluront l&rsquo;&eacute;talonnage de l&rsquo;&eacute;quipement de surveillance et de mesure, afin de garantir que les donn&eacute;es seront exactes et reproductibles, et la tenue &agrave; jour des registres et documents connexes.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,272 @@
+USDOE 50001 READY NAVIGATOR TASK 11
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Valeurs de base, objectifs et cibles
+----------TITLE----------
+Tâche 11: Nous avons établi une consommation de référence et approuvé les objectifs et les cibles d’amélioration du rendement énergétique, ainsi que les délais de réalisation.
+----------GETTING IT DONE----------
+<ul>
+	<li>&Eacute;tablissez une consommation de r&eacute;f&eacute;rence pour chaque IRE.
+	<ul style="list-style-type:circle">
+		<li>Consignez la consommation de r&eacute;f&eacute;rence et mesurez l&rsquo;&eacute;volution du rendement &eacute;nerg&eacute;tique par rapport &agrave; celle-ci.</li>
+		<li>&Eacute;tablissez les conditions dans lesquelles on apportera des modifications &agrave; la consommation de r&eacute;f&eacute;rence.</li>
+	</ul>
+	</li>
+	<li>&Eacute;tablissez des objectifs et des cibles organisationnels en mati&egrave;re d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.
+	<ul style="list-style-type:circle">
+		<li>Utilisez la [resource](Energy_Objectives_Targets_Worksheet) pour consulter les facteurs &agrave; prendre en compte et documenter les r&eacute;sultats.</li>
+		<li>Faites approuver par la haute direction les objectifs et les cibles, et communiquez-les de fa&ccedil;on appropri&eacute;e.</li>
+	</ul>
+	</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La consommation de r&eacute;f&eacute;rence est le point de r&eacute;f&eacute;rence qui sert de base &agrave; la comparaison visant &agrave; d&eacute;terminer le rendement &eacute;nerg&eacute;tique. On l&rsquo;&eacute;tablit en utilisant les donn&eacute;es &eacute;nerg&eacute;tiques et organisationnelles issues de la revue &eacute;nerg&eacute;tique. C&rsquo;est la responsabilit&eacute; du repr&eacute;sentant de la direction, avec l&rsquo;aide de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie.</p>
+
+<p>La consommation de r&eacute;f&eacute;rence facilite la comparaison entre ce qu&rsquo;est (ou ce que sera) le rendement &eacute;nerg&eacute;tique d&rsquo;une organisation et le moment o&ugrave; il a g&eacute;n&eacute;r&eacute; des am&eacute;liorations au chapitre de l&rsquo;&eacute;nergie. Elle peut porter sur n&rsquo;importe quelle p&eacute;riode significative pour votre organisation et pour le rendement qu&rsquo;on &eacute;value. Souvent, on l&rsquo;&eacute;tablit dans le cadre des initiatives strat&eacute;giques de l&rsquo;organisation ou pour satisfaire &agrave; une exigence l&eacute;gale ou autre. La consommation de r&eacute;f&eacute;rence tient compte de la ou des p&eacute;riodes correspondant aux usages et &agrave; la consommation &eacute;nerg&eacute;tiques de votre organisation. Habituellement, chaque IRE identifi&eacute; s&rsquo;accompagne d&rsquo;une consommation de r&eacute;f&eacute;rence.</p>
+
+<p>Une fois que la consommation de r&eacute;f&eacute;rence a &eacute;t&eacute; d&eacute;termin&eacute;e, il faut &eacute;tablir les objectifs et les cibles, assortis de d&eacute;lais de r&eacute;alisation. Les objectifs &eacute;nerg&eacute;tiques sont les r&eacute;sultats pr&eacute;cis que votre organisation vise pour s&rsquo;acquitter des engagements de sa politique &eacute;nerg&eacute;tique en mati&egrave;re d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Les cibles &eacute;nerg&eacute;tiques sont les exigences quantifi&eacute;es en mati&egrave;re de rendement &eacute;nerg&eacute;tique qu&rsquo;&eacute;tablit votre organisation et qu&rsquo;elle doit respecter pour atteindre les objectifs &eacute;nerg&eacute;tiques connexes. Les objectifs et les cibles &eacute;nerg&eacute;tiques, ainsi que les plans d&rsquo;action connexes (voir [task](Improvement Projects)), sont les catalyseurs de l&rsquo;am&eacute;lioration continue du rendement &eacute;nerg&eacute;tique de votre organisation.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli la ou les consommations de r&eacute;f&eacute;rence</li>
+	<li>Compar&eacute; les IRE &agrave; la consommation de r&eacute;f&eacute;rence</li>
+	<li>Consign&eacute; et tenu &agrave; jour les consommations de r&eacute;f&eacute;rence</li>
+	<li>Pr&eacute;cis&eacute; les conditions de modification de la consommation de r&eacute;f&eacute;rence</li>
+	<li>Recueilli et examin&eacute; les commentaires appropri&eacute;s</li>
+	<li>D&eacute;fini et document&eacute; les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+	<li>Obtenu l&rsquo;approbation de la direction</li>
+	<li>Communiqu&eacute; les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.4 et 4.4.6 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir la consommation de r&eacute;f&eacute;rence)</p>
+
+<p>Vous pouvez &eacute;tablir la consommation de r&eacute;f&eacute;rence &agrave; n&rsquo;importe quel niveau de votre organisation, et il peut y en avoir plusieurs. Vous pouvez &eacute;tablir une consommation de r&eacute;f&eacute;rence pour l&rsquo;ensemble des installations et/ou une consommation de r&eacute;f&eacute;rence pour chaque &eacute;quipement, syst&egrave;me ou proc&eacute;d&eacute;. Les consommations de r&eacute;f&eacute;rence sont les r&eacute;f&eacute;rences permettant de comparer l&rsquo;actuel rendement &eacute;nerg&eacute;tique afin de d&eacute;terminer s&rsquo;il s&rsquo;am&eacute;liore. Les r&eacute;ponses aux questions suivantes aideront &agrave; d&eacute;terminer la consommation de r&eacute;f&eacute;rence appropri&eacute;e :</p>
+
+<ul>
+	<li>Comment utilise-t-on chaque IRE pour &eacute;valuer le rendement &eacute;nerg&eacute;tique? Y a-t-il une consommation de r&eacute;f&eacute;rence logique pour chacun?</li>
+	<li>Quels sont les changements historiques subis par les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes, les proc&eacute;d&eacute;s ou l&rsquo;organisation qui pourraient modifier le mode d&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique?</li>
+	<li>Les int&eacute;r&ecirc;ts de quels intervenants devrait-on prendre en compte au moment d&rsquo;&eacute;tablir consommation de r&eacute;f&eacute;rence pour mesurer l&rsquo;&eacute;nergie?</li>
+	<li>Est-ce qu&rsquo;un ou plusieurs des IRE &eacute;tablis permettraient de mesurer certaines initiatives strat&eacute;giques ou d&rsquo;influer sur celles-ci? Y a-t-il une consommation de r&eacute;f&eacute;rence associ&eacute;e &agrave; ces initiatives strat&eacute;giques?</li>
+	<li>Pour quelles p&eacute;riodes pass&eacute;es dispose-t-on de donn&eacute;es fiables et uniformes &agrave; propos des IRE &eacute;tablis?</li>
+</ul>
+
+<p>Les r&eacute;ponses &agrave; ces questions vous aideront &agrave; d&eacute;finir la consommation de r&eacute;f&eacute;rence pertinente pour les IRE &eacute;tablis.</p>
+
+<p>[Learn More](Utilisation de l&rsquo;outil IRE Lite du DOE)</p>
+
+<p>Si vous utilisez [resource](IRE_Lite), votre ann&eacute;e de r&eacute;f&eacute;rence devrait &ecirc;tre ant&eacute;rieure de 12 mois &agrave; votre p&eacute;riode de production de rapports. Par ailleurs, vous devriez choisir la p&eacute;riode de production de rapports de sorte qu&rsquo;elle se termine pendant les 11 mois pr&eacute;c&eacute;dents. Si vous rafra&icirc;chissez votre consommation de r&eacute;f&eacute;rence chaque ann&eacute;e, il est plus probable que votre mod&egrave;le sera adapt&eacute; &agrave; vos conditions et &agrave; vos op&eacute;rations actuelles. En raison des changements ayant un impact sur les usages et la consommation &eacute;nerg&eacute;tiques dans vos installations, vous devriez r&eacute;viser les mod&egrave;les &eacute;nerg&eacute;tiques et les mettre &agrave; jour p&eacute;riodiquement. Pour ce faire, mettez &agrave; jour votre consommation de r&eacute;f&eacute;rence chaque ann&eacute;e.</p>
+
+<p>Plusieurs raisons peuvent justifier le choix d&rsquo;une ann&eacute;e de r&eacute;f&eacute;rence autre que l&rsquo;ann&eacute;e pr&eacute;c&eacute;dente (p. ex., alignement avec la consommation de r&eacute;f&eacute;rence de l&rsquo;entreprise, alignement avec les donn&eacute;es financi&egrave;res, changements survenus dans les installations qui font que l&rsquo;ann&eacute;e pr&eacute;c&eacute;dente n&rsquo;est plus repr&eacute;sentative de la situation actuelle, etc.). Si vous avez de la difficult&eacute; &agrave; &eacute;laborer un mod&egrave;le, l&rsquo;outil [resource](IRE_Lite) propose deux options de r&eacute;gression : pr&eacute;visionnelle et r&eacute;trospective. Pour en savoir plus, voyez la section de la t&acirc;che [task](Performance Indicators). De plus, IRE Lite acceptera les p&eacute;riodes de r&eacute;f&eacute;rence et de production de rapports ne se trouvant pas dans les plages recommand&eacute;es (voir ci-dessus). Par contre, d&rsquo;anciennes p&eacute;riodes de r&eacute;f&eacute;rence sont moins susceptibles de refl&eacute;ter l&rsquo;actuel profil d&rsquo;utilisation d&rsquo;&eacute;nergie de vos installations, et pourraient ne pas faire le suivi des am&eacute;liorations li&eacute;es &agrave; votre SGE <em>50001 Ready</em>. Si vous avez acc&egrave;s &agrave; un mod&egrave;le valide pr&eacute;visionnel ou r&eacute;trospectif, [resource](IRE_Lite) choisira par d&eacute;faut le mod&egrave;le pr&eacute;visionnel. Par contre, avant de faire le choix d&eacute;finitif, d&eacute;terminez comment les variables pertinentes influent sur votre consommation &eacute;nerg&eacute;tique et comment elles sont incluses dans chaque mod&egrave;le.</p>
+
+<p>Si vous utilisez [resource](IRE_Lite) pour pr&eacute;senter des donn&eacute;es par rapport &agrave; une autre ann&eacute;e de r&eacute;f&eacute;rence (p. ex., celle de l&rsquo;entreprise) ou que vous souhaitez tirer parti de vos am&eacute;liorations reconnues par le DOE pour atteindre une autre cible de rendement &eacute;nerg&eacute;tique, vous voudrez peut-&ecirc;tre &laquo; accumuler &raquo; les am&eacute;liorations annuelles au chapitre de l&rsquo;intensit&eacute; &eacute;nerg&eacute;tique. Ainsi, vous ajouterez les unes aux autres les am&eacute;liorations du rendement &eacute;nerg&eacute;tique r&eacute;alis&eacute;es lors d&rsquo;ann&eacute;es successives. M&ecirc;me si cela permet de maintenir plusieurs consommations de r&eacute;f&eacute;rence, il y a un &eacute;cart entre l&rsquo;am&eacute;lioration r&eacute;elle calcul&eacute;e par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence et l&rsquo;am&eacute;lioration calcul&eacute;e gr&acirc;ce &agrave; l&rsquo;accumulation par rapport &agrave; cette m&ecirc;me ann&eacute;e. Cet &eacute;cart se creusera &agrave; mesure que vous vous &eacute;loignerez de votre ann&eacute;e de r&eacute;f&eacute;rence. Le tableau ci-dessous d&eacute;crit le concept d&rsquo;accumulation et illustre l&rsquo;&eacute;cart.</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:97.9pt">
+			<p>P&eacute;riode de r&eacute;alisation</p>
+			</td>
+			<td style="width:119.0pt">
+			<p>Am&eacute;lioration annuelle calcul&eacute;e dans IRE Lite</p>
+			</td>
+			<td style="width:126.3pt">
+			<p>Am&eacute;lioration totale calcul&eacute;e par rapport &agrave; 2015</p>
+			</td>
+			<td style="width:135.6pt">
+			<p>Am&eacute;lioration totale calcul&eacute;e par rapport &agrave; 2015gr&acirc;ce &agrave; l&rsquo;accumulation</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:97.9pt">
+			<p>2015&ndash;2016</p>
+			</td>
+			<td style="width:119.0pt">
+			<p>2 %</p>
+			</td>
+			<td style="width:126.3pt">
+			<p>2 %</p>
+			</td>
+			<td style="width:135.6pt">
+			<p>2 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:97.9pt">
+			<p>2016&ndash;2017</p>
+			</td>
+			<td style="width:119.0pt">
+			<p>3 %</p>
+			</td>
+			<td style="width:126.3pt">
+			<p>4,9 %</p>
+			</td>
+			<td style="width:135.6pt">
+			<p>5 % ( = 2 % + 3 %)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:97.9pt">
+			<p>2017&ndash;2018</p>
+			</td>
+			<td style="width:119.0pt">
+			<p>4 %</p>
+			</td>
+			<td style="width:126.3pt">
+			<p>8,7 %</p>
+			</td>
+			<td style="width:135.6pt">
+			<p>9 % ( = 2 % + 3 % + 5 %)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comparer les IRE &agrave; la consommation de r&eacute;f&eacute;rence)</p>
+
+<p>On compare les IRE &eacute;tablis pour d&eacute;terminer le rendement &eacute;nerg&eacute;tique &agrave; la consommation de r&eacute;f&eacute;rence afin de mesurer les progr&egrave;s en mati&egrave;re d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. &Agrave; cette fin, ils doivent &ecirc;tre uniformes (forme et unit&eacute;) pour que la comparaison soit valide.</p>
+
+<p>Si l&rsquo;IRE est une simple mesure (p. ex., la consommation) ou un ratio (p. ex., l&rsquo;intensit&eacute; &eacute;nerg&eacute;tique exprim&eacute;e en BTU par livre), on mesure le rendement &eacute;nerg&eacute;tique en comparant l&rsquo;actuel IRE &agrave; la consommation de r&eacute;f&eacute;rence, afin d&rsquo;&eacute;valuer le rendement g&eacute;n&eacute;r&eacute; par la mise en &oelig;uvre des plans d&rsquo;action.</p>
+
+<p>[Learn More](R&eacute;sultat de la comparaison entre l&rsquo;IRE et la consommation de r&eacute;f&eacute;rence)</p>
+
+<p>La comparaison peut produire au moins quatre r&eacute;sultats diff&eacute;rents repr&eacute;sentant diff&eacute;rents rendements :</p>
+
+<ul>
+	<li>L&rsquo;IRE compar&eacute; &agrave; la consommation de r&eacute;f&eacute;rence indique une am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</li>
+	<li>L&rsquo;IRE compar&eacute; &agrave; la consommation de r&eacute;f&eacute;rence indique une d&eacute;t&eacute;rioration du rendement &eacute;nerg&eacute;tique.</li>
+	<li>L&rsquo;IRE compar&eacute; &agrave; la consommation de r&eacute;f&eacute;rence n&rsquo;indique aucun changement du rendement &eacute;nerg&eacute;tique.</li>
+	<li>L&rsquo;IRE et la consommation de r&eacute;f&eacute;rence n&rsquo;affichent aucune tendance &eacute;vidente par leur valeur relative. (Cela pourrait indiquer la variation d&rsquo;un facteur qu&rsquo;on croyait constant ou l&rsquo;existence de variables dont le calcul n&rsquo;avait pas tenu compte.)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>La consommation de r&eacute;f&eacute;rence peut aussi vous aider &agrave; d&eacute;finir la valeur escompt&eacute;e ou pr&eacute;vue du rendement &eacute;nerg&eacute;tique. L&rsquo;avantage de la comparaison entre l&rsquo;IRE r&eacute;el et l&rsquo;IRE pr&eacute;vu tient au fait qu&rsquo;il illustre l&rsquo;orientation et la rapidit&eacute; du changement touchant le rendement &eacute;nerg&eacute;tique de l&rsquo;organisation. &Eacute;tant donn&eacute; que la gestion de l&rsquo;&eacute;nergie a pour but ultime l&rsquo;am&eacute;lioration continue, des tendances constantes en ce qui concerne les IRE r&eacute;els et pr&eacute;vus peuvent d&eacute;montrer et quantifier l&rsquo;am&eacute;lioration.</p>
+
+<p>La responsabilit&eacute; de l&rsquo;analyse des IRE et de la consommation de r&eacute;f&eacute;rence incombe g&eacute;n&eacute;ralement au personnel charg&eacute; d&rsquo;&eacute;laborer, de mettre &agrave; l&rsquo;essai et de d&eacute;terminer les facteurs influant sur les indicateurs de rendement identifi&eacute;s. On utilise souvent des tableaux ou des graphiques pour rendre compte des IRE et du rendement &eacute;nerg&eacute;tique. On utilise les IRE et leur consommation de r&eacute;f&eacute;rence connexes pour pr&eacute;senter le rendement &eacute;nerg&eacute;tique &agrave; la haute direction.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner et tenir &agrave; jour les consommations de r&eacute;f&eacute;rence)</p>
+
+<p>On consigne, tient &agrave; jour et r&eacute;vise p&eacute;riodiquement la ou les consommations de r&eacute;f&eacute;rence afin de d&eacute;terminer s&rsquo;il faut les modifier. Les IRE calcul&eacute;s et leur consommation de r&eacute;f&eacute;rence connexe sont consign&eacute;s et r&eacute;vis&eacute;s r&eacute;guli&egrave;rement. Les IRE mis &agrave; jour sont incorpor&eacute;s &agrave; la planification &eacute;nerg&eacute;tique de votre organisation et utilis&eacute;s pour d&eacute;terminer plus facilement le rendement &eacute;nerg&eacute;tique. Les IRE mis &agrave; jour incluent une &eacute;valuation des consommations de r&eacute;f&eacute;rence visant &agrave; d&eacute;terminer si celles-ci demeurent pertinentes. En tenant &agrave; jour ces valeurs, on garantit que l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique demeurera pertinente et utile &agrave; mesure que le SGE &eacute;voluera.</p>
+
+<p>En consignant avec pr&eacute;cision et en stockant les IRE et la consommation de r&eacute;f&eacute;rence connexe, on cr&eacute;e un registre historique qui affichera l&rsquo;impact des pratiques &eacute;nerg&eacute;tiques au fil du temps. Ces donn&eacute;es sur le rendement d&eacute;termineront le degr&eacute; de r&eacute;ussite d&rsquo;activit&eacute;s comme les projets d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, la formation en mati&egrave;re d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et les programmes de sensibilisation &agrave; la gestion de l&rsquo;&eacute;nergie. Cela transmettra en outre un message positif aux cadres interm&eacute;diaires et &agrave; la haute direction afin qu&rsquo;ils appuient le SGE.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;ciser les conditions de modification de la consommation de r&eacute;f&eacute;rence)</p>
+
+<p>Parce que la consommation de r&eacute;f&eacute;rence sert de r&eacute;f&eacute;rence pour la comparaison du rendement &eacute;nerg&eacute;tique, elle demeure g&eacute;n&eacute;ralement stable avec le temps. Cependant, on y apporte des modifications dans les cas suivants :</p>
+
+<ul>
+	<li>Quand l&rsquo;IRE ne refl&egrave;te plus fid&egrave;lement l&rsquo;utilisation ou la consommation &eacute;nerg&eacute;tique de l&rsquo;organisation</li>
+	<li>Quand le proc&eacute;d&eacute;, les mod&egrave;les op&eacute;rationnels ou les syst&egrave;mes &eacute;nerg&eacute;tiques ont subi des changements majeurs</li>
+	<li>Si l&rsquo;on utilise une m&eacute;thode pr&eacute;d&eacute;termin&eacute;e</li>
+</ul>
+
+<p>On met &agrave; jour les documents de r&eacute;f&eacute;rence lorsque la consommation de r&eacute;f&eacute;rence est mise &agrave; jour. La mise &agrave; jour de la consommation de r&eacute;f&eacute;rence maintient la pertinence des mesures du rendement &eacute;nerg&eacute;tique et leur utilit&eacute; pour votre organisation.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recueillir et examiner les commentaires appropri&eacute;s)</p>
+
+<p>Une premi&egrave;re &eacute;tape importante de l&rsquo;&eacute;tablissement d&rsquo;objectifs et de cibles &eacute;nerg&eacute;tiques consiste &agrave; r&eacute;unir les bonnes personnes et &agrave; leur fournir les &eacute;l&eacute;ments dont ils ont besoin pour &eacute;laborer les cibles et objectifs pertinents. Le repr&eacute;sentant de la direction et l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie sont les principaux participants &agrave; cette activit&eacute;, mais il peut &ecirc;tre b&eacute;n&eacute;fique de faire appel &agrave; d&rsquo;autres personnes si elles ne sont pas d&eacute;j&agrave; membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie.</p>
+
+<p>[Learn More](Autres personnes pouvant participer &agrave; l&rsquo;&eacute;laboration des objectifs et des cibles &eacute;nerg&eacute;tiques)</p>
+
+<p>Pour &eacute;tablir les objectifs et les cibles &eacute;nerg&eacute;tiques, une bonne pratique exemplaire consiste &agrave; adjoindre &agrave; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie :</p>
+
+<ul>
+	<li>Des personnes ayant une exp&eacute;rience du domaine de l&rsquo;&eacute;nergie</li>
+	<li>Des employ&eacute;s occupant des postes sp&eacute;cialis&eacute;s, par exemple au service comptable ou au service des finances</li>
+	<li>Des employ&eacute;s habitu&eacute;s &agrave; utiliser l&rsquo;&eacute;quipement op&eacute;rationnel ou de production</li>
+	<li>Des membres de la direction connaissant bien les plans et objectifs de l&rsquo;organisation</li>
+	<li>Des fournisseurs d&rsquo;&eacute;quipement ou de ressources &eacute;nerg&eacute;tiques ou des sous-traitants</li>
+	<li>Des clients</li>
+	<li>Des parties int&eacute;ress&eacute;es</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Au moment d&rsquo;&eacute;tablir (puis, de r&eacute;viser) les objectifs et les cibles &eacute;nerg&eacute;tiques, vous devez tenir compte des usages &eacute;nerg&eacute;tiques significatifs (UES) ([task](Data Analysis) &agrave; [task](Significant Energy Uses)) et des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique class&eacute;es par ordre de priorit&eacute; ([task](Improvement Opportunities)) qui ont &eacute;t&eacute; identifi&eacute;es par la revue &eacute;nerg&eacute;tique, ainsi que les exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie qui s&rsquo;appliquent &agrave; votre organisation ([task](Legal Requirements)). C&rsquo;est ainsi que l&rsquo;information g&eacute;n&eacute;r&eacute;e par la revue &eacute;nerg&eacute;tique sert &agrave; d&eacute;finir les objectifs et les cibles d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique qu&rsquo;a &eacute;tablis votre organisation.</p>
+
+<p>Par contre, vous devez aussi vous assurer que la r&eacute;alit&eacute; commerciale de votre organisation, ses op&eacute;rations et ses contraintes font partie du contexte dans lequel les objectifs et les cibles &eacute;nerg&eacute;tiques sont &eacute;tablis. Apr&egrave;s tout, le but vis&eacute; est d&rsquo;&eacute;tablir des objectifs et des cibles qui sont r&eacute;alistes, vont dans le sens des plans op&eacute;rationnels strat&eacute;giques de votre organisation et g&eacute;n&egrave;rent une am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Voici les volets de cette r&eacute;alit&eacute; :</p>
+
+<ul>
+	<li>Exigences financi&egrave;res</li>
+	<li>Situation sur le plan commercial et op&eacute;rationnel et contraintes connexes</li>
+	<li>Solutions technologiques potentielles</li>
+	<li>Point de vue des parties int&eacute;ress&eacute;es</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir et documenter les objectifs et les cibles &eacute;nerg&eacute;tiques)</p>
+
+<p>Les objectifs &eacute;nerg&eacute;tiques, r&eacute;sultats pr&eacute;cis qu&rsquo;une organisation a d&eacute;finis dans les engagements de sa politique &eacute;nerg&eacute;tique pour ce qui est de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique, sont des objectifs ambitieux qui sont communiqu&eacute;s &agrave; l&rsquo;ensemble de l&rsquo;organisation et servent de base &agrave; l&rsquo;&eacute;tablissement de cibles &eacute;nerg&eacute;tiques quantifiables. Il faut fixer des d&eacute;lais de r&eacute;alisation des objectifs et des cibles &eacute;nerg&eacute;tiques. Voici un exemple d&rsquo;objectif &eacute;nerg&eacute;tique :</p>
+
+<p><em>&laquo; R&eacute;duire la consommation d&rsquo;&eacute;nergie de 10 % en cinq ans &agrave; partir de l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence 2014. &raquo;</em></p>
+
+<p>Une fois que les objectifs &eacute;nerg&eacute;tiques ont &eacute;t&eacute; &eacute;tablis, votre organisation doit &eacute;tablir une ou plusieurs cibles &eacute;nerg&eacute;tiques pour chaque objectif. Ces cibles d&eacute;finissent certaines am&eacute;liorations mesurables du rendement &eacute;nerg&eacute;tique qui contribuent &agrave; l&rsquo;atteinte de l&rsquo;objectif. Une cible &eacute;nerg&eacute;tique peut s&rsquo;appliquer &agrave; l&rsquo;ensemble d&rsquo;une organisation ou seulement &agrave; une activit&eacute; ou &agrave; une partie de l&rsquo;organisation. Exemples de cibles qui pourraient &ecirc;tre li&eacute;es au pr&eacute;c&eacute;dent exemple d&rsquo;objectif &eacute;nerg&eacute;tique :</p>
+
+<p><em>&laquo; R&eacute;duire la consommation d&rsquo;&eacute;lectricit&eacute; de 5 % par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence 2014 d&rsquo;ici le troisi&egrave;me trimestre de 2018. &raquo;</em></p>
+
+<p><em>&laquo; R&eacute;duire la consommation des syst&egrave;mes d&rsquo;&eacute;clairage de 10 % par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence 2014 d&rsquo;ici la fin de 2017. &raquo;</em></p>
+
+<p>On peut &eacute;tablir des cibles parall&egrave;lement &agrave; l&rsquo;objectif &eacute;nerg&eacute;tique, ou avoir besoin de plus de donn&eacute;es pour identifier les cibles pr&eacute;cises qui permettront &agrave; l&rsquo;organisation d&rsquo;atteindre son ou ses objectifs. Par exemple, vous pourriez juger n&eacute;cessaire d&rsquo;&eacute;valuer de pr&egrave;s les &eacute;conomies d&rsquo;&eacute;nergie potentielles associ&eacute;es &agrave; une possibilit&eacute; d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique particuli&egrave;re, afin de d&eacute;terminer une cible appropri&eacute;e. Une cible &eacute;nerg&eacute;tique peut &eacute;galement influer sur le choix des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique qu&rsquo;on exploitera pour atteindre la cible &eacute;nerg&eacute;tique et l&rsquo;objectif &eacute;nerg&eacute;tique.</p>
+
+<p>Dans le cadre de la revue de direction, on explique &agrave; la haute direction dans quelle mesure les objectifs et les cibles &eacute;nerg&eacute;tiques ont &eacute;t&eacute; atteints (voir [task](Management Review)). Les progr&egrave;s r&eacute;alis&eacute;s vers l&rsquo;atteinte de ces objectifs et cibles &eacute;nerg&eacute;tiques devraient &ecirc;tre surveill&eacute;s et examin&eacute;s r&eacute;guli&egrave;rement. Parfois, apr&egrave;s l&rsquo;&eacute;tablissement des objectifs et des cibles &eacute;nerg&eacute;tiques, une organisation d&eacute;couvre qu&rsquo;il lui faut revoir les donn&eacute;es initiales utilis&eacute;es pour mesurer la cible &eacute;nerg&eacute;tique afin d&rsquo;atteindre l&rsquo;objectif &eacute;nerg&eacute;tique.</p>
+
+<p>Il faut documenter les objectifs et les cibles &eacute;nerg&eacute;tiques.</p>
+
+<p>[Learn More](Avantages de la documentation des objectifs et des cibles &eacute;nerg&eacute;tiques)</p>
+
+<p>Voici pourquoi il est avantageux pour votre organisation de les documenter :</p>
+
+<ul>
+	<li>Cela clarifie les objectifs et les cibles.</li>
+	<li>Cela &eacute;vite les malentendus ou les hypoth&egrave;ses.</li>
+	<li>Cela structure le processus.</li>
+	<li>Cela facilite la formation.</li>
+	<li>Cela assure une communication pr&eacute;cise.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Vous pouvez documenter les objectifs/cibles dans tout format adapt&eacute; &agrave; votre organisation. La [resource](Energy_Objectives_Targets_Worksheet) permet notamment de les documenter, de m&ecirc;me que les autres &eacute;l&eacute;ments &agrave; prendre en compte. Remplissez une feuille de travail distincte pour chaque objectif &eacute;nerg&eacute;tique.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Obtenir l&rsquo;approbation de la direction)</p>
+
+<p>Il incombe &agrave; la haute direction de veiller &agrave; ce que les objectifs et les cibles &eacute;nerg&eacute;tiques soient &eacute;tablis, et de fournir les ressources n&eacute;cessaires &agrave; leur r&eacute;alisation. La direction s&rsquo;assure en outre qu&rsquo;ils vont dans le sens des strat&eacute;gies et des buts globaux de l&rsquo;organisation.</p>
+
+<p>Soumettez les objectifs et les cibles &agrave; l&rsquo;examen et &agrave; l&rsquo;approbation de la direction dans un format clair et facile &agrave; comprendre. Vous devez fournir suffisamment d&rsquo;information pour justifier leur objet et leur lien avec les objectifs op&eacute;rationnels de l&rsquo;organisation et avec les engagements qu&rsquo;elle a pris dans sa politique &eacute;nerg&eacute;tique. La direction approuve les objectifs et les cibles, ou d&eacute;finit des orientations en vue d&rsquo;y apporter d&rsquo;&eacute;ventuels changements.</p>
+
+<p>La [resource](Energy_Objectives_Targets_Worksheet) offre &eacute;galement un moyen pratique de communiquer les objectifs propos&eacute;s et les cibles connexes &agrave; la direction. Celle-ci conna&icirc;t alors les &eacute;l&eacute;ments dont on a tenu compte et d&eacute;termine comment elle en fera le suivi.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Communiquer les objectifs et les cibles &eacute;nerg&eacute;tiques)</p>
+
+<p>Une fois que les objectifs et les cibles &eacute;nerg&eacute;tiques ont &eacute;t&eacute; officiellement document&eacute;s et approuv&eacute;s par la direction, il faut les communiquer dans l&rsquo;ensemble de l&rsquo;organisation &agrave; l&rsquo;aide des processus de communication et de formation pr&eacute;vus par le SGE (voir [task](Communications) et [task](Training)). Il faut commencer par expliquer ces objectifs et ces cibles &agrave; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie et &agrave; tous les employ&eacute;s qui peuvent avoir un impact sur ceux-ci ou aider &agrave; leur r&eacute;alisation. M&ecirc;me si certains employ&eacute;s ne sont pas directement responsables de l&rsquo;atteinte des objectifs et des cibles, la sensibilisation de l&rsquo;ensemble du personnel de votre organisation favorise une culture de l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et un comportement positif sur le plan de l&rsquo;&eacute;nergie. Les employ&eacute;s et les sous-traitants pr&eacute;sents sur place devront savoir comment ils peuvent contribuer &agrave; l&rsquo;atteinte des objectifs et des cibles; vous devez donc vous assurer que cette information fait partie de la formation de sensibilisation au SGE offerte par votre organisation (voir [task](Communications)). Faites r&eacute;guli&egrave;rement le point sur les progr&egrave;s r&eacute;alis&eacute;s par vos employ&eacute;s vers l&rsquo;atteinte des objectifs et des cibles &eacute;nerg&eacute;tiques, et soulignez leur succ&egrave;s le cas &eacute;ch&eacute;ant.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 14001:2015 et ISO 9001:2015 exigent l&rsquo;&eacute;tablissement d&rsquo;objectifs et un &eacute;ch&eacute;ancier de r&eacute;alisation de ces objectifs. Les processus permettant d&rsquo;&eacute;tablir des objectifs en mati&egrave;re d&rsquo;environnement et/ou de qualit&eacute; peuvent &ecirc;tre adapt&eacute;s &agrave; l&rsquo;&eacute;tablissement d&rsquo;objectifs et de cibles &eacute;nerg&eacute;tiques pour le syst&egrave;me ISO 50001:2011. Il se peut que diff&eacute;rents employ&eacute;s y participent, mais le processus global pourrait &ecirc;tre le m&ecirc;me. Souvent, l&rsquo;&eacute;tablissement d&rsquo;objectifs &eacute;nerg&eacute;tiques li&eacute;s &agrave; la qualit&eacute;, &agrave; l&rsquo;environnement, &agrave; la sant&eacute; et &agrave; la s&eacute;curit&eacute; fait partie des r&eacute;sultats du processus annuel d&rsquo;&eacute;tablissement de ses objectifs op&eacute;rationnels par l&rsquo;organisation. Notez que, contrairement &agrave; la norme ISO 50001, les normes ISO 14001 et ISO 9001 n&rsquo;utilisent pas le concept de &laquo; cibles &raquo;.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 2.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) donne des directives sur l&rsquo;&eacute;tablissement d&rsquo;une consommation de r&eacute;f&eacute;rence, et les sections 2.3, 3.0, 3.3 et 6.1 expliquent comment mesurer le rendement &eacute;nerg&eacute;tique par rapport &agrave; la consommation de r&eacute;f&eacute;rence.</p>
+
+<p>Si votre organisation a d&eacute;j&agrave; stock&eacute; des donn&eacute;es [resource](Portfolio_Manager) d&rsquo;ENERGY STAR, vous pouvez les exporter vers [resource](IRE_Lite) afin d&rsquo;estimer les &eacute;conomies d&rsquo;&eacute;nergie par rapport &agrave; des variables pertinentes comme les niveaux de production et la m&eacute;t&eacute;o. La page Web d&rsquo;IRE Lite contient plus d&rsquo;instructions. Les r&eacute;sultats du mod&egrave;le &eacute;nerg&eacute;tique IRE Lite g&eacute;n&egrave;rent une consommation de r&eacute;f&eacute;rence normalis&eacute;e, qui utilise des variables ayant une incidence sur la consommation &eacute;nerg&eacute;tique (p. ex., la m&eacute;t&eacute;o et la production).</p>
+
+<p>Il se peut que votre organisation ait d&eacute;j&agrave; &eacute;tabli des objectifs et des cibles d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique, en utilisant les sections 3.3 (&laquo; Setting Goals &raquo;) et 4.1 (&laquo; Define Technical Steps and Targets &raquo;) du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). La pr&eacute;sente t&acirc;che du dossier 50001 Ready Navigator donne des directives pr&eacute;cises qui garantiront que les objectifs et les cibles &eacute;nerg&eacute;tiques de votre organisation satisfont &agrave; certains crit&egrave;res &eacute;nonc&eacute;s dans la norme ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
