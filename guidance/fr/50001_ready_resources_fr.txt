@@ -404,7 +404,7 @@ Name||Modèle de plan d’action de gestion de l’énergie
 ID||Energy_Management_Action_Plan_Template
 File Type||docx
 Short Description||Modèle visant à faciliter la préparation d’un plan d’action de gestion de l’énergie.
-File Name||Energy Management Action Plan Templat_f2.docx
+File Name||Energy Management Action Plan Templat_f2.doc
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_11%20Tool%20Energy%20Mgmt%20Action%20Plan%20Template.doc
 Associated Tasks||13
 ----------
