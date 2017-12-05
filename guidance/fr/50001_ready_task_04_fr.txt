@@ -1,0 +1,272 @@
+USDOE 50001 READY NAVIGATOR TASK 4
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Équipe responsable de l’énergie
+----------TITLE----------
+Tâche 4 : Nous avons mis sur pied une équipe responsable de l’énergie qui se réunit régulièrement, et compte un représentant de la direction. On a défini les rôles et responsabilités de cette équipe et de tout le personnel concerné.
+----------GETTING IT DONE----------
+<ul>
+	<li>La haute direction :
+	<ol>
+		<li>passera en revue les qualifications et les comp&eacute;tences exig&eacute;es du repr&eacute;sentant de la direction;</li>
+		<li>nommera le repr&eacute;sentant de la direction et lui attribuera des responsabilit&eacute;s et des pouvoirs;</li>
+		<li>consignera cette nomination et la rendra publique.</li>
+	</ol>
+	</li>
+	<li>Le repr&eacute;sentant de la direction d&eacute;sign&eacute; choisira les membres de l&rsquo;&eacute;quipe, leur attribuera un r&ocirc;le et des responsabilit&eacute;s, et planifiera des r&eacute;unions p&eacute;riodiques de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie.</li>
+	<li>Votre repr&eacute;sentant de la direction figurera dans le dossier 50001 Ready Navigator &agrave; la section Gestion de projet.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La haute direction doit nommer un repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie, qui supervisera le SGE. Ce repr&eacute;sentant devra s&rsquo;assurer que le SGE est cr&eacute;&eacute; et mis en &oelig;uvre, puis qu&rsquo;on en assure la maintenance et l&rsquo;am&eacute;lioration continue &mdash; et qu&rsquo;on rend compte &agrave; la haute direction du rendement &eacute;nerg&eacute;tique et du rendement du SGE. Il faut tenir compte des comp&eacute;tences et des qualifications souhait&eacute;es au moment de choisir les candidats pour ce r&ocirc;le.</p>
+
+<p>En plus du repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie, le SGE d&eacute;pend largement d&rsquo;une vision d&rsquo;&eacute;quipe, afin de tirer parti de la diversit&eacute; des comp&eacute;tences et des connaissances de chacun au profit de l&rsquo;organisation. L&rsquo;&eacute;quipe offre diff&eacute;rentes visions des enjeux, r&eacute;partit la charge de travail, facilite la mise en &oelig;uvre, encourage une adoption du syst&egrave;me par le plus grand nombre et renforce la perspective d&rsquo;un maintien du syst&egrave;me. Elle est autoris&eacute;e &agrave; agir par la haute direction et g&eacute;n&eacute;ralement dirig&eacute;e par le repr&eacute;sentant de la direction ou le responsable de l&rsquo;&eacute;nergie.</p>
+
+<p>L&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie aura divers r&ocirc;les et responsabilit&eacute;s, notamment en mati&egrave;re de gestion des donn&eacute;es sur l&rsquo;&eacute;nergie.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Pass&eacute; en revue les qualifications et les comp&eacute;tences exig&eacute;es du repr&eacute;sentant de la direction</li>
+	<li>Nomm&eacute; un repr&eacute;sentant de la direction et d&eacute;fini ses responsabilit&eacute;s et ses pouvoirs</li>
+	<li>Consign&eacute; et rendu publique la nomination du repr&eacute;sentant de la direction</li>
+	<li>D&eacute;sign&eacute; les membres de l&rsquo;&eacute;quipe</li>
+	<li>Fait autoriser par la direction les activit&eacute;s de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie</li>
+	<li>Attribu&eacute; les r&ocirc;les et responsabilit&eacute;s</li>
+	<li>Attribu&eacute; les r&ocirc;les et responsabilit&eacute;s de l&rsquo;&eacute;quipe en mati&egrave;re de gestion des donn&eacute;es</li>
+	<li>Planifi&eacute; des r&eacute;unions p&eacute;riodiques de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.2.1 et 4.2.2 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Passer en revue les qualifications et les comp&eacute;tences exig&eacute;es)</p>
+
+<p>Il est utile de comprendre les concepts li&eacute;s &agrave; l&rsquo;&eacute;nergie, mais il n&rsquo;est pas imp&eacute;ratif que le repr&eacute;sentant de la direction soit un sp&eacute;cialiste de l&rsquo;&eacute;nergie ou poss&egrave;de une expertise technique. Deux des atouts les plus importants sont une excellente aptitude &agrave; la communication et au leadership. Quelqu&rsquo;un qui est &eacute;tabli au sein de l&rsquo;organisation et qui a le respect de ses pairs et de la direction est &eacute;galement un candidat int&eacute;ressant. Le repr&eacute;sentant de la direction travaillera avec une &eacute;quipe et sera &agrave; m&ecirc;me de guider cette &eacute;quipe et l&rsquo;organisation en vue de configurer, d&rsquo;utiliser et d&rsquo;am&eacute;liorer le SGE, et d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique. Si le repr&eacute;sentant de la direction ne poss&egrave;de pas d&rsquo;expertise technique, un des membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie devrait poss&eacute;der une telle expertise.</p>
+
+<p>[Learn More](Comp&eacute;tences et qualifications g&eacute;n&eacute;ralement exig&eacute;es du repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie)</p>
+
+<p>Comp&eacute;tences et qualifications g&eacute;n&eacute;ralement exig&eacute;es du repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie :</p>
+
+<ul>
+	<li>Leadership</li>
+	<li>Aptitudes &agrave; la communication interpersonnelle, &agrave; l&rsquo;&eacute;crit comme &agrave; l&rsquo;oral</li>
+	<li>Comp&eacute;tences en mati&egrave;re d&rsquo;organisation</li>
+	<li>Gestion de programmes</li>
+	<li>Gestion du temps</li>
+	<li>R&eacute;solution de probl&egrave;mes</li>
+	<li>Gestion des conflits</li>
+	<li>Expertise &eacute;nerg&eacute;tique/technique et/ou exp&eacute;rience des syst&egrave;mes de gestion bas&eacute;s sur l&rsquo;am&eacute;lioration continue</li>
+	<li>Comp&eacute;tences en informatique</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>En g&eacute;n&eacute;ral, une seule personne assume le r&ocirc;le de repr&eacute;sentant de la direction, mais selon votre organisation, il peut &ecirc;tre n&eacute;cessaire de r&eacute;partir ces responsabilit&eacute;s entre deux personnes.</p>
+
+<p>Si le repr&eacute;sentant ne conna&icirc;t pas parfaitement la norme ISO 50001, offrez-lui la formation appropri&eacute;e. Il doit conna&icirc;tre cette norme et comprendre les liens entre les divers processus du SGE.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Nommer le repr&eacute;sentant de la direction et d&eacute;finir ses responsabilit&eacute;s et ses pouvoirs)</p>
+
+<p>La haute direction nomme le repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie et lui conf&egrave;re le pouvoir d&rsquo;assumer les responsabilit&eacute;s li&eacute;es au SGE. Il est essentiel que ce repr&eacute;sentant dispose de l&rsquo;autorit&eacute; appropri&eacute;e vis-&agrave;-vis des employ&eacute;s et des membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie. M&ecirc;me s&rsquo;il occupe un poste &agrave; un niveau inf&eacute;rieur &agrave; celui de certains employ&eacute;s/membres de l&rsquo;&eacute;quipe dans l&rsquo;&eacute;chelle hi&eacute;rarchique, il doit poss&eacute;der les pouvoirs n&eacute;cessaires relativement au SGE.</p>
+
+<p>Voici les responsabilit&eacute;s et pouvoirs du repr&eacute;sentant de la direction charg&eacute; de l&rsquo;&eacute;nergie :</p>
+
+<ul>
+	<li>Veiller &agrave; ce que le SGE soit cr&eacute;&eacute; et mis en &oelig;uvre et qu&rsquo;on en assure la maintenance et l&rsquo;am&eacute;lioration continue</li>
+	<li>Tenir la haute direction inform&eacute;e du rendement du SGE</li>
+	<li>Rendre compte &agrave; la haute direction du rendement &eacute;nerg&eacute;tique</li>
+	<li>D&eacute;signer les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, avec l&rsquo;accord de la direction</li>
+	<li>Planifier et superviser les activit&eacute;s de gestion de l&rsquo;&eacute;nergie men&eacute;es par l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie</li>
+	<li>D&eacute;finir les responsabilit&eacute;s et les pouvoirs et les faire conna&icirc;tre</li>
+	<li>Promouvoir la politique &eacute;nerg&eacute;tique et les objectifs &eacute;nerg&eacute;tiques &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation</li>
+	<li>S&rsquo;assurer qu&rsquo;il existe des processus garantissant l&rsquo;efficacit&eacute; du SGE</li>
+</ul>
+
+<p>La direction doit d&eacute;finir et expliquer clairement ces responsabilit&eacute;s et ces pouvoirs lors de la nomination de son repr&eacute;sentant. Elle doit en outre appuyer ce repr&eacute;sentant, en lui allouant le temps et les ressources n&eacute;cessaires pour mener les activit&eacute;s associ&eacute;es &agrave; ces responsabilit&eacute;s.</p>
+
+<p>[Learn More](Activit&eacute;s habituelles du repr&eacute;sentant de la direction)</p>
+
+<p>Voici certaines des activit&eacute;s que m&egrave;ne habituellement le repr&eacute;sentant de la direction :</p>
+
+<ul>
+	<li>Choisir, former et diriger les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie</li>
+	<li>Coordonner les affectations et les activit&eacute;s de l&rsquo;&eacute;quipe</li>
+	<li>D&eacute;finir les ressources n&eacute;cessaires aux activit&eacute;s de gestion de l&rsquo;&eacute;nergie et les faire conna&icirc;tre aux personnes int&eacute;ress&eacute;es</li>
+	<li>Travailler avec la haute direction pour la planification, la gestion des ressources et la production de rapports</li>
+	<li>Participer &agrave; la r&eacute;daction de la politique &eacute;nerg&eacute;tique et d&rsquo;autres documents</li>
+	<li>&Eacute;valuer les besoins de formation relatifs au SGE</li>
+	<li>Offrir une formation de sensibilisation &agrave; la gestion de l&rsquo;&eacute;nergie, au sein de l&rsquo;organisation et &agrave; l&rsquo;intention de ses sous-traitants</li>
+	<li>Fournir de l&rsquo;information propice &agrave; une planification strat&eacute;gique de la gestion de l&rsquo;&eacute;nergie et participer &agrave; cette planification</li>
+	<li>Superviser les activit&eacute;s de suivi, de collecte et de v&eacute;rification des donn&eacute;es, notamment l&rsquo;&eacute;talonnage des instruments</li>
+	<li>Agir comme gestionnaire ou coordonnateur des programmes de v&eacute;rification interne du SGE</li>
+	<li>G&eacute;rer le syst&egrave;me de mesures correctives et pr&eacute;ventives</li>
+	<li>Fournir &agrave; la direction de l&rsquo;information relative &agrave; l&rsquo;&eacute;nergie aux fins de planification et de revue de direction</li>
+	<li>Participer aux revues de direction</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner et rendre publique la nomination)</p>
+
+<p>Consigner la nomination par la haute direction du repr&eacute;sentant de la direction, afin de pr&eacute;ciser les responsabilit&eacute;s et les pouvoirs attribu&eacute;s &agrave; la ou aux personnes choisies. Il peut s&rsquo;agir d&rsquo;un document ind&eacute;pendant tenu &agrave; jour et contr&ocirc;l&eacute; conform&eacute;ment aux crit&egrave;res de contr&ocirc;le des documents (voir [task](Documentation and Records)), ou d&rsquo;un texte int&eacute;gr&eacute; au manuel &eacute;nerg&eacute;tique (facultatif). (Les [resource](Energy_Manual_Guidelines) d&eacute;crivent l&rsquo;utilisation qu&rsquo;on peut faire d&rsquo;un manuel &eacute;nerg&eacute;tique dans le cadre du SGE.)</p>
+
+<p>La haute direction doit &eacute;galement rendre publics &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation la nomination et les pouvoirs attribu&eacute;s au repr&eacute;sentant de la direction. Elle expliquera ainsi l&rsquo;importance qu&rsquo;elle accorde &agrave; la gestion de l&rsquo;&eacute;nergie et pr&eacute;cisera que le repr&eacute;sentant de la direction doit coop&eacute;rer avec l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie et l&rsquo;ensemble de l&rsquo;organisation.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;signer les membres de l&rsquo;&eacute;quipe)</p>
+
+<p>L&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie r&eacute;unit des sp&eacute;cialistes de l&rsquo;&eacute;nergie charg&eacute;s de guider l&rsquo;&eacute;laboration, la mise en &oelig;uvre et la maintenance du SGE. La taille, la composition et les responsabilit&eacute;s de l&rsquo;&eacute;quipe varieront en fonction de la taille et de la structure de votre organisation et de la port&eacute;e du SGE (voir [task](Communications)).</p>
+
+<p>Quand vous constituerez l&rsquo;&eacute;quipe, pensez &agrave; y int&eacute;grer des repr&eacute;sentants de secteurs fonctionnels responsables du choix des combustibles et des syst&egrave;mes &eacute;nerg&eacute;tiques, de leur acquisition, de leur consommation, de leur fiabilit&eacute;, de leur &eacute;limination et de leurs effets sur l&rsquo;environnement. Envisagez &eacute;galement de faire appel &agrave; des personnes qui connaissent bien les normes ISO ou d&rsquo;autres syst&egrave;mes de gestion bas&eacute;s sur l&rsquo;am&eacute;lioration continue. Les organisations qui adoptent la norme ISO 50001 l&rsquo;&eacute;tendent souvent aux secteurs fonctionnels suivants :</p>
+
+<ul>
+	<li>Ing&eacute;nierie</li>
+	<li>Maintenance</li>
+	<li>Gestion des installations</li>
+	<li>Acquisitions</li>
+	<li>Production</li>
+	<li>Qualit&eacute;</li>
+	<li>Environnement</li>
+	<li>Administration</li>
+	<li>Comptabilit&eacute;/finances</li>
+</ul>
+
+<p>Les fournisseurs, sous-traitants, locataires ou clients peuvent aussi jouer un r&ocirc;le dans le cadre des activit&eacute;s de gestion de l&rsquo;&eacute;nergie de votre organisation. S&rsquo;il y a lieu, vous pourriez inviter leurs repr&eacute;sentants au sein de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie.</p>
+
+<p>La cr&eacute;ation d&rsquo;une [resource](Team_Roster) peut &eacute;galement constituer une pratique exemplaire pour la d&eacute;signation des membres de l&rsquo;&eacute;quipe, la consignation des coordonn&eacute;es qui faciliteront les communications de l&rsquo;&eacute;quipe et la v&eacute;rification de la repr&eacute;sentation multifonctionnelle.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Obtenir l&rsquo;approbation de la direction)</p>
+
+<p>En g&eacute;n&eacute;ral, les membres de l&rsquo;&eacute;quipe sont choisis par le repr&eacute;sentant de la direction, qui sollicite l&rsquo;approbation de celle-ci. Il dresse une liste des membres souhait&eacute;s, qu&rsquo;il soumettra &agrave; l&rsquo;examen et &agrave; l&rsquo;autorisation de la haute direction.</p>
+
+<p>La haute direction autorise &eacute;galement les activit&eacute;s de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, en s&rsquo;assurant que ses membres disposent des ressources n&eacute;cessaires pour entreprendre les activit&eacute;s requises et y participer sans que cela nuise &agrave; leur travail habituel.</p>
+
+<p>[Learn More](Ressources habituellement fournies aux membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie)</p>
+
+<p>Habituellement, les ressources suivantes peuvent &ecirc;tre fournies aux membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie :</p>
+
+<ul>
+	<li>On accorde au personnel le temps n&eacute;cessaire pour entreprendre des activit&eacute;s en &eacute;quipe durant les heures normales de travail.</li>
+	<li>On autorise les heures suppl&eacute;mentaires, au besoin.</li>
+	<li>On aide les membres de l&rsquo;&eacute;quipe &agrave; s&rsquo;acquitter des t&acirc;ches li&eacute;es &agrave; leur travail r&eacute;gulier.</li>
+	<li>On offre &agrave; l&rsquo;&eacute;quipe un espace pour ses r&eacute;unions et ses s&eacute;ances de travail.</li>
+	<li>On fournit les ressources financi&egrave;res n&eacute;cessaires aux activit&eacute;s de l&rsquo;&eacute;quipe.</li>
+	<li>On veille &agrave; ce que les donn&eacute;es et l&rsquo;information soient accessibles.</li>
+	<li>On sollicite la participation des employ&eacute;s de l&rsquo;organisation.</li>
+	<li>On fournit les ressources dont ont besoin tous les employ&eacute;s susceptibles de faciliter l&rsquo;utilisation du SGE.</li>
+	<li>On veille &agrave; ce que les gens puissent s&rsquo;adresser &agrave; la haute direction et on aide l&rsquo;&eacute;quipe, au besoin.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Attribuer les r&ocirc;les et responsabilit&eacute;s)</p>
+
+<p>La haute direction et son repr&eacute;sentant d&eacute;finiront et expliqueront les r&ocirc;les et responsabilit&eacute;s de l&rsquo;&eacute;quipe et de chacun de ses membres. Il se peut que le repr&eacute;sentant de la direction dirige l&rsquo;&eacute;quipe ou qu&rsquo;on choisisse une autre personne &agrave; cette fin. Dans le cadre de ses activit&eacute;s habituelles, l&rsquo;&eacute;quipe peut &ecirc;tre appel&eacute;e &agrave; &eacute;laborer les &eacute;l&eacute;ments suivants ou &agrave; en superviser l&rsquo;&eacute;laboration :</p>
+
+<ul>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Revue &eacute;nerg&eacute;tique</li>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques et plans d&rsquo;action connexes</li>
+	<li>Documentation relative au SGE</li>
+	<li>R&ocirc;les, responsabilit&eacute;s, pouvoirs et processus li&eacute;s aux &eacute;l&eacute;ments suivants :
+	<ul style="list-style-type:circle">
+		<li>Collecte et analyse constantes de donn&eacute;es</li>
+		<li>D&eacute;termination des usages &eacute;nerg&eacute;tiques significatifs (UES) et des indicateurs de rendement &eacute;nerg&eacute;tique</li>
+		<li>D&eacute;termination des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique et &eacute;valuations &eacute;nerg&eacute;tiques</li>
+		<li>Activit&eacute;s de mesure et de v&eacute;rification</li>
+		<li>Mise en &oelig;uvre de la gestion des UES</li>
+		<li>Formation d&rsquo;acquisition de comp&eacute;tences et de sensibilisation &agrave; l&rsquo;intention du personnel appropri&eacute;</li>
+		<li>Gestion des audits internes et mesures correctives et pr&eacute;ventives</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More](Autres activit&eacute;s de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie)</p>
+
+<p>Les autres activit&eacute;s de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie pourraient inclure ce qui suit :</p>
+
+<ul>
+	<li>Supervision des projets &eacute;nerg&eacute;tiques et autres activit&eacute;s visant &agrave; garantir que les objectifs &eacute;nerg&eacute;tiques seront atteints</li>
+	<li>Suivi du rendement &eacute;nerg&eacute;tique</li>
+	<li>Formation &agrave; l&rsquo;acquisition de comp&eacute;tences et/ou de sensibilisation &agrave; l&rsquo;&eacute;nergie</li>
+	<li>Communication avec la direction, les employ&eacute;s et d&rsquo;autres intervenants</li>
+	<li>Audits internes et facilitation des mesures correctives et pr&eacute;ventives</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Il faudrait attribuer aux membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie des t&acirc;ches pr&eacute;cises li&eacute;es au SGE, et ils devraient rendre compte de l&rsquo;ex&eacute;cution de ses t&acirc;ches dans les d&eacute;lais impartis. Il est essentiel d&rsquo;instaurer des processus de communication efficaces avec l&rsquo;&eacute;quipe, afin d&rsquo;expliquer les affectations, d&rsquo;&eacute;laborer les volets du syst&egrave;me et d&rsquo;obtenir une r&eacute;troaction des autres membres de l&rsquo;&eacute;quipe.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Attribuer les r&ocirc;les et responsabilit&eacute;s en mati&egrave;re de gestion des donn&eacute;es)</p>
+
+<p>Un syst&egrave;me <em>50001 Ready</em> s&rsquo;appuie sur les donn&eacute;es &eacute;nerg&eacute;tiques et sur l&rsquo;information connexe. Ces donn&eacute;es sont importantes pour l&rsquo;examen du profil &eacute;nerg&eacute;tique de l&rsquo;organisation et essentielles pour faire le suivi et la v&eacute;rification de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Parce que ces donn&eacute;es sont consign&eacute;es, l&rsquo;&eacute;quipe devrait d&eacute;terminer de quelles donn&eacute;es elle a besoin, et attribuer les r&ocirc;les et les responsabilit&eacute;s en cons&eacute;quence.</p>
+
+<p>Les r&ocirc;les suivants peuvent &ecirc;tre attribu&eacute;s en mati&egrave;re de gestion des donn&eacute;es &eacute;nerg&eacute;tiques :</p>
+
+<ol>
+	<li>D&eacute;termination des donn&eacute;es n&eacute;cessaires</li>
+	<li>D&eacute;termination de la source et du format des donn&eacute;es</li>
+	<li>D&eacute;termination de l&rsquo;emplacement des donn&eacute;es et de la fr&eacute;quence de leur collecte</li>
+	<li>Acquisition des donn&eacute;es</li>
+	<li>V&eacute;rification de l&rsquo;exactitude des donn&eacute;es</li>
+	<li>Consignation et conservation des donn&eacute;es &agrave; l&rsquo;endroit appropri&eacute;</li>
+	<li>V&eacute;rification du fonctionnement du processus de collecte</li>
+	<li>&Eacute;tude du processus permettant de d&eacute;terminer s&rsquo;il manque quelque chose</li>
+</ol>
+
+<p>Les r&ocirc;les ci-dessus peuvent &ecirc;tre assum&eacute;s par divers employ&eacute;s de l&rsquo;organisation, incluant ceux qui ne font pas partie de l&#39;&eacute;quipe responsable de l&rsquo;&eacute;nergie. Il faut offrir la formation appropri&eacute;e aux employ&eacute;s qu&rsquo;on a charg&eacute;s de g&eacute;rer les donn&eacute;es, mais &agrave; qui il manque certaines comp&eacute;tences.</p>
+
+<p>[Learn More](D&eacute;finir les r&ocirc;les et responsabilit&eacute;s en mati&egrave;re de gestion des donn&eacute;es &eacute;nerg&eacute;tiques)</p>
+
+<p>Afin de d&eacute;finir les r&ocirc;les et responsabilit&eacute;s en mati&egrave;re de gestion des donn&eacute;es &eacute;nerg&eacute;tiques, on peut s&rsquo;inspirer du tableau [resource](Potential_Responsible_Parties_Data_Collection). Ces r&ocirc;les et responsabilit&eacute;s peuvent varier quelque peu en fonction des besoins de votre organisation, mais il faudrait utiliser toujours la m&ecirc;me m&eacute;thode pour d&eacute;finir les donn&eacute;es, d&eacute;crire les sources de donn&eacute;es, l&rsquo;emplacement de celles-ci et la fr&eacute;quence de leur collecte, de leur acquisition et de leur v&eacute;rification, et leur consignation. Veillez &agrave; ce que les personnes charg&eacute;es de recueillir les donn&eacute;es soient correctement form&eacute;es pour assumer ces responsabilit&eacute;s. La formation appropri&eacute;e peut inclure ce qui suit :</p>
+
+<ul>
+	<li>Choix et connexion des appareils de mesure (portatifs)</li>
+	<li>Lecture des mesures</li>
+	<li>Compr&eacute;hension des unit&eacute;s de mesure (amp&egrave;res, volts, watts, BTU, pieds cubes, etc.)</li>
+	<li>Consignation des donn&eacute;es</li>
+	<li>Utilisation des logiciels</li>
+	<li>Acc&egrave;s &agrave; l&rsquo;&eacute;quipement/aux processus</li>
+	<li>S&eacute;curit&eacute; durant la mesure ou l&rsquo;acc&egrave;s &agrave; l&rsquo;&eacute;quipement</li>
+</ul>
+
+<p>Un [resource](Data_Collection_Responsibilities_Table) sert de guide pour l&rsquo;&eacute;laboration d&rsquo;un processus durable de collecte de donn&eacute;es. Il existe aussi un [resource](Data_Collection_Management_Matrix), qui explique les donn&eacute;es n&eacute;cessaires et leur emplacement, et donne des d&eacute;tails sur la collecte et sur les responsabilit&eacute;s connexes. Les documents [resource](Example_Data_Collection_Management_Matrix_Industrial) et [resource](Example_Data_Collection_Management_Matrix_Commercial) donnent des exemples de l&rsquo;utilisation de ce formulaire pour documenter plus facilement l&rsquo;emplacement des donn&eacute;es et leur collecte.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Planifier des r&eacute;unions p&eacute;riodiques de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie)</p>
+
+<p>Organisez r&eacute;guli&egrave;rement des r&eacute;unions de l&rsquo;&eacute;quipe afin de promouvoir la continuit&eacute; de l&rsquo;&eacute;laboration du SGE, de faire des rapports d&rsquo;&eacute;tape/d&rsquo;assigner des t&acirc;ches et d&rsquo;examiner les probl&egrave;mes. La longueur et la fr&eacute;quence de ces r&eacute;unions peuvent varier, mais elles devraient inclure des s&eacute;ances de travail en &eacute;quipe, qui porteront sur des sujets pr&eacute;cis li&eacute;s &agrave; l&rsquo;&eacute;laboration et &agrave; la mise en &oelig;uvre du SGE.</p>
+
+<p>Une des premi&egrave;res r&eacute;unions de l&rsquo;&eacute;quipe devrait comprendre une formation sur la norme ISO 50001. Si votre organisation souhaite obtenir la certification, achetez des copies de la norme ISO 50001:2011 et distribuez-les aux membres de l&rsquo;&eacute;quipe. Ceux-ci doivent se familiariser avec les exigences contenues dans la norme (Section 4), en particulier avec celles qui portent sur leur domaine de responsabilit&eacute; au sein de l&rsquo;&eacute;quipe. Cette formation peut &ecirc;tre offerte par le repr&eacute;sentant de la direction ou par un fournisseur externe si le repr&eacute;sentant de la direction ne conna&icirc;t pas bien les exigences &eacute;nonc&eacute;es dans la norme.</p>
+
+<p>Durant l&rsquo;&eacute;laboration du SGE, votre &eacute;quipe se rencontrera fr&eacute;quemment pour faire des plans, pr&eacute;voir les activit&eacute;s, attribuer les responsabilit&eacute;s et examiner les progr&egrave;s r&eacute;alis&eacute;s. D&egrave;s le d&eacute;part, assurez-vous que les membres de l&rsquo;&eacute;quipe connaissent bien leur r&ocirc;le et leurs responsabilit&eacute;s au sein de l&rsquo;&eacute;quipe. Vous pourriez r&eacute;diger une charte qui clarifierait les attentes globales &agrave; l&rsquo;&eacute;gard des membres de l&rsquo;&eacute;quipe. Utilisez des techniques courantes de gestion de projet pour &eacute;tablir et g&eacute;rer l&rsquo;&eacute;ch&eacute;ancier et les t&acirc;ches de mise en &oelig;uvre, ainsi que leur affectation et leur ex&eacute;cution (voir [resource](Project_Management_for_SGE_Implementation)).</p>
+
+<p>&Agrave; mesure que l&rsquo;&eacute;laboration du SGE progressera, il faudra peut-&ecirc;tre int&eacute;grer d&rsquo;autres experts &agrave; l&rsquo;&eacute;quipe pour examiner les d&eacute;tails relatifs &agrave; certaines exigences du SGE, par exemple en mati&egrave;re de collecte et d&rsquo;analyse des donn&eacute;es. Passez r&eacute;guli&egrave;rement en revue les progr&egrave;s r&eacute;alis&eacute;s et d&eacute;terminez s&rsquo;il faut ajouter des membres &agrave; l&rsquo;&eacute;quipe pour examiner certains sujets ou r&eacute;gler certains probl&egrave;mes de mise en &oelig;uvre.</p>
+
+<p>Une fois la mise en &oelig;uvre du SGE termin&eacute;e, l&rsquo;&eacute;quipe veillera &agrave; ce qu&rsquo;il fonctionne en permanence et g&eacute;rera les activit&eacute;s d&rsquo;am&eacute;lioration continue. Il pourrait &ecirc;tre appropri&eacute; de r&eacute;duire la taille de l&rsquo;&eacute;quipe une fois le syst&egrave;me &eacute;tabli et effectivement mis en &oelig;uvre. Cependant, l&rsquo;&eacute;quipe constitue un &eacute;l&eacute;ment cl&eacute; du fonctionnement permanent du SGE, et il faut maintenir suffisamment de membres et d&rsquo;activit&eacute;s multidisciplinaires pour en garantir l&rsquo;efficacit&eacute; et l&rsquo;am&eacute;lioration continue.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Selon les normes ISO 14001:2015 et ISO 9001:2015, il n&rsquo;est plus obligatoire que la direction nomme un repr&eacute;sentant. Par contre, la norme ISO 50001:2011 continue d&rsquo;exiger la d&eacute;signation d&rsquo;un repr&eacute;sentant de la direction. Une organisation qui se conformait aux pr&eacute;c&eacute;dentes versions des normes ISO 14001 et ISO 9001 est habitu&eacute;e &agrave; ces r&ocirc;les et responsabilit&eacute;s du repr&eacute;sentant de la direction. En vertu des normes ISO 14001 et ISO 9001, la personne charg&eacute;e de rendre des comptes &agrave; la haute direction &agrave; propos du rendement du syst&egrave;me de gestion pourrait &ecirc;tre d&rsquo;un niveau &eacute;quivalent &agrave; celui du repr&eacute;sentant de la direction en vertu de la norme ISO 50001.</p>
+
+<p>Dans le cas de la norme ISO 50001:2011, l&rsquo;&eacute;quipe charg&eacute;e de la gestion de l&rsquo;&eacute;nergie constitue un intervenant important. Les normes ISO 14001:2015 et ISO 9001:2015 n&rsquo;exigent pas express&eacute;ment la constitution d&rsquo;une &eacute;quipe, mais elles mentionnent bien que la haute direction doit appuyer le personnel jouant un r&ocirc;le pertinent et important pour le syst&egrave;me de gestion.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le r&ocirc;le du directeur de l&rsquo;&eacute;nergie, d&eacute;crit &agrave; la section 1.1 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management), est tr&egrave;s similaire &agrave; celui du repr&eacute;sentant de la direction charg&eacute; de la norme ISO 50001 &mdash; ce devrait donc logiquement &ecirc;tre la m&ecirc;me personne. La pr&eacute;sente t&acirc;che d&eacute;crit les responsabilit&eacute;s propres au repr&eacute;sentant de la direction selon la norme ISO 50001.</p>
+
+<p>L&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie que votre organisation a mise sur pied conform&eacute;ment &agrave; la section 1.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) peut jouer efficacement le r&ocirc;le d&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie pour la norme 50001. Dans le cas d&rsquo;ENERGY STAR, cette &eacute;quipe est supervis&eacute;e par le responsable de l&rsquo;&eacute;nergie. Dans le cas de la norme ISO 50001, elle est dirig&eacute;e par le repr&eacute;sentant de la direction (gestionnaire de l&rsquo;&eacute;nergie) avec l&rsquo;autorisation de la haute direction.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

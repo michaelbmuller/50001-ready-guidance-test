@@ -1,0 +1,164 @@
+USDOE 50001 READY NAVIGATOR TASK 5
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Exigences légales
+----------TITLE----------
+Tâche 5 : Nous avons défini les lois énergétiques qui s’appliquent à nos activités, mis en place un processus d’évaluation et de mise à jour de ces lois avec le temps, et évalué dans quelle mesure nous nous conformons à ces lois
+----------GETTING IT DONE----------
+<ul>
+	<li>D&eacute;finissez et documentez toutes les lois et autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie dans le [resource](Legal_Other_Requirements_Tracking_Matrix).</li>
+	<li>Attribuez les responsabilit&eacute;s et &eacute;tablir la fr&eacute;quence d&rsquo;examen et de mise &agrave; jour du tableau rempli.</li>
+	<li>&Eacute;tablir un processus permettant d&rsquo;&eacute;valuer p&eacute;riodiquement la conformit&eacute; &agrave; toutes ces exigences. Utilisez la [resource](Compliance_Evaluation_Checklist) pour &eacute;valuer la conformit&eacute; et consigner les r&eacute;sultats de votre organisation.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La norme ISO 50001 reconna&icirc;t que les obligations en mati&egrave;re d&rsquo;&eacute;nergie, qu&rsquo;elles soient impos&eacute;es par la loi ou sur une base volontaire, constituent un volet important d&rsquo;une approche &agrave; la fois exhaustive et syst&eacute;matique de la gestion de l&rsquo;&eacute;nergie. Les exigences de planification du SGE comprennent la collecte d&rsquo;information &agrave; propos des exigences l&eacute;gales et autres s&rsquo;appliquant aux usages, &agrave; la consommation et &agrave; l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tiques de votre organisation. Il faut &eacute;tablir des processus permettant de d&eacute;finir ces exigences, de les consulter, de les &eacute;valuer et de se tenir inform&eacute; de leur &eacute;volution.</p>
+
+<p>La d&eacute;termination et la consultation des exigences l&eacute;gales et autres constituent la premi&egrave;re &eacute;tape du processus de planification &eacute;nerg&eacute;tique; ainsi, toutes les donn&eacute;es &eacute;nerg&eacute;tiques qu&rsquo;il faut recueillir en vertu de ces exigences sont connues et peuvent &ecirc;tre int&eacute;gr&eacute;es &agrave; la revue &eacute;nerg&eacute;tique. Les exigences l&eacute;gales sont celles qui sont &eacute;nonc&eacute;es dans les lois ou impos&eacute;es par une entit&eacute; gouvernementale ou un organisme de r&eacute;glementation. Vous devez brosser un tableau d&eacute;taill&eacute; des exigences l&eacute;gales de votre organisation sur le plan &eacute;nerg&eacute;tique, de mani&egrave;re &agrave; continuer de vous conformer &agrave; ces exigences.</p>
+
+<p>En plus des exigences l&eacute;gales, il existe diverses &laquo; autres exigences &raquo; li&eacute;es &agrave; l&rsquo;&eacute;nergie auxquelles votre organisation pourrait &ecirc;tre assujettie (p. ex. dans son mandat &eacute;nerg&eacute;tique) ou auxquelles elle pourrait d&eacute;cider de se conformer volontairement (p. ex., le programme Superior Energy Performance<sup>MD</sup> de l&rsquo;<em>U.S. Department of Energy</em> [DOE, minist&egrave;re de l&rsquo;&Eacute;nergie] ou le programme ENERGY STAR<sup>MD</sup> de l&rsquo;<em>U.S. Environmental Protection Agency</em> [EPA, Agence de protection de l&rsquo;environnement]). Les processus organisationnels permettant de d&eacute;finir, de consulter et d&rsquo;&eacute;valuer les exigences l&eacute;gales applicables et de se tenir inform&eacute; &agrave; leur sujet doivent aussi tenir compte de ces &laquo; autres exigences &raquo;.</p>
+
+<p>En g&eacute;n&eacute;ral, les employ&eacute;s charg&eacute;s d&rsquo;identifier et de consulter les diverses exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie sont aussi charg&eacute;s d&rsquo;&eacute;valuer et de mettre &agrave; jour ces exigences. Pour maintenir la conformit&eacute;, il est essentiel de d&eacute;finir et d&rsquo;expliquer clairement les r&ocirc;les, responsabilit&eacute;s et pouvoirs.</p>
+
+<p>Vous devez r&eacute;guli&egrave;rement &eacute;valuer la conformit&eacute; de votre organisation avec les exigences l&eacute;gales et autres qui s&rsquo;appliquent aux usages, &agrave; la consommation et &agrave; l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tiques. Cela garantira que votre organisation respecte ces exigences et que, lorsqu&rsquo;elle ne les respecte pas ou pourrait ne pas les respecter, des mesures ad&eacute;quates seront prises.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;fini et consult&eacute; les exigences l&eacute;gales applicables</li>
+	<li>D&eacute;fini et consult&eacute; les autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie</li>
+	<li>&Eacute;tabli un processus d&rsquo;&eacute;valuation et de mise &agrave; jour des exigences</li>
+	<li>&Eacute;tabli un &eacute;ch&eacute;ancier et attribu&eacute; les responsabilit&eacute;s</li>
+	<li>Proc&eacute;d&eacute; &agrave; des &eacute;valuations de conformit&eacute;</li>
+	<li>Veill&eacute; &agrave; ce que les r&eacute;sultats soient consign&eacute;s</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.2 et 4.6.2 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;finir et consulter les exigences l&eacute;gales applicables)</p>
+
+<p>Cette t&acirc;che consiste &agrave; d&eacute;finir et &agrave; consulter les exigences l&eacute;gales f&eacute;d&eacute;rales, &eacute;tatiques et locales qui s&rsquo;appliquent aux usages, &agrave; la consommation et &agrave; l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tiques de votre organisation. Dans la plupart des organisations, ce processus est d&eacute;j&agrave; en place pour les lois et r&egrave;glements environnementaux. En outre, sachez qu&rsquo;un certain nombre de r&egrave;glements environnementaux, en particulier ceux qui s&rsquo;appliquent aux &eacute;missions atmosph&eacute;riques, visent &agrave; la fois les impacts de l&rsquo;organisation sur l&rsquo;environnement et l&rsquo;utilisation qu&rsquo;elle fait de l&rsquo;&eacute;nergie.</p>
+
+<p>[Learn More](Exemples)</p>
+
+<ul>
+	<li>Un permis d&eacute;livr&eacute; en vertu d&rsquo;un r&egrave;glement environnemental peut viser un appareil de contr&ocirc;le qui consomme de l&rsquo;&eacute;nergie, mais ne fonctionne pas en permanence (p. ex., une pompe de d&eacute;bordement pour la d&eacute;charge des eaux pluviales).</li>
+	<li>Un permis d&eacute;livr&eacute; en vertu d&rsquo;un r&egrave;glement environnemental peut viser un usage &eacute;nerg&eacute;tique bien pr&eacute;cis (p. ex., utilisation d&rsquo;un cyclone en vertu d&rsquo;un permis sur la qualit&eacute; de l&rsquo;air).</li>
+	<li>Un permis sur la qualit&eacute; de l&rsquo;air d&eacute;livr&eacute; en vertu d&rsquo;un r&egrave;glement peut exiger qu&rsquo;une installation br&ucirc;le seulement un certain type de combustible.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>D&rsquo;autres exigences l&eacute;gales sont susceptibles de s&rsquo;appliquer aux usages/&agrave; la consommation &eacute;nerg&eacute;tiques de votre organisation : ordonnances locales, d&eacute;crets ou r&egrave;glements de zonage ou exigences visant les services publics. Les codes du b&acirc;timent incluent parfois des exigences d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique visant les installations neuves, modifi&eacute;es ou r&eacute;nov&eacute;es. Le document [resource](Example_Legal_Other_Requirements_Related_Energy) donne divers exemples d&rsquo;exigences.</p>
+
+<p>Pour commencer, recueillez l&rsquo;information qui r&eacute;pond aux questions suivantes :</p>
+
+<ul>
+	<li>Que fait actuellement votre organisation pour d&eacute;finir les exigences l&eacute;gales applicables aux usages &eacute;nerg&eacute;tiques?</li>
+	<li>Qui, au sein de votre organisation, d&eacute;tient l&rsquo;information relative aux lois et r&egrave;glements applicables &agrave; vos usages &eacute;nerg&eacute;tiques?</li>
+	<li>Comment cette information est-elle tenue &agrave; jour? Y a-t-il une liste de ces lois et r&egrave;glements?</li>
+	<li>Qui est charg&eacute; de garantir l&rsquo;acc&egrave;s &agrave; ces lois et r&egrave;glements et &agrave; leurs dispositions? Comment proc&egrave;de-t-on?</li>
+	<li>Qui est charg&eacute; de tenir &agrave; jour cette information?</li>
+</ul>
+
+<p>Une fois qu&rsquo;on a obtenu les r&eacute;ponses &agrave; ces questions, l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie fait habituellement de la coordination avec les employ&eacute;s et les gestionnaires responsables de l&rsquo;environnement, afin d&rsquo;&eacute;valuer le processus existant et d&rsquo;apporter les changements n&eacute;cessaires, puis attribue les responsabilit&eacute;s pour ce qui est de l&rsquo;identification, de l&rsquo;&eacute;valuation et de la mise &agrave; jour de ces exigences l&eacute;gales. Il se peut que les employ&eacute;s responsables de l&rsquo;environnement continuent &agrave; g&eacute;rer le processus dans le cas des exigences l&eacute;gales li&eacute;es &agrave; l&rsquo;environnement qui s&rsquo;appliquent aussi aux usages &eacute;nerg&eacute;tiques, tandis que le repr&eacute;sentant de la direction peut g&eacute;rer les exigences l&eacute;gales propres &agrave; l&rsquo;&eacute;nergie seulement.</p>
+
+<p>On peut utiliser le [resource](Legal_Other_Requirements_Tracking_Matrix) pour documenter les exigences l&eacute;gales et les autres exigences applicables, ainsi que d&rsquo;autres renseignements pertinents.</p>
+
+<p>Pour les organisations qui n&rsquo;ont pas &eacute;tabli de processus et pas attribu&eacute; de responsabilit&eacute;s pour ce qui est de l&rsquo;identification, de l&rsquo;&eacute;valuation et de la mise &agrave; jour des exigences l&eacute;gales applicables, le point de d&eacute;part de cette t&acirc;che est diff&eacute;rent. Premi&egrave;rement, il faut attribuer la responsabilit&eacute; de ces activit&eacute;s &agrave; des employ&eacute;s pr&eacute;cis. Dans certains cas, l&rsquo;organisation peut d&eacute;cider de faire appel &agrave; un sous-traitant pour &eacute;laborer cette partie du SGE.</p>
+
+<p>[Learn More](Ressources permettant d&rsquo;identifier les exigences l&eacute;gales applicables)</p>
+
+<p>Les ressources suivantes peuvent aider une organisation &agrave; identifier les exigences l&eacute;gales li&eacute;es &agrave; ses usages &eacute;nerg&eacute;tiques :</p>
+
+<ul>
+	<li>Services commerciaux de mise &agrave; jour des lois et r&egrave;glements</li>
+	<li>Sites Web des organismes de r&eacute;glementation f&eacute;d&eacute;raux, &eacute;tatiques et locaux</li>
+	<li><em>Code of Federal Regulations</em> (CFR, Code de la r&eacute;glementation f&eacute;d&eacute;rale)</li>
+	<li>Bulletins &eacute;lectroniques</li>
+	<li>P&eacute;riodiques sp&eacute;cialis&eacute;s</li>
+	<li>Associations professionnelles</li>
+	<li>Cours de formation et s&eacute;minaires d&rsquo;information</li>
+	<li>Activit&eacute;s de r&eacute;seautage avec des organismes et des responsables locaux</li>
+	<li>Avocats et consultants</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Assurez-vous que les dispositions des exigences l&eacute;gales applicables sont facilement accessibles. Selon la source de ces textes, l&rsquo;acc&egrave;s peut se faire sur un site Web gouvernemental ou autre, dans une base de donn&eacute;es commerciale ou gouvernementale, par l&rsquo;abonnement &agrave; des publications imprim&eacute;es ou &eacute;lectroniques, etc.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identifier et consulter les autres exigences)</p>
+
+<p>Le processus de base permettant d&rsquo;identifier et de consulter les programmes volontaires ou les autres exigences &eacute;nerg&eacute;tiques que votre organisation s&rsquo;est engag&eacute;e &agrave; respecter et d&rsquo;y acc&eacute;der est tr&egrave;s similaire &agrave; celui qui s&rsquo;applique aux exigences l&eacute;gales. On attribue les r&ocirc;les, les responsabilit&eacute;s et les pouvoirs, et l&rsquo;on d&eacute;termine les sources permettant d&rsquo;acc&eacute;der au texte des exigences applicables. L&rsquo;information relative aux engagements volontaires et aux &laquo; autres exigences &raquo; qui s&rsquo;appliquent aux usages &eacute;nerg&eacute;tiques de votre organisation est tenue &agrave; jour et accessible. Souvent, cette information figure dans la liste (ou la base de donn&eacute;es ou toute autre compilation) r&eacute;pertoriant les exigences l&eacute;gales applicables dans une section distincte, ou cod&eacute;e comme une exigence autre que l&eacute;gale ou facultative. On peut utiliser le [resource](Legal_Other_Requirements_Tracking_Matrix) pour documenter les autres exigences applicables et l&rsquo;information connexe.</p>
+
+<p>[Learn More](Exemples d&rsquo;engagements volontaires et d&rsquo;autres exigences facultatives)</p>
+
+<p>Voici des exemples d&rsquo;engagements volontaires et d&rsquo;autres exigences facultatives li&eacute;s aux usages &eacute;nerg&eacute;tiques d&rsquo;une organisation :</p>
+
+<ul>
+	<li>Normes volontaires (p. ex., ISO 50001)</li>
+	<li>Programmes de certification (ISO, Trade Group, etc.)</li>
+	<li>Exigences &eacute;nerg&eacute;tiques impos&eacute;es aux entreprises (p. ex., conservation de l&rsquo;&eacute;nergie, rapports sur le rendement &eacute;nerg&eacute;tique)</li>
+	<li>Certification LEED (immeubles existants et maintenance)</li>
+	<li>Installations ENERGY STAR<sup>MD</sup> (EPA)</li>
+	<li>Objectifs &eacute;tatiques d&rsquo;&eacute;missions de gaz &agrave; effet de serre (GES)</li>
+	<li>Programmes &eacute;tatiques sur la performance environnementale et le rendement &eacute;nerg&eacute;tique</li>
+	<li><em>Better Buildings, Better Plants</em> (DOE)</li>
+	<li><em>Superior Energy Performance</em> (<em>U.S. Council for Energy Efficient Manufacturing</em>, Conseil am&eacute;ricain de l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique dans le secteur manufacturier)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Le processus d&rsquo;identification des &laquo; autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie &raquo; applicables que votre organisation s&rsquo;est engag&eacute;e &agrave; respecter comprend des voies de communication clairement &eacute;tablies entre la direction (qui s&rsquo;engage au nom de l&rsquo;organisation) et l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie (ou d&rsquo;autres employ&eacute;s charg&eacute;s de veiller au respect de ces exigences par l&rsquo;organisation). Habituellement, l&rsquo;organisme, l&rsquo;ONG, l&rsquo;association professionnelle ou l&rsquo;autre organisation responsable du programme ou des exigences offrira l&rsquo;acc&egrave;s aux exigences du programme et aux ressources connexes.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir un processus d&rsquo;&eacute;valuation et de mise &agrave; jour des exigences)</p>
+
+<p>Pour &eacute;valuer les exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie, qu&rsquo;elles soient r&eacute;centes, nouvelles ou modifi&eacute;es, il faut tout d&rsquo;abord examiner leur applicabilit&eacute;. Deuxi&egrave;mement, si l&rsquo;on d&eacute;termine qu&rsquo;elles sont applicables, il faut d&eacute;terminer ce qu&rsquo;elles signifient pour les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes, les proc&eacute;d&eacute;s et le personnel de votre organisation. Une fois que cette &eacute;valuation est termin&eacute;e et que ces impacts sont compris, on met en &oelig;uvre les mesures qui garantiront la conformit&eacute; &agrave; ces exigences. Cela peut inclure, par exemple, une formation suppl&eacute;mentaire ou modifi&eacute;e, des contr&ocirc;les op&eacute;rationnels, et des activit&eacute;s de mesure, de surveillance, d&rsquo;&eacute;talonnage et de tenue de registres.</p>
+
+<p>Pour g&eacute;rer efficacement ce volet du SGE, il est recommand&eacute; d&rsquo;int&eacute;grer &agrave; la fois les processus d&rsquo;&eacute;valuation et de mise &agrave; jour aux processus de gestion du changement de votre organisation. N&rsquo;oubliez pas que ce ne sont pas seulement les exigences l&eacute;gales, nouvelles ou modifi&eacute;es, qui peuvent entra&icirc;ner une modification de votre SGE. Les changements touchant les activit&eacute;s, les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s de votre organisation (incluant ceux qui r&eacute;sultent des projets &eacute;nerg&eacute;tiques) peuvent &eacute;galement modifier les exigences l&eacute;gales ou autres qui s&rsquo;appliquent &agrave; vos op&eacute;rations.</p>
+
+<p>Vous devez &eacute;tablir des intervalles d&eacute;finis pour l&rsquo;examen des exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie. Certaines organisations &eacute;tablissent un calendrier d&rsquo;examen minimal (p. ex. chaque trimestre ou deux fois par an), mais tiendront &agrave; jour r&eacute;guli&egrave;rement l&rsquo;information relative aux exigences. Parfois, on peut faire le suivi des exigences l&eacute;gales nouvelles ou modifi&eacute;es en utilisant les bulletins &eacute;lectroniques ou les mises &agrave; jour par courriel provenant d&rsquo;organismes de r&eacute;glementation ou d&rsquo;autres sources. L&rsquo;examen des mises &agrave; jour des programmes volontaires ou d&rsquo;autres exigences &eacute;nerg&eacute;tiques que votre organisation s&rsquo;est engag&eacute;e &agrave; respecter est g&eacute;n&eacute;ralement effectu&eacute; &agrave; une fr&eacute;quence &eacute;tablie. Assurez-vous de conserver la preuve que ces examens ont bien eu lieu.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir un calendrier et attribuer les responsabilit&eacute;s)</p>
+
+<p>La conformit&eacute; aux exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie que votre organisation s&rsquo;est engag&eacute;e &agrave; respecter doit &ecirc;tre &eacute;valu&eacute;e &agrave; des intervalles pr&eacute;&eacute;tablis. Il n&rsquo;y a aucune fr&eacute;quence obligatoire; c&rsquo;est vous qui d&eacute;terminez l&rsquo;intervalle appropri&eacute; pour les &eacute;valuations. Les intervalles pr&eacute;&eacute;tablis peuvent &ecirc;tre diff&eacute;rents pour divers ensembles d&rsquo;exigences. M&ecirc;me si l&rsquo;on ne consid&egrave;re pas, en g&eacute;n&eacute;ral, que la pr&eacute;paration et la pr&eacute;sentation de rapports r&eacute;glementaires constituent une &eacute;valuation de la conformit&eacute; aux exigences l&eacute;gales, les d&eacute;cisions relatives au calendrier interne d&rsquo;&eacute;valuation de la conformit&eacute; tiennent compte du d&eacute;lai n&eacute;cessaire &agrave; la pr&eacute;paration de ces rapports.</p>
+
+<p>Il est imp&eacute;ratif que les r&ocirc;les, les responsabilit&eacute;s et les pouvoirs relatifs &agrave; la planification et &agrave; l&rsquo;ex&eacute;cution des &eacute;valuations de conformit&eacute;, et &agrave; la gestion des r&eacute;sultats, soit d&eacute;finis et communiqu&eacute;s au personnel appropri&eacute;. Selon le type d&rsquo;exigences l&eacute;gales et autres qui s&rsquo;appliquent, les responsabilit&eacute;s et les pouvoirs relatifs aux &eacute;valuations de conformit&eacute; peuvent &ecirc;tre r&eacute;partis entre plusieurs postes. Par exemple, le responsable de l&rsquo;environnement peut &ecirc;tre globalement responsable de l&rsquo;&eacute;valuation de la conformit&eacute; aux exigences l&eacute;gales qui visent &agrave; la fois l&rsquo;environnement et l&rsquo;&eacute;nergie, tandis que le responsable de l&rsquo;&eacute;nergie peut &ecirc;tre charg&eacute; de l&rsquo;&eacute;valuation de la conformit&eacute; aux exigences &eacute;nerg&eacute;tiques des codes du b&acirc;timent locaux.</p>
+
+<p>Il se peut que votre organisation ait d&eacute;j&agrave; &eacute;tabli des processus p&eacute;riodiques de v&eacute;rification ou d&rsquo;&eacute;valuation de la conformit&eacute;. Par exemple, ces processus peuvent viser les r&egrave;glements sur l&rsquo;environnement, la s&eacute;curit&eacute; ou la sant&eacute;. L&rsquo;utilisation des ressources peut &ecirc;tre plus efficace si l&rsquo;on exploite ad&eacute;quatement les processus en place que si l&rsquo;on part de z&eacute;ro.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mener des &eacute;valuations de la conformit&eacute;)</p>
+
+<p>Envisagez soit d&rsquo;&eacute;laborer, soit d&rsquo;obtenir des listes de v&eacute;rification qui faciliteront l&rsquo;&eacute;valuation de la conformit&eacute;. Les listes de v&eacute;rification des exigences l&eacute;gales (en particulier des r&egrave;glements f&eacute;d&eacute;raux) sont souvent disponibles dans le commerce ou sur Internet. On peut cr&eacute;er des listes personnalis&eacute;es en isolant chaque exigence et en pr&eacute;parant les questions qui pourront &ecirc;tre pos&eacute;es ou les preuves qui seront examin&eacute;es (p. ex., les registres), afin de d&eacute;terminer si l&rsquo;exigence en question est respect&eacute;e. La [resource](Compliance_Evaluation_Checklist) peut &ecirc;tre un point de d&eacute;part utile pour l&rsquo;&eacute;laboration de listes de v&eacute;rification personnalis&eacute;es.</p>
+
+<p>Quand une &eacute;valuation de la conformit&eacute; r&eacute;v&egrave;le qu&rsquo;une ou plusieurs exigences ne sont pas respect&eacute;es, on prend des mesures correctives pour &eacute;liminer la source du probl&egrave;me. Il arrive qu&rsquo;on n&rsquo;ait aucune preuve de non-conformit&eacute;, mais que certains &eacute;l&eacute;ments indiquent la possibilit&eacute; qu&rsquo;un probl&egrave;me survienne en raison des circonstances. Dans pareil cas, il peut &ecirc;tre appropri&eacute; de prendre une mesure pr&eacute;ventive en vue d&rsquo;examiner le probl&egrave;me plus en d&eacute;tail, et de prendre les mesures n&eacute;cessaires. Le document [task](Corrective Actions) contient plus d&rsquo;information sur les mesures pr&eacute;ventives et correctives.</p>
+
+<p>Les r&eacute;sultats de ces &eacute;valuations doivent &ecirc;tre examin&eacute;s par la haute direction dans le cadre de la revue de direction. Le document [task](Management Review) donne des renseignements &agrave; ce sujet.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner les r&eacute;sultats)</p>
+
+<p>Les r&eacute;sultats des &eacute;valuations de la conformit&eacute; doivent &ecirc;tre consign&eacute;s et tenus &agrave; jour. C&rsquo;est &agrave; vous de d&eacute;cider comment vous les consignez, et notamment dans quel format et avec quel niveau de d&eacute;tail. Vous pouvez par exemple pr&eacute;parer un sommaire d&eacute;taill&eacute; qui indiquera si l&rsquo;on a observ&eacute; ou pas des cas possibles de non-conformit&eacute;, et si l&rsquo;on a ou pas pris des mesures correctives ou pr&eacute;ventives &agrave; ce sujet.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>On peut s&rsquo;appuyer sur les processus de d&eacute;termination et de consultation des exigences l&eacute;gales et autres pr&eacute;vus par la norme ISO 14001:2015 pour respecter les exigences similaires &eacute;nonc&eacute;es dans la norme ISO 50001:2011. Il est assez facile d&rsquo;int&eacute;grer les exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie, m&ecirc;me si le personnel qu&rsquo;on a charg&eacute; de g&eacute;rer les exigences &eacute;nerg&eacute;tiques est parfois diff&eacute;rent de celui qui s&rsquo;occupe de l&rsquo;environnement. Si l&rsquo;int&eacute;gration n&rsquo;est pas une option, les actuels processus permettant d&rsquo;identifier et de consulter les exigences environnementales peuvent &ecirc;tre r&eacute;p&eacute;t&eacute;s dans le cadre de la norme ISO 50001.</p>
+
+<p>Les processus &eacute;nonc&eacute;s dans la norme ISO 9001:2015 qui permettent d&rsquo;identifier et de respecter les lois et r&egrave;glements applicables font partie int&eacute;grante de la priorit&eacute; accord&eacute;e aux clients et de la d&eacute;termination des exigences relatives aux produits et services. Parce que la norme ISO 50001:2011 n&rsquo;int&egrave;gre pas l&rsquo;&eacute;nergie aux exigences relatives aux clients, aux produits ou aux services, la norme ISO 9001 pourrait ne pas offrir les processus n&eacute;cessaires &agrave; un respect absolu des dispositions de la norme ISO 50001 visant les exigences l&eacute;gales et autres.</p>
+
+<p>Les processus permettant d&rsquo;&eacute;valuer et de mettre &agrave; jour les exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;environnement en vertu de la norme ISO 14001:2015 peuvent &ecirc;tre adapt&eacute;s et utilis&eacute;s pour &eacute;valuer et mettre &agrave; jour les exigences l&eacute;gales et autres li&eacute;es &agrave; l&rsquo;&eacute;nergie en vertu de la norme ISO 50001:2011. On peut &eacute;galement utiliser un seul processus int&eacute;gr&eacute; pour respecter les exigences des deux normes.</p>
+
+<p>La norme ISO 50001:2011 n&rsquo;exigerait pas n&eacute;cessairement que d&rsquo;&eacute;ventuelles adaptations aux processus d&rsquo;&eacute;valuation de la conformit&eacute; soient maintenues en vertu de la norme ISO 14001:2015. On pourrait utiliser le m&ecirc;me processus pour les deux syst&egrave;mes, s&eacute;par&eacute;ment ou de fa&ccedil;on int&eacute;gr&eacute;e. Les diff&eacute;rences tiendraient sans doute au personnel poss&eacute;dant les responsabilit&eacute;s et les pouvoirs relatifs au processus d&rsquo;&eacute;valuation de la conformit&eacute;, et aux exigences l&eacute;gales et autres bien pr&eacute;cises (qualifi&eacute;es d&rsquo;&laquo; obligations de conformit&eacute; &raquo; dans la norme ISO 14001). L&rsquo;int&eacute;gration aux exigences environnementales des &eacute;valuations de la conformit&eacute; li&eacute;es &agrave; l&rsquo;&eacute;nergie peut constituer une utilisation efficace des ressources. Une telle int&eacute;gration &agrave; la norme ISO 9001:2015 ne serait pas aussi simple et g&eacute;n&egrave;re habituellement des processus distincts. Cela est d&ucirc; au fait que, dans les syst&egrave;mes qualit&eacute; ISO 9001:2015, les lois et r&egrave;glements font partie de la d&eacute;termination et de l&rsquo;examen des exigences relatives aux produits et services, ce qui inclut les exigences relatives aux clients. Ces exigences portent presque exclusivement sur des produits ou des services, et sont appliqu&eacute;es gr&acirc;ce aux contr&ocirc;les et aux processus d&rsquo;&eacute;valuation du rendement du syst&egrave;me qualit&eacute;.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) ne fait pas r&eacute;f&eacute;rence aux exigences l&eacute;gales ou aux autres exigences.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

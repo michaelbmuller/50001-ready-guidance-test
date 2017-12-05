@@ -1,0 +1,176 @@
+USDOE 50001 READY NAVIGATOR TASK 3
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Engagement de la direction
+----------TITLE----------
+Tâche 3 : Notre haute direction a fait part de son engagement à utiliser un système 50001 Ready et connaît son rôle et ses responsabilités
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez le document [resource](Business_Drivers_EnMS) pour d&eacute;finir les catalyseurs op&eacute;rationnels et les avantages applicables &agrave; votre organisation.</li>
+	<li>Pr&eacute;parez une r&eacute;union d&rsquo;information consacr&eacute;e aux catalyseurs op&eacute;rationnels et aux avantages, aux r&ocirc;les et responsabilit&eacute;s des dirigeants et &agrave; la fa&ccedil;on de s&rsquo;acquitter de ces responsabilit&eacute;s, et pr&eacute;sentez-la &agrave; la haute direction.</li>
+	<li>Confirmez l&rsquo;engagement de la haute direction.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>L&rsquo;&eacute;l&eacute;ment tout &agrave; fait essentiel au succ&egrave;s d&rsquo;un SGE est la participation et l&rsquo;engagement de la haute direction. En plus d&rsquo;offrir le leadership n&eacute;cessaire &agrave; l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et du SGE, la haute direction doit d&eacute;montrer qu&rsquo;elle assume les responsabilit&eacute;s pr&eacute;cises qui lui sont assign&eacute;es dans le cadre de l&rsquo;am&eacute;lioration continue du SGE ([resource](PDCA_Components_ISO_50001)). La haute direction ne se contente pas d&rsquo;approuver et d&rsquo;autoriser un SGE; c&rsquo;est elle qui est charg&eacute;e d&rsquo;en garantir la pertinence et l&rsquo;efficacit&eacute;.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;fini les avantages et les catalyseurs op&eacute;rationnels du SGE</li>
+	<li>Pr&eacute;par&eacute; une r&eacute;union d&rsquo;information &agrave; l&rsquo;intention de la haute direction</li>
+	<li>Pr&eacute;sent&eacute; cette r&eacute;union</li>
+	<li>Confirm&eacute; l&rsquo;engagement de la haute direction</li>
+	<li>Inform&eacute; la haute direction de ses responsabilit&eacute;s &agrave; propos du SGE</li>
+	<li>Pr&eacute;vu la fa&ccedil;on dont la haute direction s&rsquo;acquittera de ses responsabilit&eacute;s</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.2.1, 4.2.2, 4.7.1, 4.7.2 et 4.7.3 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;finir les avantages et les catalyseurs op&eacute;rationnels du SGE)</p>
+
+<p>De nombreuses organisations visent l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et la conservation de l&rsquo;&eacute;nergie, et veulent r&eacute;duire leur impact sur l&rsquo;environnement et mettre en &oelig;uvre des initiatives ax&eacute;es sur la durabilit&eacute;, parce qu&rsquo;elles jugent que c&rsquo;est la &laquo; bonne chose &agrave; faire &raquo;. Par contre, les impacts sur le chiffre d&rsquo;affaires et sur les perspectives de viabilit&eacute; &agrave; long terme sont tr&egrave;s souvent les d&eacute;terminants des initiatives organisationnelles propos&eacute;es, incluant celles qui visent la gestion de l&rsquo;&eacute;nergie. Il faut d&eacute;finir les avantages d&rsquo;une am&eacute;lioration de la gestion de l&rsquo;&eacute;nergie et du rendement &eacute;nerg&eacute;tique, et les expliquer &agrave; la haute direction en des termes qu&rsquo;elle comprendra. Il est donc important de faire une analyse de rentabilisation lors de la cr&eacute;ation d&rsquo;un SGE.</p>
+
+<p>&Agrave; mesure que la norme ISO 50001 suscite plus d&rsquo;attention sur les march&eacute;s, des &eacute;tudes de cas sur sa mise en &oelig;uvre et d&rsquo;autres analyses rendent compte des avantages de cette approche syst&eacute;matique de la gestion de l&rsquo;&eacute;nergie, &agrave; savoir :</p>
+
+<ul>
+	<li>Gains d&rsquo;efficacit&eacute; op&eacute;rationnelle</li>
+	<li>Baisse de la consommation &eacute;nerg&eacute;tique</li>
+	<li>Collecte de donn&eacute;es &eacute;nerg&eacute;tiques permettant de prendre des d&eacute;cisions fond&eacute;es sur des faits</li>
+	<li>Soutien &agrave; un changement organisationnel et culturel</li>
+	<li>Catalyseurs de l&rsquo;int&eacute;gration organisationnelle</li>
+	<li>Moins d&rsquo;impacts sur l&rsquo;environnement</li>
+	<li>Avantages concurrentiels par rapport aux entreprises qui ne g&egrave;rent pas leurs ressources</li>
+	<li>D&eacute;monstration visible de la responsabilit&eacute; sociale</li>
+	<li>Positionnement en vue d&rsquo;une comptabilisation du carbone</li>
+</ul>
+
+<p>D&eacute;couvrez les avantages dont ont b&eacute;n&eacute;fici&eacute; d&rsquo;autres organisations gr&acirc;ce &agrave; leur SGE. Vous trouverez sur le Web des exemples dans votre secteur ou des secteurs connexes. Voyez, par exemple :</p>
+
+<ul>
+	<li>[resource](Energy_Efficiency_Business_Case)</li>
+	<li>[resource](ISO_50001_Benefits)</li>
+</ul>
+
+<p>Tenez compte des avantages potentiels d&rsquo;un SGE dans le contexte des priorit&eacute;s et des besoins de votre organisation. Pour pr&eacute;parer l&rsquo;analyse de rentabilisation, vous devez &eacute;tablir un lien entre les avantages du SGE et les catalyseurs op&eacute;rationnels de votre organisation, parce que la direction voudra savoir quelle incidence le SGE et une meilleure efficacit&eacute; &eacute;nerg&eacute;tique ont sur ces catalyseurs.</p>
+
+<p>Le document <a href="http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Business%20Drivers%20and%20EnMS%20Res%20Sheet.docx" target="_blank">[resource](Business_Drivers_EnMS)</a> traite des diff&eacute;rents types de catalyseurs op&eacute;rationnels et donne des exemples de l&rsquo;incidence que peut avoir la gestion de l&rsquo;&eacute;nergie sur eux. Le repr&eacute;sentant de la direction et les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie (voir [task](Energy Team)) devraient examiner cette information et d&eacute;finir les catalyseurs op&eacute;rationnels s&rsquo;appliquant &agrave; votre organisation. Ensuite, il faut s&rsquo;assurer que la direction comprend les avantages en pr&eacute;sentant l&rsquo;information en des termes qu&rsquo;elle jugera importants. Si le repr&eacute;sentant de la direction et les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie n&rsquo;ont pas &eacute;t&eacute; d&eacute;sign&eacute;s, il faudra d&eacute;signer une personne d&eacute;sireuse de promouvoir l&rsquo;initiative et d&rsquo;accepter cette responsabilit&eacute;.</p>
+
+<p>[Learn More](Principaux influenceurs internes)</p>
+
+<p>Quand vous pr&eacute;parerez l&rsquo;analyse de rentabilisation, pr&eacute;voyez d&eacute;signer les &laquo; principaux influenceurs internes &raquo; de votre organisation. Il s&rsquo;agit des personnes qui s&rsquo;int&eacute;ressent ou pourraient s&rsquo;int&eacute;resser aux d&eacute;cisions li&eacute;es &agrave; l&rsquo;&eacute;nergie, ou qui peuvent ou pourraient influer sur ces d&eacute;cisions. Pour obtenir un appui au d&eacute;veloppement et &agrave; la mise en &oelig;uvre du SGE, il peut &ecirc;tre utile de d&eacute;signer ces personnes parmi la direction et les employ&eacute;s. D&eacute;terminez en quoi l&rsquo;&eacute;nergie est importante &agrave; leurs yeux et ce qui les inciterait &agrave; appuyer l&rsquo;initiative et &agrave; y participer. Les motivations de chacun peuvent &ecirc;tre diff&eacute;rentes; par exemple :</p>
+
+<ul>
+	<li>Le gestionnaire d&rsquo;un immeuble ou le responsable de la production peuvent accorder la priorit&eacute; &agrave; la disponibilit&eacute; de l&rsquo;&eacute;nergie.</li>
+	<li>Le responsable des achats peut accorder la priorit&eacute; aux co&ucirc;ts de l&rsquo;&eacute;nergie.</li>
+	<li>Le responsable de la maintenance peut accorder la priorit&eacute; &agrave; la qualit&eacute; et la disponibilit&eacute; de l&rsquo;&eacute;nergie.</li>
+	<li>Le responsable de la gestion de l&rsquo;environnement peut accorder la priorit&eacute; aux impacts de la consommation d&rsquo;&eacute;nergie, comme la pollution.</li>
+</ul>
+
+<p>Veillez &agrave; ce que les besoins des influenceurs internes li&eacute;s aux usages &eacute;nerg&eacute;tiques (fa&ccedil;on d&rsquo;utiliser l&rsquo;&eacute;nergie) et &agrave; la consommation &eacute;nerg&eacute;tique (quantit&eacute; utilis&eacute;e) soient compris et expliqu&eacute;s dans l&rsquo;analyse de rentabilisation. Le document [resource](Example_Key_Internal_Influencers_Worksheet) illustre comment cette information peut &ecirc;tre saisie. Une [resource](Key_Internal_Influencers_Worksheet) est &agrave; votre disposition.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;parer une r&eacute;union d&rsquo;information &agrave; l&rsquo;intention de la haute direction)</p>
+
+<p>Si la direction ne s&rsquo;est pas d&eacute;j&agrave; engag&eacute;e &agrave; mettre en place un SGE, ou si ses engagements sont insuffisants, il faudra la convaincre des avantages de ce syst&egrave;me, afin qu&rsquo;elle y accorde un soutien constructif.</p>
+
+<p>[Learn More](Conseils pour pr&eacute;parer une r&eacute;union d&rsquo;information &agrave; l&rsquo;intention de la haute direction)</p>
+
+<p>Fiez-vous aux conseils suivants pour pr&eacute;parer une r&eacute;union d&rsquo;information &agrave; l&rsquo;intention de la haute direction :</p>
+
+<ul>
+	<li><strong>Votre public cible, c&rsquo;est la direction.</strong> Quels catalyseurs sont importants &agrave; ses yeux? G&eacute;n&eacute;ralement, les membres de la direction s&rsquo;int&eacute;ressent au chiffre d&rsquo;affaires, mais il existe d&rsquo;autres facteurs importants. Mettez l&rsquo;accent sur ceux-l&agrave; et veillez &agrave; ce que la pr&eacute;sentation soit d&eacute;taill&eacute;e, mais br&egrave;ve. Souvent, la direction veut juste &ecirc;tre inform&eacute;e des principaux faits. Ayez &agrave; votre disposition d&rsquo;autres donn&eacute;es au cas o&ugrave; l&rsquo;on vous demanderait plus de d&eacute;tails; mais s&rsquo;il y a un ordre du jour, respectez-le.</li>
+	<li><strong>Concentrez-vous sur le message que vous voulez faire passer.</strong> Pr&eacute;sentez l&rsquo;information de base &eacute;tayant les avantages d&rsquo;un SGE, et ne vous perdez pas dans des id&eacute;es ou des questions qui n&rsquo;ont rien &agrave; voir avec le sujet. Mettez l&rsquo;accent sur le fait que le syst&egrave;me de gestion vise l&rsquo;am&eacute;lioration continue, et sur les impacts directs sur le mieux-&ecirc;tre de l&rsquo;organisation.</li>
+	<li><strong>Pr&eacute;sentez les avantages en des termes qui &laquo; parlent &raquo; &agrave; la direction.</strong> Pr&eacute;sentez les avantages en les axant sur les facteurs d&eacute;j&agrave; d&eacute;finis. Assurez-vous que les membres de la direction comprennent les avantages pour les aspects qui les int&eacute;ressent.</li>
+	<li><strong>Comprenez l&rsquo;objectif vis&eacute;.</strong> Quel est le r&eacute;sultat vis&eacute; par cette pr&eacute;sentation? Donnez de l&rsquo;information qui ira dans le sens de ce r&eacute;sultat ou constituera des suggestions.</li>
+</ul>
+
+<p>Pour pr&eacute;parer la r&eacute;union, une pratique exemplaire utile consiste &agrave; pr&eacute;parer en premier lieu un expos&eacute; &eacute;clair &mdash; bref r&eacute;sum&eacute; qui permet de &laquo; vendre &raquo; une id&eacute;e simplement et rapidement. Cela devrait vous prendre un maximum de deux minutes. Utilisez le document [resource](Elevator_Speech_Worksheet) pour vous concentrer sur l&rsquo;information essentielle, puis pr&eacute;sentez-en davantage selon le temps dont vous disposez. Quel que soit le temps dont vous disposez, veillez &agrave; aborder les points importants d&egrave;s le d&eacute;but. Pour vous assurer que les membres de la direction entendent ce que vous avez &agrave; dire, vous pouvez appliquer le vieil adage suivant : &laquo; Annoncez-leur ce que vous allez leur dire, dites-le, puis r&eacute;p&eacute;tez ce que vous venez de leur dire. &raquo;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;senter la r&eacute;union d&rsquo;information &agrave; la haute direction)</p>
+
+<p>Pr&eacute;sentez &agrave; la haute direction l&rsquo;information pr&eacute;par&eacute;e dans le cadre de la t&acirc;che pr&eacute;c&eacute;dente. Faites la pr&eacute;sentation en utilisant les outils standards de l&rsquo;organisation &agrave; cette fin, ou dans un autre format qui pr&eacute;sente l&rsquo;information de fa&ccedil;on optimale.</p>
+
+<p>[Learn More](Conseils sur la pr&eacute;sentation d&rsquo;une r&eacute;union d&rsquo;information &agrave; la haute direction)</p>
+
+<p>Respectez l&rsquo;horaire pr&eacute;vu et tenez-vous-en &agrave; la pr&eacute;sentation pr&eacute;vue. Soyez pr&ecirc;t &agrave; r&eacute;pondre aux questions et &agrave; donner plus de d&eacute;tails si on vous le demande.</p>
+
+<p>Les membres de la direction peuvent poser le type de questions suivantes :</p>
+
+<ul>
+	<li>Combien d&eacute;pensons-nous actuellement chaque ann&eacute;e pour l&rsquo;&eacute;nergie?</li>
+	<li>Quelles sont les &eacute;conomies que nous pourrions potentiellement r&eacute;aliser sur une p&eacute;riode d&rsquo;un ou deux ans?</li>
+	<li>Pendant combien de temps l&rsquo;&eacute;quipe charg&eacute;e de la gestion de l&rsquo;&eacute;nergie pr&eacute;voit-elle s&rsquo;engager?</li>
+	<li>Quels sont les principaux d&eacute;fis associ&eacute;s &agrave; la mise en place d&rsquo;un SGE ISO 50001?</li>
+	<li>Que devrons-nous faire (la haute direction) pour garantir le succ&egrave;s de ce programme?</li>
+</ul>
+
+<p>La pr&eacute;sentation vise &agrave; fournir bri&egrave;vement l&rsquo;information dont a besoin la direction pour prendre les d&eacute;cisions n&eacute;cessaires, et &agrave; donner d&rsquo;autres d&eacute;tails, au besoin. Si l&rsquo;on commence &agrave; s&rsquo;&eacute;carter du sujet, recentrez la pr&eacute;sentation en attirant de nouveau l&rsquo;attention du groupe sur les documents pertinents. Le document [resource](Example_Management_Briefing_Agenda) peut vous aider &agrave; garder le cap. Modifiez l&rsquo;ordre du jour en fonction du temps dont vous disposez.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Confirmer l&rsquo;engagement de la direction)</p>
+
+<p>Une des t&acirc;ches les plus importantes &agrave; accomplir avant de mettre en place le syst&egrave;me de gestion est l&rsquo;obtention du soutien de la haute direction. R&eacute;pondez aux questions suivantes :</p>
+
+<ul>
+	<li>Est-ce que les membres de votre haute direction sont d&rsquo;accord avec le programme?</li>
+	<li>Ont-ils attribu&eacute; les responsabilit&eacute;s et les pouvoirs n&eacute;cessaires &agrave; la mise en &oelig;uvre d&rsquo;un SGE?</li>
+	<li>Ont-ils approuv&eacute; et allou&eacute; les ressources n&eacute;cessaires au succ&egrave;s de la mise en &oelig;uvre du SGE?</li>
+</ul>
+
+<p>Apr&egrave;s s&rsquo;&ecirc;tre engag&eacute;s, les membres de la haute direction doivent clairement comprendre leurs responsabilit&eacute;s et les mesures appropri&eacute;es. Quand la haute direction est active et visible dans le SGE, les employ&eacute;s et les autres intervenants comprennent la valeur et l&rsquo;importance de l&rsquo;am&eacute;lioration de la gestion de l&rsquo;&eacute;nergie et du rendement &eacute;nerg&eacute;tique pour l&rsquo;organisation. Par exemple, des mesures simples de la part de la haute direction, comme l&rsquo;ajout de sujets portant sur l&rsquo;&eacute;nergie &agrave; l&rsquo;ordre du jour des r&eacute;unions et l&rsquo;envoi de mises &agrave; jour par courriel sur le rendement &eacute;nerg&eacute;tique aideront &agrave; garantir la participation de toute l&rsquo;organisation.</p>
+
+<p>[Learn More](Cr&eacute;er un plan de projet)</p>
+
+<p>Un plan de projet d&eacute;crivant les mesures, l&rsquo;&eacute;ch&eacute;ancier et les ressources n&eacute;cessaires &agrave; la mise en &oelig;uvre du SGE peut g&eacute;n&eacute;rer le soutien de la direction, parce qu&rsquo;il d&eacute;finit clairement les attentes du projet. Envisagez un plan de projet pour la mise en &oelig;uvre du SGE qui s&rsquo;appuiera sur l&rsquo;approche d&eacute;crite dans le document [resource](Project_Management_for_EnMS_Implementation).</p>
+
+<p>[Learn More End]</p>
+
+<p>La haute direction doit appuyer le projet, pas seulement durant la mise en &oelig;uvre initiale du SGE, mais aussi apr&egrave;s que le syst&egrave;me sera en place et op&eacute;rationnel. La direction doit prendre un certain nombre de mesures pour assurer le suivi de ses engagements en ce qui concerne le syst&egrave;me. Ces mesures sont d&eacute;crites en d&eacute;tail ci-apr&egrave;s et dans les documents [task](Scope and Boundaries), [task](Energy Policy), [task](Energy Team) et [task](Communications) faisant partie du pr&eacute;sent dossier 50001 Ready Navigator.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Informer la haute direction de ses responsabilit&eacute;s &agrave; propos du SGE)</p>
+
+<p>Une fois que les membres de la haute direction se seront engag&eacute;s envers le SGE, assurez-vous qu&rsquo;ils comprennent les dix principales responsabilit&eacute;s dont ils doivent s&rsquo;acquitter afin d&rsquo;am&eacute;liorer continuellement &agrave; la fois le rendement &eacute;nerg&eacute;tique et le SGE. Les seules responsabilit&eacute;s de la haute direction figurant dans la liste ci-dessous qui peuvent &ecirc;tre d&eacute;l&eacute;gu&eacute;es &agrave; d&rsquo;autres gestionnaires sont celles qui sont d&eacute;crites aux points 6, 7 et 9.</p>
+
+<ol>
+	<li>D&eacute;finir et mettre en place une politique &eacute;nerg&eacute;tique, et la mettre &agrave; jour au besoin.</li>
+	<li>Nommer un repr&eacute;sentant de la direction et autoriser une &eacute;quipe responsable de l&rsquo;&eacute;nergie &agrave; agir.</li>
+	<li>Allouer les ressources n&eacute;cessaires pour configurer, utiliser et am&eacute;liorer le SGE, et am&eacute;liorer le rendement &eacute;nerg&eacute;tique.</li>
+	<li>Approuver le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE.</li>
+	<li>Expliquer l&rsquo;importance de l&rsquo;&eacute;nergie &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation.</li>
+	<li>S&rsquo;assurer qu&rsquo;on &eacute;tablit des objectifs et des cibles d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</li>
+	<li>Veiller &agrave; ce qu&rsquo;on fasse une utilisation appropri&eacute;e des indicateurs de rendement &eacute;nerg&eacute;tique (IRE).</li>
+	<li>Int&eacute;grer le rendement &eacute;nerg&eacute;tique &agrave; la planification strat&eacute;gique.</li>
+	<li>Veiller &agrave; mesurer et &agrave; pr&eacute;senter les r&eacute;sultats &agrave; des intervalles d&eacute;finis.</li>
+	<li>Proc&eacute;der &agrave; des revues de direction.</li>
+</ol>
+
+<p>C&rsquo;est g&eacute;n&eacute;ralement le repr&eacute;sentant de la direction qui explique &agrave; la haute direction ses responsabilit&eacute;s &agrave; propos du SGE. Pour le faire efficacement, il peut notamment int&eacute;grer la r&eacute;union d&rsquo;information &agrave; une r&eacute;union de direction d&eacute;j&agrave; pr&eacute;vue. Cette r&eacute;union pourrait aussi faire partie d&rsquo;une activit&eacute; de formation relative &agrave; la norme ISO 50001 &agrave; laquelle participeront les membres de la haute direction.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;voir la fa&ccedil;on dont la haute direction s&rsquo;acquittera de ses responsabilit&eacute;s)</p>
+
+<p>Un des r&eacute;sultats de la r&eacute;union d&rsquo;information destin&eacute;e &agrave; la haute direction devrait &ecirc;tre un plan expliquant comment celle-ci va s&rsquo;acquitter de ses responsabilit&eacute;s durant la mise en &oelig;uvre initiale du SGE. Par exemple, durant les toutes premi&egrave;res &eacute;tapes de mise en &oelig;uvre, l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie propose des indicateurs de rendement &eacute;nerg&eacute;tique (IRE) et des objectifs et des cibles &eacute;nerg&eacute;tiques, qui sont ensuite examin&eacute;s et approuv&eacute;s par la haute direction avant d&rsquo;&ecirc;tre officiellement int&eacute;gr&eacute;s au SGE. Une pratique exemplaire de gestion de projet lors de la mise en &oelig;uvre initiale consiste &agrave; d&eacute;finir les &eacute;tapes cl&eacute;s du projet, qui incluront la pr&eacute;sentation &agrave; la haute direction des produits de travail finaux (extrants) portant sur des volets pr&eacute;cis du SGE. (Le document [resource](Project_Management_for_EnMS_Implementation) donne des renseignements sur les bases de la planification de projet.)</p>
+
+<p>Au terme de la mise en &oelig;uvre initiale, la haute direction s&rsquo;acquittera de la plupart de ses responsabilit&eacute;s gr&acirc;ce &agrave; une revue de direction (voir [task](Calculate Energy Savings)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 9001:2015, ISO 14001:2015 et ISO 50001:2011 d&eacute;finissent toutes les responsabilit&eacute;s de la haute direction au sein du syst&egrave;me de gestion. Il y a &eacute;norm&eacute;ment de chevauchements entre ces trois normes en ce qui concerne ces responsabilit&eacute;s. La norme ISO 50001 ajoute certaines responsabilit&eacute;s qui sont uniques, mais respectent l&rsquo;esprit des exigences en mati&egrave;re de leadership &eacute;nonc&eacute;es dans les normes ISO 14001 et ISO 9001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 5.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) explique comment mieux sensibiliser divers intervenants cl&eacute;s, dont les membres de la haute direction. La section 1 des lignes directrices ENERGY STAR sugg&egrave;re &eacute;galement au responsable de l&rsquo;&eacute;nergie de faire participer les membres de la haute direction &agrave; titre d&rsquo;&laquo; alli&eacute;s ex&eacute;cutifs &raquo;. Dans la norme ISO 50001, on a officialis&eacute; cette suggestion en <em>exigeant </em>que la haute direction d&eacute;montre son engagement envers le SGE et l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique, et comprenne notamment ses r&ocirc;les et responsabilit&eacute;s pr&eacute;cis.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

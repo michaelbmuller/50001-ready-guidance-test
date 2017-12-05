@@ -1,0 +1,62 @@
+USDOE 50001 READY NAVIGATOR TASK 2
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Politique énergétique
+----------TITLE----------
+Tâche 2 : Nous avons préparé un énoncé de politique énergétique, qui a été approuvé par la haute direction
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez les [resource](Energy_Policy_Worksheets) pour r&eacute;diger votre &eacute;nonc&eacute; de politique &eacute;nerg&eacute;tique.</li>
+	<li>Demandez &agrave; la haute direction d&rsquo;approuver cet &eacute;nonc&eacute;, de le publier et de le communiquer &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation, puis de l&rsquo;int&eacute;grer au programme de sensibilisation &agrave; votre SGE (voir [task](Communications)).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Par le biais de la politique &eacute;nerg&eacute;tique, la haute direction fait &eacute;tat de ses intentions en ce qui concerne le rendement &eacute;nerg&eacute;tique de votre organisation. Les engagements pris dans cette politique d&eacute;finissent les orientations des activit&eacute;s de gestion &eacute;nerg&eacute;tique, et le cadre permettant de mettre &agrave; profit les objectifs et cibles d&rsquo;utilisation de l&rsquo;&eacute;nergie afin d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique. La politique est document&eacute;e et communiqu&eacute;e au personnel &agrave; tous les niveaux de l&rsquo;organisation, y compris aux sous-traitants pr&eacute;sents sur place.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>R&eacute;dig&eacute; la politique &eacute;nerg&eacute;tique</li>
+	<li>Approuv&eacute; cette politique</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.2.1 a) et 4.3 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](R&eacute;diger la politique &eacute;nerg&eacute;tique)</p>
+
+<p>La politique &eacute;nerg&eacute;tique doit &eacute;noncer les engagements de la haute direction &agrave; :</p>
+
+<ul>
+	<li>Am&eacute;liorer continuellement le rendement &eacute;nerg&eacute;tique</li>
+	<li>S&rsquo;efforcer d&rsquo;obtenir l&rsquo;information et les ressources n&eacute;cessaires pour atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+	<li>Se conformer aux exigences l&eacute;gales applicables et aux autres exigences de nature &eacute;nerg&eacute;tique que votre organisation s&rsquo;est engag&eacute;e &agrave; respecter</li>
+</ul>
+
+<p>En outre, la politique &eacute;nerg&eacute;tique doit soutenir :</p>
+
+<ul>
+	<li>L&rsquo;achat de produits et services &eacute;co&eacute;nerg&eacute;tiques</li>
+	<li>L&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique par le biais des activit&eacute;s de conception</li>
+</ul>
+
+<p>La politique peut comprendre seulement quelques phrases ou plusieurs paragraphes. Il est g&eacute;n&eacute;ralement pr&eacute;f&eacute;rable qu&rsquo;elle soit plus simple et plus courte, mais elle doit inclure les engagements susmentionn&eacute;s, et &ecirc;tre adapt&eacute;e &agrave; la nature et &agrave; l&rsquo;ampleur des usages et de la consommation &eacute;nerg&eacute;tiques de votre organisation.</p>
+
+<p>Il arrive que la haute direction ou l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie int&egrave;gre &agrave; la politique &eacute;nerg&eacute;tique d&rsquo;autres engagements (p. ex., li&eacute;s &agrave; la durabilit&eacute;, &agrave; la r&eacute;duction des &eacute;missions de gaz &agrave; effet de serre ou &agrave; ENERGY STAR) qui ne sont pas exig&eacute;s par la norme ISO 50001. C&rsquo;est acceptable, mais n&rsquo;oubliez pas que ce qui est &eacute;nonc&eacute; dans la politique doit &ecirc;tre d&eacute;montr&eacute;. En d&rsquo;autres termes, vous devez faire ce que vous avez dit.</p>
+
+<p>La politique &eacute;nerg&eacute;tique doit &ecirc;tre document&eacute;e. G&eacute;n&eacute;ralement, l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie pr&eacute;pare une version pr&eacute;liminaire de la politique &eacute;nerg&eacute;tique qu&rsquo;elle soumet &agrave; l&rsquo;examen et &agrave; l&rsquo;approbation de la haute direction. Les [resource](Energy_Policy_Worksheets) peuvent aider votre &eacute;quipe &agrave; r&eacute;diger la politique &eacute;nerg&eacute;tique. Un [resource](Example_Energy_Policy) montre les &eacute;l&eacute;ments mn&eacute;moniques qu&rsquo;on peut utiliser pour formuler les engagements de la haute direction et aider le personnel &agrave; bien comprendre les activit&eacute;s de formation li&eacute;es au SGE.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Approuver la politique &eacute;nerg&eacute;tique)</p>
+
+<p>Pour &eacute;noncer les intentions de votre organisation, la haute direction doit &laquo; s&rsquo;approprier &raquo; la politique &eacute;nerg&eacute;tique. Pour ce faire, elle doit veiller &agrave; ce que cette politique aille dans le sens des orientations strat&eacute;giques de l&rsquo;organisation. L&rsquo;approbation de la politique par la haute direction peut se faire de diverses fa&ccedil;ons, d&rsquo;une simple signature avec date &agrave; une d&eacute;cision prise et consign&eacute;e lors d&rsquo;une r&eacute;union.</p>
+
+<p>Une fois approuv&eacute;e et communiqu&eacute;e, la politique &eacute;nerg&eacute;tique est r&eacute;vis&eacute;e r&eacute;guli&egrave;rement et mise &agrave; jour, au besoin, dans le cadre du processus de revue de direction (voir [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Comme les politiques conformes aux normes ISO 14001:2015 et ISO 9001:2015, la politique &eacute;nerg&eacute;tique int&eacute;gr&eacute;e &agrave; un syst&egrave;me de gestion rel&egrave;ve de la responsabilit&eacute; de la haute direction. Et m&ecirc;me si les exigences li&eacute;es &agrave; cette politique sont diff&eacute;rentes pour chacune de ces normes, on peut les regrouper tr&egrave;s facilement en une seule politique int&eacute;gr&eacute;e relative aux syst&egrave;mes de gestion. Les exigences relatives &agrave; la politique &eacute;nerg&eacute;tique conforme &agrave; la norme ISO 50001 sont souvent int&eacute;gr&eacute;es &agrave; une politique environnementale ou &agrave; une politique sur les syst&egrave;mes de gestion de la sant&eacute; et de la s&eacute;curit&eacute;. La politique &eacute;nerg&eacute;tique peut &eacute;galement &ecirc;tre mise en &oelig;uvre de fa&ccedil;on ind&eacute;pendante. Notez que, contrairement aux politiques sur la qualit&eacute; et l&rsquo;environnement, la politique &eacute;nerg&eacute;tique n&rsquo;a pas &agrave; &ecirc;tre diffus&eacute;e &agrave; l&rsquo;ext&eacute;rieur de l&rsquo;organisation. Si elle devait &ecirc;tre int&eacute;gr&eacute;e &agrave; un &eacute;nonc&eacute; de politique conforme &agrave; la norme ISO 14001 et/ou ISO 9001, elle serait accessible &agrave; des parties int&eacute;ress&eacute;es de l&rsquo;ext&eacute;rieur. La principale diff&eacute;rence entre la norme ISO 50001 et ces deux autres normes (ISO 14001 et ISO 9001) tient au fait que la politique &eacute;nerg&eacute;tique doit contenir un engagement explicite &agrave; am&eacute;liorer le rendement &eacute;nerg&eacute;tique.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Il faut v&eacute;rifier la politique &eacute;nerg&eacute;tique de votre organisation, pr&eacute;sent&eacute;es &agrave; la section 1.3 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management), afin de s&rsquo;assurer qu&rsquo;elle satisfait aux exigences pr&eacute;cises de la norme ISO 50001. Une politique &eacute;nerg&eacute;tique conforme &agrave; la norme ISO 50001 doit engager l&rsquo;organisation &agrave; am&eacute;liorer continuellement son rendement &eacute;nerg&eacute;tique, &agrave; s&rsquo;acquitter de ses obligations au chapitre de la conformit&eacute;, &agrave; appuyer l&rsquo;achat de produits et services &eacute;co&eacute;nerg&eacute;tiques, et &agrave; documenter/communiquer la politique &agrave; tous les niveaux de l&rsquo;organisation.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
