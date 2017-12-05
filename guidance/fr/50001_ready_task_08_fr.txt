@@ -1,0 +1,124 @@
+USDOE 50001 READY NAVIGATOR TASK 8
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Usages énergétiques significatifs (UES)
+----------TITLE----------
+Tâche 8: Nous avons déterminé nos usages énergétiques significatifs (UES), ainsi que leur rendement énergétique, estimé notre consommation future et planifié l’examen et la mise à jour des UES.
+----------GETTING IT DONE----------
+<ul>
+	<li>Sous l&rsquo;onglet Energy Uses de l&rsquo;outil [resource](Energy_Footprint_Tool), identifiez les UES qui consomment le plus d&rsquo;&eacute;nergie dans vos installations.</li>
+	<li>D&eacute;terminez le rendement &eacute;nerg&eacute;tique des UES et remplissez le document [resource](SEU_Future_Energy_Estimate_Worksheet).</li>
+	<li>&Eacute;laborez et mettez en &oelig;uvre un plan d&rsquo;examen et de mise &agrave; jour des UES.</li>
+	<li>Int&eacute;grez un examen de la m&eacute;thode d&rsquo;&eacute;valuation et de s&eacute;lection des UES au processus de mise &agrave; jour des UES.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Il est important de d&eacute;finir les usages &eacute;nerg&eacute;tiques significatifs (UES) de votre organisation &agrave; l&rsquo;aide des crit&egrave;res d&rsquo;importance d&eacute;finis. On peut d&eacute;terminer les UES en se basant sur la consommation principale et/ou sur les possibilit&eacute;s &eacute;videntes d&rsquo;am&eacute;lioration.</p>
+
+<p>Une fois que les UES ont &eacute;t&eacute; identifi&eacute;s, il faut d&eacute;terminer leur actuel rendement dans le cadre de la revue &eacute;nerg&eacute;tique. Ensuite, on met en &oelig;uvre les processus permettant de surveiller ce rendement en permanence. La collecte, l&rsquo;analyse et le suivi des donn&eacute;es sur le rendement des UES peuvent aider &agrave; d&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>En plus de la d&eacute;termination, puis du suivi du rendement &eacute;nerg&eacute;tique des UES, il est important de pr&eacute;voir leur consommation &eacute;nerg&eacute;tique dans le cadre de la planification &eacute;nerg&eacute;tique. Ces pr&eacute;visions permettent &agrave; votre organisation de tenir compte de facteurs susceptibles d&rsquo;influer sur la consommation au fil du temps.</p>
+
+<p>Enfin, il est important de pr&eacute;voir la fa&ccedil;on dont l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie va examiner et mettre &agrave; jour les UES, ainsi que la m&eacute;thode d&rsquo;&eacute;valuation et de s&eacute;lection de ces UES, et quand elle va le faire. L&rsquo;examen doit avoir lieu r&eacute;guli&egrave;rement. Au fil du temps, les usages &eacute;nerg&eacute;tiques jug&eacute;s significatifs changent, &agrave; mesure que votre organisation continue d&rsquo;am&eacute;liorer son rendement &eacute;nerg&eacute;tique. Par ailleurs, il peut &ecirc;tre appropri&eacute; de modifier la m&eacute;thode d&rsquo;&eacute;valuation et de s&eacute;lection en fonction des changements touchant les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli et appliqu&eacute; les crit&egrave;res de s&eacute;lection des UES</li>
+	<li>D&eacute;termin&eacute; l&rsquo;actuel rendement &eacute;nerg&eacute;tique des UES et mis en place le suivi connexe</li>
+	<li>Calcul&eacute; l&rsquo;utilisation et la consommation future d&rsquo;&eacute;nergie par les UES</li>
+	<li>&Eacute;labor&eacute; un plan de mise &agrave; jour p&eacute;riodique des UES</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.4.3 b) de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir et appliquer les crit&egrave;res d&rsquo;importance)</p>
+
+<p>N&rsquo;oubliez pas que, selon la d&eacute;finition des UES, ce sont la consommation importante d&rsquo;&eacute;nergie et/ou les nombreuses possibilit&eacute;s d&rsquo;am&eacute;lioration qui constituent les crit&egrave;res de d&eacute;termination de ces UES par votre organisation. La plupart des organisations d&eacute;terminent les UES en fonction des syst&egrave;mes/&eacute;quipements qui consomment le plus d&rsquo;&eacute;nergie, identifi&eacute;s dans le bilan &eacute;nerg&eacute;tique. Mais on peut aussi d&eacute;terminer les UES &agrave; partir des nombreuses possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Cela peut &ecirc;tre une option int&eacute;ressante si votre organisation entreprend des activit&eacute;s de gestion de l&rsquo;&eacute;nergie depuis de nombreuses ann&eacute;es, et si les possibilit&eacute;s d&rsquo;am&eacute;liorer un peu plus les syst&egrave;mes consommant le plus d&rsquo;&eacute;nergie sont limit&eacute;es. Dans pareille situation, vous pouvez vous concentrer sur les plus petits syst&egrave;mes qui offrent plus de possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Dans le cadre de la t&acirc;che [task](Data Analysis), le bilan &eacute;nerg&eacute;tique a &eacute;t&eacute; pr&eacute;sent&eacute; comme une m&eacute;thode donnant une assurance raisonnable que vous avez comptabilis&eacute; l&rsquo;ensemble de l&rsquo;&eacute;nergie consomm&eacute;e au sein de votre organisation. Une fois ce bilan &eacute;tabli, une des m&eacute;thodes les plus courantes pour d&eacute;terminer les UES consiste &agrave; classer les usages &eacute;nerg&eacute;tiques selon la consommation. Vous pouvez ensuite d&eacute;finir un certain seuil de consommation &eacute;nerg&eacute;tique ou un certain pourcentage de la consommation totale, qui permettra de d&eacute;finir le caract&egrave;re significatif (voir [task](Data Analysis)). On &eacute;value ensuite les principaux consommateurs d&rsquo;&eacute;nergie afin de trouver des possibilit&eacute;s d&rsquo;am&eacute;lioration. Mais ce n&rsquo;est l&agrave; qu&rsquo;un exemple d&rsquo;&eacute;tablissement des crit&egrave;res de s&eacute;lection; vous pouvez adopter diff&eacute;rentes approches que vous jugez adapt&eacute;es &agrave; votre organisation.</p>
+
+<p>[Learn More](R&egrave;gle du 80/20)</p>
+
+<p>Dans l&rsquo;industrie et dans de nombreuses entreprises, c&rsquo;est la <em>r&egrave;gle du 80/20</em> qui s&rsquo;applique habituellement (voir [task](Data Analysis)) &ndash; 80 % de la consommation d&rsquo;&eacute;nergie est imput&eacute;e &agrave; 20 % de l&rsquo;&eacute;quipement ou des proc&eacute;d&eacute;s. G&eacute;n&eacute;ralement, seuls quelques syst&egrave;mes &eacute;nerg&eacute;tiques consomment la majeure partie de l&rsquo;&eacute;nergie d&rsquo;une installation. Concentrez-vous sur ces syst&egrave;mes et appliquez les crit&egrave;res d&rsquo;importance. La gestion de l&rsquo;&eacute;nergie est un processus d&rsquo;am&eacute;lioration continue et, avec le temps, on peut juger que d&rsquo;autres syst&egrave;mes &eacute;nerg&eacute;tiques et d&rsquo;autres usages sont significatifs.</p>
+
+<p>[Learn More End]</p>
+
+<p>Dans le cas des syst&egrave;mes de gestion de l&rsquo;&eacute;nergie nouvellement implant&eacute;s, il est important de commencer simplement. Envisagez de limiter le nombre d&rsquo;UES dans votre nouveau SGE, parce que ces UES sont ceux qui n&eacute;cessitent le plus de ressources. La norme ISO 50001 exige que vous d&eacute;finissiez les comp&eacute;tences des employ&eacute;s dont le travail est li&eacute; &agrave; la ([task](Training) et aux [task](Communications)), au contr&ocirc;le op&eacute;rationnel (voir [task](Operational Controls)), aux acquisitions (voir [task](Procurement)), et &agrave; la surveillance/&agrave; la mesure (voir [task](Monitoring) et [task](Measurement)) de tous les UES identifi&eacute;s. Vous devrez aussi tenir compte des UES au moment d&rsquo;&eacute;tablir les objectifs et les cibles (voir [task](Improvement Projects)). Ces exigences peuvent rapidement monopoliser les ressources disponibles.</p>
+
+<p>Pour planifier la gestion &eacute;nerg&eacute;tique, il est important de dresser une liste des UES et de d&eacute;finir une m&eacute;thode de d&eacute;termination de ces UES. Vous devrez consigner les crit&egrave;res d&rsquo;&eacute;valuation et de s&eacute;lection, ainsi que les processus utilis&eacute;s pour d&eacute;terminer le caract&egrave;re significatif. La m&eacute;thodologie pourrait changer avec le temps; ces changements devront aussi &ecirc;tre consign&eacute;s. Le document [resource](Worksheet_Documenting_SEU_Criteria_Method) aide &agrave; consigner les crit&egrave;res et la m&eacute;thode de d&eacute;termination des UES.</p>
+
+<p>[Learn More](&Eacute;tablir des liens entre les UES)</p>
+
+<p><strong>L&rsquo;&eacute;tablissement de liens entre les UES </strong>est une m&eacute;thode optimale recommand&eacute;e pour consigner les UES, les secteurs ou les op&eacute;rations auxquels ils sont associ&eacute;s et le personnel touch&eacute; (par titre de poste); pour ce faire, il faut remplir les colonnes 1, 2 et 5 du document [source](SEU_Control_Chart). Ce tableur simple peut servir &agrave; lister les actuels UES et &agrave; consigner d&rsquo;autres renseignements qui garantiront une gestion ad&eacute;quate des UES. Un [resource](Example_SEU_Control_Chart) est &eacute;galement fourni. L&rsquo;autre information relative aux UES (colonnes 4, 6, 7 et 8 du SEU Control Chart) sera communiqu&eacute;e dans le cadre des t&acirc;ches [task](Monitoring), [task](Measurement) et [task](Operational Controls).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;terminer l&rsquo;actuel rendement &eacute;nerg&eacute;tique et mettre en &oelig;uvre la surveillance)</p>
+
+<p>Une fois les UES identifi&eacute;s, recueillez les donn&eacute;es &eacute;nerg&eacute;tiques appropri&eacute;es afin de d&eacute;terminer leur rendement (partie de la t&acirc;che [task](Data Analysis)). Une pratique exemplaire consiste &agrave; inclure les donn&eacute;es et l&rsquo;information relatives &agrave; leur rendement &eacute;nerg&eacute;tique au syst&egrave;me de suivi &eacute;nerg&eacute;tique (voir [task](Data Analysis)). Cela regroupe toutes les donn&eacute;es &eacute;nerg&eacute;tiques de l&rsquo;organisation en un seul et m&ecirc;me endroit. L&rsquo;analyse et le suivi normaux des donn&eacute;es &eacute;nerg&eacute;tiques incluront ensuite la mise &agrave; jour du rendement &eacute;nerg&eacute;tique des UES.</p>
+
+<p>On peut &eacute;tablir un indicateur de rendement &eacute;nerg&eacute;tique (IRE) (voir [task](Baselines, Objectives and Targets)) pour d&eacute;finir le rendement &eacute;nerg&eacute;tique d&rsquo;un UES. Il existe des [resource](Generally_Accepted_EnPIs) pour de nombreux syst&egrave;mes &eacute;nerg&eacute;tiques courants, souvent identifi&eacute;s comme des UES. On peut &eacute;tablir des IRE similaires pour les installations, l&rsquo;&eacute;quipement, les proc&eacute;d&eacute;s, le personnel ou d&rsquo;autres syst&egrave;mes. Faites le suivi des IRE pour r&eacute;v&eacute;ler des tendances permettant de comparer le rendement des UES au fil du temps. Quand elle est accessible, on peut utiliser l&rsquo;analyse comparative pour comparer un UES &agrave; des usages similaires qui sont les meilleurs de leur cat&eacute;gorie ou affichent un rendement th&eacute;oriquement optimal ([task](Data Analysis)).</p>
+
+<p>[Learn More](Exemple de suivi des IRE)</p>
+
+<p>Vous trouverez ci-joint un [resource](Example_EnPI_Tracking) pour le rendement &eacute;nerg&eacute;tique des fours pour la fonte de l&rsquo;acier. Cet exemple exprime le rendement des fours en question en kilowatts/heure par tonne pour deux quarts de travail sur une p&eacute;riode de trois semaines. Il illustre la fa&ccedil;on dont on peut utiliser les IRE pour faire le suivi du rendement des UES avec le temps, et dont le personnel op&eacute;rationnel peut influer sur le rendement &eacute;nerg&eacute;tique des UES.</p>
+
+<p>[Learn More End]</p>
+
+<p>On peut aussi d&eacute;terminer et surveiller le rendement &eacute;nerg&eacute;tique d&rsquo;un UES &agrave; l&rsquo;aide de param&egrave;tres op&eacute;rationnels ou de maintenance (voir [task](Monitoring)).</p>
+
+<p>Les UES font partie des &laquo; principales caract&eacute;ristiques &raquo; du rendement &eacute;nerg&eacute;tique qu&rsquo;on surveille, mesure et analyse r&eacute;guli&egrave;rement (voir [task](Monitoring)). Votre organisation d&eacute;cide de la m&eacute;thode de d&eacute;termination du rendement &eacute;nerg&eacute;tique et d&eacute;finit les activit&eacute;s de surveillance et de mesure n&eacute;cessaires &agrave; la collecte de donn&eacute;es. L&rsquo;analyse des donn&eacute;es est un processus continu. Continuez &agrave; surveiller les UES, et recueillez et analysez les donn&eacute;es, puis faites-en le suivi, afin de d&eacute;terminer les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Calculer les usages et la consommation &eacute;nerg&eacute;tiques futurs)</p>
+
+<p>Parce que les UES repr&eacute;sentent g&eacute;n&eacute;ralement une forte proportion de la consommation &eacute;nerg&eacute;tique d&rsquo;une organisation, la pr&eacute;vision de leur consommation est un volet important de la planification &eacute;nerg&eacute;tique. Ces pr&eacute;visions permettent &agrave; l&rsquo;organisation d&rsquo;examiner les facteurs susceptibles d&rsquo;influer sur la consommation, et de prendre des d&eacute;cisions importantes &agrave; propos de la production, des produits &eacute;nerg&eacute;tiques, de la mise en &oelig;uvre des technologies, des sources, de la disponibilit&eacute;, etc. Pour faciliter la pr&eacute;vision de la consommation &eacute;nerg&eacute;tique des UES, il existe une [resource](SUE_Future_Energy_Estimate_Worksheet). Faites une estimation pour chaque UES. Vous pouvez estimer les changements potentiels de consommation des UES en vous basant sur les effets de divers facteurs.</p>
+
+<p>[Learn More](Facteurs susceptibles d&rsquo;influer sur la consommation &eacute;nerg&eacute;tique)</p>
+
+<p>Pour identifier plus facilement les facteurs importants pour votre organisation, vous pourriez tenir compte des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Occupation</li>
+	<li>Production</li>
+	<li>Investissements en capitaux</li>
+	<li>Sources d&rsquo;&eacute;nergie de remplacement</li>
+	<li>Projets &eacute;nerg&eacute;tiques men&eacute;s &agrave; terme</li>
+	<li>Nouvelles technologies</li>
+	<li>&Eacute;volution des proc&eacute;d&eacute;s</li>
+	<li>&Eacute;volution des mat&eacute;riaux</li>
+	<li>Crit&egrave;res lis aux produits</li>
+	<li>Conditions m&eacute;t&eacute;orologiques</li>
+	<li>Crit&egrave;res op&eacute;rationnels</li>
+	<li>Changements touchant l&rsquo;&eacute;conomie</li>
+	<li>Changements touchant les entreprises ou les secteurs industriels</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Pr&eacute;parez une estimation de la future consommation &eacute;nerg&eacute;tique des UES, afin de vous pr&eacute;parer &agrave; l&rsquo;avance aux changements que vous anticipez au sein de votre organisation, et utilisez-la comme r&eacute;f&eacute;rence pour &eacute;valuer les r&eacute;sultats.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Plan de mise &agrave; jour des UES)</p>
+
+<p>&Eacute;tablissez, pour l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, un plan d&rsquo;examen et de mise &agrave; jour des UES, et une m&eacute;thode permettant d&rsquo;&eacute;valuer et de s&eacute;lectionner des UES p&eacute;riodiquement. Vous devriez solliciter les commentaires de la direction durant ce processus. Il faudra peut-&ecirc;tre modifier les UES s&eacute;lectionn&eacute;s ou le processus d&rsquo;&eacute;valuation et de s&eacute;lection, pour diverses raisons :</p>
+
+<ul>
+	<li>Les projets d&rsquo;am&eacute;lioration ont fait baisser la consommation d&rsquo;un UES en dessous du seuil de s&eacute;lection.</li>
+	<li>Les ressources allou&eacute;es aux UES ont chang&eacute;.</li>
+	<li>Les changements op&eacute;rationnels ont nui &agrave; la priorit&eacute; accord&eacute;e aux UES/&agrave; leur s&eacute;lection.</li>
+	<li>De nouveaux proc&eacute;d&eacute;s ont modifi&eacute; les habitudes de consommation d&rsquo;&eacute;nergie.</li>
+</ul>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 14001:2015 et ISO 50001:2011 utilisent toutes deux le terme &laquo; significatif &raquo;. Dans la norme ISO 14001, on d&eacute;termine les aspects environnementaux significatifs des syst&egrave;mes de gestion de l&rsquo;environnement, tandis que, dans le cadre d&rsquo;un SGE ISO 50001:2011, on d&eacute;termine les UES. M&ecirc;me si les crit&egrave;res (et, g&eacute;n&eacute;ralement, les m&eacute;thodes) qu&rsquo;on utilise pour d&eacute;terminer le caract&egrave;re significatif diff&egrave;rent entre la norme ISO 50001 et la norme ISO 14001, en fin de compte, cette d&eacute;termination permet d&rsquo;&eacute;tablir des priorit&eacute;s et de cibler les ressources dans le cadre des deux syst&egrave;mes de gestion.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le programme ENERGY STAR ne n&eacute;cessite ni la d&eacute;termination des UES ni la planification de leur mise &agrave; jour, ce qu&rsquo;exige la norme ISO 50001 (et qui est expliqu&eacute; dans le pr&eacute;sent document).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

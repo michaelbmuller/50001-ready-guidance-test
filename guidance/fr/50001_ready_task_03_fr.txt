@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 3
 ----------MENU NAME----------
 Engagement de la direction
 ----------TITLE----------
-Tâche 3 : Notre haute direction a fait part de son engagement à utiliser un système 50001 Ready et connaît son rôle et ses responsabilités
+Tâche 3: Notre haute direction a fait part de son engagement à utiliser un système 50001 Ready et connaît son rôle et ses responsabilités
 ----------GETTING IT DONE----------
 <ul>
 	<li>Utilisez le document [resource](Business_Drivers_EnMS) pour d&eacute;finir les catalyseurs op&eacute;rationnels et les avantages applicables &agrave; votre organisation.</li>

@@ -1,0 +1,316 @@
+USDOE 50001 READY NAVIGATOR TASK 6
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Collecte de données
+----------TITLE----------
+Tâche 6: Nous avons identifié toutes nos sources d’énergie et toutes les utilisations que nous faisons de l’énergie, et recueilli les données connexes sur la consommation énergétique
+----------GETTING IT DONE----------
+<ul>
+	<li>Si vous utilisez [resource](EnPI_Lite), demandez &agrave; un de vos employ&eacute;s charg&eacute;s de la gestion/du suivi des donn&eacute;es de remplir soit 1) l&rsquo;onglet <em>Energy Consumption</em> du document [resource](Energy_Footprint_Lite_Data_Uploader), soit 2) l&rsquo;onglet <em>Consommation d&rsquo;&eacute;nergie</em> du document [resource](Energy_Footprint_Tool). Suivez les instructions de la page d&rsquo;accueil de [resource](EnPI_Lite). Pour les utilisateurs d&rsquo;EnPI Lite, le document [resource](<a name="_Hlk497839391">Energy_Footprint_Lite_Data_Uploader</a>) pourrait &ecirc;tre plus facile &agrave; utiliser, car c&rsquo;est une version de l&rsquo;outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique qui a &eacute;t&eacute; adapt&eacute;e &agrave; EnPI Lite.</li>
+	<li>Si vous n&rsquo;utilisez pas EnPI Lite, identifiez et indiquez l&rsquo;emplacement central o&ugrave; les donn&eacute;es sont stock&eacute;es.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La premi&egrave;re &eacute;tape du processus de collecte de donn&eacute;es consiste &agrave; d&eacute;terminer les sources d&rsquo;&eacute;nergie qu&rsquo;utilise votre organisation compte tenu du champ d&rsquo;application et du p&eacute;rim&egrave;tre d&eacute;finis pour le syst&egrave;me de gestion de l&rsquo;&eacute;nergie (SGE). Pour garantir que toute les sources d&rsquo;&eacute;nergie sont identifi&eacute;es, il faudrait d&eacute;terminer les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s associ&eacute;s &agrave; chaque source d&rsquo;&eacute;nergie. Quand vous comprenez les sources d&rsquo;&eacute;nergie et la fa&ccedil;on dont elles sont utilis&eacute;es, vous pouvez d&eacute;terminer, recueillir et analyser les donn&eacute;es n&eacute;cessaires &agrave; l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique de votre organisation.</p>
+
+<p>L&rsquo;&eacute;tape suivante du processus de collecte de donn&eacute;es consiste &agrave; d&eacute;finir les besoins de donn&eacute;es de votre organisation. La norme ISO 50001 exige que certaines donn&eacute;es soient int&eacute;gr&eacute;es &agrave; la revue &eacute;nerg&eacute;tique : sources d&rsquo;&eacute;nergie, analyse de l&rsquo;utilisation/de la consommation &eacute;nerg&eacute;tiques actuelles et pass&eacute;es (et estimation de l&rsquo;utilisation/de la consommation futures), et donn&eacute;es d&eacute;taill&eacute;es sur les principaux les usages &eacute;nerg&eacute;tiques significatifs. Ces donn&eacute;es seront essentielles &agrave; la s&eacute;lection des indicateurs de rendement &eacute;nerg&eacute;tique (IRE), et &agrave; l&rsquo;&eacute;tablissement de valeurs de base et d&rsquo;objectifs/de cibles &eacute;nerg&eacute;tiques.</p>
+
+<p>Une fois que vous aurez d&eacute;fini vos besoins de donn&eacute;es, &eacute;tablissez un processus de collecte de donn&eacute;es pour garantir une collecte r&eacute;guli&egrave;re. Les factures &eacute;nerg&eacute;tiques constituent une source of donn&eacute;es pratique, mais il faudra d&rsquo;autres donn&eacute;es pour &eacute;valuer le rendement &eacute;nerg&eacute;tique. En fonction de ses besoins en mati&egrave;re de donn&eacute;es &eacute;nerg&eacute;tiques, votre organisation doit &eacute;tablir un processus de collecte de donn&eacute;es qui pr&eacute;voira l&rsquo;attribution des responsabilit&eacute;s relatives &agrave; la collecte et &agrave; la manipulation des donn&eacute;es (voir [task](Energy Team)).</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ol>
+	<li>Identifi&eacute; les actuelles sources d&rsquo;&eacute;nergie</li>
+	<li>D&eacute;fini les usages &eacute;nerg&eacute;tiques</li>
+	<li>D&eacute;termin&eacute; les besoins de donn&eacute;es</li>
+	<li>Recueilli les donn&eacute;es</li>
+	<li>Entr&eacute; les donn&eacute;es dans un lieu centralis&eacute;</li>
+</ol>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.3 et 4.4.3 a) de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identifier les actuelles sources d&rsquo;&eacute;nergie)</p>
+
+<p>La premi&egrave;re &eacute;tape de cette t&acirc;che consiste &agrave; identifier et &agrave; documenter les actuelles sources d&rsquo;&eacute;nergie de votre organisation. Dans le contexte de la norme ISO 50001, les sources d&rsquo;&eacute;nergie sont les formes d&rsquo;&eacute;nergie qui sont achemin&eacute;es &agrave; votre organisation. Cela inclut l&rsquo;&eacute;nergie primaire et l&rsquo;&eacute;nergie secondaire. <em>L&rsquo;&eacute;nergie primaire </em>est l&rsquo;&eacute;nergie &agrave; son &eacute;tat naturel, comme le gaz naturel. <em>L&rsquo;&eacute;nergie secondaire </em>provient de l&rsquo;&eacute;nergie primaire et comprend des sources comme l&rsquo;&eacute;lectricit&eacute;, la vapeur et l&rsquo;air comprim&eacute;.</p>
+
+<p>[Learn More](Exemples de sources d&rsquo;&eacute;nergie)</p>
+
+<p>Voici quelques exemples de sources d&rsquo;&eacute;nergie :</p>
+
+<ul>
+	<li>&Eacute;lectricit&eacute;</li>
+	<li>Gaz naturel</li>
+	<li>Mazout</li>
+	<li>Diesel</li>
+	<li>Essence</li>
+	<li>Propane</li>
+	<li>Charbon</li>
+	<li>Vent</li>
+	<li>G&eacute;othermie</li>
+	<li>Biomasse</li>
+	<li>Vapeur</li>
+	<li>Air comprim&eacute;</li>
+	<li>Eau glac&eacute;e</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Pour chaque source d&rsquo;&eacute;nergie, vous devrez d&eacute;terminer les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s connexes. Cela garantira que toutes les sources d&rsquo;&eacute;nergie sont identifi&eacute;es et qu&rsquo;on n&rsquo;en a oubli&eacute; aucune. Utilisez un ou plusieurs des &eacute;l&eacute;ments suivants pour d&eacute;terminer les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s qui utilisent de l&rsquo;&eacute;nergie, et recenser toutes les sources d&rsquo;&eacute;nergie:</p>
+
+<ul>
+	<li>Plans d&rsquo;&eacute;tage</li>
+	<li>Diagrammes de processus</li>
+	<li>Plan de l&rsquo;installation avec emplacements de l&rsquo;&eacute;quipement</li>
+	<li>Plans de l&rsquo;immeuble</li>
+	<li>Diagrammes de c&acirc;blage</li>
+	<li>Diagrammes des services publics</li>
+	<li>Listes d&rsquo;&eacute;quipement</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir les usages &eacute;nerg&eacute;tiques)</p>
+
+<p>Dans le contexte de la norme ISO 50001, l&rsquo;usage &eacute;nerg&eacute;tique diff&egrave;re de la consommation &eacute;nerg&eacute;tique. <em>L&rsquo;usage &eacute;nerg&eacute;tique </em>d&eacute;signe une fa&ccedil;on d&rsquo;utiliser l&rsquo;&eacute;nergie. Voici des exemples : ventilation, chauffage, climatisation, &eacute;clairage et transports. Les usages &eacute;nerg&eacute;tiques sont associ&eacute;s aux installations, &agrave; l&rsquo;&eacute;quipement, aux syst&egrave;mes et aux proc&eacute;d&eacute;s qui ont besoin de cette &eacute;nergie.</p>
+
+<p>[Learn More](Exemples d&rsquo;usage &eacute;nerg&eacute;tique)</p>
+
+<p>Voici certains exemples d&rsquo;usage &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li>&Eacute;clairage int&eacute;rieur</li>
+	<li>&Eacute;clairage ext&eacute;rieur</li>
+	<li>Chauffage des locaux</li>
+	<li>Refroidissement/climatisation des locaux</li>
+	<li>Chaudi&egrave;res &agrave; eau chaude ou &agrave; vapeur &agrave; usage commercial/industriel</li>
+	<li>Chauffe-eau domestiques</li>
+	<li>Mat&eacute;riel de bureau</li>
+	<li>B&acirc;timent d&rsquo;entretien</li>
+	<li>Chaufferie</li>
+	<li>B&acirc;timent de production principal</li>
+	<li>Bureau de la comptabilit&eacute;</li>
+	<li>Compresseurs d&rsquo;air</li>
+	<li>Pompes</li>
+	<li>Fours ou &eacute;quipements de production de chaleur pour les proc&eacute;d&eacute;s industriels</li>
+	<li>Syst&egrave;mes de r&eacute;frig&eacute;ration</li>
+	<li>Convoyeurs/syst&egrave;mes de transport</li>
+	<li>Ventilateurs et syst&egrave;mes de ventilation (non associ&eacute;s au chauffage/au refroidissement des locaux)</li>
+	<li>Tours de refroidissement</li>
+	<li>Moteurs</li>
+	<li>Refroidisseurs d&rsquo;eau</li>
+	<li>Cha&icirc;nes de peinture</li>
+	<li>Cha&icirc;nes d&rsquo;assemblage</li>
+	<li>Achats</li>
+	<li>Technologies de l&rsquo;information</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Vous pouvez d&eacute;terminer l&rsquo;usage &eacute;nerg&eacute;tique de la fa&ccedil;on qui convient le mieux &agrave; votre organisation. Pr&eacute;c&eacute;demment, dans le cadre de la pr&eacute;sente t&acirc;che, vous avez associ&eacute; les sources d&rsquo;&eacute;nergie aux installations, &agrave; l&rsquo;&eacute;quipement, aux syst&egrave;mes et aux proc&eacute;d&eacute;s appropri&eacute;s afin de garantir que toutes les sources pertinentes avaient &eacute;t&eacute; identifi&eacute;es. R&eacute;partissez l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s dans des groupes ou des cat&eacute;gories logiques (p. ex., selon l&rsquo;utilisation) qui vous permettront le mieux d&rsquo;&eacute;valuer et d&rsquo;am&eacute;liorer votre rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More](Groupes d&rsquo;&eacute;quipement, de syst&egrave;mes et de proc&eacute;d&eacute;s)</p>
+
+<p>Voici certaines cat&eacute;gories &agrave; envisager (avec des exemples entre parenth&egrave;ses) :</p>
+
+<ul>
+	<li>Proc&eacute;d&eacute;s (tout l&rsquo;&eacute;quipement associ&eacute; &agrave; un proc&eacute;d&eacute; d&rsquo;impression ou de s&eacute;chage)</li>
+	<li>&Eacute;quipement similaire (tous les climatiseurs ou tous les compresseurs)</li>
+	<li>Services (laboratoire informatique ou service de peinture)</li>
+	<li>Syst&egrave;mes (&eacute;clairage ou air comprim&eacute;)</li>
+	<li>Distribution des services publics (panneau A ou tous les disjoncteurs de 50 amp&egrave;res)</li>
+	<li>&Eacute;quipement sp&eacute;cifique (ordinateur central ou chaudi&egrave;re bien pr&eacute;cis(e))</li>
+	<li>Installations (b&acirc;timent administratif ou ateliers de production)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Il n&rsquo;est pas n&eacute;cessaire de regrouper les usages &eacute;nerg&eacute;tiques en une seule cat&eacute;gorie; on peut utiliser une combinaison de diverses cat&eacute;gories &agrave; cette fin. Exemple : le laboratoire informatique, le proc&eacute;d&eacute; d&rsquo;impression, la chaudi&egrave;re et l&rsquo;&eacute;lectricit&eacute; utilis&eacute;e par le reste de l&rsquo;installation pourraient &ecirc;tre consid&eacute;r&eacute;s s&eacute;par&eacute;ment comme des fa&ccedil;ons d&rsquo;utiliser l&rsquo;&eacute;nergie.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;terminer les besoins de donn&eacute;es)</p>
+
+<p>Pour &ecirc;tre efficace, un SGE doit s&rsquo;appuyer sur des donn&eacute;es exactes et ad&eacute;quates. La revue &eacute;nerg&eacute;tique vise &agrave; &eacute;tablir le profil &eacute;nerg&eacute;tique de votre organisation et &agrave; servir de guide pour la collecte et l&rsquo;analyse des donn&eacute;es qui permettront de d&eacute;terminer le rendement &eacute;nerg&eacute;tique et de trouver des possibilit&eacute;s d&rsquo;am&eacute;lioration.</p>
+
+<p>La norme ISO 50001 exige que les donn&eacute;es et l&rsquo;information suivantes soient int&eacute;gr&eacute;es &agrave; la revue &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li><strong>Sources d&rsquo;&eacute;nergie</strong> &ndash; Veillez &agrave; ce que toutes les sources d&rsquo;&eacute;nergie soient identifi&eacute;es. Les donn&eacute;es relatives aux sources d&rsquo;&eacute;nergie proviennent g&eacute;n&eacute;ralement des factures de services publics ou du fournisseur de l&rsquo;&eacute;nergie en question (voir [resource](<a name="_Hlk497840503">Example_Types_Energy_Management_Data</a>)).</li>
+	<li><strong>Analyse des usages et de la consommation &eacute;nerg&eacute;tiques pass&eacute;s</strong> &ndash; La fa&ccedil;on dont ces donn&eacute;es sont recueillies et leur niveau de d&eacute;tail d&eacute;pendront des compteurs install&eacute;s ou disponibles dans votre organisation. Il se peut qu&rsquo;on ne mesure que les services publics et que les capacit&eacute;s d&rsquo;analyse soient limit&eacute;es. Recueillez les donn&eacute;es datant des derni&egrave;res ann&eacute;es afin d&rsquo;&eacute;tablir l&rsquo;historique du rendement &eacute;nerg&eacute;tique de l&rsquo;organisation (voir [task](Data Analysis)).</li>
+	<li><strong>Analyse des usages et de la consommation &eacute;nerg&eacute;tiques actuels</strong> &ndash; La collecte de ces donn&eacute;es d&eacute;pendra aussi des compteurs qui sont install&eacute;s (ou que vous installerez) dans vos locaux. Si les compteurs de services publics sont les seuls compteurs en place, vous devrez peut-&ecirc;tre envisager d&rsquo;ajouter des compteurs si votre organisation souhaite peaufiner son &eacute;valuation des usages et de la consommation &eacute;nerg&eacute;tiques. Utilisez ces donn&eacute;es pour &eacute;tablir votre rendement &eacute;nerg&eacute;tique actuel (voir [task](Data Analysis)).</li>
+	<li><strong>Usages &eacute;nerg&eacute;tiques significatifs et leur rendement actuel</strong> &ndash; Les usages &eacute;nerg&eacute;tiques significatifs (UES) d&eacute;signent les installations, syst&egrave;mes, &eacute;quipements et proc&eacute;d&eacute;s, ainsi que le personnel qui consomment une grande quantit&eacute; d&rsquo;&eacute;nergie et/ou ont vraiment la possibilit&eacute; d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique. Utilisez l&rsquo;information issues des donn&eacute;es recueillies et analys&eacute;es dans le cadre de la revue &eacute;nerg&eacute;tique pour d&eacute;terminer vos UES (voir [task](Data Analysis) et [task](Significant Energy Uses)). En mettant l&rsquo;accent sur les UES, votre organisation pourra concentrer ses ressources dans les secteurs qui consomment le plus d&rsquo;&eacute;nergie et/ou pr&eacute;sentent le meilleur potentiel d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</li>
+	<li><strong>Variables pertinentes influant sur les UES</strong> &ndash; Les variables pertinentes sont les facteurs qui peuvent avoir un impact sur le rendement &eacute;nerg&eacute;tique de vos UES. D&eacute;terminez ces variables &agrave; l&rsquo;aide des donn&eacute;es issues de la revue &eacute;nerg&eacute;tique (voir [task](Significant Energy Uses) et [task](Relevant Variables)).</li>
+	<li><strong>Estimations des usages et de la consommation &eacute;nerg&eacute;tiques futurs</strong> &ndash; Pr&eacute;parez des estimations des usages et de la consommation &eacute;nerg&eacute;tique futurs pour vos UES (voir [task](Significant Energy Uses)). Ces estimations peuvent vous aider &agrave; g&eacute;rer vos UES, &agrave; &eacute;tablir des objectifs/cibles &eacute;nerg&eacute;tiques, et &agrave; cr&eacute;er des attentes que vous pourrez comparer aux r&eacute;sultats obtenus (voir [task](Monitoring)).</li>
+	<li><strong>Possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique class&eacute;es par ordre de priorit&eacute;</strong> &ndash; D&eacute;terminez des possibilit&eacute;s d&rsquo;am&eacute;lioration &agrave; l&rsquo;aide des donn&eacute;es recueillies et analys&eacute;es lors de la revue &eacute;nerg&eacute;tique, et des donn&eacute;es issues des &eacute;valuations &eacute;nerg&eacute;tiques et d&rsquo;autres m&eacute;thodes (voir [task](Improvement Opportunities)).</li>
+</ul>
+
+<p>En plus de la collecte et de l&rsquo;analyse des donn&eacute;es visant &agrave; d&eacute;terminer le rendement &eacute;nerg&eacute;tique de votre organisation, la revue &eacute;nerg&eacute;tique sert de base &agrave; la mesure du rendement &eacute;nerg&eacute;tique et &agrave; la d&eacute;termination des possibilit&eacute;s. Utilisez ces donn&eacute;es aux fins suivantes :</p>
+
+<ul>
+	<li><strong>Pour s&eacute;lectionner les indicateurs de rendement &eacute;nerg&eacute;tique (IRE)</strong> &ndash; Les IRE permettent de quantifier le rendement &eacute;nerg&eacute;tique de votre organisation. Il peut s&rsquo;agir d&rsquo;un simple chiffre ou d&rsquo;une mesure plus compliqu&eacute;e (voir [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Pour &eacute;tablir la consommation de r&eacute;f&eacute;rence</strong> &ndash; La consommation de r&eacute;f&eacute;rence est la valeur rep&egrave;re &agrave; laquelle vous comparez l&rsquo;actuel rendement &eacute;nerg&eacute;tique, afin de d&eacute;terminer s&rsquo;il s&rsquo;est am&eacute;lior&eacute;. Il peut s&rsquo;agir d&rsquo;un simple chiffre (p. ex, sur la consommation) ou d&rsquo;une mesure plus compliqu&eacute;e (voir [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Pour &eacute;tablir des objectifs/cibles &eacute;nerg&eacute;tiques</strong> &ndash; Une fois que votre organisation aura d&eacute;termin&eacute; son rendement &eacute;nerg&eacute;tique et d&eacute;fini les possibilit&eacute;s d&rsquo;am&eacute;lioration, elle pourra fixer ses objectifs et ses cibles afin d&rsquo;am&eacute;liorer son rendement &eacute;nerg&eacute;tique (voir [task](Improvement Opportunities) et [task](Improvement Projects)).</li>
+</ul>
+
+<p>On risque d&rsquo;avoir besoin de plus que les donn&eacute;es sur la consommation. Les donn&eacute;es peuvent porter sur l&rsquo;efficacit&eacute;, la charge, le temps d&rsquo;utilisation, etc. Votre &eacute;quipe responsable de l&rsquo;&eacute;nergie doit d&eacute;terminer les donn&eacute;es adapt&eacute;es &agrave; la valeur identifi&eacute;e.</p>
+
+<p>Pour &eacute;tablir les besoins de donn&eacute;es sur la gestion de l&rsquo;&eacute;nergie, l&rsquo;id&eacute;al consiste &agrave; demander &agrave; votre &eacute;quipe responsable de l&rsquo;&eacute;nergie de tenir compte des besoins potentiels en donn&eacute;es li&eacute;es &agrave; des exigences autres que les donn&eacute;es issues de le revue &eacute;nerg&eacute;tique et que les donn&eacute;es sur le rendement. Ces donn&eacute;es portent sur les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Exigences l&eacute;gales et autres</li>
+	<li>Op&eacute;rations ou production</li>
+	<li>Co&ucirc;ts &eacute;nerg&eacute;tiques</li>
+	<li>Finances de l&rsquo;organisation</li>
+</ul>
+
+<p>La politique &eacute;nerg&eacute;tique d&eacute;crit ce qui est important pour l&rsquo;organisation sur le plan &eacute;nerg&eacute;tique et donne des orientations strat&eacute;giques &agrave; propos des donn&eacute;es &eacute;nerg&eacute;tiques (voir [task](Energy Policy)). La gestion de l&rsquo;&eacute;nergie peut avoir une incidence sur les exigences l&eacute;gales ou autres li&eacute;es &agrave; l&rsquo;&eacute;nergie, et vice-versa, et ces exigences pourraient n&eacute;cessiter la collecte de donn&eacute;es bien pr&eacute;cises (voir [task](Legal Requirements)). Les donn&eacute;es sur les op&eacute;rations et la production pourraient &ecirc;tre importantes pour la d&eacute;termination du rendement &eacute;nerg&eacute;tique et des IRE dans le secteur de la construction et dans l&rsquo;industrie (voir [task](Baselines, Objectives and Targets)). L&rsquo;information relative aux co&ucirc;ts &eacute;nerg&eacute;tiques ne peut pas &ecirc;tre laiss&eacute;e de c&ocirc;t&eacute; car, dans la plupart des organisations, la haute direction veut g&eacute;n&eacute;ralement conna&icirc;tre l&rsquo;impact sur son chiffre d&rsquo;affaires.</p>
+
+<p>Vous trouverez de l&rsquo;information utile &agrave; l&rsquo;identification des donn&eacute;es dans le document [resource](Example_Types_Energy_Management_Data).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recueillir les donn&eacute;es)</p>
+
+<p>Il ne suffit pas que vous connaissiez vos besoins en donn&eacute;es &eacute;nerg&eacute;tiques. Il est important que vous sachiez o&ugrave; trouver et comment acqu&eacute;rir l&rsquo;information n&eacute;cessaire. Les exigences varieront selon les donn&eacute;es &agrave; recueillir. Les factures &eacute;nerg&eacute;tiques sont g&eacute;n&eacute;ralement disponibles et faciles &agrave; obtenir, mais d&rsquo;autres donn&eacute;es peuvent exiger plus d&rsquo;efforts. Parfois, on ne mesure pas certaines donn&eacute;es sur la gestion de l&rsquo;&eacute;nergie, et il peut &ecirc;tre n&eacute;cessaire d&rsquo;&eacute;valuer les outils de mesure dont vous disposez et vos processus de collecte de donn&eacute;es, afin de d&eacute;terminer les m&eacute;thodes les plus avantageuses pour recueillir les donn&eacute;es requises. Il existe g&eacute;n&eacute;ralement quatre sources pour la collecte de donn&eacute;es &eacute;nerg&eacute;tiques, et vous pouvez utiliser une combinaison de ces sources :</p>
+
+<ul>
+	<li>Compteurs de facturation des services publics</li>
+	<li>Donn&eacute;es des plaques signal&eacute;tiques</li>
+	<li>Compteurs portatifs</li>
+	<li>Compteurs divisionnaires</li>
+</ul>
+
+<p>[Learn More](Sources pour la collecte de donn&eacute;es &eacute;nerg&eacute;tiques)</p>
+
+<p><strong>Compteurs de facturation des services publics</strong> &ndash; Il y a un ou plusieurs compteurs servant &agrave; la facturation des services publics dans vos installations ou votre organisation. Les compteurs d&rsquo;&eacute;lectricit&eacute; et de gaz naturel sont les plus courants; il peut y avoir plus d&rsquo;un compteur pour la m&ecirc;me source d&rsquo;&eacute;nergie. Il faudrait regrouper les factures des services publics qui indiquent la consommation &eacute;nerg&eacute;tique pour chaque combustible, de pr&eacute;f&eacute;rence sur une p&eacute;riode d&rsquo;au moins douze mois. De plus, les autres combustibles, comme le mazout, le charbon et la biomasse, sont parfois livr&eacute;s de fa&ccedil;on irr&eacute;guli&egrave;re durant l&rsquo;ann&eacute;e, et les factures correspondantes devraient &ecirc;tre regroup&eacute;es.</p>
+
+<p><strong>Donn&eacute;es des plaques signal&eacute;tiques</strong> &ndash; La plupart des &eacute;quipements consommant de l&rsquo;&eacute;nergie sont dot&eacute;s d&rsquo;une plaque signal&eacute;tique install&eacute;e sur l&rsquo;&eacute;quipement, qui donne des renseignements sur la consommation &eacute;nerg&eacute;tique de celui-ci. Cette plaque indique g&eacute;n&eacute;ralement la taille ou la capacit&eacute; et d&rsquo;autres &eacute;l&eacute;ments li&eacute;s &agrave; l&rsquo;&eacute;nergie. Cela peut inclure les donn&eacute;es suivantes :</p>
+
+<ul>
+	<li>&Eacute;quipement &eacute;lectrique
+	<ul style="list-style-type:circle">
+		<li>Puissance</li>
+		<li>Tension</li>
+		<li>Amp&eacute;rage &agrave; pleine charge</li>
+		<li>Vitesse de rotation (tours/min)</li>
+		<li>Nombre de phases de puissance</li>
+	</ul>
+	</li>
+	<li>&Eacute;quipement fonctionnant au carburant
+	<ul style="list-style-type:circle">
+		<li>MMBtu d&rsquo;entr&eacute;e/de sortie</li>
+		<li>D&eacute;bit de vapeur maximal</li>
+		<li>Pression maximale</li>
+		<li>Temp&eacute;rature de fonctionnement</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Les manuels relatifs &agrave; l&rsquo;&eacute;quipement donnent d&rsquo;autres renseignements sur la puissance de cet &eacute;quipement et ses capacit&eacute;s. Le document [resource](Energy_Use_Worksheet) est un exemple de formulaire que vous pouvez utiliser pour recueillir des donn&eacute;es &eacute;nerg&eacute;tiques provenant des plaques signal&eacute;tiques.</p>
+
+<p><strong>Compteurs portatifs</strong> &ndash; Les compteurs portatifs offrent la flexibilit&eacute; d&rsquo;utilisation d&rsquo;&eacute;quipement de mesures dans de nombreux endroits et co&ucirc;tent g&eacute;n&eacute;ralement moins cher. Ils sont dot&eacute;s d&rsquo;un syst&egrave;me d&rsquo;enregistrement qui vous permet de recueillir des donn&eacute;es &agrave; diverses p&eacute;riodes, afin de voir comment l&rsquo;&eacute;quipement r&eacute;agit dans diff&eacute;rentes conditions de charge.</p>
+
+<p><strong>Compteurs divisionnaires</strong> &ndash; Ces compteurs pr&eacute;sentent l&rsquo;avantage d&rsquo;&ecirc;tre constamment disponibles pour la mesure des donn&eacute;es et, quand ils sont int&eacute;gr&eacute;s &agrave; l&rsquo;&eacute;quipement de consignation appropri&eacute;, ils fournissent des donn&eacute;es &eacute;nerg&eacute;tiques facilement accessibles. L&rsquo;installation de compteurs divisionnaires peut &ecirc;tre co&ucirc;teuse, et votre organisation doit d&eacute;terminer ses besoins les plus importants en donn&eacute;es avant de prendre une d&eacute;cision d&rsquo;achat. Elle peut aussi exiger une interruption du processus durant la p&eacute;riode d&rsquo;installation et doit envisager un calendrier ad&eacute;quat.</p>
+
+<p>[Learn More End]</p>
+
+<p>Les donn&eacute;es provenant des plaques signal&eacute;tiques et des compteurs portatifs n&eacute;cessitent g&eacute;n&eacute;ralement d&rsquo;autres calculs pour &eacute;valuer la consommation &eacute;nerg&eacute;tique/le rendement &eacute;nerg&eacute;tique, m&ecirc;me si les compteurs divisionnaires n&eacute;cessitent eux aussi d&rsquo;autres calculs. Vous devez d&eacute;terminer la m&eacute;thode d&rsquo;analyse appropri&eacute;e pour les donn&eacute;es disponibles (voir [task](Data Analysis)).</p>
+
+<p>Les donn&eacute;es sur la gestion de l&rsquo;&eacute;nergie dont vous avez besoin pourraient &eacute;galement inclure, au-del&agrave; des donn&eacute;es &eacute;nerg&eacute;tiques, les op&eacute;rations, la production, les co&ucirc;ts associ&eacute;s aux divers facteurs et d&rsquo;autres renseignements financiers. Pour d&eacute;terminer avec pr&eacute;cision l&rsquo;emplacement des donn&eacute;es de gestion de l&rsquo;&eacute;nergie, vous devez &eacute;valuer le type de donn&eacute;es &agrave; recueillir et les instruments dont vous aurez besoin &agrave; cette fin.</p>
+
+<p>[Learn More](Exemples de types de donn&eacute;es &agrave; recueillir)</p>
+
+<p>Voici certains exemples de donn&eacute;es &agrave; recueillir :</p>
+
+<ul>
+	<li>Consommation d&rsquo;&eacute;lectricit&eacute; des installations (&agrave; l&rsquo;aide du compteur de services publics)</li>
+	<li>Temp&eacute;rature de la chemin&eacute;e de la chaudi&egrave;re (&agrave; l&rsquo;aide du thermom&egrave;tre de conduit de fum&eacute;e)</li>
+	<li>Heures de fonctionnement (&agrave; l&rsquo;aide de l&rsquo;horloge)</li>
+	<li>Combustible de chauffage des installations (&agrave; l&rsquo;aide des registres de livraison du combustible)</li>
+	<li>Co&ucirc;t de l&rsquo;&eacute;quipement (&agrave; l&rsquo;aide des factures de fournisseurs)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>Une fois que vous aurez d&eacute;termin&eacute; quelles donn&eacute;es vous voulez recueillir et le m&eacute;canisme de collecte potentiel, d&eacute;terminez s&rsquo;il existe d&eacute;j&agrave; un processus de collecte et comment vous recueillez l&rsquo;information. Si ces donn&eacute;es n&rsquo;ont pas d&eacute;j&agrave; &eacute;t&eacute; recueillies, d&eacute;terminez comment elles sont g&eacute;n&eacute;r&eacute;es. Puis d&eacute;terminez si votre organisation a la capacit&eacute; de recueillir les donn&eacute;es. Si ce n&rsquo;est pas le cas, envisagez d&rsquo;acqu&eacute;rir d&rsquo;autres appareils de mesure ou de trouver un autre moyen d&rsquo;analyser le rendement.</p>
+
+<p>Parce que la gestion de l&rsquo;&eacute;nergie s&rsquo;appuie sur des donn&eacute;es, il faut que les donn&eacute;es appropri&eacute;es soient disponibles pour que le SGE fonctionne correctement. Vous devez aussi envisager d&rsquo;utiliser un syst&egrave;me de consignation des donn&eacute;es qui est facile &agrave; comprendre et facilite le processus d&rsquo;analyse. &Eacute;laborez un processus uniforme et fiable d&rsquo;acquisition et de consignation des donn&eacute;es.</p>
+
+<p>Pour g&eacute;rer les donn&eacute;es &eacute;nerg&eacute;tiques de fa&ccedil;on optimale, d&eacute;finissez les &eacute;tapes &agrave; suivre pour garantir l&rsquo;acquisition au moment opportun de donn&eacute;es pr&eacute;cises relatives &agrave; la gestion de l&rsquo;&eacute;nergie. Pour mettre en &oelig;uvre le processus de collecte, il faut d&eacute;finir les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Donn&eacute;es requises relatives &agrave; la gestion de l&rsquo;&eacute;nergie</li>
+	<li>Emplacement des donn&eacute;es</li>
+	<li>Personne (par poste) d&eacute;tenant les donn&eacute;es ou source des donn&eacute;es</li>
+	<li>Fr&eacute;quence de la collecte de donn&eacute;es</li>
+	<li>M&eacute;thode et lieu de stockage des donn&eacute;es</li>
+	<li>M&eacute;thode d&rsquo;analyse</li>
+</ul>
+
+<p>Ce processus peut inclure d&rsquo;autres &eacute;tapes, mais les &eacute;l&eacute;ments ci-dessus en constituent vraiment l&rsquo;essentiel. C&rsquo;est g&eacute;n&eacute;ralement le repr&eacute;sentant de votre direction qui supervise le processus. Le tableau [resource](Example_Types_Energy_Management_Data) peut faciliter l&rsquo;&eacute;tablissement de votre processus de collecte de donn&eacute;es.</p>
+
+<p>La fr&eacute;quence de la collecte de donn&eacute;es d&eacute;pend des besoins et des exigences de votre organisation. Un processus formel de collecte de donn&eacute;es est avantageux, car il garantit que vous recueillerez les donn&eacute;es appropri&eacute;es et les consignerez &agrave; la fr&eacute;quence n&eacute;cessaire.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Entrer les donn&eacute;es dans un lieu centralis&eacute;)</p>
+
+<p>Maintenant que vous avez recueilli toutes vos donn&eacute;es &eacute;nerg&eacute;tiques et d&rsquo;autres donn&eacute;es et attribu&eacute; les responsabilit&eacute;s relatives au mode de gestion de ces donn&eacute;es, celles-ci devraient id&eacute;alement &ecirc;tre saisies dans un lieu centralis&eacute;. (La norme ISO 50001 n&rsquo;exige pas que vos donn&eacute;es soient saisies et consign&eacute;es dans un lieu centralis&eacute;.) Il est recommand&eacute; de consigner au moins 24 mois de donn&eacute;es pour toutes vos sources d&rsquo;&eacute;nergie, afin de d&eacute;montrer l&rsquo;am&eacute;lioration continue de votre rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More](Outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique)</p>
+
+<p>Une pratique exemplaire que recommande le minist&egrave;re am&eacute;ricain de l&rsquo;&Eacute;nergie est l&rsquo;utilisation du document [resource](Energy_Footprint_Tool), qui vous aidera &agrave; organiser vos donn&eacute;es &eacute;nerg&eacute;tiques. Cet outil vous permet d&rsquo;entrer les donn&eacute;es &eacute;nerg&eacute;tiques pour une p&eacute;riode allant jusqu&rsquo;&agrave; dix ans et pour les variables suivantes, une fois par mois :</p>
+
+<ul>
+	<li>Toutes les sources d&rsquo;&eacute;nergie</li>
+	<li>Co&ucirc;t des services publics</li>
+	<li>Taux de production</li>
+	<li>Heures de fonctionnement</li>
+	<li>Taux d&rsquo;occupation des immeubles et des installations</li>
+	<li>Donn&eacute;es m&eacute;t&eacute;orologiques &ndash; degr&eacute;s-jours de chauffage et de climatisation, temp&eacute;rature moyenne</li>
+	<li>Donn&eacute;es relatives aux principaux &eacute;quipements</li>
+	<li>Donn&eacute;es des compteurs divisionnaires</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Utilisation de l&rsquo;outil EnPI Lite du DOE)</p>
+
+<p>L&rsquo;outil [resource](EnPI_Lite) du DOE est un outil en ligne bas&eacute; sur une analyse de r&eacute;gression qui permet d&rsquo;estimer les &eacute;conomies d&rsquo;&eacute;nergie en fonction de variables pertinentes comme les niveaux de production et la m&eacute;t&eacute;o. Le DOE a cr&eacute;&eacute; EnPI Lite comme outil d&rsquo;accompagnement de la s&eacute;rie de documents <em>50001 Ready Navigator</em>. C&rsquo;est l&rsquo;approche que le minist&egrave;re recommande pour faire le suivi de la consommation &eacute;nerg&eacute;tique et de l&rsquo;am&eacute;lioration du rendement dans le cadre de votre SGE ISO 50001. Par contre, il pourrait aussi &ecirc;tre appropri&eacute; d&rsquo;utiliser les m&eacute;thodes de suivi et les outils existants conform&eacute;ment aux directives d&eacute;taill&eacute;es des documents <em>50001 Ready Navigator</em>. Vous pouvez utiliser EnPI Lite en entrant vos donn&eacute;es &eacute;nerg&eacute;tiques d&rsquo;une des trois fa&ccedil;ons suivantes :</p>
+
+<p><strong>1. Saisie des donn&eacute;es &agrave; l&rsquo;aide de l&rsquo;outil Energy Footprint Lite du DOE</strong></p>
+
+<p>Si vous utlisez [resource](EnPI_Lite), t&eacute;l&eacute;chargez le document [resource](Energy_Footprint_Lite_Data_Uploader) afin de compiler dans un m&ecirc;me tableur les donn&eacute;es sur la consommation &eacute;nerg&eacute;tique, et de d&eacute;finir ainsi le champ d&rsquo;application de votre SGE. En plus de stocker vos donn&eacute;es &eacute;nerg&eacute;tiques, le <em>Footprint Lite Data Uploader</em> (outil de t&eacute;l&eacute;chargement des donn&eacute;es sur l&rsquo;empreinte &eacute;cologique) les convertira en &eacute;nergie primaire &agrave; partir des unit&eacute;s originales (p. ex., les kW/h). L&rsquo;&eacute;nergie source est la quantit&eacute; d&rsquo;&eacute;nergie qui alimente vos installations. L&rsquo;&eacute;nergie primaire tient compte des pertes lors de la production, de la transmission et de la distribution de l&rsquo;&eacute;nergie source. Voir la section 4 du document [resource](<a name="_Hlk497842199">Energy_Intensity_Baselining_And_Tracking_Guidance</a>) pour plus de d&eacute;tails.</p>
+
+<p>Dans le cadre de la t&acirc;che 9 ([task](Relevant Variables)), on vous demandera de d&eacute;finir les variables pertinentes. On peut utiliser la feuille intitul&eacute;e <em>Relevant Variables</em> dans le Footprint Lite Data Uploader pour compiler l&rsquo;information relative &agrave; ces variables ([task](Relevant Variables)). Vous pourrez t&eacute;l&eacute;verser les donn&eacute;es se trouvant sur les feuilles <em>Energy Consumption</em> et <em>Relevant Variables</em> dans [resource](EnPI_Lite) pour calculer l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique &agrave; l&rsquo;aide de l&rsquo;analyse de r&eacute;gression recommand&eacute;e par le DOE. Pour en savoir plus sur l&rsquo;analyse de r&eacute;gression, reportez-vous &agrave; la t&acirc;che 10. [resource](EnPI_Lite) vous permettra de t&eacute;l&eacute;charger le Footprint Lite Data Uploader et les r&eacute;sultats de votre analyse &eacute;nerg&eacute;tique dans le m&ecirc;me fichier. Vous trouverez des instructions d&eacute;taill&eacute;es sur l&rsquo;utilisation du Footprint Lite Data Uploader sur la page d&rsquo;accueil d&rsquo;[resource](EnPI_Lite).</p>
+
+<p>Si vous utilisez EnPI Lite, vous devriez ins&eacute;rer 24 mois cons&eacute;cutifs de donn&eacute;es, le 24<sup>e</sup> mois faisant partie des onze derniers mois. Par exemple, si vous remplissez [resource](EnPI_Lite) en d&eacute;cembre 2016, votre ann&eacute;e de r&eacute;f&eacute;rence ne peut &ecirc;tre ant&eacute;rieure &agrave; janvier 2014.</p>
+
+<p>Anne de r&eacute;f&eacute;rence : janvier &agrave; d&eacute;cembre 2014</p>
+
+<p>Ann&eacute;e de production de rapports : janvier &agrave; d&eacute;cembre 2015</p>
+
+<p>Pour en savoir plus sur la consommation de r&eacute;f&eacute;rence, voir [task](Baselines, Objectives and Targets). Gr&acirc;ce &agrave; ces lignes directrices, l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique que vous aurez calcul&eacute; s&rsquo;alignera sur les plus r&eacute;centes mesures que vous avez prises pour r&eacute;duire la consommation &eacute;nerg&eacute;tique de vos installations. Incluez toutes les sources d&rsquo;&eacute;nergie identifi&eacute;es dans le cadre de la pr&eacute;sente t&acirc;che. Voyez les directives sur la fa&ccedil;on d&rsquo;identifier et de recueillir ces donn&eacute;es. Lorsque les donn&eacute;es sont recueillies &agrave; des intervalles inf&eacute;rieurs &agrave; un mois (p. ex., chaque jour), regroupez ces donn&eacute;es par mois avant de les t&eacute;l&eacute;verser dans le Footprint Lite Data Uploader.</p>
+
+<p><strong>2. Saisie des donn&eacute;es &agrave; partir de l&rsquo;outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique du DOE</strong></p>
+
+<p>Vous pouvez aussi utiliser les donn&eacute;es &eacute;nerg&eacute;tiques que vous avez compil&eacute;es &agrave; l&rsquo;aide du document [resource](Energy_Footprint_Tool) du DOE, en remplissant la feuille <em>Main </em>et la feuille <em>Energy Uses</em>, et en listant toutes les sources d&rsquo;&eacute;nergie et tous les usages &eacute;nerg&eacute;tiques. Voir [resource](Energy_Footprint_Tool_Guide) et [resource](Energy_Footprint_Tool_Video). Notez que [resource](EnPI_Lite) <a name="_Hlk496632012">ne peut pas r&eacute;int&eacute;grer les r&eacute;sultats de votre analyse &eacute;nerg&eacute;tique &agrave; l&rsquo;outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique (ce qui est possible avec le Footprint Lite Data Uploader)</a>.</p>
+
+<p><strong>3. Saisie des donn&eacute;es <a name="_Hlk496632252">&agrave; partir de l&rsquo;ENERGY STAR Portfolio Manager de l&rsquo;EPA</a></strong></p>
+
+<p>Vous pouvez aussi utiliser les donn&eacute;es &eacute;nerg&eacute;tiques que vous avez compil&eacute;es &agrave; partir de l&rsquo;ENERGY STAR Portfolio Manager (PM) de l&rsquo;EPA. Si vous utilisez le PM comme point de d&eacute;part, vous devrez ajouter l&rsquo;information sur les variables pertinentes avant de lancer [resource](EnPI_Lite). Pour utiliser [resource](EnPI_Lite), t&eacute;l&eacute;versez votre fichier PM vers [resource](EnPI_Lite), en suivant les instructions qui se trouvent sur la page d&rsquo;accueil d&rsquo;EnPI Lite. [resource](EnPI_Lite) <a name="_Hlk496632614">ne proposera pas de mod&egrave;le valide, parce que le PM ne contient aucune information sur les variables pertinentes. Par contre, il fournira quand m&ecirc;me des r&eacute;sultats que vous pourrez t&eacute;l&eacute;charger &agrave; partir d&rsquo;</a>[resource](EnPI_Lite); vous pourrez ensuite entrer l&rsquo;information sur les variables pertinentes sous l&rsquo;onglet Relevant Variables du fichier (voir [task](Relevant Variables) <a name="_Hlk496632640">afin d&rsquo;obtenir des directives &agrave; propos des variables pertinentes</a>).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Dans le cadre d&rsquo;un SGE ISO 50001:2011, l&rsquo;ensemble des sources d&rsquo;&eacute;nergie et des usages &eacute;nerg&eacute;tiques relevant du champ d&rsquo;application et du p&eacute;rim&egrave;tre du SGE doivent &ecirc;tre incluses et consign&eacute;es dans la revue &eacute;nerg&eacute;tique. Les organisations utilisant des syst&egrave;mes de gestion de l&rsquo;environnement ISO 14001:2015 pourraient &ecirc;tre capables d&rsquo;identifier leurs sources d&rsquo;&eacute;nergie et leurs usages &eacute;nerg&eacute;tiques &agrave; partir de leur information sur les aspects environnementaux. Par contre, m&ecirc;me si vous prenez cette information comme point de d&eacute;part, votre &eacute;quipe devrait en v&eacute;rifier l&rsquo;exhaustivit&eacute;, pour s&rsquo;assurer que l&rsquo;on a identifi&eacute; l&rsquo;ensemble des sources d&rsquo;&eacute;nergie et des usages &eacute;nerg&eacute;tiques pour le SGE. &Eacute;tant donn&eacute; que la norme ISO 50001:2011 exige une mesure et une analyse des donn&eacute;es plus d&eacute;taill&eacute;es que la norme ISO 14001, il est recommand&eacute; de conserver l&rsquo;information issue de la revue &eacute;nerg&eacute;tique s&eacute;par&eacute;ment de l&rsquo;information sur les aspects environnementaux.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 2.1 et l&rsquo;annexe 3 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) donnent des directives sur la collecte et le suivi des donn&eacute;es. Les directives donn&eacute;es dans la pr&eacute;sente partie du dossier <em>50001 Ready Navigator</em> proposent d&rsquo;autres suggestions, outils et d&eacute;tails sur la fa&ccedil;on optimale de recueillir vos donn&eacute;es et d&rsquo;en faire le suivi.</p>
+
+<p>Pour les utilisateurs d&rsquo;EnPI Lite, on peut exporter les donn&eacute;es d&eacute;j&agrave; stock&eacute;es dans le [resource](Portfolio_Manager) ENERGY STAR vers l&rsquo;outil [resource](EnPI_Lite), afin d&rsquo;estimer les &eacute;conomies d&rsquo;&eacute;nergie en fonction de variables pertinentes comme les niveaux de production et la m&eacute;t&eacute;o. Vous trouverez plus d&rsquo;instructions sur la page Web d&rsquo;[resource](EnPI_Lite).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

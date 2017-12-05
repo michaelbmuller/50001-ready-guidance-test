@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 5
 ----------MENU NAME----------
 Exigences légales
 ----------TITLE----------
-Tâche 5 : Nous avons défini les lois énergétiques qui s’appliquent à nos activités, mis en place un processus d’évaluation et de mise à jour de ces lois avec le temps, et évalué dans quelle mesure nous nous conformons à ces lois
+Tâche 5: Nous avons défini les lois énergétiques qui s’appliquent à nos activités, mis en place un processus d’évaluation et de mise à jour de ces lois avec le temps, et évalué dans quelle mesure nous nous conformons à ces lois
 ----------GETTING IT DONE----------
 <ul>
 	<li>D&eacute;finissez et documentez toutes les lois et autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie dans le [resource](Legal_Other_Requirements_Tracking_Matrix).</li>

@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 4
 ----------MENU NAME----------
 Équipe responsable de l’énergie
 ----------TITLE----------
-Tâche 4 : Nous avons mis sur pied une équipe responsable de l’énergie qui se réunit régulièrement, et compte un représentant de la direction. On a défini les rôles et responsabilités de cette équipe et de tout le personnel concerné.
+Tâche 4: Nous avons mis sur pied une équipe responsable de l’énergie qui se réunit régulièrement, et compte un représentant de la direction. On a défini les rôles et responsabilités de cette équipe et de tout le personnel concerné.
 ----------GETTING IT DONE----------
 <ul>
 	<li>La haute direction :

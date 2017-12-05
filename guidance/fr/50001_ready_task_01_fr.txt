@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 1
 ----------MENU NAME----------
 Domaine d’application et périmètre
 ----------TITLE----------
-Tâche 1 : Nous avons défini, documenté et approuvé le domaine d’application et le périmètre de notre système de gestion énergétique conforme à la norme ISO 50001
+Tâche 1: Nous avons défini, documenté et approuvé le domaine d’application et le périmètre de notre système de gestion énergétique conforme à la norme ISO 50001
 ----------GETTING IT DONE----------
 <ul>
 	<li>Avec l&rsquo;aide de la direction, remplissez la [resource](Scope_Boundaries_Worksheet) afin de d&eacute;finir le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du syst&egrave;me de gestion &eacute;nerg&eacute;tique (SGE).</li>

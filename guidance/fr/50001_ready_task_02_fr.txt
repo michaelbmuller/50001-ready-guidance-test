@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 2
 ----------MENU NAME----------
 Politique énergétique
 ----------TITLE----------
-Tâche 2 : Nous avons préparé un énoncé de politique énergétique, qui a été approuvé par la haute direction
+Tâche 2: Nous avons préparé un énoncé de politique énergétique, qui a été approuvé par la haute direction
 ----------GETTING IT DONE----------
 <ul>
 	<li>Utilisez les [resource](Energy_Policy_Worksheets) pour r&eacute;diger votre &eacute;nonc&eacute; de politique &eacute;nerg&eacute;tique.</li>

@@ -1,0 +1,223 @@
+USDOE 50001 READY NAVIGATOR TASK 10
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Indicateurs de rendement énergétique (IRE)
+----------TITLE----------
+Tâche 10 : Nous avons établi les indicateurs de rendement énergétique (IRE) et trouvé un moyen de les déterminer et de les mettre à jour.
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez le document [resource](Checklists_Potential_IRE) pour mieux d&eacute;finir les indicateurs de rendement &eacute;nerg&eacute;tique (IRE), qui fourniront des donn&eacute;es utiles &agrave; propos du rendement &eacute;nerg&eacute;tique de votre organisation.</li>
+	<li>Soumettez les IRE propos&eacute;s aux commentaires et &agrave; l&rsquo;approbation de la direction.</li>
+	<li>Consignez et r&eacute;visez r&eacute;guli&egrave;rement la m&eacute;thode utilis&eacute;e pour d&eacute;terminer et mettre &agrave; jour les IRE.</li>
+	<li>Comparez r&eacute;guli&egrave;rement les IRE &agrave; leur valeur de r&eacute;f&eacute;rence.</li>
+	<li>Instaurez un processus de surveillance, de mesure et d&rsquo;analyse constantes de vos IRE.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Les indicateurs de mesure du rendement (que la norme ISO 50001 qualifie d&rsquo;IRE) sont des mesures quantitatives du rendement &eacute;nerg&eacute;tique qu&rsquo;on utilise pour d&eacute;terminer les am&eacute;liorations touchant les usages, la consommation et l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tiques. On peut les d&eacute;terminer &agrave; diff&eacute;rents niveaux du SGE. Par exemple, vous pouvez &eacute;tablir les IRE pour l&rsquo;ensemble de votre organisation ou pour une installation, un &eacute;quipement, un syst&egrave;me ou un proc&eacute;d&eacute; en particulier.</p>
+
+<p>En tant que mesures quantitatives, les IRE sont des valeurs, des ratios ou des mod&egrave;les que votre organisation accepte comme des repr&eacute;sentations fid&egrave;les de votre rendement &eacute;nerg&eacute;tique. On d&eacute;termine l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique en comparant les IRE aux valeurs initiales issues des valeurs pertinentes de la consommation de r&eacute;f&eacute;rence (voir [task](Baselines, Objectives and Targets)).</p>
+
+<p>Il incombe au repr&eacute;sentant de la direction de d&eacute;terminer les IRE, et il peut obtenir l&rsquo;aide d&rsquo;autres membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie &agrave; cette fin. C&rsquo;est &agrave; la haute direction de veiller &agrave; ce que les IRE soient adapt&eacute;s &agrave; votre organisation et de fournir les ressources n&eacute;cessaires &agrave; l&rsquo;&eacute;tablissement, au suivi et &agrave; l&rsquo;&eacute;valuation des IRE.</p>
+
+<p>Une fois les IRE &eacute;tablis, il est vital de les analyser et de les surveiller. Il est avantageux d&rsquo;analyser les IRE en faisant une comparaison entre les IRE r&eacute;els et les IRE pr&eacute;vus, car cela montre l&rsquo;&eacute;volution et la rapidit&eacute; des changements touchant le rendement &eacute;nerg&eacute;tique de l&rsquo;organisation. Parce que l&rsquo;objectif principal de la gestion de l&rsquo;&eacute;nergie est l&rsquo;am&eacute;lioration continue, les tendances persistantes en mati&egrave;re d&rsquo;IRE r&eacute;els et pr&eacute;vus permettent de d&eacute;montrer et de quantifier l&rsquo;am&eacute;lioration.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;termin&eacute; les indicateurs de rendement &eacute;nerg&eacute;tique (IRE)</li>
+	<li>Consign&eacute; une m&eacute;thode de d&eacute;termination et de mise &agrave; jour des IRE</li>
+	<li>Surveill&eacute; et analys&eacute; les IRE</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.5 et 4.6.1 de la norme ISO 50001:2011</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;terminer les indicateurs de rendement &eacute;nerg&eacute;tique (IRE))</p>
+
+<p>On d&eacute;termine les IRE &agrave; l&rsquo;aide de l&rsquo;information issue de la revue &eacute;nerg&eacute;tique ([task](Data Collection) et [task](Improvement Opportunities)). Il incombe au repr&eacute;sentant de la direction et &agrave; toute personne charg&eacute;e de l&rsquo;aider (incluant les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie) de dresser une liste d&rsquo;IRE potentiels.</p>
+
+<p>Les besoins des intervenants peuvent varier consid&eacute;rablement, et il faut tenir compte de leurs exigences quand on &eacute;tablit les IRE. Il peut &ecirc;tre n&eacute;cessaire d&rsquo;&eacute;tablir diff&eacute;rents IRE pour diff&eacute;rents intervenants. Les membres de la haute direction s&rsquo;int&eacute;ressent g&eacute;n&eacute;ralement &agrave; un IRE qui est li&eacute; aux objectifs strat&eacute;giques de votre organisation et am&eacute;liore son chiffre d&rsquo;affaires. Le personnel affect&eacute; aux op&eacute;rations ou &agrave; la production r&eacute;clamera peut-&ecirc;tre des donn&eacute;es expliquant comment maximiser l&rsquo;efficacit&eacute; de l&rsquo;&eacute;quipement et des syst&egrave;mes en fonction. Il se peut que des organismes externes r&eacute;clament des donn&eacute;es pr&eacute;cises sur le rendement afin de fournir des informations li&eacute;es aux exigences r&eacute;glementaires ou autres.</p>
+
+<p>Il n&rsquo;y a pas de limites au nombre d&rsquo;IRE que votre organisation peut &eacute;tablir. On &eacute;tablit des IRE quand on en a besoin pour la surveillance ou la mesure du rendement &eacute;nerg&eacute;tique. Le document [resource](Checklists_Potential_IRE) donne des exemples et peut servir de point de d&eacute;part &agrave; la formulation pour votre organisation d&rsquo;IRE appropri&eacute;s. Le document [resource](Checklist_Other_Factors_Affecting_IRE) peut aider &agrave; d&eacute;finir les variables pertinentes susceptibles d&rsquo;avoir un impact sur le rendement &eacute;nerg&eacute;tique et sur les IRE identifi&eacute;s. On fait g&eacute;n&eacute;ralement le suivi des IRE au fil du temps, en utilisant des logiciels tableurs courants.</p>
+
+<p>On &eacute;tablit g&eacute;n&eacute;ralement les IRE de trois fa&ccedil;ons diff&eacute;rentes :</p>
+
+<ul>
+	<li>une mesure unique, comme la consommation;</li>
+	<li>un ratio ou une valeur unitaire comme les BTU par pied carr&eacute;, les BTU par livre ou les BTU par unit&eacute;;</li>
+	<li>un mod&egrave;le num&eacute;rique qui tient compte des variables pertinentes.</li>
+</ul>
+
+<p><strong>Une mesure unique </strong>comme la consommation suffit souvent pour d&eacute;terminer et surveiller le rendement &eacute;nerg&eacute;tique si l&rsquo;&eacute;quipement, le syst&egrave;me ou le proc&eacute;d&eacute; n&rsquo;est pas touch&eacute; par d&rsquo;autres variables ou si les variables pertinentes sont constantes.</p>
+
+<p>[Learn More](Exemples de mesures uniques)</p>
+
+<ul>
+	<li>On suppose qu&rsquo;un entrep&ocirc;t qui n&rsquo;est ni chauff&eacute; ni climatis&eacute;, est &eacute;quip&eacute; seulement d&rsquo;un syst&egrave;me d&rsquo;&eacute;clairage et fonctionne selon un horaire quotidien &eacute;tabli va avoir une consommation d&rsquo;&eacute;nergie constante. Tout changement serait le r&eacute;sultat de changements touchant l&rsquo;entrep&ocirc;t (p. ex., horaire modifi&eacute;, agrandissement des installations) ou le rendement &eacute;nerg&eacute;tique (p. ex., installation d&rsquo;un syst&egrave;me d&rsquo;&eacute;clairage &agrave; haute efficacit&eacute; &eacute;nerg&eacute;tique, retrait des luminaires inutiles).</li>
+	<li>Moteur qui fonctionne jour et nuit &agrave; une charge constante. Un changement dans la consommation peut indiquer des probl&egrave;mes li&eacute;s au moteur ou, si le moteur actuel est remplac&eacute; par un moteur &eacute;co&eacute;nerg&eacute;tique, il faut s&rsquo;attendre &agrave; une baisse de consommation.</li>
+</ul>
+
+<p>Dans ces exemples, en surveillant la consommation comme un IRE, on conna&icirc;t l&rsquo;&eacute;tat de fonctionnement de l&rsquo;&eacute;quipement ou on dispose d&rsquo;information sur les effets des changements.</p>
+
+<p>[Learn More End]</p>
+
+<p>Il faudra peut-&ecirc;tre &eacute;tablir un IRE bas&eacute; sur un <strong>ratio</strong> ou sur une valeur unitaire pour pouvoir faire des comparaisons au fil du temps &agrave; diff&eacute;rents niveaux de production ou dans diff&eacute;rents endroits pour un m&ecirc;me proc&eacute;d&eacute;. Ces IRE &eacute;tablissent g&eacute;n&eacute;ralement un lien entre la consommation d&rsquo;&eacute;nergie, le co&ucirc;t ou l&rsquo;impact environnemental et un extrant appropri&eacute; de l&rsquo;organisation. L&rsquo;<em>intensit&eacute; &eacute;nerg&eacute;tique simple</em> est un des IRE bas&eacute;s sur un ratio, qui &eacute;tablit un lien entre le rendement et la production ou un seul extrant<em>. </em>L&rsquo;intensit&eacute; &eacute;nerg&eacute;tique est un IRE qu&rsquo;on d&eacute;finit et qu&rsquo;on calcule en divisant la consommation d&rsquo;&eacute;nergie par le rendement productif pour une organisation, une installation, un service, un produit, un &eacute;quipement, un syst&egrave;me, un proc&eacute;d&eacute; ou une autre partie de l&rsquo;organisation &agrave; l&rsquo;&eacute;tude.</p>
+
+<p>Quand on calcule l&rsquo;IRE, la mesure &eacute;nerg&eacute;tique doit refl&eacute;ter exactement la consommation d&rsquo;&eacute;nergie de l&rsquo;unit&eacute; vis&eacute;e, et l&rsquo;unit&eacute; choisie (p. ex., la mesure de production) doit couvrir la m&ecirc;me p&eacute;riode que la consommation d&rsquo;&eacute;nergie.</p>
+
+<p>[Learn More](Exemples de ratios)</p>
+
+<ul>
+	<li>Pour une entreprise commerciale, l&rsquo;IRE peut &ecirc;tre exprim&eacute; en BTU par pied carr&eacute; occup&eacute; ou en BTU par type par pied carr&eacute; ou par utilisation (p. ex., un entrep&ocirc;t commercial peut calculer un IRE pour le nombre de pieds carr&eacute;s r&eacute;frig&eacute;r&eacute;s et un autre IRE pour le nombre de pieds carr&eacute;s contenant des marchandises s&egrave;ches).</li>
+	<li>Pour une usine industrielle, l&rsquo;IRE peut &ecirc;tre exprim&eacute; en BTU par unit&eacute; produite ou en BTU par valeur ajout&eacute;e au produit en dollars.</li>
+	<li>Pour une organisation qui produit des briques, l&rsquo;IRE type est exprim&eacute; en BTU par livre ou en BTU par tonne de briques. Si cet IRE change, cela indique qu&rsquo;un param&egrave;tre du processus a chang&eacute; et cela justifie un examen de la question.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p><strong>Un mod&egrave;le </strong>pourrait offrir une mesure du rendement &eacute;nerg&eacute;tique plus utile qu&rsquo;une mesure unique ou un simple ratio, pour repr&eacute;senter avec pr&eacute;cision le lien entre les activit&eacute;s op&eacute;rationnelles et la consommation &eacute;nerg&eacute;tique. Dans ce cas-ci, on aura peut-&ecirc;tre besoin de mod&egrave;les plus &eacute;labor&eacute;s qui permettent d&rsquo;utiliser plusieurs facteurs pour estimer la consommation &eacute;nerg&eacute;tique. Selon vos besoins, vous devrez peut-&ecirc;tre utiliser une analyse de r&eacute;gression ou des calculs utilisant des th&eacute;ories d&rsquo;ing&eacute;nierie pour cr&eacute;er un mod&egrave;le assez pr&eacute;cis. La mod&eacute;lisation bas&eacute;e sur une analyse de r&eacute;gression ou des th&eacute;ories d&rsquo;ing&eacute;nierie peut &ecirc;tre complexe, et n&eacute;cessite habituellement une analyse par une personne ma&icirc;trisant les syst&egrave;mes, les proc&eacute;d&eacute;s, les op&eacute;rations ou l&rsquo;&eacute;quipement qu&rsquo;on mod&eacute;lise. Le DOE offre un outil bas&eacute; sur l&rsquo;analyse de r&eacute;gression, baptis&eacute; Energy Performance Indicator Tool Lite ([resource](IRE_Lite)). Par ailleurs, il liste les [resource](Several_Energy_Modeling_Software_Programs) qu&rsquo;on peut trouver aupr&egrave;s de diverses sources.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner la m&eacute;thode utilis&eacute;e pour d&eacute;terminer et mettre &agrave; jour les IRE)</p>
+
+<p>Les m&eacute;thodes que vous utilisez pour d&eacute;terminer et mettre &agrave; jour les IRE de votre organisation doivent &ecirc;tre consign&eacute;es et r&eacute;vis&eacute;es r&eacute;guli&egrave;rement. Une r&eacute;vision r&eacute;guli&egrave;re garantira que vos m&eacute;thodes demeurent valides. Certaines organisations consignent leurs m&eacute;thodes dans un manuel &eacute;nerg&eacute;tique, ce qui n&rsquo;est pas obligatoire, mais peut servir de &laquo; feuille de route &raquo; pour le SGE (voir [resource](Energy_Manual_Guidelines) pour en savoir plus). D&rsquo;autres organisations d&eacute;finissent leurs m&eacute;thodes de d&eacute;termination et de mise &agrave; jour des IRE dans leurs proc&eacute;dures de planification &eacute;nerg&eacute;tique. Une autre approche consiste &agrave; cr&eacute;er et &agrave; tenir &agrave; jour un document sur la m&eacute;thode ou le calcul utilis&eacute;, et sur les mises &agrave; jour effectu&eacute;es chaque fois que les IRE sont r&eacute;vis&eacute;s.</p>
+
+<p>On r&eacute;vise les IRE r&eacute;guli&egrave;rement pour garantir leur applicabilit&eacute; constante au rendement &eacute;nerg&eacute;tique mesur&eacute;. Les changements touchant les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes, les proc&eacute;d&eacute;s, les proc&eacute;dures op&eacute;rationnelles, les mat&eacute;riaux, les variables pertinentes et de nombreux autres facteurs pourraient modifier la validit&eacute; des IRE utilis&eacute;s pour mesurer le rendement &eacute;nerg&eacute;tique. Quand des changements surviennent, on les &eacute;value afin de pouvoir mettre &agrave; jour les IRE au besoin. Il incombe &agrave; la haute direction de veiller &agrave; ce que les IRE soient adapt&eacute;s &agrave; l&rsquo;organisation ([task](Management Commitment)). Habituellement, on le fait gr&acirc;ce &agrave; la revue de direction ([task](Management Review)), qui &eacute;value le rendement &eacute;nerg&eacute;tique en se basant sur les comparaisons mises &agrave; jour entre les IRE et leur valeur de base. (Le document [task](Baselines, Objectives and Targets) porte sur l&rsquo;&eacute;tablissement de la consommation de r&eacute;f&eacute;rence.)</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Surveiller et analyser les IRE)</p>
+
+<p>Les IRE calcul&eacute;s sont consign&eacute;s et r&eacute;vis&eacute;s r&eacute;guli&egrave;rement. Les IRE mis &agrave; jour servent &agrave; la revue de direction ([task](Management Review)), et on les utilise pour d&eacute;terminer le rendement &eacute;nerg&eacute;tique. <a name="_Hlk496812389">Ces donn&eacute;es sur le rendement d&eacute;termineront le degr&eacute; de r&eacute;ussite d&rsquo;activit&eacute;s comme les projets d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, la formation du personnel op&eacute;rationnel/de maintenance en mati&egrave;re d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, et les programmes de sensibilisation aux orientations &eacute;nerg&eacute;tiques. Cela transmet un message positif aux cadres interm&eacute;diaires et &agrave; la haute direction afin qu&rsquo;ils appuient le SGE</a>. Les am&eacute;liorations apport&eacute;es aux IRE sont des indicateurs du succ&egrave;s des orientations &eacute;nerg&eacute;tiques et devraient &ecirc;tre li&eacute;es &agrave; celles-ci. En consignant avec pr&eacute;cision et en stockant les IRE, <a name="_Hlk496812311">on cr&eacute;e un registre historique qui affichera l&rsquo;impact des orientations &eacute;nerg&eacute;tiques au fil du temps</a>.</p>
+
+<p>On g&eacute;rera les &eacute;l&eacute;ments des IRE qui sont mesur&eacute;s ou calcul&eacute;s afin de d&eacute;terminer leur exactitude et la possibilit&eacute; de les reproduire dans un plan de mesure &eacute;nerg&eacute;tique (d&eacute;crit dans la t&acirc;che [task](Measurement)). La revue du rendement &eacute;nerg&eacute;tique par la haute direction doit inclure un examen du rendement tel que l&rsquo;a d&eacute;termin&eacute; l&rsquo;IRE. En outre, la haute direction doit constamment veiller &agrave; que les IRE soient adapt&eacute;s &agrave; l&rsquo;organisation et recommander des changements quand les IRE ne sont plus appropri&eacute;s.</p>
+
+<p>[Learn More](Utiliser l&rsquo;outil EnPI Lite du DOE)</p>
+
+<p>Comme on le d&eacute;crit dans le cadre des t&acirc;ches [task](Data Collection) et [task](Relevent Variables), [resource](EnPI_Lite) fera une analyse de r&eacute;gression de la consommation &eacute;nerg&eacute;tique de vos installations et des donn&eacute;es sur les variables pertinentes compil&eacute;es dans votre [resource](Energy_Footprint_Tool) ou votre [resource](Energy_Footprint_Lite_Data_Uploader). [resource](EnPI_Lite) vous fournira un IRE pour les installations bas&eacute; sur un mod&egrave;le de r&eacute;gression (type de mod&egrave;le num&eacute;rique) qui tient compte des variables pertinentes. C&rsquo;est le pourcentage d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e pr&eacute;c&eacute;dente, &eacute;tabli &agrave; l&rsquo;aide de l&rsquo;analyse de r&eacute;gression. Pour en savoir plus sur l&rsquo;analyse de r&eacute;gression, reportez-vous au document [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) du DOE (pour obtenir des renseignements pr&eacute;cis sur l&rsquo;analyse de r&eacute;gression, consultez la section 5, intitul&eacute;e<em> Use Regression Analysis to Normalize Each Facility&rsquo;s Data</em>). Les crit&egrave;res de validit&eacute; statistique qu&rsquo;utilisent les IRE sont les suivants :</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>R<sup>2</sup></p>
+			</td>
+			<td>
+			<p>&gt; 0,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valeurs-p de toutes les variables pertinentes du mod&egrave;le</p>
+			</td>
+			<td>
+			<p>&lt; 0,2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valeur-p d&rsquo;au moins une variable pertinente du mod&egrave;le</p>
+			</td>
+			<td>
+			<p>&lt; 0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valeur-p globale du mod&egrave;le</p>
+			</td>
+			<td>
+			<p>&lt; 0,2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>La moyenne des variables pertinentes utilis&eacute;es pour le mod&egrave;le doit s&rsquo;inscrire dans la gamme de variables utilis&eacute;es pour g&eacute;n&eacute;rer le mod&egrave;le.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>La moyenne des variables pertinentes utilis&eacute;es pour le mod&egrave;le doit se situer &agrave; un maximum de trois &eacute;carts-types des donn&eacute;es sur les variables pertinentes qui ont permis de cr&eacute;er le mod&egrave;le.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Si vous utilisez [resource](IRE_Lite), l&rsquo;IRE est calcul&eacute; en fonction de l&rsquo;&laquo; &eacute;nergie primaire &raquo;, c&rsquo;est-&agrave;-dire l&rsquo;&eacute;nergie requise pour g&eacute;n&eacute;rer l&rsquo;&eacute;nergie, puis la transmettre et la distribuer &agrave; vos installations. [resource](IRE_Lite) convertira automatiquement les donn&eacute;es sur la consommation &eacute;nerg&eacute;tique de votre site (valeurs figurant sur vos factures &eacute;nerg&eacute;tiques, par exemple en kW/h) en consommation d&rsquo;&eacute;nergie primaire &agrave; l&rsquo;aide des valeurs suivantes :</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Source d&rsquo;&eacute;nergie</p>
+			</td>
+			<td>
+			<p>Multiplicateur d&rsquo;&eacute;nergie primaire</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&Eacute;lectricit&eacute; achet&eacute;e sur le r&eacute;seau</p>
+			</td>
+			<td>
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&Eacute;lectricit&eacute; renouvelable g&eacute;n&eacute;r&eacute;e sur place &agrave; partir d&rsquo;&eacute;nergie solaire, &eacute;olienne ou g&eacute;othermique</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Combustibles fossiles br&ucirc;l&eacute;s sur place</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Toutes les autres</p>
+			</td>
+			<td>
+			<p>Consulter le protocole <em>50001 Ready</em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>IRE Lite peut d&eacute;terminer le pourcentage d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique &agrave; l&rsquo;aide d&rsquo;un mod&egrave;le pr&eacute;visionnel ou r&eacute;trospectif. Voici le niveau d&rsquo;importance de chaque mod&egrave;le :</p>
+
+<p><strong>Pr&eacute;visionnel :</strong> Une am&eacute;lioration positive du rendement &eacute;nerg&eacute;tique indique la r&eacute;duction en pourcentage de la consommation &eacute;nerg&eacute;tique durant l&rsquo;ann&eacute;e de production de rapports, imputable aux plans d&rsquo;action et/ou &agrave; d&rsquo;autres mesures d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique mises en &oelig;uvre depuis l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. On la mesure en comparant la consommation &eacute;nerg&eacute;tique r&eacute;elle durant l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence &agrave; une consommation hypoth&eacute;tique en l&rsquo;absence de plans d&rsquo;action ou de mesures d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique.</p>
+
+<p><strong>R&eacute;trospectif :</strong> Une am&eacute;lioration positive du rendement &eacute;nerg&eacute;tique indique la r&eacute;duction en pourcentage de la consommation &eacute;nerg&eacute;tique durant l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence qui aurait &eacute;t&eacute; constat&eacute;e si votre installation avait mis en &oelig;uvre tous les plans d&rsquo;action et d&rsquo;autres mesures d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique durant l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. On la mesure en comparant la consommation &eacute;nerg&eacute;tique r&eacute;elle durant l&rsquo;ann&eacute;e de base &agrave; une consommation hypoth&eacute;tique alors que l&rsquo;ensemble des plans d&rsquo;action et des mesures d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique ont &eacute;t&eacute; mis en &oelig;uvre durant l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence.</p>
+
+<p>Si vous utilisez [resource](IRE_Lite), on l&rsquo;ex&eacute;cutera pour calculer les &eacute;conomies d&rsquo;&eacute;nergie dans le cadre de la t&acirc;che [task](Calculate Energy Savings).</p>
+
+<p>IRE Lite fournira aussi les chiffres suivants :</p>
+
+<ul>
+	<li>Pourcentage d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique de l&rsquo;ensemble du site</li>
+	<li>Pourcentage d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique primaire/du site pour chaque source d&rsquo;&eacute;nergie</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les syst&egrave;mes d&rsquo;orientation des normes ISO 14001:2015 et ISO 9001:2015 utilisent des indicateurs, mais pas n&eacute;cessairement des IRE. Par contre, les processus utilis&eacute;s pour d&eacute;terminer les indicateurs appropri&eacute;s en mati&egrave;re d&rsquo;environnement ou de qualit&eacute; pourraient sans doute s&rsquo;appliquer &agrave; la d&eacute;termination des IRE adapt&eacute;s &agrave; un SGE conforme &agrave; la norme ISO 50001:2011.</p>
+
+<p>La norme ISO 14001:2015 utilise des indicateurs pour &eacute;valuer les progr&egrave;s r&eacute;alis&eacute;s vers l&rsquo;atteinte des objectifs environnementaux. Parce qu&rsquo;elle exige &eacute;galement la d&eacute;termination des crit&egrave;res d&rsquo;&eacute;valuation de la performance environnementale, certaines organisations peuvent utiliser des indicateurs environnementaux pour &eacute;valuer &eacute;galement le rendement &eacute;nerg&eacute;tique. Dans la norme ISO 9001:2015, les indicateurs sont ax&eacute;s sur l&rsquo;efficacit&eacute; des op&eacute;rations et le contr&ocirc;le des proc&eacute;d&eacute;s. Dans la norme ISO 50001:2011, les indicateurs sont des valeurs quantitatives ou des mesures du rendement &eacute;nerg&eacute;tique. Globalement, les indicateurs qu&rsquo;utilisent ces normes sont diff&eacute;rents les uns des autres de par leurs priorit&eacute;s et leur objet. Mais, lorsqu&rsquo;une organisation sait comment &eacute;laborer et utiliser les indicateurs, cela peut l&rsquo;aider &agrave; int&eacute;grer des IRE &agrave; un SGE ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Il se peut que votre organisation utilise d&eacute;j&agrave; des IRE pour surveiller, mesurer et &eacute;valuer le rendement &eacute;nerg&eacute;tique. Les sections 3.2, 4.1, 5.5, 6.0 et 6.1 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) donnent des directives &agrave; ce sujet, notamment sur l&rsquo;&eacute;tablissement d&rsquo;IRE comme les BTU par pi<sup>2</sup> ou les BTU par produit. Les IRE utilis&eacute;s par le programme ENERGY STAR peuvent s&rsquo;appliquer au SGE, mais il faut les r&eacute;&eacute;valuer pour s&rsquo;assurer que toutes les exigences li&eacute;es aux SGE sont respect&eacute;es. Et l&rsquo;annexe 4 des lignes directrices ENERGY STAR donne des d&eacute;tails sur la normalisation des donn&eacute;es. La pr&eacute;sente t&acirc;che du dossier 50001 Ready Navigator fournit d&rsquo;autres directives et des outils du DOE qui aideront votre organisation &agrave; &eacute;tablir un mod&egrave;le &eacute;nerg&eacute;tique simple, qui g&eacute;n&egrave;re souvent une mesure plus exacte du rendement &eacute;nerg&eacute;tique qu&rsquo;une mesure unique ou un simple ratio pour repr&eacute;senter avec pr&eacute;cision le lien entre les activit&eacute;s op&eacute;rationnelles et la consommation &eacute;nerg&eacute;tique.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

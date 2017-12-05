@@ -1,0 +1,74 @@
+USDOE 50001 READY NAVIGATOR TASK 9
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Variables pertinentes
+----------TITLE----------
+Tâche 9: Nous avons déterminé les variables pertinentes qui influent sur la consommation énergétique de chaque UES et recueilli les données connexes.
+----------GETTING IT DONE----------
+<ul>
+	<li>Identifiez et listez les variables pertinentes pour les usages &eacute;nerg&eacute;tiques significatifs (UES) de votre organisation.</li>
+	<li>Si votre organisation utilise [resource](EnPI_Lite), demandez &agrave; un de vos employ&eacute;s de remplir l&rsquo;onglet &laquo; Relevant Variables &raquo; de l&rsquo;outil [resource](Energy_Footprint_Lite_Data_Uploader) ou [resource](Energy_Footprint_Tool) qu&rsquo;on utilise pour la [task](Data Collection).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Une fois que les UES ont &eacute;t&eacute; d&eacute;termin&eacute;s, il est important de d&eacute;finir les facteurs susceptibles d&rsquo;avoir une incidence sur eux &mdash; ce sont les <em>variables pertinentes.</em> Dans le secteur manufacturier, la production et la m&eacute;t&eacute;o sont souvent deux variables pertinentes essentielles. Dans les immeubles commerciaux, l&rsquo;occupation et la m&eacute;t&eacute;o sont le plus souvent les variables cl&eacute;s influant sur la consommation &eacute;nerg&eacute;tique. Si vous comprenez le lien entre les variables pertinentes et la consommation &eacute;nerg&eacute;tique, vous pourrez mieux comprendre comment votre organisation peut contr&ocirc;ler l&rsquo;&eacute;nergie et maximiser son rendement &eacute;nerg&eacute;tique.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Identifi&eacute; les variables pertinentes ayant une incidence sur les UES</li>
+	<li>Identifi&eacute; les variables pertinentes ayant une incidence sur les installations</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.4.3 b) de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identifier les variables pertinentes ayant une incidence sur les UES)</p>
+
+<p>Les facteurs qui peuvent influer sur les UES sont les <em>variables pertinentes.</em> Pour les installations commerciales ou institutionnelles, l&rsquo;occupation et la m&eacute;t&eacute;o sont souvent des variables influant sur la consommation. Dans les installations industrielles, la production est g&eacute;n&eacute;ralement une des variables cl&eacute;s influant sur la consommation &eacute;nerg&eacute;tique des UES. Quand le taux de production change, la consommation change g&eacute;n&eacute;ralement en cons&eacute;quence. Par contre, d&rsquo;autres facteurs peuvent influer sur la consommation des UES, et il faut les examiner pour &eacute;tablir une corr&eacute;lation. Il est important de comprendre le lien entre les variables pertinentes et la consommation &eacute;nerg&eacute;tique pour d&eacute;terminer comment on peut contr&ocirc;ler l&rsquo;&eacute;nergie et maximiser le rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Vous trouverez ci-dessous certaines variables pertinentes courantes, ainsi que leur impact potentiel sur la consommation &eacute;nerg&eacute;tique.</p>
+
+<ul>
+	<li><strong>M&eacute;t&eacute;o</strong> &ndash; Les changements de temp&eacute;rature peuvent influer &agrave; la fois sur la consommation &eacute;nerg&eacute;tique des proc&eacute;d&eacute;s et du chauffage/de la climatisation des locaux. Les proc&eacute;d&eacute;s de s&eacute;chage sont un autre exemple. D&rsquo;autres conditions m&eacute;t&eacute;orologiques (p. ex., humidit&eacute;, vent, pluie, etc.) peuvent aussi influer sur la consommation &eacute;nerg&eacute;tique.</li>
+	<li><strong>Heures de fonctionnement (p. ex., heures, jours, semaines, cong&eacute;s)</strong> &ndash; G&eacute;n&eacute;ralement, un horaire prolong&eacute; n&eacute;cessite plus d&rsquo;&eacute;nergie.</li>
+	<li><strong>Occupation</strong> &ndash; Lorsque le nombre d&rsquo;occupants d&rsquo;un immeuble change, cela peut modifier les besoins en &eacute;clairage, en charges de branchement et en climatisation, et du m&ecirc;me coup, la consommation &eacute;nerg&eacute;tique connexe.</li>
+	<li><strong>D&eacute;bit de production </strong>&ndash; La modification du taux de production (nombre d&rsquo;unit&eacute;s produites pendant une p&eacute;riode donn&eacute;e) aura une incidence sur la consommation &eacute;nerg&eacute;tique.</li>
+	<li><strong>Gamme de produits</strong> &ndash; Chaque produit diff&eacute;rent fabriqu&eacute; par l&rsquo;organisation peut consommer une quantit&eacute; diff&eacute;rente d&rsquo;&eacute;nergie. En cons&eacute;quence, la gamme de produits peut influer sur la consommation &eacute;nerg&eacute;tique.</li>
+	<li><strong>Intrants </strong>&ndash; Les variations dans les caract&eacute;ristiques des mati&egrave;res premi&egrave;res, comme le teneur en humidit&eacute;, pourraient avoir une incidence sur l&rsquo;&eacute;nergie n&eacute;cessaire pour la formation, la coupe, le s&eacute;chage, l&rsquo;&eacute;vaporation, la temp&eacute;rature des produits, etc.</li>
+	<li><strong>Saison de l&rsquo;ann&eacute;e</strong> &ndash; Les produits ou les services pour lesquels la demande est saisonni&egrave;re influeront sur la production ou l&rsquo;occupation, et sur la consommation.</li>
+	<li><strong>Cha&icirc;nes de production et/ou UES en activit&eacute;</strong> &ndash; Le nombre de cha&icirc;nes de production et leur taille ou les UES en activit&eacute; auront une incidence sur la consommation.</li>
+</ul>
+
+<p>V&eacute;rifiez l&rsquo;impact sur les UES de certaines variables en recueillant les donn&eacute;es &eacute;nerg&eacute;tiques pertinentes et en les comparant aux variables appropri&eacute;es, afin de d&eacute;terminer le lien &eacute;ventuel entre le changement dans la consommation &eacute;nerg&eacute;tique et le changement touchant les variables. Pour &eacute;tablir ce lien, vous pouvez notamment repr&eacute;senter sur un graphique les donn&eacute;es &eacute;nerg&eacute;tiques recueillies pendant une p&eacute;riode d&eacute;finie et les comparer &agrave; un graphique des donn&eacute;es variables (comme la temp&eacute;rature quotidienne moyenne) pendant la m&ecirc;me p&eacute;riode, et d&eacute;terminer d&rsquo;&eacute;ventuelles variations fortuites. Les variations constantes entre les deux pourraient indiquer une variable pertinente valide. Les anomalies observ&eacute;es entre les deux pourraient indiquer que d&rsquo;autres variables pertinentes sont &eacute;galement un facteur contribuant &agrave; la consommation &eacute;nerg&eacute;tique des UES. On pourrait avoir besoin de techniques statistiques ou de calculs d&rsquo;ing&eacute;nierie plus sophistiqu&eacute;s pour analyser de multiples variables.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identifier les variables pertinentes influant sur les installations)</p>
+
+<p>L&rsquo;outil [resource](EnPI_Lite) du DOE est un outil en ligne bas&eacute; sur une analyse de r&eacute;gression qui estime les &eacute;conomies d&rsquo;&eacute;nergie par rapport aux variables pertinentes comme les niveaux de production et la m&eacute;t&eacute;o. Vous devriez utiliser EnPI Lite parall&egrave;lement au dossier 50001 Ready Navigator pour faire le suivi de l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique.</p>
+
+<p>La production et la m&eacute;t&eacute;o devraient &ecirc;tre consid&eacute;r&eacute;es comme des variables pertinentes. Pour en savoir plus sur le choix des variables pertinentes pour les installations, reportez-vous au document [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) du DOE; pour savoir pr&eacute;cis&eacute;ment comment choisir les variables pertinentes, reportez-vous &agrave; la section 3, intitul&eacute;e<em> Determine Relevant Variables, Including Units of Output, for Each Facility</em>.</p>
+
+<p>La p&eacute;riode sur laquelle portent vos donn&eacute;es relatives aux variables pertinentes doit correspondre &agrave; la p&eacute;riode de collecte de donn&eacute;es sur la consommation &eacute;nerg&eacute;tique recueillies dans le cadre de la t&acirc;che [task](Data Collection). En outre, vous devriez recueillir les donn&eacute;es sur les variables pertinentes tous les mois, et celles-ci devraient correspondre aux donn&eacute;es sur la consommation &eacute;nerg&eacute;tique pour le m&ecirc;me intervalle. Voyez les directives de la t&acirc;che [task](Data Collection) pour en savoir plus sur le choix de l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence et de l&rsquo;ann&eacute;e de production de rapports quand on utilise EnPI Lite.</p>
+
+<p>Vous pouvez utiliser QUEST en entrant vos variables pertinentes d&rsquo;une des trois fa&ccedil;ons suivantes :</p>
+
+<p><strong>1. Saisie des donn&eacute;es &agrave; partir de l&rsquo;outil Energy Footprint Lite Tool du DOE</strong></p>
+
+<p>L&rsquo;outil de t&eacute;l&eacute;versement des donn&eacute;es Energy Lite, qu&rsquo;on peut t&eacute;l&eacute;charger sur la page d&rsquo;accueil d&rsquo;[resource](EnPI_Lite), compilera dans un seul tableur les donn&eacute;es sur les variables pertinentes de vos installations correspondant au domaine d&rsquo;application du SGE <em>50001 Ready</em>. Si vous avez ex&eacute;cut&eacute; la t&acirc;che [task](Data Collection), l&rsquo;information sur la consommation &eacute;nerg&eacute;tique de vos installations sera stock&eacute;e sur la feuille <em>Energy Consumption </em>du m&ecirc;me fichier [resource](Energy_Footprint_Lite_Data_Uploader). Apr&egrave;s que vous aurez t&eacute;l&eacute;vers&eacute; vos donn&eacute;es et ex&eacute;cut&eacute; EnPI Lite (t&acirc;che 24), EnPI Lite restituera votre fichier Energy Lite Data Uploader avec les r&eacute;sultats de votre analyse &eacute;nerg&eacute;tique dans le m&ecirc;me fichier. Vous trouverez des instructions d&eacute;taill&eacute;es sur l&rsquo;utilisation de l&rsquo;Energy Lite Data Uploader sur la page d&rsquo;accueil d&rsquo;[resource](EnPI_Lite).</p>
+
+<p><strong>2. Saisie des donn&eacute;es &agrave; partir de l&rsquo;outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique du DOE</strong></p>
+
+<p>Vous pouvez peut-&ecirc;tre aussi utiliser les donn&eacute;es sur les variables pertinentes que vous avez compil&eacute;es &agrave; l&rsquo;aide de l&rsquo;outil [resource](Energy_Footprint_Tool) du DOE. Remplissez l&rsquo;onglet <em>Relevant Variables</em> dans l&rsquo;Energy Footprint Tool. Pour savoir comment utiliser cet outil, rendez-vous &agrave; la page d&rsquo;accueil de l&rsquo;outil [resource](Energy_Footprint_Tool). [resource](EnPI_Lite) ne peut pas r&eacute;int&eacute;grer les r&eacute;sultats de votre analyse &eacute;nerg&eacute;tique &agrave; l&rsquo;outil de calcul de l&rsquo;empreinte &eacute;nerg&eacute;tique (ce qui est possible avec le Footprint Lite Data Uploader).</p>
+
+<p><strong>3. Saisie des donn&eacute;es &agrave; partir de l&rsquo;ENERGY STAR Portfolio Manager de l&rsquo;EPA</strong></p>
+
+<p>Pour ajouter l&rsquo;information relative aux variables pertinentes au moment de commencer &agrave; partir de Portfolio Manager (PM), t&eacute;l&eacute;versez votre fichier PM vers [resource](EnPI_Lite), en suivant les instructions donn&eacute;es sur la page d&rsquo;accueil d&rsquo;EnPI Lite. [resource](EnPI_Lite) ne proposera pas de mod&egrave;le valide, parce que le PM ne contient aucune information sur les variables pertinentes. Par contre, il fournira quand m&ecirc;me des r&eacute;sultats que vous pourrez t&eacute;l&eacute;charger &agrave; partir d&rsquo;[resource](EnPI_Lite); vous pourrez ensuite entrer l&rsquo;information sur les variables pertinentes sous l&rsquo;onglet Relevant Variables du fichier (voir [task](Performance Indicators) afin d&rsquo;obtenir des conseils &agrave; propos des variables pertinentes).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>On d&eacute;termine les variables pertinentes pour un SGE conforme &agrave; la norme ISO 50001:2011, ce qui ne s&rsquo;applique pas aux syst&egrave;mes de gestion de l&rsquo;environnement conformes &agrave; la norme ISO 14001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le programme ENERGY STAR n&rsquo;exige pas qu&rsquo;on d&eacute;termine les variables pertinentes. L&rsquo;annexe 4 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) donne des d&eacute;tails sur la normalisation des donn&eacute;es, qui pourrait utiliser des variables similaires.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

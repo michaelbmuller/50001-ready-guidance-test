@@ -1,0 +1,287 @@
+USDOE 50001 READY NAVIGATOR TASK 7
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Analyse des données
+----------TITLE----------
+Tâche 7: Nous avons analysé les données sur la consommation énergétique de nos systèmes/nos équipements
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez la [resource](Energy_Use_Worksheet) pour dresser une liste des syst&egrave;mes et &eacute;quipements utilisant de l&rsquo;&eacute;nergie, et indiquer les sources d&rsquo;&eacute;nergie et la consommation correspondantes.</li>
+	<li>Remplissez les onglets Energy Uses et Energy Consumption dans l&rsquo;outil [resource](Energy_Footprint_Tool). Vous trouverez des instructions sur la page Web de l&rsquo;outil [resource](Energy_Footprint_Tool).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La norme ISO 50001 s&rsquo;appuie sur les donn&eacute;es, et elle est ax&eacute;e sur l&rsquo;am&eacute;lioration mesurable du rendement &eacute;nerg&eacute;tique. L&rsquo;analyse des donn&eacute;es est essentielle non seulement pour les processus de planification &eacute;nerg&eacute;tique du SGE, mais aussi pour l&rsquo;efficacit&eacute; globale du syst&egrave;me. Pour analyser les donn&eacute;es sur les usages et la consommation &eacute;nerg&eacute;tiques, vous devez d&eacute;finir ou &eacute;laborer des m&eacute;thodes qui sont efficaces et parfaitement adapt&eacute;es aux besoins de votre organisation. De nombreux choix s&rsquo;offrent &agrave; vous.</p>
+
+<p>Les usages &eacute;nerg&eacute;tiques significatifs (UES) sont d&eacute;termin&eacute;s dans le cadre du processus de revue &eacute;nerg&eacute;tique. En qualifiant de &laquo; significatifs &raquo; quelques installations, &eacute;quipements, syst&egrave;mes ou proc&eacute;d&eacute;s, ainsi que le personnel qui y est associ&eacute;, votre organisation peut concentrer ses ressources limit&eacute;es sur l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et le maintien d&rsquo;un rendement optimal. Cela signifie qu&rsquo;elle doit &eacute;laborer une m&eacute;thode fiable d&rsquo;&eacute;valuation des usages &eacute;nerg&eacute;tiques et d&eacute;terminer leur importance. Un point de d&eacute;part id&eacute;al serait l&rsquo;inventaire des usages &eacute;nerg&eacute;tiques et la quantification de leur consommation, accompagn&eacute;s d&rsquo;une &laquo; liste d&rsquo;&eacute;quipements et de syst&egrave;mes &raquo;, et d&rsquo;&eacute;ventuellement pr&eacute;parer un bilan &eacute;nerg&eacute;tique (facultatif).</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;termin&eacute; les m&eacute;thodes d&rsquo;analyse des donn&eacute;es et attribu&eacute; les responsabilit&eacute;s</li>
+	<li>Analys&eacute; les usages et la consommation &eacute;nerg&eacute;tiques pass&eacute;es et actuels</li>
+	<li>Pr&eacute;par&eacute; une liste d&rsquo;&eacute;quipements et de syst&egrave;mes</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.4.3, 4.4.3 b) et 4.6.1 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;terminer les m&eacute;thodes d&rsquo;analyse des donn&eacute;es et attribuer les responsabilit&eacute;s)</p>
+
+<p>Votre organisation peut analyser l&rsquo;&eacute;nergie et en faire le suivi de nombreuses fa&ccedil;ons, des simples tableurs &laquo; maison &raquo;, aux logiciels et aux applications Web tr&egrave;s sophistiqu&eacute;es. L&rsquo;outil [resource](Energy_Footprint_Tool) du DOE permet de faire une analyse de base des donn&eacute;es &eacute;nerg&eacute;tiques pour votre immeuble ou vos installations.</p>
+
+<p>Il est important de trouver une m&eacute;thode efficace d&rsquo;analyse des donn&eacute;es, afin de d&eacute;terminer les possibilit&eacute;s qui g&eacute;n&eacute;reront des &eacute;conomies d&rsquo;&eacute;nergie. Elle mettra en lumi&egrave;re les secteurs qui sont importants et m&eacute;ritent le plus d&rsquo;attention. Elle vous aidera aussi &agrave; trouver les erreurs de facturation et les frais cach&eacute;s dans les structures tarifaires des services publics. Elle aidera votre repr&eacute;sentant de la direction &agrave; expliquer la valeur de la gestion de l&rsquo;&eacute;nergie &agrave; la haute direction et &agrave; obtenir les ressources n&eacute;cessaires pour garantir le succ&egrave;s du SGE.</p>
+
+<p>Les m&eacute;thodes d&rsquo;analyse des donn&eacute;es adapt&eacute;es &agrave; votre organisation peuvent d&eacute;pendre de plusieurs facteurs :</p>
+
+<ul>
+	<li>Disponibilit&eacute; des donn&eacute;es</li>
+	<li>R&eacute;sultat souhait&eacute;</li>
+	<li>Niveau de comp&eacute;tences existant pour l&rsquo;analyse des donn&eacute;es</li>
+	<li>Public cible</li>
+</ul>
+
+<p>[Learn More](Facteurs influant sur le choix des m&eacute;thodes d&rsquo;analyse des donn&eacute;es)</p>
+
+<p><strong>Disponibilit&eacute; des donn&eacute;es</strong> &ndash; La t&acirc;che [task](Data Collection) porte sur les donn&eacute;es dont a besoin votre SGE, dont la majeure partie est li&eacute;e &agrave; la revue &eacute;nerg&eacute;tique, aux indicateurs de rendement &eacute;nerg&eacute;tique (IRE), &agrave; la consommation de r&eacute;f&eacute;rence, et aux objectifs et cibles &eacute;nerg&eacute;tiques. La port&eacute;e de la collecte de donn&eacute;es peut &ecirc;tre consid&eacute;rable, et la capacit&eacute; de recueillir ces donn&eacute;es d&eacute;pend g&eacute;n&eacute;ralement de la mesure de leur disponibilit&eacute; (voir [task](Data Collection)). Il peut y avoir de nombreuses sources de donn&eacute;es &agrave; propos des installations, de l&rsquo;&eacute;quipement, des syst&egrave;mes et des proc&eacute;d&eacute;s de votre organisation (p. ex., pression, temp&eacute;rature, d&eacute;bit, etc.). Par contre, si aucune mesure n&rsquo;est disponible, il vous sera peut-&ecirc;tre impossible de recueillir les donn&eacute;es n&eacute;cessaires pour d&eacute;terminer et &eacute;valuer le rendement souhait&eacute; jusqu&rsquo;&agrave; ce que d&rsquo;autres appareils de mesure soient install&eacute;s.</p>
+
+<p>Par exemple, si une chaudi&egrave;re dispose d&rsquo;un compteur s&eacute;par&eacute;, on peut recueillir directement des donn&eacute;es sur sa consommation en vue d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique. Si l&rsquo;on dispose de compteurs uniquement pour l&rsquo;installation, il faudra peut-&ecirc;tre &eacute;valuer le rendement de la chaudi&egrave;re &agrave; l&rsquo;aide d&rsquo;un analyseur des gaz de combustion ou d&rsquo;autres m&eacute;thodes de mesure.</p>
+
+<p><strong>R&eacute;sultats souhait&eacute;</strong>s &ndash; Quel est le r&eacute;sultat que vous attendez de l&rsquo;analyse? Avant de d&eacute;terminer la m&eacute;thode d&rsquo;analyse &agrave; utiliser, vous devez clairement comprendre l&rsquo;objectif de cette analyse. L&rsquo;aper&ccedil;u de la pr&eacute;sente t&acirc;che mentionne plusieurs utilisations des donn&eacute;es, mais vous voudrez peut-&ecirc;tre aussi :</p>
+
+<ul>
+	<li>D&eacute;terminer le niveau de rendement</li>
+	<li>Surveiller les op&eacute;rations</li>
+	<li>Faire une &eacute;valuation par rapport &agrave; une valeur de r&eacute;f&eacute;rence ou &agrave; l&rsquo;&eacute;quipement/aux syst&egrave;mes similaires</li>
+	<li>&Eacute;valuer le r&eacute;sultat des activit&eacute;s de maintenance ou d&rsquo;am&eacute;lioration</li>
+	<li>Valider l&rsquo;impact des variables pertinentes</li>
+</ul>
+
+<p>Tenez compte du r&eacute;sultat vis&eacute; quand vous choisissez une m&eacute;thode d&rsquo;analyse des donn&eacute;es.</p>
+
+<p>Par exemple, vous pouvez d&eacute;terminer simplement les UES (voir [task](Significant Energy Uses) et [task](Relevant Variables)) en listant les usages &eacute;nerg&eacute;tiques que vous avez identifi&eacute;s (voir [task](Data Collection)) par ordre de consommation, et en choisissant le principal ou les deux principaux consommateurs. Par ailleurs, pour d&eacute;terminer le <em>rendement &eacute;nerg&eacute;tique</em> d&rsquo;un des UES, vous pourriez avoir besoin de multiples points de donn&eacute;es/calculs avec des r&eacute;f&eacute;rences aux tableaux de rendement. De la m&ecirc;me fa&ccedil;on, si vous voulez valider l&rsquo;impact des variables pertinentes sur un UES, vous devrez peut-&ecirc;tre faire une analyse statistique.</p>
+
+<p><strong>Niveau de comp&eacute;tences existant pour l&rsquo;analyse des donn&eacute;es</strong> &ndash; Le personnel charg&eacute; de l&rsquo;analyse doit pouvoir effectuer celle-ci et &eacute;valuer les r&eacute;sultats. Les employ&eacute;s qui ont l&rsquo;habitude de l&rsquo;analyse des donn&eacute;es pourraient utiliser diverses m&eacute;thodes pour le faire. Ceux qui ont moins d&rsquo;exp&eacute;rience ne pourront peut-&ecirc;tre faire qu&rsquo;une analyse tr&egrave;s simple &agrave; l&rsquo;aide d&rsquo;outils simples. Ou, si une analyse plus d&eacute;taill&eacute;e est requise, les employ&eacute;s auront peut-&ecirc;tre besoin d&rsquo;outils tr&egrave;s &eacute;labor&eacute;s n&eacute;cessitant peu de manipulation ou d&rsquo;interpr&eacute;tation. Votre organisation doit poss&eacute;der ou obtenir le niveau de comp&eacute;tences n&eacute;cessaires pour mener l&rsquo;analyse de donn&eacute;es souhait&eacute;e.</p>
+
+<p><strong>Public</strong> &ndash; Qui est le public cible de l&rsquo;analyse? Les membres de la direction sont g&eacute;n&eacute;ralement ceux qui s&rsquo;int&eacute;ressent davantage aux donn&eacute;es financi&egrave;res et aux effets du SGE sur le chiffre d&rsquo;affaires. Les exploitants voudront veiller &agrave; ce que leur &eacute;quipement affiche un rendement optimal. Le personnel de maintenance utilisera le rendement comme indicateur de la n&eacute;cessit&eacute; de faire une maintenance ou des r&eacute;parations de routine. Les ing&eacute;nieurs voudront s&rsquo;assurer que les am&eacute;liorations apport&eacute;es &agrave; un processus g&eacute;n&egrave;rent les r&eacute;sultats escompt&eacute;s.</p>
+
+<p>Par exemple, supposons qu&rsquo;un projet d&rsquo;am&eacute;lioration est mis en &oelig;uvre dans votre organisation. Le service de l&rsquo;ing&eacute;nierie voudra faire des calculs pour s&rsquo;assurer que les 10 000 MMBTU de gaz naturel estim&eacute;s ont bien &eacute;t&eacute; &eacute;conomis&eacute;s. La direction voudra qu&rsquo;on lui pr&eacute;sente des calculs confirmant l&rsquo;estimation initiale de 40 000 $ d&rsquo;&eacute;conomies et qu&rsquo;on respectera le co&ucirc;t du cycle de vie/qu&rsquo;on r&eacute;alisera un rendement sur investissement.</p>
+
+<p>De nombreuses m&eacute;thodes simples permettent d&rsquo;analyser tr&egrave;s efficacement les donn&eacute;es recueillies lors de la revue &eacute;nerg&eacute;tique et de g&eacute;n&eacute;rer les r&eacute;sultats souhait&eacute;s. Certaines sont d&eacute;crites ci-apr&egrave;s.</p>
+
+<p>[Learn More End]</p>
+
+<p>Votre organisation doit choisir une ou plusieurs m&eacute;thodes d&rsquo;analyse des donn&eacute;es pour l&rsquo;am&eacute;lioration du SGE et du rendement &eacute;nerg&eacute;tique. Exemples de m&eacute;thodes courantes : analyse des tendances, analyse comparative, graphiques, &eacute;tablissement de tendances, analyse de Pareto, bilan &eacute;nerg&eacute;tique, bilan thermique, analyse des services publics, analyse financi&egrave;re et analyse de r&eacute;gression. Choisissez la m&eacute;thode ou la combinaison de m&eacute;thodes qui r&eacute;pondent aux besoins pr&eacute;cis de votre organisation, et il sera sans doute tr&egrave;s efficace d&rsquo;apprendre de l&rsquo;exp&eacute;rience d&rsquo;autres organisations durant ce processus. Si vous utilisez [resource](EnPI_Lite), vous proc&eacute;derez &agrave; une analyse de r&eacute;gression des donn&eacute;es relatives &agrave; vos installations (voir [task](Performance Indicators)).</p>
+
+<p>[Learn More](M&eacute;thodes courantes d&rsquo;analyse des donn&eacute;es)</p>
+
+<p><strong>Analyse des tendances</strong> &ndash; Avec cette analyse, vous essayez de d&eacute;finir une tendance dans les donn&eacute;es. Si elle est &eacute;tablie, tout changement touchant cette tendance peut indiquer un changement de rendement &eacute;nerg&eacute;tique qui pourrait devoir &ecirc;tre &eacute;tudi&eacute;.</p>
+
+<p>Par exemple, en g&eacute;n&eacute;ral, la consommation d&rsquo;&eacute;lectricit&eacute; d&rsquo;une organisation qui se chauffe au gaz naturel baisse durant l&rsquo;hiver en raison de l&rsquo;absence de charges de climatisation. Une baisse moins importante ou l&rsquo;absence de baisse pourrait indiquer qu&rsquo;on a laiss&eacute; un &eacute;quipement en marche ou qu&rsquo;il a besoin de r&eacute;parations (ou que l&rsquo;hiver a &eacute;t&eacute; extr&ecirc;mement chaud).</p>
+
+<p><strong>Analyse comparative</strong> &ndash; Il s&rsquo;agit du processus consistant &agrave; comparer les donn&eacute;es sur le rendement &eacute;nerg&eacute;tique &agrave; une norme et &agrave; &eacute;valuer l&rsquo;actuel rendement &eacute;nerg&eacute;tique. Voici certaines de ces normes :</p>
+
+<ul>
+	<li>Normes industrielles</li>
+	<li>Calculs th&eacute;oriques</li>
+	<li>&Eacute;quipement similaire</li>
+	<li>Proc&eacute;d&eacute;s similaires</li>
+	<li>Organisations jumelles</li>
+	<li>Organisations concurrentes</li>
+	<li>Niveau de rendement pr&eacute;c&eacute;demment &eacute;tabli</li>
+</ul>
+
+<p><strong>Graphiques</strong> &ndash; Les graphiques pr&eacute;sentent les donn&eacute;es de sorte qu&rsquo;elles soient plus faciles &agrave; &eacute;valuer que de grandes quantit&eacute;s de chiffres sur une page ou dans un tableau. Ils facilitent la d&eacute;tection des donn&eacute;es qui ne s&rsquo;inscrivent pas dans l&rsquo;analyse des tendances ou ne correspondent pas &agrave; une valeur de r&eacute;f&eacute;rence. Ils peuvent &ecirc;tre tr&egrave;s utiles pour d&eacute;tecter les anomalies ou les importants &eacute;carts, que vous devez &eacute;tudier, en vertu de la norme ISO 50001 (voir [task](Corrective Actions)). Voici quelques types de graphiques :</p>
+
+<ul>
+	<li>Graphiques lin&eacute;aires</li>
+	<li>Graphiques &agrave; barres</li>
+	<li>Graphiques &agrave; secteurs</li>
+	<li>Diagrammes de dispersion</li>
+	<li>Graphiques chronologiques</li>
+</ul>
+
+<p><strong>Classement</strong> &ndash; Le classement consiste &agrave; ordonner les &eacute;l&eacute;ments afin d&rsquo;&eacute;tablir un lien. C&rsquo;est la m&eacute;thode traditionnellement utilis&eacute;e pour classer l&rsquo;&eacute;quipement, les syst&egrave;mes et/ou les proc&eacute;d&eacute;s afin de d&eacute;terminer les UES (voir [task](Significant Energy Uses)). Il est utile d&rsquo;&eacute;tablir le lien relatif entre les &eacute;l&eacute;ments, afin de pouvoir appliquer les crit&egrave;res de ciblage appropri&eacute;s.</p>
+
+<p><strong>Analyse de Pareto</strong> &ndash; L&rsquo;analyse de Pareto est une forme de classement qui permet d&rsquo;identifier des secteurs cibl&eacute;s. &Eacute;galement baptis&eacute;e <em>r&egrave;gle du 80/20</em>, elle indique que 80 % des effets sont imputables &agrave; 20 % des causes. En ce qui concerne la consommation &eacute;nerg&eacute;tique, 80 % de l&rsquo;&eacute;nergie fournie sera g&eacute;n&eacute;ralement associ&eacute;e &agrave; 20 % de l&rsquo;&eacute;quipement, des processus ou des syst&egrave;mes. M&ecirc;me si le ratio r&eacute;el peut diff&eacute;rer largement du ratio de 80/20 dans une installation ou une organisation, une grande partie de la consommation &eacute;nerg&eacute;tique peut g&eacute;n&eacute;ralement &ecirc;tre attribu&eacute;e &agrave; un petit nombre d&rsquo;&eacute;quipements, de proc&eacute;d&eacute;s ou de syst&egrave;mes. Une analyse de Pareto est utile pour &eacute;valuer des projets ou d&eacute;terminer les UES, car cela permet de cibler les ressources.</p>
+
+<p><strong>Bilan &eacute;nerg&eacute;tique</strong> &ndash; Un bilan &eacute;nerg&eacute;tique peut aider &agrave; comptabiliser la consommation &eacute;nerg&eacute;tique.</p>
+
+<p><strong>Bilan thermique</strong> &ndash; Le bilan thermique est similaire au bilan &eacute;nerg&eacute;tique, mais il vise g&eacute;n&eacute;ralement un seul &eacute;quipement ou un seul syst&egrave;me, et consiste &agrave; &eacute;quilibrer la quantit&eacute; de chaleur qui entre dans l&rsquo;&eacute;quipement ou le syst&egrave;me et celle qui en sort.</p>
+
+<p>Par exemple, la quantit&eacute; de chaleur entrant dans un s&eacute;choir par le br&ucirc;leur au gaz doit &ecirc;tre &eacute;gale &agrave; la quantit&eacute; de chaleur absorb&eacute;e par le produit s&eacute;ch&eacute;, qui est &eacute;mise par les parois du s&eacute;choir et s&rsquo;&eacute;chappe par la chemin&eacute;e du s&eacute;choir. Un changement de temp&eacute;rature de la chemin&eacute;e pourrait indiquer un changement de rendement &eacute;nerg&eacute;tique (probl&egrave;mes de circulation d&rsquo;air, temp&eacute;rature du s&eacute;choir inad&eacute;quate, changement touchant l&rsquo;acheminement des produits, changement touchant l&rsquo;humidit&eacute; ou la temp&eacute;rature du produit (entre autres), qui permet &agrave; plus ou moins de chaleur de sortir par la chemin&eacute;e).</p>
+
+<p><strong>Analyse des services publics</strong> &ndash; L&rsquo;analyse des factures de services publics est importante, car elle aide &agrave; comprendre comment l&rsquo;&eacute;nergie entrant dans votre organisation est mesur&eacute;e et comment on en d&eacute;termine le co&ucirc;t. Par ailleurs, elle vous permet de surveiller la facture &agrave; la recherche de changements touchant la consommation et le co&ucirc;t. En surveillant la facture de chacune des sources d&rsquo;&eacute;nergie de votre organisation, vous pourrez d&eacute;tecter les erreurs, comparer votre rendement &eacute;nerg&eacute;tique &agrave; celui d&rsquo;autres organisations et passer en revue les r&eacute;sultats des projets d&rsquo;am&eacute;lioration. Il est particuli&egrave;rement utile de relever les erreurs si votre organisation utilise des compteurs divisionnaires pour recueillir des donn&eacute;es sur la consommation et/ou si elle dresse r&eacute;guli&egrave;rement un bilan &eacute;nerg&eacute;tique pour v&eacute;rifier la quantit&eacute; d&rsquo;&eacute;nergie re&ccedil;ue de chaque source.</p>
+
+<p><strong>Analyse financi&egrave;re</strong> &ndash; Une des principales raisons justifiant l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique est la r&eacute;duction des co&ucirc;ts. Le suivi des co&ucirc;ts et l&rsquo;&eacute;valuation de leur effet sur le chiffre d&rsquo;affaires est un des principaux r&ocirc;les de la direction, qui a besoin des donn&eacute;es n&eacute;cessaires pour faire cette &eacute;valuation. Il faut associer ces donn&eacute;es aux co&ucirc;ts d&rsquo;exploitation g&eacute;n&eacute;raux ou &agrave; la n&eacute;cessit&eacute; d&rsquo;&eacute;valuer les changements organisationnels. La direction veut g&eacute;n&eacute;ralement une analyse financi&egrave;re avant un changement (pour d&eacute;terminer comment proc&eacute;der), ou apr&egrave;s un changement (pour &eacute;valuer son impact et comment il influe sur la sant&eacute; &eacute;conomique de l&rsquo;organisation). Parfois, elle r&eacute;clame les deux. Il existe un grand nombre de m&eacute;thodes et d&rsquo;outils financiers pour proc&eacute;der aux analyses financi&egrave;res n&eacute;cessaires.</p>
+
+<p><strong>Analyse de r&eacute;gression </strong>&ndash; Il s&rsquo;agit d&rsquo;une analyse statistique permettant de comprendre le lien entre une variable d&eacute;pendante et une ou plusieurs variables ind&eacute;pendantes. La variable d&eacute;pendante d&eacute;pend de la ou des variables ind&eacute;pendantes, et changera en r&eacute;action &agrave; une modification de celle(s)-ci. On peut utiliser l&rsquo;analyse de r&eacute;gression pour pr&eacute;voir la consommation, qui est une variable d&eacute;pendante, en fonction de variables ind&eacute;pendantes comme la production, la m&eacute;t&eacute;o, l&rsquo;occupation ou les heures de fonctionnement. La r&eacute;gression lin&eacute;aire est la plus simple et la plus fr&eacute;quemment utilis&eacute;e, mais il existe de nombreux autres mod&egrave;les de r&eacute;gression.</p>
+
+<p>Par exemple, la consommation de gaz naturel du syst&egrave;me de chauffage d&rsquo;un immeuble (variable d&eacute;pendante) augmentera quand la temp&eacute;rature (variable ind&eacute;pendante) diminuera, et elle diminuera quand la temp&eacute;rature augmentera.</p>
+
+<p>[Learn More End]</p>
+
+<p>Deux exemples d&rsquo;&eacute;tude de cas illustrent la variation des m&eacute;thodes de suivi de l&rsquo;&eacute;nergie. La premi&egrave;re, [resource](Case_Study_Large_Enterprise), illustre l&rsquo;utilisation de plusieurs tableaux/graphiques pour effectuer l&rsquo;analyse de base. L&rsquo;analyse comprend plusieurs comptages diff&eacute;rents pour un service public donn&eacute;, en convertissant les diff&eacute;rentes sources d&rsquo;&eacute;nergie en une unit&eacute; commune (BTU), et en d&eacute;clarant la consommation d&rsquo;&eacute;nergie et les co&ucirc;ts combin&eacute;s pour une installation donn&eacute;e. La deuxi&egrave;me, [resource](Case_Study_Small_Enterprise), utilise une seule source d&rsquo;&eacute;nergie (l&rsquo;&eacute;lectricit&eacute;), et un simple tableur pour faire le suivi de la consommation &eacute;nerg&eacute;tique et des co&ucirc;ts.</p>
+
+<p>Une fois que vous aurez d&eacute;termin&eacute; la m&eacute;thode d&rsquo;analyse, attribuez les responsabilit&eacute;s en mati&egrave;re d&rsquo;analyse des donn&eacute;es. Voici certains &eacute;l&eacute;ments &agrave; prendre en compte pour attribuer ces responsabilit&eacute;s :</p>
+
+<ul>
+	<li>Complexit&eacute; de l&rsquo;analyse</li>
+	<li>Disponibilit&eacute; des ressources</li>
+	<li>Acc&egrave;s aux donn&eacute;es</li>
+	<li>Exp&eacute;rience du proc&eacute;d&eacute;/de l&rsquo;&eacute;quipement analys&eacute;</li>
+	<li>N&eacute;cessit&eacute; d&rsquo;obtenir des r&eacute;sultats</li>
+</ul>
+
+<p>[Learn More](&Eacute;l&eacute;ments &agrave; prendre en compte pour attribuer les responsabilit&eacute;s en mati&egrave;re d&rsquo;analyse des donn&eacute;es)</p>
+
+<p><strong>Complexit&eacute; de l&rsquo;analyse</strong> &ndash; On a parl&eacute; de comp&eacute;tences pr&eacute;c&eacute;demment, et les capacit&eacute;s d&rsquo;analyse au sein de votre organisation peuvent d&eacute;cider de la m&eacute;thode d&rsquo;analyse. Par ailleurs, si une m&eacute;thode d&rsquo;analyse souhait&eacute;e est n&eacute;cessaire &agrave; l&rsquo;obtention des r&eacute;sultats d&eacute;sir&eacute;s pour l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique, la ou les personnes responsables de l&rsquo;analyse doivent poss&eacute;der les comp&eacute;tences n&eacute;cessaires pour g&eacute;rer la complexit&eacute; de cette analyse.</p>
+
+<p>Par exemple, la consommation d&rsquo;&eacute;lectricit&eacute; pour l&rsquo;&eacute;clairage d&rsquo;un bureau sans fen&ecirc;tres sera directement li&eacute;e &agrave; l&rsquo;occupation, et pourra &ecirc;tre d&eacute;montr&eacute;e &agrave; l&rsquo;aide d&rsquo;un simple graphique et facile &agrave; comprendre pour le personnel ayant une formation de base. La consommation d&rsquo;&eacute;lectricit&eacute; pour la climatisation peut d&eacute;pendre de la m&eacute;t&eacute;o, du moment de l&rsquo;ann&eacute;e, de l&rsquo;heure de la journ&eacute;e et de l&rsquo;occupation, et pourrait n&eacute;cessiter des techniques statistiques complexes pour analyser le lien entre la consommation et tous ces facteurs; cela peut n&eacute;cessiter une personne ma&icirc;trisant parfaitement les techniques statistiques.</p>
+
+<p><strong>Disponibilit&eacute; des ressources</strong> &ndash; En plus d&rsquo;&ecirc;tre comp&eacute;tentes, les personnes charg&eacute;es de l&rsquo;analyse auront peut-&ecirc;tre besoin de ressources comme du temps, des donn&eacute;es et l&rsquo;&eacute;quipement d&rsquo;analyse appropri&eacute;, par exemple une calculatrice ou un ordinateur.</p>
+
+<p><strong>Acc&egrave;s aux donn&eacute;es</strong> &ndash; L&rsquo;acc&egrave;s aux donn&eacute;es peut inclure l&rsquo;acc&egrave;s physique &agrave; l&rsquo;&eacute;quipement de collecte de donn&eacute;es ou l&rsquo;acc&egrave;s au personnel charg&eacute; de la collecte des donn&eacute;es. Certaines donn&eacute;es peuvent se trouver &agrave; des endroits difficiles d&rsquo;acc&egrave;s et peuvent n&eacute;cessiter de l&rsquo;aide ou un &eacute;quipement de protection ou un autre &eacute;quipement sp&eacute;cial pour la collecte. Pour effectuer une analyse r&eacute;guli&egrave;re et uniforme, il faut avoir r&eacute;guli&egrave;rement acc&egrave;s aux donn&eacute;es.</p>
+
+<p><strong>Exp&eacute;rience du proc&eacute;d&eacute;/de l&rsquo;&eacute;quipement analys&eacute;</strong> &ndash; Les employ&eacute;s qui connaissent bien le proc&eacute;d&eacute; ou l&rsquo;&eacute;quipement analys&eacute; offrent un niveau de connaissance suppl&eacute;mentaire qui peut &ecirc;tre utile aux personnes charg&eacute;es de l&rsquo;analyse des donn&eacute;es. Les organisations peuvent envisager de former des &eacute;quipes d&rsquo;analyse des donn&eacute;es ayant une expertise du proc&eacute;d&eacute; et de l&rsquo;&eacute;quipement, mais aussi des analyses.</p>
+
+<p><strong>N&eacute;cessit&eacute; d&rsquo;obtenir des r&eacute;sultats</strong> &ndash; Quand vous avez besoin d&rsquo;une analyse pr&eacute;cise pour que quelqu&rsquo;un de votre organisation puisse ex&eacute;cuter sa t&acirc;che, cette personne souhaitera veiller &agrave; ce que les donn&eacute;es soient exactes et &agrave; ce que l&rsquo;analyse soit correcte. Quelqu&rsquo;un qui manifeste un int&eacute;r&ecirc;t sinc&egrave;re est un bon candidat pour l&rsquo;analyse des donn&eacute;es.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Analyser les usages et la consommation &eacute;nerg&eacute;tiques pass&eacute;s et actuels)</p>
+
+<p>On a identifi&eacute; les besoins de donn&eacute;es dans le cadre de la t&acirc;che [task](Data Collection), et l&rsquo;analyse des usages et de la consommation &eacute;nerg&eacute;tiques pass&eacute;s et actuels font partie de la revue &eacute;nerg&eacute;tique.</p>
+
+<p>Dans le cadre de la revue &eacute;nerg&eacute;tique, vous devez recueillir des donn&eacute;es sur la consommation &eacute;nerg&eacute;tique et les analyser, pour :</p>
+
+<ul>
+	<li>D&eacute;terminer les UES (voir [task](Data Analysis) et [task](Significant Energy Uses))</li>
+	<li>D&eacute;finir les possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique (voir [task](Improvement Opportunities))</li>
+	<li>&Eacute;tablir des IRE (voir [task](Baselines, Objectives and Targets))</li>
+	<li>&Eacute;tablir la consommation de r&eacute;f&eacute;rence (voir [task](Baselines, Objectives and Targets))</li>
+	<li>D&eacute;finir des objectifs et des cibles &eacute;nerg&eacute;tiques (voir [task](Improvement Opportunities))</li>
+	<li>Surveiller le rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>Une fois que vous aurez d&eacute;termin&eacute; les &eacute;l&eacute;ments ci-dessus, vous continuerez quand m&ecirc;me &agrave; recueillir et &agrave; mettre &agrave; jour les donn&eacute;es pour surveiller l&rsquo;&eacute;tat du SGE, de mani&egrave;re &agrave; pouvoir apporter des changements au besoin. Les changements organisationnels li&eacute;s aux processus, &agrave; l&rsquo;&eacute;quipement, &agrave; l&rsquo;occupation et aux projets d&rsquo;am&eacute;lioration (entre autres) peuvent n&eacute;cessiter une modification de vos IRE, de votre consommation de r&eacute;f&eacute;rence, de vos UES, de vos objectifs/cibles et d&rsquo;autres parties du SGE. Continuez &agrave; recueillir des donn&eacute;es afin d&rsquo;&eacute;valuer toute modification qui devra &ecirc;tre apport&eacute;e aux mesures de l&rsquo;&eacute;nergie ou au rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More](Pratiques exemplaires d&rsquo;analyse des donn&eacute;es)</p>
+
+<p>On a identifi&eacute; les usages &eacute;nerg&eacute;tiques dans le cadre de la t&acirc;che [task](Data Collection). Une des pratiques exemplaires recommand&eacute;es consiste &agrave; analyser r&eacute;guli&egrave;rement les donn&eacute;es sur les usages &eacute;nerg&eacute;tiques, afin de mieux d&eacute;terminer si la d&eacute;limitation de ces usages demeure pertinente pour le SGE et de d&eacute;finir d&rsquo;&eacute;ventuelles possibilit&eacute;s d&rsquo;am&eacute;lioration. Voici les choses &agrave; prendre en compte durant l&rsquo;analyse :</p>
+
+<ul>
+	<li>Est-ce que les usages &eacute;nerg&eacute;tiques se pr&ecirc;tent &agrave; la collecte de donn&eacute;es?</li>
+	<li>Est-ce que les donn&eacute;es recueillies suffisent &agrave; l&rsquo;&eacute;valuation des usages &eacute;nerg&eacute;tiques?</li>
+	<li>A-t-on besoin d&rsquo;appareils de mesure pour recueillir des donn&eacute;es en vue d&rsquo;&eacute;valuer les usages &eacute;nerg&eacute;tiques?</li>
+	<li>Peut-on &eacute;valuer le rendement &eacute;nerg&eacute;tique &agrave; l&rsquo;aide des actuels usages &eacute;nerg&eacute;tiques?</li>
+	<li>Faut-il modifier les usages &eacute;nerg&eacute;tiques en raison de changements organisationnels ou d&rsquo;autres changements?</li>
+	<li>Est-ce que les usages &eacute;nerg&eacute;tiques repr&eacute;sentent l&rsquo;ensemble de l&rsquo;&eacute;nergie consomm&eacute;e par votre organisation?</li>
+	<li>Est-ce qu&rsquo;une diff&eacute;rente source d&rsquo;&eacute;nergie am&eacute;liorerait l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique ou l&rsquo;usage &eacute;nerg&eacute;tique?</li>
+</ul>
+
+<p>L&rsquo;analyse de la consommation d&rsquo;&eacute;nergie consistera initialement &agrave; d&eacute;terminer les gros consommateurs d&rsquo;&eacute;nergie et &agrave; examiner les volets de l&rsquo;examen &eacute;nerg&eacute;tique et d&rsquo;autres mesures, comme on l&rsquo;a vu dans le cadre de la t&acirc;che [task](Data Collection). Continuez &agrave; recueillir et &agrave; analyser les donn&eacute;es sur la consommation, pour :</p>
+
+<ul>
+	<li>&Eacute;valuer les r&eacute;sultats des projets d&rsquo;am&eacute;lioration</li>
+	<li>Veiller &agrave; l&rsquo;uniformit&eacute; des op&eacute;rations</li>
+	<li>Vous assurer de la pertinence constante des UES</li>
+	<li>&Eacute;valuer les effets des changements ou des ajours apport&eacute;s aux proc&eacute;d&eacute;s</li>
+	<li>D&eacute;finir les domaines d&rsquo;am&eacute;lioration</li>
+	<li>&Eacute;valuer le rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Utilisez les m&eacute;thodes que vous avez &eacute;labor&eacute;es dans le cadre de la pr&eacute;sente t&acirc;che pour analyser les donn&eacute;es et apporter des changements au syst&egrave;me en vue de g&eacute;n&eacute;rer des am&eacute;liorations continues. D&rsquo;autres d&eacute;tails sur la surveillance et l&rsquo;analyse de la consommation &eacute;nerg&eacute;tique sont fournis dans le cadre de la t&acirc;che [task](Monitoring).</p>
+
+<p>L&rsquo;outil [resource](Energy_Footprint_Tool) du DOE, mentionn&eacute; dans le cadre des t&acirc;ches [task](Energy Team), [task](Data Collection) et [task](Data Analysis), peut aussi vous aider &agrave; faire des analyses approfondies des usages et de la consommation &eacute;nerg&eacute;tiques pass&eacute;s et actuels, &agrave; savoir :</p>
+
+<ul>
+	<li>Calculer la consommation d&rsquo;&eacute;nergie et les co&ucirc;ts annuels pour toutes les sources de combustible et toutes les ann&eacute;es de collecte de donn&eacute;es &eacute;nerg&eacute;tiques</li>
+	<li>Repr&eacute;senter sur un graphique la consommation &eacute;nerg&eacute;tique de chaque combustible et des combustibles combin&eacute;s, par mois et par an</li>
+	<li>G&eacute;n&eacute;rer un bilan &eacute;nerg&eacute;tique &agrave; l&rsquo;aide d&rsquo;un calcul &laquo; ascendant &raquo; de la consommation &eacute;nerg&eacute;tique de vos principaux &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s, afin de permettre une comparaison avec les donn&eacute;es &laquo; descendantes &raquo; sur la consommation totale d&rsquo;&eacute;nergie de l&rsquo;immeuble ou des installations. Vous pourriez le faire avant de d&eacute;terminer vos UES (analyse &laquo; ascendante &raquo; de la consommation &eacute;nerg&eacute;tique des importants &eacute;quipements, syst&egrave;mes ou proc&eacute;d&eacute;s).</li>
+</ul>
+
+<p>Un exemple des donn&eacute;es d&rsquo;entr&eacute;e et de sortie de l&rsquo;outil [resource](Energy_Footprint_Tool) est fourni pour un prototype d&rsquo;immeuble commercial et d&rsquo;installation industrielle.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;parer une liste d&rsquo;&eacute;quipements et de syst&egrave;mes)</p>
+
+<p>Dans le cadre de la t&acirc;che [task](Data Collection), vous avez identifi&eacute; les usages &eacute;nerg&eacute;tiques et les donn&eacute;es &eacute;nerg&eacute;tiques de votre organisation pour comprendre l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s de l&rsquo;organisation qui consomment de l&rsquo;&eacute;nergie, et identifier les UES. Le processus de collecte des donn&eacute;es &eacute;nerg&eacute;tiques &eacute;tabli dans le cadre de cette t&acirc;che, ainsi que l&rsquo;analyse de la consommation &eacute;nerg&eacute;tique dont nous avons parl&eacute; dans le cadre de la pr&eacute;sente t&acirc;che, sont &eacute;galement pr&eacute;liminaires &agrave; l&rsquo;identification des UES.</p>
+
+<p>L&rsquo;&eacute;tape suivante consiste &agrave; dissocier les usages &eacute;nerg&eacute;tiques que vous avez identifi&eacute;s et &agrave; d&eacute;terminer l&rsquo;&eacute;nergie qu&rsquo;ils consomment. Pour ce faire, recueillez de l&rsquo;information d&eacute;taill&eacute;e &agrave; propos de vos syst&egrave;mes consommateurs d&rsquo;&eacute;nergie et pr&eacute;parez une liste de vos &eacute;quipements. Ensuite, utilisez l&rsquo;information relative &agrave; la consommation pour commencer le processus d&rsquo;identification des UES. &Agrave; cette fin, vous devez :</p>
+
+<ul>
+	<li><strong>Obtenir des diagrammes des op&eacute;rations</strong> &ndash; Ils constituent un bon point de d&eacute;part, parce qu&rsquo;ils montrent les principaux &eacute;quipements par ordre de proc&eacute;d&eacute;, et d&eacute;finissent l&rsquo;aide apport&eacute;e. Ces diagrammes aident une organisation &agrave; comprendre et &agrave; organiser ses op&eacute;rations et ses syst&egrave;mes &eacute;nerg&eacute;tiques. Un [resource](Example_Process_Flow_Diagram) est fourni. Note : vous aurez peut-&ecirc;tre besoin d&rsquo;une version agrandie du diagramme pour ex&eacute;cuter les mesures suivantes.</li>
+	<li><strong>Obtenir une liste des &eacute;quipements de l&rsquo;installation</strong> &ndash; Cette liste peut &ecirc;tre n&eacute;cessaire, parce qu&rsquo;elle comprend g&eacute;n&eacute;ralement les syst&egrave;mes de l&rsquo;immeuble qui ne sont pas inclus dans le diagramme des op&eacute;rations. Exemples de syst&egrave;mes/d&rsquo;&eacute;quipements :
+	<ul style="list-style-type:disc">
+		<li>Climatiseurs</li>
+		<li>Ventilateurs de traitement d&rsquo;air</li>
+		<li>&Eacute;clairage</li>
+		<li>Chauffe-eau</li>
+		<li>Refroidisseurs</li>
+		<li>Tours de refroidissement</li>
+		<li>Ordinateurs</li>
+		<li>&Eacute;quipement de bureau</li>
+		<li>Ascenseurs</li>
+		<li>Air comprim&eacute;</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Des exemples de listes d&rsquo;&eacute;quipements pour un [resource](Example_Equipment_List_Small_Manufacturer) et un [resource](Example_Equipment_List_Commercial_Building) sont fournis. Trouvez ces syst&egrave;mes et ces &eacute;quipements sur le diagramme des op&eacute;rations afin d&rsquo;avoir une vue d&rsquo;ensemble des consommateurs d&rsquo;&eacute;nergie dans votre organisation. Notez qu&rsquo;il ne sera peut-&ecirc;tre pas possible de trouver chaque &eacute;quipement sur le diagramme; mais repr&eacute;sentez au moins les principaux syst&egrave;mes d&rsquo;une mani&egrave;re ou d&rsquo;une autre.</p>
+
+<p>[Learn More](Pratiques exemplaires li&eacute;es aux diagrammes des op&eacute;rations)</p>
+
+<ul>
+	<li><strong>Montrez &agrave; la fois l&rsquo;&eacute;nergie primaire et l&rsquo;&eacute;nergie secondaire sur le diagramme des op&eacute;rations</strong> &ndash; Incluez aussi les formes secondaires d&rsquo;&eacute;nergie, parce que les syst&egrave;mes &eacute;nerg&eacute;tiques qui les fournissent peuvent &ecirc;tre voraces en &eacute;nergie.<br />
+	Regroupez les donn&eacute;es que vous avez recueillies dans le cadre de la t&acirc;che [task](Data Collection). Obtenez les donn&eacute;es des plaques signal&eacute;tiques, les heures de fonctionnement, les facteurs de service et les facteurs de charge pour l&rsquo;&eacute;quipement et les proc&eacute;d&eacute;s associ&eacute;s aux usages que vous avez document&eacute;s sur la [resource](Energy_Use_Worksheet). Cette information est n&eacute;cessaire pour d&eacute;terminer la consommation &eacute;nerg&eacute;tique associ&eacute;e aux diff&eacute;rents usages, et &eacute;laborer un bilan &eacute;nerg&eacute;tique. Regroupez aussi toutes les mesures que vous avez prises et consign&eacute;es avec des compteurs divisionnaires ou un &eacute;quipement portatif.</li>
+	<li><strong>Trouvez les usages &eacute;nerg&eacute;tiques que vous avez identifi&eacute;s dans le cadre de la t&acirc;che [task](Data Collection) sur le diagramme des op&eacute;rations et d&eacute;limitez chacun en tra&ccedil;ant une ligne autour</strong> &ndash; &Agrave; l&rsquo;aide des donn&eacute;es sur la consommation que vous avez recueillies dans le cadre de la [task](Data Collection), ajoutez la consommation moyenne de tous les consommateurs d&rsquo;&eacute;nergie correspondant aux limites de l&rsquo;usage &eacute;nerg&eacute;tique, et indiquez le total sur le diagramme des op&eacute;rations ou dans une liste distincte. Passez en revue toutes les utilisations que vous avez identifi&eacute;es et la consommation &eacute;nerg&eacute;tique connexe. Posez-vous les questions suivantes :
+	<ul style="list-style-type:circle">
+		<li>Ai-je suffisamment de donn&eacute;es &agrave; propos de tous les usages identifi&eacute;s?</li>
+		<li>Est-ce que la liste des usages &eacute;nerg&eacute;tiques et de la consommation connexe r&eacute;partit cette consommation de fa&ccedil;on raisonnable?</li>
+		<li>Est-ce que la consommation d&rsquo;un ou de quelques-uns des consommateurs d&rsquo;&eacute;nergie dans le cadre d&rsquo;un m&ecirc;me type d&rsquo;usage est pr&eacute;dominante par rapport &agrave; d&rsquo;autres?</li>
+		<li>Y a-t-il des interactions entre les usages &eacute;nerg&eacute;tiques susceptibles de n&eacute;cessiter une r&eacute;&eacute;valuation de l&rsquo;identification de ces usages?</li>
+		<li>Est-ce qu&rsquo;on peut recueillir des donn&eacute;es sur les consommateurs d&rsquo;&eacute;nergie associ&eacute;s &agrave; chaque usage, et est-ce propice &agrave; une &eacute;valuation du rendement &eacute;nerg&eacute;tique?</li>
+		<li>En fonction de la disponibilit&eacute; des appareils de mesure, est-ce que d&rsquo;autres usages &eacute;nerg&eacute;tiques de l&rsquo;organisation permettraient de d&eacute;terminer plus facilement ou de fa&ccedil;on plus r&eacute;aliste le rendement &eacute;nerg&eacute;tique?</li>
+		<li>Est-ce qu&rsquo;il est logique de recueillir des donn&eacute;es sur les consommateurs d&rsquo;&eacute;nergie associ&eacute;s &agrave; chaque usage?</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Les questions ci-dessus vous aideront &agrave; &eacute;valuer votre identification initiale des usages &eacute;nerg&eacute;tiques. Vous devrez peut-&ecirc;tre r&eacute;&eacute;valuer et modifier votre d&eacute;signation initiale de ces usages en fonction des donn&eacute;es disponibles et des interactions avec l&rsquo;&eacute;quipement, les syst&egrave;mes ou les proc&eacute;d&eacute;s. Les usages &eacute;nerg&eacute;tiques devraient correspondre &agrave; la plupart des interactions qui influeront sur leur rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More End]</p>
+
+<p>Les usages &eacute;nerg&eacute;tiques identifi&eacute;s dans la liste peuvent aussi d&eacute;pendre de l&rsquo;information dont on dispose pour d&eacute;terminer la quantit&eacute; d&rsquo;&eacute;nergie qu&rsquo;ils consomment, &agrave; l&rsquo;aide de donn&eacute;es de mesure, de donn&eacute;es des plaques signal&eacute;tiques et/ou de calculs d&rsquo;ing&eacute;nierie. Tenez compte du fait que les usages &eacute;nerg&eacute;tiques peuvent aller d&rsquo;un seul &eacute;quipement &agrave; un immeuble tout entier. Si la consommation d&rsquo;&eacute;nergie est importante, vous voudrez peut-&ecirc;tre que certains &eacute;quipements soient autonomes. Une fois que vous serez satisfait de la liste d&rsquo;&eacute;quipements et de syst&egrave;mes, faites un bilan &eacute;nerg&eacute;tique afin de vous assurer que la consommation totale de tous les usages &eacute;nerg&eacute;tiques s&rsquo;&eacute;quilibre avec la consommation de l&rsquo;ensemble des installations. Cette &eacute;tape n&rsquo;est pas obligatoire, mais elle est recommand&eacute;e pour garantir qu&rsquo;aucun volet important de la consommation &eacute;nerg&eacute;tique ne sera oubli&eacute; ou mal consign&eacute;.</p>
+
+<ul>
+	<li><strong>Tenez compte du personnel</strong> &ndash; Enfin, tenez compte du personnel dont le travail peut avoir ou a un impact sur les UES, ou dont les t&acirc;ches ont une incidence importante sur la fa&ccedil;on dont l&rsquo;&eacute;nergie est fournie, utilis&eacute;e ou consomm&eacute;e au sein de l&rsquo;organisation. Cela peut &ecirc;tre particuli&egrave;rement vrai dans le cas des employ&eacute;s responsables du fonctionnement ou de la maintenance des installations, de l&rsquo;&eacute;quipement, des syst&egrave;mes ou des proc&eacute;d&eacute;s identifi&eacute;s comme des UES. Lorsque le SGE sera mis en place, ces employ&eacute;s pourraient avoir besoin d&rsquo;une formation additionnelle afin de garantir que les contr&ocirc;les op&eacute;rationnels sont respect&eacute;s et que les objectifs de rendement &eacute;nerg&eacute;tique sont atteints. Vous trouverez des [resource](Example_Personnel_Associated_SEUs) en cliquant sur le lien fourni.</li>
+</ul>
+
+<p>[Learn More](Pr&eacute;parer un bilan &eacute;nerg&eacute;tique)</p>
+
+<p>Le bilan &eacute;nerg&eacute;tique constitue une m&eacute;thode fiable donnant une assurance raisonnable que vous avez comptabilis&eacute; tous les usages &eacute;nerg&eacute;tiques de votre organisation. &Eacute;tablissez un lien entre l&rsquo;&eacute;nergie totale fournie &agrave; votre organisation et l&rsquo;&eacute;quipement/les syst&egrave;mes sp&eacute;cifiques (voir [task](Data Collection)). La quantit&eacute; d&rsquo;&eacute;nergie consomm&eacute;e par l&rsquo;&eacute;quipement et les syst&egrave;mes doit correspondre de pr&egrave;s &agrave; l&rsquo;&eacute;nergie totale consomm&eacute;e par votre organisation. Quand on obtient une correspondance (g&eacute;n&eacute;ralement &agrave; +/- 5 %), cela indique que les estimations de consommation de l&rsquo;&eacute;quipement et des syst&egrave;mes sont exactes. Une [resource](Methodology_for_Conducting_Energy_Balance) est fournie.</p>
+
+<p>On peut d&eacute;terminer la consommation &eacute;nerg&eacute;tique d&rsquo;&eacute;quipements et de syst&egrave;mes bien pr&eacute;cis gr&acirc;ce aux donn&eacute;es de mesure, mais un calcul bas&eacute; sur l&rsquo;information issue d&rsquo;autres sources, comme les donn&eacute;es des plaques signal&eacute;tiques ou les compteurs portatifs (voir [task](Data Collection)) peut fournir une bonne approximation. Avec le temps, on peut pr&eacute;ciser la consommation &eacute;nerg&eacute;tique &agrave; l&rsquo;aide de compteurs ou en apprenant &agrave; mieux comprendre le fonctionnement des syst&egrave;mes &eacute;nerg&eacute;tiques.</p>
+
+<p>L&rsquo;outil [resource](Energy_Footprint_Tool) du DOE dresse un bilan &eacute;nerg&eacute;tique pour les immeubles commerciaux ou les installations industrielles. Il aide l&rsquo;utilisateur &agrave; &eacute;quilibrer la quantit&eacute; d&rsquo;&eacute;nergie calcul&eacute;e &agrave; partir de l&rsquo;ensemble des principaux &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s par rapport &agrave; l&rsquo;&eacute;nergie totale provenant d&rsquo;autres sources.</p>
+
+<p>Reportez-vous au document [resource](Example_Energy_Balance), pr&eacute;par&eacute; &agrave; l&rsquo;aide de l&rsquo;outil [resource](Energy_Footprint_Tool) pour une petite entreprise de transformation d&rsquo;aliments. On a &eacute;tabli le bilan en utilisant les documents [resource](Example_Process_Flow_Diagram) et [resource](Example_Industrial_Plant_Equipment_List). Un graphique &agrave; barres &eacute;labor&eacute; pour calculer la consommation &eacute;nerg&eacute;tique montre clairement les plus gros consommateurs.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les organisations dot&eacute;es d&rsquo;un syst&egrave;me de gestion de l&rsquo;environnement ISO 14001:2015 disposent parfois d&rsquo;information qui identifie les syst&egrave;mes et l&rsquo;&eacute;quipement consommant de l&rsquo;&eacute;nergie, int&eacute;gr&eacute;e aux donn&eacute;es de nature environnementale. Mais il arrive que cette information ne soit pas assez compl&egrave;te pour le SGE; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie devrait s&rsquo;en assurer.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>En tant qu&rsquo;utilisateur ENERGY STAR, vous analysez peut-&ecirc;tre d&eacute;j&agrave; la consommation &eacute;nerg&eacute;tique pass&eacute;e et actuelle de votre organisation, &agrave; l&rsquo;aide d&rsquo;outils comme Portfolio Manager. Les conseils sur l&rsquo;analyse des donn&eacute;es figurent aux sections 2.1, 2.2, 2.3 et 2.4 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). &Agrave; cette &eacute;tape-ci, le dossier 50001 Ready Navigator vous propose d&rsquo;autres outils d&rsquo;analyse et conseils connexes.</p>
+
+<p>Le document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) ne recommande pas la tenue d&rsquo;une liste de syst&egrave;mes consommant de l&rsquo;&eacute;nergie. Il laisse plut&ocirc;t &agrave; chaque organisation le soin de d&eacute;terminer le niveau de d&eacute;tail appropri&eacute; au moment de la collecte des donn&eacute;es. La norme ISO 50001 exige que l&rsquo;organisation d&eacute;termine ses usages &eacute;nerg&eacute;tiques significatifs (UES).</p>
+
+<p>Note : les UES pourraient &ecirc;tre diff&eacute;rents des secteurs, installations et &eacute;quipements identifi&eacute;s par le programme Energy Star.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
