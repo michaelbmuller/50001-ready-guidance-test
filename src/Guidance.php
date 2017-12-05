@@ -165,7 +165,7 @@ class Guidance
      */
     protected function loadResources()
     {
-        $this->resources = Resource::load();
+        $this->resources = Resource::load($this->language);
 
         foreach ($this->resources as $resource) {
             foreach ($resource->associatedTasks as $associatedTaskID) {
