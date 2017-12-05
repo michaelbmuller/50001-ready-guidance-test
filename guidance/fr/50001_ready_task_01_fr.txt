@@ -1,0 +1,85 @@
+USDOE 50001 READY NAVIGATOR TASK 1
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Domaine d’application et périmètre
+----------TITLE----------
+Tâche 1 : Nous avons défini, documenté et approuvé le domaine d’application et le périmètre de notre système de gestion énergétique conforme à la norme ISO 50001.
+----------GETTING IT DONE----------
+<ul>
+	<li>Avec l&rsquo;aide de la direction, remplissez la [resource](Scope_Boundaries_Worksheet) afin de d&eacute;finir le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du syst&egrave;me de gestion &eacute;nerg&eacute;tique (SGE).</li>
+	<li>Pr&eacute;parez un &eacute;nonc&eacute; du domaine d&rsquo;application et du p&eacute;rim&egrave;tre du SGE.</li>
+	<li>Faites approuver cet &eacute;nonc&eacute; par la haute direction et communiquez-le &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La haute direction d&eacute;finit le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE de votre organisation. Ceux-ci permettent &agrave; l&rsquo;organisation de cibler ses efforts et ses ressources en d&eacute;finissant ce que comprend le SGE. Le domaine d&rsquo;application d&eacute;finit l&rsquo;&eacute;tendue des activit&eacute;s, ainsi que les installations et les d&eacute;cisions vis&eacute;es par le SGE; il peut inclure plusieurs limites. Le p&eacute;rim&egrave;tre d&eacute;signe le p&eacute;rim&egrave;tre physique, du site et/ou de l&rsquo;organisation d&eacute;fini(s) par votre organisation comme la &laquo; cl&ocirc;ture &raquo; entourant le SGE.</p>
+
+<p>Au moment de d&eacute;finir le domaine d&rsquo;application et le p&eacute;rim&egrave;tre, il ne faut pas exclure l&rsquo;&eacute;quipement ou les syst&egrave;mes qui utilisent de l&rsquo;&eacute;nergie, &agrave; moins qu&rsquo;ils soient dot&eacute;s d&rsquo;appareils de mesure distincts ou qu&rsquo;on puisse faire un calcul fiable. Une fois le domaine d&rsquo;application et le p&eacute;rim&egrave;tre d&eacute;finis, une organisation ne peut pas exclure les sources d&rsquo;&eacute;nergie qui franchissent le p&eacute;rim&egrave;tre d&eacute;fini du SGE ou se trouvent &agrave; l&rsquo;int&eacute;rieur de celui-ci.</p>
+
+<p>Le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE pourraient inclure (entre autres) : les activit&eacute;s de gestion d&rsquo;un ou de plusieurs immeubles commerciaux &agrave; un ou &agrave; plusieurs endroits; les activit&eacute;s de fabrication, d&rsquo;entreposage et de distribution d&rsquo;une usine donn&eacute;e; plusieurs installations d&rsquo;une m&ecirc;me entreprise dans divers sites. Dans de nombreux cas, le domaine d&rsquo;application et le p&eacute;rim&egrave;tre ne portent que sur un immeuble/une installation.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;termin&eacute; l&rsquo;ampleur des activit&eacute;s, des installations et des structures d&eacute;cisionnelles &agrave; int&eacute;grer &agrave; votre SGE</li>
+	<li>D&eacute;fini le p&eacute;rim&egrave;tre du site et/ou de l&rsquo;organisation pour votre SGE</li>
+	<li>Pr&eacute;par&eacute; un &eacute;nonc&eacute; du domaine d&rsquo;application et du p&eacute;rim&egrave;tre de votre SGE</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.1, 4.2.1 et 4.5.4.1 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;terminer l&rsquo;ampleur des activit&eacute;s, des installations et des structures d&eacute;cisionnelles &agrave; int&eacute;grer &agrave; votre SGE)</p>
+
+<p>R&eacute;pondez aux questions suivantes pour d&eacute;terminer l&rsquo;ampleur des activit&eacute;s, des installations et des structures d&eacute;cisionnelles &agrave; int&eacute;grer &agrave; votre SGE. Vous pouvez utiliser la [resource](Scope_Boundaries_Worksheet) pour d&eacute;finir le domaine d&rsquo;application.</p>
+
+<ul>
+	<li>Y a-t-il un secteur &agrave; propos duquel vous n&rsquo;avez aucune information de nature &eacute;nerg&eacute;tique?</li>
+	<li>Y a-t-il un secteur o&ugrave; vous ne pouvez pas obtenir la participation des employ&eacute;s?</li>
+	<li>Y a-t-il des secteurs qui poss&egrave;dent une &eacute;quipe de gestion ou une structure d&eacute;cisionnelle diff&eacute;rente?</li>
+	<li>Y a-t-il un immeuble ou un lieu que vous n&rsquo;incluez pas?
+	<ul style="list-style-type:circle">
+		<li>Pouvez-vous isoler la consommation d&rsquo;&eacute;nergie de ces lieux?</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Ressources au sein de votre organisation qui peuvent vous aider &agrave; d&eacute;finir le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE :</p>
+
+<ul>
+	<li>Organigramme</li>
+	<li>Plan du site</li>
+	<li>Photographies du site</li>
+	<li>Liste des sous-traitants travaillant sur place et des op&eacute;rations connexes</li>
+	<li>Configuration des installations/des immeubles</li>
+	<li>Diagrammes des processus</li>
+	<li>Diagrammes des op&eacute;rations</li>
+	<li>Sch&eacute;mas des services publics</li>
+	<li>Donn&eacute;es sur la consommation &eacute;nerg&eacute;tique des installations/des immeubles</li>
+	<li>Donn&eacute;es sur la consommation &eacute;nerg&eacute;tique de l&rsquo;&eacute;quipement</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir le p&eacute;rim&egrave;tre du site et/ou de l&rsquo;organisation pour votre SGE)</p>
+
+<p>Maintenant que vous avez r&eacute;pondu aux questions li&eacute;es &agrave; l&rsquo;&eacute;tendue des activit&eacute;s, des installations et des structures d&eacute;cisionnelles &agrave; int&eacute;grer au domaine d&rsquo;application de votre SGE, quelles sont les r&eacute;percussions de votre d&eacute;cision sur le plan physique? Comment se traduiraient-elles dans un &eacute;nonc&eacute; des limites de votre SGE? Tenez-compte de vos r&eacute;ponses &agrave; ces questions quand vous d&eacute;finirez le p&eacute;rim&egrave;tre de votre SGE. Vous pouvez utiliser la [resource](Scope_Boundaries_Worksheet) pour formuler plus facilement le p&eacute;rim&egrave;tre dans l&rsquo;&eacute;nonc&eacute;.</p>
+
+<ul>
+	<li>Quelles sont les limites physiques ou organisationnelles des secteurs qui sont inclus?</li>
+	<li>Quelles sont les limites physiques ou organisationnelles des secteurs qui NE SONT PAS inclus?</li>
+	<li>Comment distinguer les secteurs inclus de ceux qui ne les sont pas sur le plan du site?</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;parer un &eacute;nonc&eacute; du domaine d&rsquo;application et du p&eacute;rim&egrave;tre de votre SGE)</p>
+
+<p>&Agrave; l&rsquo;aide du produit des deux premi&egrave;res t&acirc;ches, pr&eacute;parez un &eacute;nonc&eacute; &eacute;crit du domaine d&rsquo;application et du p&eacute;rim&egrave;tre du SGE. Vous trouverez dans le document [resource](Example_Scope_Boundaries_Worksheet) d&rsquo;autres conseils sur la fa&ccedil;on d&rsquo;officialiser un tel &eacute;nonc&eacute;. Il peut s&rsquo;agir d&rsquo;un document ind&eacute;pendant ou il peut &ecirc;tre int&eacute;gr&eacute; &agrave; un manuel &eacute;nerg&eacute;tique, ce qui n&rsquo;est pas obligatoire, mais que de nombreuses organisations consid&egrave;rent comme une &laquo; feuille de route &raquo; utile pour leur SGE. (Voir les [resource](Energy_Manual_Guidelines) pour de plus amples renseignements.)</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les organisations qui se conforment &agrave; la norme ISO 14001:2015 ou ISO 9001:2015 ont d&eacute;fini et document&eacute; le domaine d&rsquo;application de leurs syst&egrave;mes de gestion. On peut utiliser le m&ecirc;me processus ou un processus similaire pour d&eacute;finir et documenter le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE. En vertu de la norme ISO 50001, c&rsquo;est &agrave; la haute direction qu&rsquo;il incombe de d&eacute;finir le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE. G&eacute;n&eacute;ralement, on confie cela &agrave; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie, qui soumet le tout &agrave; l&rsquo;examen et &agrave; l&rsquo;approbation de la haute direction. Une fois le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE &eacute;tablis, toutes les sources d&rsquo;&eacute;nergie relevant de ce domaine d&rsquo;application/de ce p&eacute;rim&egrave;tre doivent &ecirc;tre int&eacute;gr&eacute;es au SGE.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le domaine d&rsquo;application &eacute;tabli &agrave; la section 3.1 des [resource](ENERGY_STAR_Guidelines_for_Energy_Management) est diff&eacute;rent du domaine d&rsquo;application et du p&eacute;rim&egrave;tre du SGE. On d&eacute;termine le domaine d&rsquo;application des lignes directrices ENERGY STAR en fonction d&rsquo;objectifs de rendement &agrave; court ou &agrave; long terme pour l&rsquo;ensemble d&rsquo;une organisation, d&rsquo;une installation ou d&rsquo;un proc&eacute;d&eacute;/&eacute;quipement. Le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE d&eacute;finissent les activit&eacute;s, les installations, les d&eacute;cisions et les limites physiques/les limites du site qui sont incluses dans le SGE &mdash; p. ex., un immeuble, une usine, une installation, un site ou une entreprise, ou un &eacute;l&eacute;ment de ceux-ci, ainsi que les activit&eacute;s et op&eacute;rations connexes.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
