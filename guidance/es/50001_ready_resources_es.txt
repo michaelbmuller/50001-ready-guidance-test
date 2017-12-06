@@ -4,7 +4,7 @@ Name||Impulsores empresariales y el sistema de gestión de energía (hoja de rec
 ID||Business_Drivers_EnMS
 File Type||docx
 Short Description||Este recurso permite conocer los distintos tipos de impulsores empresariales que existen para apoyar el desarrollo de un SGEn, e invita a las organizaciones a reflexionar sobre la energía, la gestión energética y la mejora del desempeño energético en el marco de la misma organización, así como sobre sus prioridades y necesidades tanto actuales como futuras.
-File Name||Business Drivers and the EnMS Resource Sheet.docx
+File Name||Business_Drivers_and_the_EnMS_Resource_Sheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Business%20Drivers%20and%20EnMS%20Res%20Sheet.docx
 Associated Tasks||3
 ----------
@@ -12,7 +12,7 @@ Name||Formulario de registro de evaluación gerencial
 ID||Management_Review_Record_Form
 File Type||docx
 Short Description||Plantilla que puede utilizarse a fin de documentar la revisión gerencial, anotar a los asistentes y registrar los asuntos que se cubrieron, así como como aquellos que requieren seguimiento.
-File Name||Management Review Record Form.docx
+File Name||Management Management_Review_Record_Form-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%205_1%20Tool%20Management%20Review%20Record%20Form.doc
 Associated Tasks||25
 ----------
@@ -84,7 +84,7 @@ Name||Hoja de trabajo de uso energético
 ID||Energy_Use_Worksheet
 File Type||xlsx
 Short Description||Este recurso sirve a los usuarios para identificar qué sistemas, equipos, procesos y operaciones usan las cantidades de energía más importantes.
-File Name||Energy Use Worksheet Template.xlsx
+File Name||Energy_Use_Worksheet_Template-s1.xlsx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_3_1%20Tool%20Energy%20Use%20Worksheet.xlsx
 Associated Tasks||6,7
 ----------
@@ -100,7 +100,7 @@ Name||Tipos de datos de gestión de energía (ejemplos)
 ID||Example_Types_Energy_Management_Data
 File Type||PDF
 Short Description||Lista con ejemplos de datos para la gestión energética.
-File Name||Types of Energy Management Data (examples).pdf
+File Name||Types_of_Energy_Management_Data_(examples)-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_2_3%20Example%20Types%20of%20Energy%20Management%20Data.pdf
 Associated Tasks||6
 ----------
@@ -108,7 +108,7 @@ Name||Matriz de seguimiento de requisitos legales y de otro tipo
 ID||Legal_Other_Requirements_Tracking_Matrix
 File Type||docx
 Short Description||Plantilla en blanco para que los usuarios comiencen a llevar un registro de los requisitos legales y de otro tipo.
-File Name||Legal and Other Requirements Tracking Matrix.docx
+File Name||Legal_and_Other_Requirements_Tracking_Matrix-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_1%20Tool%20Legal%20and%20Other%20Rqmts%20Tracking%20Matrix.doc
 Associated Tasks||5
 ----------
@@ -172,7 +172,7 @@ Name||Formulario para la solicitud de acciones correctivas o preventivas
 ID||Corrective_Action_Preventive_Action_Request_Form
 File Type||docx
 Short Description||Plantilla para crear una solicitud interna de acciones correctivas o preventivas que contribuye a que las organizaciones procesen este tipo de solicitudes.
-File Name||Correct Action-Preventive Action Request Form.docx
+File Name||Corrective Action-Preventive Action Request_(CAR-PAR)_Form-s2.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_5%20Tool%20CARPAR%20Form.doc
 Associated Tasks||17
 ----------
@@ -180,7 +180,7 @@ Name||Introducción a los conceptos de auditoría interna
 ID||Introduction_Internal_Auditing_Concepts
 File Type||PDF
 Short Description||Resumen detallado de los conceptos de auditoría interna.
-File Name||Introduction to Internal Auditing Concepts.pdf
+File Name||Introduction_to_Internal_Auditing_Concepts-s1.pdf
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Intro%20to%20Internal%20Auditing%20Concepts.pdf
 Associated Tasks||23
 ----------
@@ -188,7 +188,7 @@ Name||Registro de hallazgos de la auditoría interna
 ID||Audit_Finding_Form
 File Type||docx
 Short Description||Plantilla para que los usuarios documenten los hallazgos de una auditoría.
-File Name||Audit Finding Form.docx
+File Name||Audit Finding Form-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Audit%20Finding%20Form.docx
 Associated Tasks||23
 ----------
@@ -412,7 +412,7 @@ Name||Modelo de plan de acción para la gestión de energía
 ID||Energy_Management_Action_Plan_Template
 File Type||docx
 Short Description||Plantilla con base en la cual preparar un plan de acción para la gestión energética.
-File Name||Energy Management Action Plan Template.docx
+File Name||Energy_Management_Action_Plan_Template-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_11%20Tool%20Energy%20Mgmt%20Action%20Plan%20Template.doc
 Associated Tasks||13
 ----------
@@ -420,7 +420,7 @@ Name||Hoja de trabajo de objetivos y metas energéticas
 ID||Energy_Objectives_Targets_Worksheet
 File Type||docx
 Short Description||El propósito de esta plantilla es ayudar a los usuarios a documentar en una hoja de trabajo los correspondientes objetivos y metas para su sistema de gestión de energía (SGEn).
-File Name||Energy Objectives and Targets Worksheet.docx
+File Name||Energy_Objectives_and_Targets_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_9%20Tool%20Energy%20Objectives%20and%20Targets%20Worksheet.doc
 Associated Tasks||11
 ----------
@@ -452,7 +452,7 @@ Name||Criterios y calificaciones para establecer prioridades entre las oportunid
 ID||Prioritizing_Energy_Opportunities_Examples_Worksheets
 File Type||xlsx
 Short Description||Este recurso consiste en hojas de trabajo (modelo y ejemplo) para determinar los criterios y las calificaciones con base en los cuales establecer prioridades entre las oportunidades de mejora del desempeño energético.
-File Name||Prioritizing Energy Opportunities Example Worksheets.xlsx
+File Name||Prioritizing_Energy_Opportunities_Example_Worksheets-s1.xlsx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_6_2%20Tool%20Prioritizing%20Energy%20Opps%20Ex%20Worksheets.xlsx
 Associated Tasks||12
 ----------
@@ -532,7 +532,7 @@ Name||Hoja de trabajo para planificar la comunicación externa
 ID||External_Communications_Planning_Worksheet
 File Type||docx
 Short Description||Este recurso ofrece un modelo de hoja de trabajo para apoyar a los usuarios en la formulación de su plan de comunicación externa.
-File Name||External Communication Planning Worksheet.docx
+File Name||External_Communication_Planning_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_4%20Tool%20External%20Commun%20Planning%20Worksheet.doc
 Associated Tasks||20
 ----------
@@ -564,7 +564,7 @@ Name||Presentación sobre concientización para la instrumentación de un sistem
 ID||General_EnMS_Awareness_Presentation
 File Type||pptx
 Short Description||Ejemplo de una presentación que se puede utilizar como base para capacitar y sensibilizar en torno a la instrumentación de un SGEn, así como para difundir el tema entre todos los empleados involucrados.
-File Name||General EnMS Awareness Presentation (example).pptx
+File Name||General_EnMS_Awareness_Presentation_(example)-s1.pptx
 Link||https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#
 Associated Tasks||20
 ----------
@@ -612,7 +612,7 @@ Name||Requisitos de competencia y formulario de registro
 ID||Competency_Requirements_Record_Form
 File Type||docx
 Short Description||Formulario de referencia que puede emplearse para llevar un seguimiento, registrar y validar los requisitos de competencia en relación con los usos significativos de energía (USEn).
-File Name||Competency Requirements and Record Form.docx
+File Name||Competency_Requirements_and_Record_Form-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_1%20Tool%20Competency%20Requirements%20and%20Record%20Form.doc
 Associated Tasks||21
 ----------
@@ -628,7 +628,7 @@ Name||Tabla de control de usos significativos de energía (USEn)
 ID||SEU_Control_Chart
 File Type||xlsx
 Short Description||Plantilla o modelo de hoja de cálculo para dar seguimiento, registrar y validar el proceso de implementación de los USEn.
-File Name||SEU Control Chart.xlsx
+File Name||SEU_Control_Chart-s1.xlsx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%202_5_3%20Tool%20Significant%20Energy%20Uses%20Control%20Chart.xlsx
 Associated Tasks||8,14,15,16,21
 ----------
@@ -652,7 +652,7 @@ Name||Hojas de trabajo sobre la política energética
 ID||Energy_Policy_Worksheets
 File Type||docx
 Short Description||Este recurso es útil para formular una política energética organizacional que cumpla con las características básicas que al respecto establece la norma ISO 50001.
-File Name||Energy Policy Worksheets.docx
+File Name||Energy_Policy_Worksheets-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_7%20Tool%20Energy%20Policy%20Worksheets.docx
 Associated Tasks||2
 ----------
@@ -676,7 +676,7 @@ Name||Hoja de trabajo de alcance y límites del SGEn
 ID||Scope_Boundaries_Worksheet
 File Type||docx
 Short Description||Esta hoja de trabajo es útil para definir el alcance y los límites de un sistema de gestión de energía.
-File Name||Scope and Boundaries Worksheet.docx
+File Name||Scope_and_Boundaries_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_6%20Tool%20Scope%20and%20Boundaries%20Worksheet.docx
 Associated Tasks||1
 ----------
@@ -732,7 +732,7 @@ Name||Hoja de trabajo de “discurso de ascensor”
 ID||Elevator_Speech_Worksheet
 File Type||docx
 Short Description||Hoja de trabajo para elaborar la presentación que le ayudará a “vender” el sistema de gestión de energía (SGEn) a directivos clave y demás responsables de la toma de decisiones en su empresa
-File Name||Elevator Speech Worksheet.docx
+File Name||Elevator_Speech_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Elevator%20Speech%20Worksheet.docx
 Associated Tasks||3
 ----------
@@ -772,7 +772,7 @@ Name||Hoja de trabajo de planificación del monitoreo y la medición de caracter
 ID||Monitoring_Measurement_Key_Characteristics_Planning_Worksheet
 File Type||docx
 Short Description||Hoja de trabajo para ayudar a que los usuarios identifiquen, planifiquen y documenten los elementos y características clave en relación con el desempeño energético.
-File Name||Monitoring and Measure Key Characteristics Planning Worksheet.docx
+File Name||Monitoring_and_Measure_Key_Characteristics_Planning_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1%20Tool%20Monit%20and%20Measure%20Key%20Char%20Planning%20Wrksht.doc
 Associated Tasks||15
 ----------
@@ -828,7 +828,7 @@ Name||Hoja de trabajo del plan para la medición de energía
 ID||Energy_Measurement_Plan_Worksheet
 File Type||docx
 Short Description||Hoja de trabajo para formular un plan a efecto de realizar la medición energética en su establecimiento.
-File Name||Energy Measurement Plan Worksheet.docx
+File Name||Energy_Measurement_Plan_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_1_8%20Tool%20Energy%20Measuremt%20Plan%20Worksheet.doc
 Associated Tasks||15
 ----------
@@ -844,7 +844,7 @@ Name||Resumen de especificaciones para las adquisiciones de energía
 ID||Energy_Purchasing_Specification_Summary
 File Type||docx
 Short Description||Ficha en la que se sintetizan las especificaciones para las adquisiciones de energía y que puede también utilizarse para documentar sus correspondientes autorizaciones.
-File Name||Energy Purchasing Specifications Summary.docx
+File Name||Energy_Purchasing_Specifications_Summary-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_8_1%20Tool%20Energy%20Purchasing%20Specifications%20Summary.docx
 Associated Tasks||22
 ----------
@@ -860,7 +860,7 @@ Name||Lista de verificación para adquisiciones
 ID||Procurement_Checklist
 File Type||docx
 Short Description||Esta lista de verificación puede utilizarse para revisar el proceso que emplea su organización para la adquisición de productos, equipo y servicios que pueden tener una repercusión importante en el desempeño energético.
-File Name||Procurement Checklist.docx
+File Name||Procurement_Checklist-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_7_2%20Tool%20Procurement%20Checklist.doc
 Associated Tasks||22
 ----------
@@ -908,7 +908,7 @@ Name||Hoja de trabajo: consideraciones energéticas en el diseño
 ID||Energy_Considerations_Design_Worksheet
 File Type||docx
 Short Description||Plantilla que ayuda a incluir consideraciones energéticas —controles operativos y oportunidades de mejora de la eficiencia energética— en el diseño de instalaciones, equipo, sistemas y procesos (nuevos, modificados o renovados).
-File Name||Energy Considerations in Design Worksheet.docx
+File Name||Energy_Considerations_in_Design_Worksheet-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_6%20Tool%20Worksheet%20for%20Energy%20Considerations%20in%20Design.doc
 Associated Tasks||18
 ----------
@@ -932,7 +932,7 @@ Name||Lista de verificación de controles operativos
 ID||Operational_Controls_Checklist
 File Type||docx
 Short Description||Este recurso permite reunir, a manera de lista de verificación, la información para identificar y dar seguimiento a los controles operativos pertinentes para los USEn.
-File Name||Operational Controls Checklist.docx
+File Name||Operational_Controls_Checklist-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_5_1%20Tool%20Operational%20Controls%20Checklist.docx
 Associated Tasks||16
 ----------
