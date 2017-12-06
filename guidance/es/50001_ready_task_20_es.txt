@@ -1,0 +1,268 @@
+USDOE 50001 READY NAVIGATOR TASK 20
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Comunicación
+----------TITLE----------
+Tarea 20: Hemos informado a todo el personal de la organización acerca de nuestra política energética, así como sobre el papel y las responsabilidades que deberá asumir, y se le ha solicitado sugerencias. Asimismo, hemos definido la política y método (según corresponda) para la comunicación externa sobre nuestra política y desempeño energéticos.
+----------GETTING IT DONE----------
+<ul>
+	<li>Procure que la alta direcci&oacute;n comunique a toda la organizaci&oacute;n la importancia que reviste la gesti&oacute;n de la energ&iacute;a. Aseg&uacute;rese de que en esa comunicaci&oacute;n se incluya la pol&iacute;tica energ&eacute;tica de la organizaci&oacute;n.</li>
+	<li>Utilice el recurso [resource](EnMS_Awareness_Requirements_Form) para definir en detalle la capacitaci&oacute;n necesaria para crear conciencia sobre SGEn, dirigida a personal o departamentos espec&iacute;ficos.</li>
+	<li>Utilice el recurso [resource](EnMS_Training_Needs_Planning_Matrix) para planificar e instrumentar la capacitaci&oacute;n necesaria para crear conciencia.</li>
+	<li>Lleve a cabo la capacitaci&oacute;n necesaria para crear conciencia y mantenga el registro correspondiente.</li>
+	<li>Utilice el recurso [resource](Internal_EnMS_Communications_Planning_Worksheet) para planificar e instrumentar procesos de comunicaci&oacute;n interna del SGEn, e incluya un sistema de sugerencias.</li>
+	<li>Defina la pol&iacute;tica y proceso de comunicaci&oacute;n externa del SGEn de su organizaci&oacute;n. Conserve los registros de esta decisi&oacute;n y de toda comunicaci&oacute;n externa.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Crear conciencia organizativa en torno a la gesti&oacute;n de energ&iacute;a es una parte importante del proceso para conseguir apoyo para su SGEn. Es parte de la labor de los mandos directivos saber comunicar la importancia que reviste la gesti&oacute;n de la energ&iacute;a y alentar la participaci&oacute;n de los empleados. Corresponde a la alta direcci&oacute;n dar el primer paso en la transmisi&oacute;n de este mensaje, el cual posteriormente refuerzan los procesos continuados de comunicaci&oacute;n interna.</p>
+
+<p>El personal tambi&eacute;n debe ser consciente de sus responsabilidades en relaci&oacute;n con el SGEn de la organizaci&oacute;n para la que trabaja. La conciencia respecto al uso de energ&iacute;a constituye un primer paso en la integraci&oacute;n de la gesti&oacute;n de la energ&iacute;a a las actividades diarias y en el logro de un apoyo efectivo al buen funcionamiento del SGEn. El personal incluye a cualquier persona que trabaja para la organizaci&oacute;n, por ejemplo: empleados fijos, por hora, de medio tiempo y temporales, as&iacute; como contratistas, proveedores y consultores <em>in situ</em>.</p>
+
+<p>Los procesos de comunicaci&oacute;n interna y externa son, pues, elementos importantes del SGEn. Instrumentar un SGEn implica cambios organizacionales y culturales, y la comunicaci&oacute;n en la esfera interna es un componente decisivo para lograr que dicho cambio sea exitoso. Adem&aacute;s, su organizaci&oacute;n deber&aacute; decidir si comunicar&aacute; a personas de fuera (externas) asuntos relativos a sus pol&iacute;ticas energ&eacute;ticas, SGEn y desempe&ntilde;o energ&eacute;tico. Lleve un registro de lo que se decida sobre la comunicaci&oacute;n externa e instrumente un m&eacute;todo para su manejo. Planear los procesos y materiales de comunicaci&oacute;n externa, independientemente de si tienen un car&aacute;cter proactivo o reactivo, incluye asignar a alguien la responsabilidad y autoridad para que responda a comunicaciones provenientes de tipos espec&iacute;ficos de grupos o partes interesados.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>formular y emitir la comunicaci&oacute;n inicial del SGEn de la alta direcci&oacute;n;</li>
+	<li>asegurar que hay conciencia respecto al uso de energ&iacute;a entre el personal afectado;</li>
+	<li>poner en marcha procesos de comunicaci&oacute;n interna, y</li>
+	<li>llegar a una decisi&oacute;n sobre comunicaci&oacute;n externa.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.2.1 e), 4.3 g), 4.5.2, y 4.5.3 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Formular y emitir la comunicaci&oacute;n inicial de la alta direcci&oacute;n sobre el SGEn)</p>
+
+<p>Durante las primeras etapas de la instrumentaci&oacute;n de un SGEn, las metas de la comunicaci&oacute;n inicial a los empleados consisten en:</p>
+
+<ul>
+	<li>anunciar el compromiso de su organizaci&oacute;n de mejorar el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>anunciar el arranque del proceso de instrumentaci&oacute;n del SGEn;</li>
+	<li>comunicar lo que en t&eacute;rminos generales ser&aacute; la pol&iacute;tica energ&eacute;tica;</li>
+	<li>alentar la participaci&oacute;n activa y el aporte de los empleados, y</li>
+	<li>despejar el escenario para una comunicaci&oacute;n continuada de temas relativos a la gesti&oacute;n de energ&iacute;a.</li>
+</ul>
+
+<p>&nbsp;[Learn More](Comunicaci&oacute;n inicial relativa al SGEn)</p>
+
+<p>La informaci&oacute;n que puede, de manera efectiva, hacer llegar este mensaje por lo general incluye respuestas a las siguientes interrogantes:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; se est&aacute; haciendo? (Instrumentar un SGEn)</li>
+	<li>&iquest;Por qu&eacute; se est&aacute; haciendo? (Impulsores empresariales)</li>
+	<li>&iquest;De qu&eacute; manera ayuda un SGEn? (Beneficios)</li>
+	<li>&iquest;Qui&eacute;n encabeza el esfuerzo? (Representante de la direcci&oacute;n, equipo de gesti&oacute;n energ&eacute;tica)</li>
+	<li>&iquest;Qui&eacute;n m&aacute;s participa? (&iexcl;Todos!)</li>
+	<li>&iquest;Qu&eacute; compromisos energ&eacute;ticos se han establecido? (Pol&iacute;tica energ&eacute;tica)</li>
+	<li>&iquest;Por qu&eacute; es importante actuar? (Impacto del comportamiento en materia energ&eacute;tica)</li>
+	<li>&iquest;Qu&eacute; sigue? (Expectativas)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>El representante de la direcci&oacute;n y el equipo de gesti&oacute;n energ&eacute;tica son, por lo general, los responsables de definir el contenido de la comunicaci&oacute;n inicial, con la participaci&oacute;n de la alta direcci&oacute;n.</p>
+
+<p>Una vez establecido el contenido, se requiere una decisi&oacute;n sobre el formato que se le dar&aacute; a la informaci&oacute;n y la manera en que se har&aacute; extensiva al personal. Independientemente del m&eacute;todo empleado, es de crucial importancia que los mandos directivos se hagan cargo de comunicar este mensaje inicial. La alta direcci&oacute;n fija el cauce estrat&eacute;gico que tomar&aacute; la organizaci&oacute;n y provee los recursos para las iniciativas organizacionales, por lo que debe establecerse la gesti&oacute;n de energ&iacute;a como prioridad organizacional. La participaci&oacute;n activa de los directivos y su visibilidad constituye un ejemplo positivo para los empleados.</p>
+
+<p>Entre los formatos y m&eacute;todos de presentaci&oacute;n m&aacute;s empleados se incluyen el uso de diapositivas, videos, boletines y folletos, correos electr&oacute;nicos colectivos (dirigidos a todos los empleados), anuncios por red corporativa interna y notificaciones a empleados.</p>
+
+<p>Si se opta por comunicaci&oacute;n impresa, debe quedar claro que el mensaje viene de la alta direcci&oacute;n. Los eventos en vivo dirigidos por los mandos directivos, tales como actos inaugurales, o comidas y reuniones de todos los empleados, tienden a ser m&aacute;s efectivos para hacer llegar el mensaje y granjearse la atenci&oacute;n y apoyo del personal laboral, que enfoques m&aacute;s pasivos.</p>
+
+<p>Ap&oacute;yese en los recursos [resource](Example_Initial_EnMS_Awareness_Presentation) y [resource](Initial_EnMS_Awareness_Presentation_Template), que le ofrecen una presentaci&oacute;n que puede adaptarse para su organizaci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Asegurar que hay conciencia entre el personal afectado)</p>
+
+<p>La necesidad de generar conciencia respecto al uso de energ&iacute;a no se limita a personas que llevan a cabo tareas que implican usos significativos de energ&iacute;a (USE). Una sensibilizaci&oacute;n general en materia energ&eacute;tica es de relevancia para todo el personal de la organizaci&oacute;n, as&iacute; como para los contratistas, proveedores, consultores y dem&aacute;s colaboradores <em>in situ</em>. Para que &eacute;sta llegue a ser efectiva, todo el personal incluido dentro del alcance y los l&iacute;mites del SGEn debe estar consciente de hasta qu&eacute; grado el SGEn afecta sus actividades laborales cotidianas, y cu&aacute;les son sus responsabilidades.</p>
+
+<p>Asegurar una conciencia continua respecto al uso de energ&iacute;a&nbsp; entre el personal es clave para impulsar la gesti&oacute;n de la energ&iacute;a al &aacute;mbito de la actividad laboral cotidiana y fortalecer el funcionamiento efectivo del SGEn.</p>
+
+<p>Algunos puntos en los que el personal debe sensibilizarse incluyen los siguientes:</p>
+
+<ul>
+	<li><strong>Conformidad con la pol&iacute;tica energ&eacute;tica</strong> &ndash; Se espera que el personal se haga consciente de c&oacute;mo la energ&iacute;a se relaciona con sus actividades laborales y c&oacute;mo su trabajo refleja un compromiso con la pol&iacute;tica energ&eacute;tica, lo que incluye un mejor desempe&ntilde;o energ&eacute;tico y conformidad con requisitos legales y de otra &iacute;ndole.</li>
+	<li><strong>Importancia de seguir los procedimientos y requisitos del SGEn </strong>&ndash; Se espera que el personal siga los procedimientos del SGEn relativos a sus responsabilidades laborales y se ajuste a los requisitos del sistema.</li>
+	<li><strong>Roles, responsabilidades y autoridades </strong>&ndash; El personal debe ser consciente tanto de sus propias responsabilidades como de las de individuos clave asociados con el SGEn, incluidos el representante de la direcci&oacute;n y miembros del equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li><strong>Beneficios de un desempe&ntilde;o energ&eacute;tico mejorado </strong>&ndash; El personal debe estar consciente de los beneficios de un desempe&ntilde;o energ&eacute;tico mejorado. Algunos ejemplos de los potenciales beneficios incluyen costos reducidos, un mayor margen de ganancias, operatividad m&aacute;s eficiente, menor mantenimiento, impacto ambiental reducido, mayor tiempo de vida del equipo y una mayor comodidad.</li>
+	<li><strong>Impacto de las actividades sobre el consumo de energ&iacute;a </strong>&ndash; El personal debe ser consciente de c&oacute;mo sus actividades afectan el uso y consumo de energ&iacute;a.</li>
+	<li><strong>Impacto de las actividades del personal laboral sobre objetivos y metas </strong>&ndash; El personal debe entender de qu&eacute; manera sus actividades y comportamiento contribuyen a la consecuci&oacute;n de objetivos y metas en materia de energ&iacute;a.</li>
+	<li><strong>Consecuencias de no seguir los procedimientos </strong>&ndash; La pol&iacute;tica energ&eacute;tica es un apoyo para el desarrollo de procedimientos relevantes que sirvan de orientaci&oacute;n para llevar a cabo actividades que maximicen la eficiencia energ&eacute;tica y reduzcan el consumo. El personal debe estar consciente de las consecuencias de no seguir los procedimientos y su potencial impacto sobre eficiencia, uso y consumo de energ&iacute;a.</li>
+</ul>
+
+<p>El recurso [resource](EnMS_Awareness_Requirements_Form) puede ayudar a definir y documentar requisitos de concientizaci&oacute;n espec&iacute;ficos para cada individuo, puesto o departamento.</p>
+
+<p>Una vez definidos los requisitos de concientizaci&oacute;n, puede utilizarse el recurso [resource](EnMS_Training_Needs_Planning_Matrix) para documentar las necesidades de capacitaci&oacute;n a fin de crear conciencia en toda la organizaci&oacute;n y poner en marcha un plan para abordar tales necesidades. El plan de capacitaci&oacute;n define el qui&eacute;n, qu&eacute;, cu&aacute;ndo, d&oacute;nde y c&oacute;mo, y puede hacer las veces tambi&eacute;n de registro de la capacitaci&oacute;n. El recurso [resource](EnMS_Training_Needs_Planning_Matrix) puede usarse tambi&eacute;n en otro tipo de casos.</p>
+
+<p>La mayor&iacute;a de las organizaciones dise&ntilde;an alg&uacute;n tipo de ejercicio de capacitaci&oacute;n general para crear conciencia sobre su SGEn, a manera de introducci&oacute;n al sistema dirigida a empleados, contratistas, proveedores y cualquier otra persona que lleve a cabo labores <em>in situ</em>.</p>
+
+<p>[Learn More](Presentaci&oacute;n para concientizaci&oacute;n en torno al SGEn)</p>
+
+<p>Esta capacitaci&oacute;n general sobre conciencia respecto al uso de energ&iacute;a dura por lo regular entre 5 y 30 minutos y se apoya en herramientas de capacitaci&oacute;n y comunicaci&oacute;n tales como videos, diapositivas, folletos, circulares y anuncios. Un m&eacute;todo consiste en aprovechar la presentaci&oacute;n preparada para la tarea anterior (comunicaci&oacute;n inicial relativa al SGEn) y a&ntilde;adirle diapositivas que aborden de manera espec&iacute;fica los USEn, los objetivos y metas en materia de energ&iacute;a, y cualquier informaci&oacute;n adicional que se requiera. V&eacute;ase el recurso [resource](General_EnMS_Awareness_Presentation). El recurso [resource](Template_General_EnMS_Awareness_Presentation) consiste en una plantilla o modelo de presentaci&oacute;n que sigue las l&iacute;neas generales del ejemplo de presentaci&oacute;n y puede adaptarse a su propia organizaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>Independientemente del m&eacute;todo que se elija, conserve el registro de la capacitaci&oacute;n para la sensibilizaci&oacute;n en materia energ&eacute;tica y aseg&uacute;rese de tenerlo siempre a la mano. Hay diferentes formas de llevar un registro de la capacitaci&oacute;n sobre conciencia energ&eacute;tica; por ejemplo:</p>
+
+<ul>
+	<li>Requisitos de competencia y formato de registro;</li>
+	<li>Certificados de la capacitaci&oacute;n colocados en las carpetas de los empleados o en una base de datos sobre capacitaci&oacute;n;</li>
+	<li>Hojas de asistencia del departamento en que se labora, o del departamento de Recursos Humanos, u otra oficina central, y</li>
+	<li>Formularios independientes establecidos como registros de ejercicios de capacitaci&oacute;n para la concientizaci&oacute;n en materia de energ&iacute;a.</li>
+</ul>
+
+<p>En el caso de que un contratista o proveedor externos sea el responsable de proporcionar una capacitaci&oacute;n efectiva sobre conciencia en materia de energ&iacute;a del SGEn, convendr&iacute;a mantener los registros en el sitio del contratista o proveedor, pero a disposici&oacute;n de su propia organizaci&oacute;n si &eacute;sta los requiere.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comunicarse internamente)</p>
+
+<p>Ahora establezca un proceso que asegure que la comunicaci&oacute;n interna relativa al desempe&ntilde;o energ&eacute;tico y al SGEn se lleve a cabo de manera continua.</p>
+
+<p>Los temas y puntos que es necesario comunicar internamente incluyen:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Importancia de la gesti&oacute;n de energ&iacute;a</li>
+	<li>Responsabilidades y autoridades en materia de gesti&oacute;n energ&eacute;tica</li>
+	<li>Objetivos energ&eacute;ticos</li>
+	<li>Desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n</li>
+	<li>Cualquier otra informaci&oacute;n del SGEn, si es pertinente</li>
+</ul>
+
+<p>[Learn More](M&eacute;todos de comunicaci&oacute;n interna)</p>
+
+<p>Existe una variedad de m&eacute;todos para comunicarse de manera interna, incluidos:</p>
+
+<ul>
+	<li>Anuncios</li>
+	<li>Boletines internos</li>
+	<li>Sitios de red interna</li>
+	<li>Protectores de pantalla</li>
+	<li>Correos electr&oacute;nicos</li>
+	<li>Reuniones</li>
+	<li>Ejercicios de capacitaci&oacute;n</li>
+	<li>Sistemas de sugerencias e incentivos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Se pueden emplear distintos m&eacute;todos para comunicar los diferentes temas o asuntos relativos al SGEn a un p&uacute;blico diverso. Aproveche los procesos de comunicaci&oacute;n interna ya en uso siempre que ello sea posible y conveniente.</p>
+
+<p>[Learn More End] (Claves para procesos efectivos de comunicaci&oacute;n interna del SGEn)</p>
+
+<p>En primer lugar, la comunicaci&oacute;n tiene que darse de manera continua. La alta direcci&oacute;n debe comunicar la importancia de la gesti&oacute;n energ&eacute;tica a toda la organizaci&oacute;n (v&eacute;ase la tarea [task](Energy Policy)). El representante de la direcci&oacute;n debe comunicar las responsabilidades de la gesti&oacute;n de energ&iacute;a y promover la conciencia sobre las pol&iacute;ticas y objetivos energ&eacute;ticos en los distintos niveles de la organizaci&oacute;n. Por lo general es el representante de la direcci&oacute;n quien asegura que los procesos de comunicaci&oacute;n interna (incluidos los de la alta direcci&oacute;n) se verifiquen en todos los niveles y funciones de la organizaci&oacute;n.</p>
+
+<p>En segundo lugar, no todos los empleados necesitan la misma informaci&oacute;n. Piense en estrategias y contenidos de comunicaci&oacute;n que sean apropiados al p&uacute;blico al que van dirigidos. Por ejemplo, se podr&aacute; comunicar datos detallados sobre desempe&ntilde;o energ&eacute;tico a los mandos directivos en una reuni&oacute;n de revisi&oacute;n gerencial (v&eacute;ase la tarea [task](Management Review)), mientras que para el resto de la planta laboral bastar&aacute; con distribuir un resumen informativo (por lo general a manera de gr&aacute;ficas, como l&iacute;neas de tendencias, gr&aacute;ficos circulares o de barras, etc.) en pizarras o tableros situados en distintos puntos de las instalaciones. Utilice el recurso [resource](Internal_EnMS_Communications_Planning_Worksheet) como apoyo para planificar e instrumentar procesos de comunicaci&oacute;n interna del SGEn.</p>
+
+<p>En tercer lugar, las rutas para una comunicaci&oacute;n efectiva son multidireccionales. La comunicaci&oacute;n relativa al SGEn debe incluir mecanismos que le permitan al empleado comunicarse hacia arriba, lo mismo que lateralmente, en toda la organizaci&oacute;n.</p>
+
+<p>En cuarto lugar, la comunicaci&oacute;n interna en el marco del SGEn requiere de un sistema de comentarios y sugerencias para garantizar que tanto empleados como prestadores de servicios (por ejemplo, contratistas o proveedores que trabajan <em>in situ</em>) puedan hacer llegar sus comentarios o sugerir mejoras al SGEn. Para ser efectivo, tal sistema debe permitir alg&uacute;n tipo de retroalimentaci&oacute;n en torno a los comentarios y sugerencias, independientemente de su grado de viabilidad. El recurso [resource](EnMS_Suggestion_Form) puede ayudar a dise&ntilde;ar un sistema de comentarios y sugerencias. Algunas organizaciones aprovechan las actividades en curso de sus equipos de mejora continua como mecanismos para canalizar comentarios y sugerencias de los empleados con miras a impulsar mejoras.</p>
+
+<p>Habr&aacute; organizaciones que se resistan a poner en marcha un sistema de sugerencias. Por ejemplo, en las grandes organizaciones los sistemas de sugerencias a veces se sobresaturan. Esto es especialmente cierto si hay programas de incentivos o de ganancias compartidas que respaldan el proceso de sugerencias. Una manera de organizar el volumen de sugerencias al tiempo de cuidar que se les d&eacute; la consideraci&oacute;n debida, es alternar la apertura y el cierre del proceso de recepci&oacute;n de sugerencias de acuerdo con un calendario fijo. Este m&eacute;todo puede ser &uacute;til para organizaciones m&aacute;s peque&ntilde;as con recursos limitados de personal encargado de gestionar los procesos de sugerencias y comentarios.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Mejores pr&aacute;cticas de comunicaci&oacute;n interna)</p>
+
+<p>Algunas organizaciones utilizan incentivos para fomentar la participaci&oacute;n en sistemas de comentarios y sugerencias. Por lo regular, las sugerencias que se instrumentaron y que redundaron en los mayores ahorros o mejoras en desempe&ntilde;o energ&eacute;tico se destacan, junto con el nombre de la persona o personas que presentaron la idea. Los siguientes son ejemplos de incentivos o premios que podr&iacute;an aplicarse en su organizaci&oacute;n:</p>
+
+<ul>
+	<li>Menci&oacute;n en nota o art&iacute;culo especial en el bolet&iacute;n interno de la organizaci&oacute;n</li>
+	<li>Tarjetas de regalo con valor monetario</li>
+	<li>Boletos de cine</li>
+	<li>Comidas con servicio organizadas por los supervisores y gerentes</li>
+	<li>Regalo de novedades de mercado (playeras, tazas, gorras, etc.)</li>
+	<li>Espacio de estacionamiento privado por un mes</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Decidir sobre la comunicaci&oacute;n externa)</p>
+
+<p>Durante la instrumentaci&oacute;n del SGEn es necesario decidir de qu&eacute; manera se comunicar&aacute; su organizaci&oacute;n con partes externas respecto de su:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>SGEn</li>
+	<li>Desempe&ntilde;o energ&eacute;tico</li>
+</ul>
+
+<p>Dados el creciente inter&eacute;s del p&uacute;blico, los clientes y otras partes interesadas en temas de sustentabilidad, y la voluntad de muchas organizaciones de mostrar su liderazgo en este terreno, algunas organizaciones deciden comunicar proactivamente sus pol&iacute;ticas, metas y logros en materia energ&eacute;tica y ambiental. Otras, en cambio, optan por abordar este tipo de comunicaci&oacute;n externa de manera m&aacute;s reactiva, y optan por responder a preguntas o a la solicitud de informaci&oacute;n de forma m&aacute;s individualizada.</p>
+
+<p>Independientemente del enfoque que se tome, la decisi&oacute;n sobre la manera de abordar la comunicaci&oacute;n externa debe quedar registrada y adoptarse un m&eacute;todo para regular las mismas.</p>
+
+<p>A fin de establecer un m&eacute;todo (o plan) de comunicaci&oacute;n externa proactiva, identifique lo siguiente:</p>
+
+<ul>
+	<li>P&uacute;blico al que se dirigir&aacute;</li>
+	<li>Metas de su comunicaci&oacute;n</li>
+	<li>Informaci&oacute;n que ha de comunicarse</li>
+	<li>Qui&eacute;n habr&aacute; de comunicarla</li>
+	<li>Mecanismos o medios a emplear</li>
+	<li>Frecuencia de la comunicaci&oacute;n</li>
+	<li>Fecha de inicio de la comunicaci&oacute;n</li>
+</ul>
+
+<p>El recurso [resource](External_Communications_Planning_Worksheet) puede facilitar el proceso de planificaci&oacute;n de la comunicaci&oacute;n.</p>
+
+<p>[Learn More](Comunicaci&oacute;n externa)</p>
+
+<p>Si su organizaci&oacute;n decide ser proactiva en su comunicaci&oacute;n externa en torno a la gesti&oacute;n de energ&iacute;a, considere comunicar el siguiente tipo de informaci&oacute;n:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Objetivos y metas de la gesti&oacute;n de energ&iacute;a</li>
+	<li>Proyectos de conservaci&oacute;n de la energ&iacute;a o de eficiencia energ&eacute;tica</li>
+	<li>Mejoras en el desempe&ntilde;o energ&eacute;tico</li>
+	<li>Ahorros en costos de energ&iacute;a</li>
+	<li>Utilizaci&oacute;n de energ&iacute;a renovable</li>
+	<li>Participaci&oacute;n en programas voluntarios de gesti&oacute;n energ&eacute;tica o ambientales</li>
+</ul>
+
+<p>Algunos ejemplos de mecanismos para la comunicaci&oacute;n externa incluir&iacute;an:</p>
+
+<ul>
+	<li>Sitios web</li>
+	<li>Comunicados de prensa</li>
+	<li>Informes anuales</li>
+	<li>Informes de sustentabilidad</li>
+	<li>Correo electr&oacute;nico</li>
+	<li>Boletines impresos o electr&oacute;nicos</li>
+	<li>Reuniones electr&oacute;nicas / seminarios en l&iacute;nea</li>
+	<li>Reuniones comunitarias</li>
+	<li>Recorridos por instalaciones o eventos a puerta abierta</li>
+	<li>Oportunidades de patrocinio</li>
+	<li>Anuncios televisivos o radiof&oacute;nicos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>La planificaci&oacute;n de los procesos de comunicaci&oacute;n externa, sean &eacute;stos proactivos o reactivos, comporta la asignaci&oacute;n de responsabilidades y autoridad para responder a la comunicaci&oacute;n proveniente de partes interesadas o grupos de inter&eacute;s espec&iacute;ficos. Por ejemplo, casi siempre es el gerente de cumplimiento normativo el encargado de responder a preguntas o de atender visitas de supervisores gubernamentales. El representante de la direcci&oacute;n es por lo general la persona autorizada para interactuar con las empresas proveedoras de energ&iacute;a y para responder a consultas sobre la pol&iacute;tica energ&eacute;tica o los usos significativos de energ&iacute;a de la organizaci&oacute;n.</p>
+
+<p>Algunas organizaciones optar&aacute;n por un procedimiento documentado que describa el proceso mediante el cual se habr&aacute; de manejar la comunicaci&oacute;n externa. El recurso [resource](Example_External_Communications_Responsibility_Authority_Matrix_Energy_Related) ilustra c&oacute;mo pueden definirse y documentarse las responsabilidades en relaci&oacute;n con la comunicaci&oacute;n externa, as&iacute; como su asignaci&oacute;n.</p>
+
+<p>Entre los registros de la comunicaci&oacute;n externa podr&iacute;an incluirse, por ejemplo, los recursos [resource](EnMS_External_Communications_Log) y [resource](EnMS_External_Communications_Record).&nbsp;</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Como ocurre con la norma ISO 50001:2011, tanto la ISO 14001:2015 como la ISO 9001:2015 requieren que la alta direcci&oacute;n establezca, instrumente y mantenga una pol&iacute;tica que debe comunicarse al interior de la organizaci&oacute;n. En las tres normas se requiere que la alta direcci&oacute;n comunique la importancia de una efectiva gesti&oacute;n energ&eacute;tica, ambiental y de calidad. Los procesos de comunicaci&oacute;n que operan en un sistema de gesti&oacute;n pueden tambi&eacute;n aprovecharse para los otros sistemas.</p>
+
+<p>Los procesos de capacitaci&oacute;n y concientizaci&oacute;n empleados en los sistemas de gesti&oacute;n basados en las normas ISO 14001:2015 e ISO 9001:2015 para asegurar la sensibilizaci&oacute;n necesaria del personal, tambi&eacute;n podr&iacute;an servir para el SGEn basado en la norma ISO 50001:2011. Aunque el contenido de la capacitaci&oacute;n y comunicaci&oacute;n para la sensibilizaci&oacute;n var&iacute;a dependiendo de la norma espec&iacute;fica de que se trate, los procesos subyacentes utilizados podr&iacute;an ser compartidos por los sistemas de gesti&oacute;n ambiental, energ&eacute;tica y de calidad.</p>
+
+<p>Las organizaciones que se ci&ntilde;en a la norma ISO 9001:2015 emplean ciertos procesos de comunicaci&oacute;n interna que pueden aprovecharse en el sistema basado en la norma ISO 50001; por ejemplo, aqu&eacute;llos por los que se comunican pol&iacute;ticas, objetivos, roles, responsabilidades y autoridades.</p>
+
+<p>En los sistemas basados en las normas ISO 9001:2015 y ISO 14001-2015, ya se han tomado algunas decisiones sobre comunicaci&oacute;n externa. La norma ISO 14001 requiere informar sobre el sistema de gesti&oacute;n y las obligaciones de cumplimiento; en tanto que la ISO 9001 exige que la pol&iacute;tica de calidad se ponga a disposici&oacute;n de las partes interesadas relevantes. Adem&aacute;s, ambas normas requieren de procesos de comunicaci&oacute;n con proveedores externos. As&iacute;, una organizaci&oacute;n que ya se ci&ntilde;e a las normas ISO 9001 o ISO 14001 y que emprende la instrumentaci&oacute;n de la norma ISO 50001 seguramente evaluar&aacute; si estas mismas decisiones se aplicar&aacute;n para el SGEn, o incluso podr&iacute;a simplemente aceptarlas como decisiones de facto en lo concerniente a la comunicaci&oacute;n externa para efectos de la norma ISO 50001.</p>
+
+<p>M&aacute;s a&uacute;n, las organizaciones que se ci&ntilde;en a las normas ISO 9001 o ISO 14001 ya cuentan con procesos de comunicaci&oacute;n externa que abordan el qu&eacute;, cu&aacute;ndo, con qui&eacute;n y c&oacute;mo (es decir, el m&eacute;todo) de los elementos o productos comunicativos. Estos mismos procesos de comunicaci&oacute;n externa pueden usarse para los fines del SGEn.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El paso 1.3 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) sugiere hacer extensiva la pol&iacute;tica energ&eacute;tica a todo el personal de la organizaci&oacute;n, a fin de alentar a los empleados a participar. La norma ISO 50001, por su parte, <strong><em>exige</em></strong> que la pol&iacute;tica energ&eacute;tica se comunique a toda la organizaci&oacute;n.</p>
+
+<p>Los usuarios del programa Energy Star se comunican de manera externa con los grupos de inter&eacute;s; es decir, la decisi&oacute;n sobre comunicarse manera externa ya ha sido tomada y se ha abordado en el plan de comunicaci&oacute;n. Lo mismo ocurre al instrumentar su SGEn: el m&eacute;todo o m&eacute;todos a emplear para la comunicaci&oacute;n externa ya se habr&iacute;an cubierto en el plan de comunicaci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

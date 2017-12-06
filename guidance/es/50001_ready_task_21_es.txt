@@ -1,0 +1,84 @@
+USDOE 50001 READY NAVIGATOR TASK 21
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Capacitación
+----------TITLE----------
+Tarea 21: Hemos identificado las necesidades de capacitación para el sistema 50001 Ready, al igual que nuestros USEn; hemos capacitado a nuestro personal y contratistas pertinentes, a fin de garantizar su competencia en gestión de energía
+----------GETTING IT DONE----------
+<ul>
+	<li>Llene la matriz que se presenta en el recurso [resource](EnMS_Training_Needs_Planning_Matrix).</li>
+	<li>Corrija las deficiencias en la capacitaci&oacute;n una vez que las identifique.</li>
+	<li>Mantenga registros de las necesidades, ofertas y resultados de la capacitaci&oacute;n.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>El personal de su organizaci&oacute;n que realiza trabajo relacionado con los usos significativos de energ&iacute;a (USEn) debe ser competente para llevar a cabo esas actividades de manera que se minimice cualquier posible efecto negativo en el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Si se identifican deficiencias por cuanto a la competencia de los miembros del personal, entonces deben tomarse las medidas pertinentes a fin de garantizar que alcancen el nivel requerido para realizar el trabajo.</p>
+
+<p>Es preciso identificar las tareas de capacitaci&oacute;n y otras acciones necesarias para subsanar las deficiencias en materia de competencia del personal cuyo trabajo se asocia con los USEn. Adicionalmente, su organizaci&oacute;n debe identificar necesidades de capacitaci&oacute;n relacionadas con otros elementos del SGEn. Por lo general, corresponde al representante de la direcci&oacute;n, con apoyo del equipo de gesti&oacute;n energ&eacute;tica, y posiblemente tambi&eacute;n del personal de gesti&oacute;n ambiental o de seguridad y salud, identificar tales necesidades y actualizarlas cuando menos una vez al a&ntilde;o.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>garantizar la competencia del personal;</li>
+	<li>identificar y cubrir las necesidades de capacitaci&oacute;n relacionadas con los distintos USEn, e</li>
+	<li>identificar y cubrir las necesidades de capacitaci&oacute;n relacionadas con el SGEn.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.5.2 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Garantizar la competencia del personal)</p>
+
+<p>Quienes en el desempe&ntilde;o de su trabajo para la organizaci&oacute;n realizan actividades relacionadas con los usos significativos de energ&iacute;a (USEn) deben ser competentes para llevar a cabo esas actividades, independientemente de si se trata de empleados asalariados, pagados por hora, de tiempo parcial o temporales, as&iacute; como contratistas, proveedores o consultores externos que prestan su apoyo en las instalaciones de la organizaci&oacute;n. Ya antes en el proceso del programa 50001 Ready se integr&oacute; una lista inicial del personal que realiza trabajo relacionado con los USEn, mediante el recurso [resource](SEU_Control_Chart) incluido inicialmente en las tareas [task](Significant Energy Uses) y [task](Performance Indicators). (Adicionalmente, en las tareas [task](Significant Energy Uses) y [task](Performance Indicators) se present&oacute; el recurso [resource](Example_SEU_Control_Chart).) Inicie con dicha informaci&oacute;n e identifique al personal adicional que podr&iacute;a incluirse para cumplir con los requisitos en materia de competencia establecidos en el apartado 4.5.2 de la ISO 50001.</p>
+
+<p>La competencia, en su acepci&oacute;n conforme a la norma ISO 50001, tiene que ver con las cualidades o capacidades que requiere un individuo para realizar de manera eficaz las responsabilidades de su puesto. Las competencias pueden variar dependiendo del trabajo y se basan en uno o m&aacute;s de los siguientes factores:</p>
+
+<ul>
+	<li><strong>Educaci&oacute;n.</strong> Conocimiento generalmente adquirido por medio de un programa de educaci&oacute;n formal, como una escuela, instituto t&eacute;cnico o universidad.</li>
+	<li><strong>Capacitaci&oacute;n.</strong> Preparaci&oacute;n generalmente adquirida como resultado de la ense&ntilde;anza de habilidades vocacionales o pr&aacute;cticas y conocimientos en relaci&oacute;n con aptitudes &uacute;tiles espec&iacute;ficas. Algunos ejemplos son operaci&oacute;n de la caldera, mantenimiento del sistema el&eacute;ctrico o tratamiento de las aguas residuales.</li>
+	<li><strong>Habilidad.</strong> Talento o capacidad que puede aprenderse o desarrollarse y que posteriormente se demuestra. Algunos ejemplos son soldadura, pintura o desarrollo de programas inform&aacute;ticos.</li>
+	<li><strong>Experiencia.</strong> La acumulaci&oacute;n de conocimientos o habilidades que son resultado de la participaci&oacute;n directa en actos, actividades o tareas.</li>
+</ul>
+
+<p>En un SGEn conforme a la ISO 50001, los puestos asociados con los usos significativos de energ&iacute;a deben tener competencias definidas. Por ejemplo, si se identifica que un sistema de caldera es un USEn, los trabajos asociados con la operaci&oacute;n y mantenimiento del sistema de caldera deben contar con requisitos definidos de educaci&oacute;n, capacitaci&oacute;n, habilidades o experiencia, ya sea de manera individual o una combinaci&oacute;n de &eacute;stos. Se puede usar el recurso [resource](Competency_Requirements_Record_Form) para definir y registrar los requisitos en materia de competencia para cada puesto. Consulte el recurso [resource](Example_Competency_Requirements_Records_Form) para conocer un ejemplo de c&oacute;mo se puede llenar este formato en el caso de un electricista de mantenimiento.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar y cubrir las necesidades de capacitaci&oacute;n relacionadas con el USEn)</p>
+
+<p>Cuando los empleados y contratistas llevan a cabo trabajo relacionado con los USEn, es importante que tengan tambi&eacute;n conocimiento de los siguientes puntos (ya que &eacute;stos se relacionan con sus responsabilidades laborales):</p>
+
+<ul>
+	<li>Controles operativos asociados con los USEn (v&eacute;ase la tarea [task](Operational Controls)).</li>
+	<li>Requisitos de monitoreo, medici&oacute;n y an&aacute;lisis (v&eacute;anse las tareas [task](Monitoring), [task](Measurement) y [task](Significant Energy Uses)).</li>
+	<li>Evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico de productos, servicios y equipo obtenidos de los proveedores (v&eacute;ase la tarea [task](Procurement))</li>
+</ul>
+
+<p>Con base en los requisitos en materia de competencia hay que evaluar al personal que realiza actividades relacionadas con los USEn. A partir de las deficiencias que pudieran identificarse en materia de competencia de un individuo se determinar&aacute;n las necesidades de capacitaci&oacute;n espec&iacute;ficas y las medidas a emprender, de manera que pueda formularse un plan para que el empleado alcance el nivel de competencia deseado.</p>
+
+<p>El recurso [resource](Competency_Requirements_Record_Form) constituye un buen apoyo para registrar la evaluaci&oacute;n de la educaci&oacute;n, capacitaci&oacute;n, habilidades y experiencia de un individuo respecto a los requisitos establecidos en relaci&oacute;n con su puesto o funci&oacute;n, as&iacute; como para identificar deficiencias.</p>
+
+<p>Asimismo, en la p&aacute;gina 2 del mismo recurso ([resource](Competency_Requirements_Record_Form)) se puede registrar el plan de capacitaci&oacute;n y el estado de ejecuci&oacute;n. Por lo general, una vez formulado el plan de capacitaci&oacute;n, el empleado, el supervisor y el coordinador de capacitaci&oacute;n lo revisan para asignar prioridades o nivel de importancia a las necesidades de capacitaci&oacute;n identificadas. Se dispone adem&aacute;s de otro recurso, [resource](Example_Competency_Requirements_Records_Form), en el que se muestra un ejemplo del plan de capacitaci&oacute;n.</p>
+
+<p>Para las organizaciones interesadas en capacitaci&oacute;n t&eacute;cnica en los sistemas energ&eacute;ticos, la Oficina de Manufactura Avanzada (<em>Advanced Manufacturing Office</em>, AMO) del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos ha creado programas de capacitaci&oacute;n sobre mejores pr&aacute;cticas del sistema y herramientas inform&aacute;ticas de la AMO. Hay cursos de la AMO disponibles por medio de clases y talleres dirigidos por un instructor y cursos de aprendizaje electr&oacute;nico interactivos autodirigidos. Para conocer m&aacute;s, visite el sitio en internet [resource](AMO_Training) del DOE.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar y cubrir las necesidades de capacitaci&oacute;n relacionadas con el SGEn)</p>
+
+<p>Varias grandes organizaciones tienen en marcha procesos para identificar y cubrir las necesidades de capacitaci&oacute;n del personal en la organizaci&oacute;n. En la mayor&iacute;a de los casos son las &aacute;reas de recursos humanos o de gesti&oacute;n ambiental y de seguridad y salud las que se encargan de esos procesos, toda vez que necesitan garantizar su oferta de capacitaci&oacute;n y una actualizaci&oacute;n anual para satisfacer los requisitos reglamentarios correspondientes. Al establecer procesos similares para el SGEn convendr&aacute; aprovechar los procesos y recursos de capacitaci&oacute;n existentes.</p>
+
+<p>La matriz de planificaci&oacute;n de las necesidades de capacitaci&oacute;n del SGEn (v&eacute;ase tambi&eacute;n el ejemplo de formulario llenado) servir&aacute; para identificar y planificar la capacitaci&oacute;n relacionada con el SGEn, incluidas la capacitaci&oacute;n espec&iacute;fica en cuestiones relacionadas con la ISO 50001 para el representante de la direcci&oacute;n y el equipo de gesti&oacute;n energ&eacute;tica ([task](Energy Team)); la capacitaci&oacute;n de sensibilizaci&oacute;n en torno al uso de energ&iacute;a para todo el personal (incluidos los empleados nuevos y contratistas en sitio) ([task](Communications)), y la capacitaci&oacute;n de los auditores internos ([task](Internal Audit)).</p>
+
+<p>Una vez identificadas las necesidades de capacitaci&oacute;n del SGEn, el siguiente paso es proporcionar la capacitaci&oacute;n o tomar otras acciones necesarias. Mantenga registros de la capacitaci&oacute;n. Revise las necesidades de capacitaci&oacute;n del SGEn al menos anualmente y actual&iacute;celas seg&uacute;n se requiera. Algunas organizaciones integran la capacitaci&oacute;n relacionada con el SGEn con la capacitaci&oacute;n de las &aacute;reas de gesti&oacute;n ambiental y de seguridad y salud.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las normas ISO 50001:2011, ISO 14001:2015 e ISO 9001:2015 tienen requisitos dirigidos a garantizar la competencia del personal con base en elementos apropiados de educaci&oacute;n, capacitaci&oacute;n y experiencia. Un sistema de gesti&oacute;n ambiental conforme a la ISO 14001:2015 se centra en la competencia del personal respecto del desempe&ntilde;o ambiental y las obligaciones de cumplimiento ambiental de la organizaci&oacute;n. Un sistema ISO 9001:2015 se centra en el personal que afecta el desempe&ntilde;o y eficacia del sistema de gesti&oacute;n de la calidad. El objetivo del SGEn conforme a la ISO 50001:2011 es m&aacute;s espec&iacute;fico: se centra en el personal cuyo trabajo se relaciona directamente con los usos significativos de energ&iacute;a identificados de la organizaci&oacute;n. Sin embargo, los procesos que usa la organizaci&oacute;n para garantizar la competencia del personal pueden ser los mismos para los tres sistemas de gesti&oacute;n, aun si el personal involucrado en cada uno es diferente. De hecho, al instrumentar la ISO 50001, se recomienda aplicar al SGEn los mismos procesos que se usen para responder a los requisitos en materia de competencia de la ISO 14001 o ISO 9001. Asimismo, los registros de aspectos de competencia que suelen llevarse para los sistemas de gesti&oacute;n de la calidad o ambiental son similares a los necesarios para el SGEn.</p>
+
+<p>Los procesos que se usan en un sistema ISO 14001:2015 para determinar y cubrir las necesidades de capacitaci&oacute;n relacionadas con los aspectos ambientales y el sistema de gesti&oacute;n ambiental tambi&eacute;n se pueden aplicar para identificar las necesidades de capacitaci&oacute;n relacionadas con el control de los usos significativos de energ&iacute;a y la operaci&oacute;n del SGEn en apego a la ISO 50001:2011. &Eacute;sta es un &aacute;rea en la que los requisitos energ&eacute;ticos, ambientales y de seguridad y salud relacionados con las necesidades de capacitaci&oacute;n con frecuencia se integran, de manera que se usa un solo proceso para abordar los requisitos de necesidades de capacitaci&oacute;n de los tres sistemas de gesti&oacute;n.</p>
+
+<p>En otras palabras, los procesos que se usan para determinar las necesidades de competencia en un sistema de gesti&oacute;n de la calidad conforme a la ISO 9001:2015 bien pueden adaptarse para su uso en el SGEn, aun cuando el personal involucrado pueda ser diferente.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El paso 5.3 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) trata del desarrollo de la capacidad por medio de la capacitaci&oacute;n del personal. La orientaci&oacute;n que brinda la presente tarea del Navegador 50001 Ready, por su parte, se centra en la competencia y capacitaci&oacute;n del personal relacionado con los usos significativos de energ&iacute;a identificados y la operaci&oacute;n del SGEn conforme a la ISO 50001, y puede contribuir a fortalecer los esfuerzos de capacitaci&oacute;n existentes.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

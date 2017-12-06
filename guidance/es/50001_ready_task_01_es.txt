@@ -4,33 +4,33 @@
 ----------MENU NAME----------
 Alcance y límites
 ----------TITLE----------
-Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready.
+Tarea 1: Hemos definido, documentado y aprobado el alcance y los límites de nuestro sistema de gestión de energía de acuerdo con el programa 50001 Ready
 ----------GETTING IT DONE----------
 <ul>
-	<li>Complete la [resource](Scope_Boundaries_Worksheet) para definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE). Tome en cuenta las observaciones de los mandos directivos de la empresa.</li>
-	<li>Prepare una declaraci&oacute;n del alcance y los l&iacute;mites del SGE.</li>
+	<li>Complete el recurso [resource](Scope_Boundaries_Worksheet) para definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGEn). Tome en cuenta las observaciones de los mandos directivos de la empresa.</li>
+	<li>Prepare una declaraci&oacute;n del alcance y los l&iacute;mites del SGEn.</li>
 	<li>Presente dicha declaraci&oacute;n a la alta direcci&oacute;n para su aprobaci&oacute;n, y luego comun&iacute;quela a toda la organizaci&oacute;n.</li>
 </ul>
 ----------TASK OVERVIEW----------
-<p>Los altos directivos son los responsables de definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGE) de su organizaci&oacute;n. Estos par&aacute;metros &mdash;alcance y l&iacute;mites&mdash; permiten a la organizaci&oacute;n determinar la magnitud de las actividades, as&iacute; como qu&eacute; instalaciones y decisiones abarcar&aacute; el SGE, y, con base en ello, concentrar acciones y recursos. El alcance puede contener distintos l&iacute;mites: de &iacute;ndole f&iacute;sica, de sitio u organizacionales, en todos los casos establecidos por la propia organizaci&oacute;n a manera de &ldquo;l&iacute;nea lim&iacute;trofe&rdquo; del SGE.</p>
+<p>Los altos directivos son los responsables de definir el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGEn) de su organizaci&oacute;n. Estos par&aacute;metros &mdash;alcance y l&iacute;mites&mdash; permiten a la organizaci&oacute;n determinar la magnitud de las actividades, as&iacute; como qu&eacute; instalaciones y decisiones abarcar&aacute; el SGEn y, con base en ello, concentrar acciones y recursos. El alcance puede contener distintos l&iacute;mites: de &iacute;ndole f&iacute;sica, de sitio u organizacionales, en todos los casos establecidos por la propia organizaci&oacute;n a manera de &ldquo;l&iacute;nea lim&iacute;trofe&rdquo; del SGEn.</p>
 
-<p>Al definir el alcance y los l&iacute;mites, no deber&aacute; excluirse ning&uacute;n equipo o sistema que consuma energ&iacute;a, a menos que &eacute;stos cuenten con medidores independientes o resulte viable realizar un c&aacute;lculo confiable. Una vez definidos el alcance y los l&iacute;mites, la organizaci&oacute;n no podr&aacute; excluir las fuentes de energ&iacute;a comprendidas dentro de los l&iacute;mites definidos para el SGE.</p>
+<p>Al definir el alcance y los l&iacute;mites, no deber&aacute; excluirse ning&uacute;n equipo o sistema que consuma energ&iacute;a, a menos que &eacute;stos cuenten con medidores independientes o resulte viable realizar un c&aacute;lculo confiable. Una vez definidos el alcance y los l&iacute;mites, la organizaci&oacute;n no podr&aacute; excluir las fuentes de energ&iacute;a comprendidas dentro de los l&iacute;mites definidos para el SGEn.</p>
 
-<p>El alcance y los l&iacute;mites del SGE podr&iacute;an abarcar, por ejemplo, las operaciones administrativas de edificaciones comerciales en una o m&aacute;s ubicaciones espec&iacute;ficas; las actividades de fabricaci&oacute;n, almacenamiento y distribuci&oacute;n en una planta en particular, o m&uacute;ltiples instalaciones de una corporaci&oacute;n en diversos sitios. Pero tambi&eacute;n en muchos casos, &eacute;stos comprender&aacute;n &uacute;nicamente una edificaci&oacute;n o instalaci&oacute;n.</p>
+<p>El alcance y los l&iacute;mites del SGEn podr&iacute;an abarcar, por ejemplo, las operaciones administrativas de edificaciones comerciales en una o m&aacute;s ubicaciones espec&iacute;ficas; las actividades de fabricaci&oacute;n, almacenamiento y distribuci&oacute;n en una planta en particular, o m&uacute;ltiples instalaciones de una corporaci&oacute;n en diversos sitios. Pero tambi&eacute;n en muchos casos, &eacute;stos comprender&aacute;n &uacute;nicamente una edificaci&oacute;n o instalaci&oacute;n.</p>
 
 <p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
 
 <ul>
-	<li>identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGE;</li>
-	<li>definir los l&iacute;mites organizacionales y de sitio para su SGE, y</li>
-	<li>preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGE.</li>
+	<li>identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGEn;</li>
+	<li>definir los l&iacute;mites organizacionales y de sitio para su SGEn, y</li>
+	<li>preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGEn.</li>
 </ul>
 
 <p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.1, 4.2.1 y 4.5.4.1 de la norma ISO 50001:2011.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](<strong>Identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGE</strong>)</p>
+<p>[Accordion](Identificar el alcance de las actividades, instalaciones y estructuras de decisi&oacute;n a incluir en su SGEn)</p>
 
-<p>Considere las siguientes preguntas al definir las actividades, instalaciones y decisiones a incluir en el alcance y los l&iacute;mites de su sistema de gesti&oacute;n de energ&iacute;a (SGE). La [resource](Scope_Boundaries_Worksheet) puede servirle de apoyo para delimitar el alcance.</p>
+<p>Considere las siguientes preguntas al definir las actividades, instalaciones y decisiones a incluir en el alcance y los l&iacute;mites de su sistema de gesti&oacute;n de energ&iacute;a (SGEn). El recurso [resource](Scope_Boundaries_Worksheet) puede servirle de apoyo para delimitar el alcance.</p>
 
 <ul>
 	<li>&iquest;Hay alguna &aacute;rea sobre la que no se dispone de informaci&oacute;n en materia energ&eacute;tica?</li>
@@ -43,7 +43,7 @@ Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sist
 	</li>
 </ul>
 
-<p>Entre los recursos que pueden resultar de utilidad para definir el alcance y los l&iacute;mites del SGE se incluyen:</p>
+<p>Adem&aacute;s, entre los recursos internos (de su propia organizaci&oacute;n) que pueden resultar de utilidad para definir el alcance y los l&iacute;mites del SGEn se incluyen:</p>
 
 <ul>
 	<li>Organigrama</li>
@@ -60,9 +60,9 @@ Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sist
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](<strong>Definir los l&iacute;mites organizacionales y de sitio para su SGE</strong>)</p>
+<p>[Accordion](Definir los l&iacute;mites organizacionales y de sitio para su SGEn)</p>
 
-<p>Habiendo considerado y respondido a las preguntas referentes a la magnitud de las actividades, instalaciones y decisiones a incluir en el alcance de su SGE, &iquest;qu&eacute; implicaciones f&iacute;sicas tiene su decisi&oacute;n? &iquest;En qu&eacute; forma se traducir&aacute;n &eacute;stas en una declaraci&oacute;n de los l&iacute;mites de su SGE? Considere sus respuestas a las siguientes preguntas al definir los l&iacute;mites de su SGE. La [resource](Scope_Boundaries_Worksheet) servir&aacute; para ayudar a establecer los l&iacute;mites a definir en la declaraci&oacute;n.</p>
+<p>Una vez que consider&oacute; y respondi&oacute; las preguntas referentes a la magnitud de las actividades, instalaciones y decisiones a incluir en el alcance de su SGEn, toca cuestionarse: &iquest;qu&eacute; implicaciones f&iacute;sicas tiene su decisi&oacute;n? &iquest;C&oacute;mo se traducir&aacute;n &eacute;stas en una declaraci&oacute;n de los l&iacute;mites de su SGEn? Considere sus respuestas a estas preguntas al definir los l&iacute;mites de su SGEn. La [resource](Scope_Boundaries_Worksheet) servir&aacute; para ayudar a establecer los l&iacute;mites a definir en la declaraci&oacute;n. Preg&uacute;ntese, adem&aacute;s:</p>
 
 <ul>
 	<li>&iquest;Cu&aacute;les son los l&iacute;mites f&iacute;sicos u organizacionales de las &aacute;reas a incluir?</li>
@@ -72,14 +72,14 @@ Tarea 1. Definir, documentar y aprobar el alcance y los límites de nuestro sist
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](<strong>Preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGE</strong>)</p>
+<p>[Accordion](Preparar una declaraci&oacute;n del alcance y los l&iacute;mites de su SGEn)</p>
 
-<p>Con base en los resultados obtenidos de las dos actividades anteriores, elabore una declaraci&oacute;n por escrito del alcance y los l&iacute;mites del SGE. Consulte la [resource](Example_Scope_Boundaries_Worksheet), que le brindar&aacute; orientaci&oacute;n adicional sobre c&oacute;mo formalizar una declaraci&oacute;n de alcance y l&iacute;mites. Este documento puede ser independiente o formar parte de un manual en materia energ&eacute;tica que, sin ser propiamente un requisito, para muchas organizaciones resulta de gran utilidad como &ldquo;mapa de ruta&rdquo; de su SGE. (Si desea informaci&oacute;n m&aacute;s detallada, cons&uacute;ltese [resource](Energy_Manual_Guidelines).)</p>
+<p>Con base en los resultados obtenidos de las dos actividades anteriores, elabore una declaraci&oacute;n por escrito del alcance y los l&iacute;mites del SGEn. Consulte el recurso [resource](Example_Scope_Boundaries_Worksheet), que &mdash;a manera de ejemplo&mdash; le brindar&aacute; orientaci&oacute;n adicional sobre c&oacute;mo formalizar una declaraci&oacute;n de alcance y l&iacute;mites. Este documento puede ser independiente o formar parte de un manual sobre eficiencia energ&eacute;tica que, sin ser propiamente un requisito, para muchas organizaciones resulta de gran utilidad como &ldquo;mapa de ruta&rdquo; de su SGEn. (Si se desea informaci&oacute;n m&aacute;s detallada, consulte el recurso [resource](Energy_Manual_Guidelines).)</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The scope that was determined in Step 3.1 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) is not the same as the scope and boundaries of the EnMS. In the case of the ENERGY STAR Guidelines, the scope is determined in respect to short-term or long-term performance goals at an organization-wide, facility, or process/equipment level. The EnMS scope and boundaries define the activities, facilities, decisions and physical or site limits that are covered (i.e. included) in the EnMS&mdash;e.g., a building, plant, facility, site or corporation, or some component of these, and the activities and operations associated with them.</p>
+<p>Las organizaciones que cumplen con la norma ISO 14001:2015 o ISO 9001:2015 han determinado y documentado el alcance de sus sistemas de gesti&oacute;n. Se puede emplear el mismo proceso o uno similar para definir el alcance y los l&iacute;mites del SGEn. La ISO 50001 hace que la identificaci&oacute;n del alcance y los l&iacute;mites del SGEn sean responsabilidad de los mandos directivos. Por lo general, el equipo de gesti&oacute;n energ&eacute;tica elabora el documento correspondiente (declaraci&oacute;n de alcance y l&iacute;mites del SGEn) para que puedan revisarlo y aprobarlo los mandos directivos. Una vez definidos el alcance y los l&iacute;mites del SGEn, todas las fuentes de energ&iacute;a comprendidas en &eacute;stos deber&aacute;n incluirse en el SGEn.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Organizations that conform to ISO 14001:2015 or ISO 9001:2015 have determined and documented the scope of their management system(s). The same or a similar process can be used to define and document the scope and boundaries of the EnMS. ISO 50001 makes identifying the EnMS scope and boundaries a responsibility of top management. Typically, it is drafted by the energy team for top management review and approval. Once the scope and boundaries of the EnMS are defined, all energy sources within the defined scope and boundaries must be included within the EnMS.</p>
+<p>El alcance que se determine en el paso 3.1 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) no es el mismo que el alcance y l&iacute;mites del SGEn. En el caso de los lineamientos del programa Energy Star, el alcance se determina con respecto a las metas de desempe&ntilde;o a corto y largo plazos para toda la organizaci&oacute;n, instalaci&oacute;n o proceso-equipo. En cambio, el alcance y l&iacute;mites del SGEn corresponden a las actividades, instalaciones, decisiones y l&iacute;mites f&iacute;sicos o de sitio cubiertos (es decir, incluidos) espec&iacute;ficamente en el propio sistema de gesti&oacute;n de energ&iacute;a; por ejemplo, una edificaci&oacute;n, planta, instalaci&oacute;n, sitio o corporaci&oacute;n, o alg&uacute;n componente de &eacute;stas, y las actividades y operaciones asociadas.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

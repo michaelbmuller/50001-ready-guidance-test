@@ -1,0 +1,272 @@
+USDOE 50001 READY NAVIGATOR TASK 4
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Equipo de gestión energética
+----------TITLE----------
+Tarea 4: Hemos establecido un equipo de gestión energética que se reúne periódicamente e incluye a un representante de la dirección. Se han definido las funciones y responsabilidades del equipo de gestión energética y todo el personal participante
+----------GETTING IT DONE----------
+<ul>
+	<li>La alta direcci&oacute;n:
+	<ol>
+		<li>Revisar&aacute; las competencias y habilidades convenientes para la funci&oacute;n del representante de la direcci&oacute;n para la gesti&oacute;n energ&eacute;tica.</li>
+		<li>Nombrar&aacute; a un representante de gesti&oacute;n energ&eacute;tica con responsabilidades y facultades asignadas.</li>
+		<li>Registrar&aacute; y comunicar&aacute; este nombramiento.</li>
+	</ol>
+	</li>
+	<li>El representante de la direcci&oacute;n asignado identificar&aacute; a los miembros del equipo, asignar&aacute; las funciones y responsabilidades, y programar&aacute; reuniones regulares del equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Documente a su representante de la direcci&oacute;n en el Navegador 50001, en la secci&oacute;n &lsquo;Administrar el proyecto&rsquo;.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La alta direcci&oacute;n debe nombrar a un representante de gesti&oacute;n energ&eacute;tica para supervisar el SGEn. Este representante de la direcci&oacute;n tiene la responsabilidad general de garantizar que se establezca, ponga en pr&aacute;ctica, mantenga y mejore de manera continua el SGEn, as&iacute; como de presentar a los mandos directivos un informe sobre el desempe&ntilde;o energ&eacute;tico y del SGEn mismo. Se deben considerar las habilidades y competencias convenientes al seleccionar candidatos para esta funci&oacute;n.</p>
+
+<p>Adem&aacute;s de descansar en el representante de gesti&oacute;n energ&eacute;tica, un SGEn se basa en buena medida en un enfoque de equipo para sacar ventaja de la diversidad de las habilidades y conocimientos de cada individuo para el beneficio de la organizaci&oacute;n. El equipo brinda diferentes perspectivas sobre los temas de inter&eacute;s, distribuye la carga de trabajo, facilita la instrumentaci&oacute;n, promueve una mayor aceptaci&oacute;n y mejora las perspectivas para mantener el sistema. El equipo cuenta con la autorizaci&oacute;n de la alta direcci&oacute;n y suele estar dirigido por el representante de la direcci&oacute;n o el responsable de la gesti&oacute;n energ&eacute;tica.</p>
+
+<p>El equipo de gesti&oacute;n energ&eacute;tica tendr&aacute; diversas funciones y responsabilidades asignadas, incluida la gesti&oacute;n de datos energ&eacute;ticos.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>revisar las competencias y habilidades convenientes de un representante de la direcci&oacute;n;</li>
+	<li>nombrar a un representante de la direcci&oacute;n con responsabilidades y facultades asignadas;</li>
+	<li>registrar y comunicar el nombramiento del representante de la direcci&oacute;n;</li>
+	<li>identificar a los miembros del equipo;</li>
+	<li>obtener la autorizaci&oacute;n de la direcci&oacute;n para el equipo de gesti&oacute;n energ&eacute;tica;</li>
+	<li>asignar las funciones y responsabilidades del equipo;</li>
+	<li>asignar las funciones y responsabilidades del equipo para la gesti&oacute;n de datos, y</li>
+	<li>programar reuniones regulares del equipo de gesti&oacute;n energ&eacute;tica.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.2.1 y 4.2.2 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Revisar las competencias y habilidades convenientes)</p>
+
+<p>No se requiere que el representante de la direcci&oacute;n sea un experto en energ&iacute;a o que posea antecedentes t&eacute;cnicos, aunque tener conocimiento de los conceptos energ&eacute;ticos le ser&aacute; de gran ayuda. Dos de los recursos m&aacute;s importantes de este representante son la capacidad de comunicaci&oacute;n y la de liderazgo. Asimismo, es conveniente que se trate de una persona establecida en la organizaci&oacute;n y que goce del respeto de sus compa&ntilde;eros y de la direcci&oacute;n. El representante directivo trabajar&aacute; con un equipo y tendr&aacute; la capacidad de guiarlo &mdash;y a la organizaci&oacute;n en su conjunto&mdash; a fin de poner en pr&aacute;ctica, operar y mejorar el SDEn y, por ende, el desempe&ntilde;o energ&eacute;tico. Si dicho representante no cuenta con conocimientos t&eacute;cnicos, el equipo de gesti&oacute;n energ&eacute;tica deber&aacute; contar con un experto t&eacute;cnico apropiado.</p>
+
+<p>[Learn More](Habilidades y competencias caracter&iacute;sticas del representante de gesti&oacute;n energ&eacute;tica)</p>
+
+<p>Las habilidades y competencias caracter&iacute;sticas del representante de gesti&oacute;n energ&eacute;tica son las siguientes:</p>
+
+<ul>
+	<li>Liderazgo</li>
+	<li>Habilidades personales, incluida la comunicaci&oacute;n escrita y verbal</li>
+	<li>Capacidad organizativa</li>
+	<li>Gesti&oacute;n del programa</li>
+	<li>Gesti&oacute;n del tiempo</li>
+	<li>Soluci&oacute;n de problemas</li>
+	<li>Gesti&oacute;n de conflictos</li>
+	<li>Antecedentes energ&eacute;ticos y t&eacute;cnicos o experiencia en sistemas de gesti&oacute;n con mejora continua</li>
+	<li>Amplios conocimientos en computaci&oacute;n</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Por lo general, una sola persona puede cumplir con la funci&oacute;n de representante de gesti&oacute;n energ&eacute;tica, pero dependiendo de la organizaci&oacute;n pudiera ser necesario compartir las responsabilidades entre dos personas.</p>
+
+<p>Si el representante no est&aacute; completamente familiarizado con la norma ISO 50001, proporcione u obtenga la capacitaci&oacute;n adecuada. El representante de la direcci&oacute;n debe conocer la norma y entender los v&iacute;nculos entre los diversos procesos del SGEn.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Nombrar al representante de la direcci&oacute;n y asignar las responsabilidades y facultades)</p>
+
+<p>La alta direcci&oacute;n designa al representante de gesti&oacute;n energ&eacute;tica y establece sus facultades para que &eacute;ste cumpla con las responsabilidades asignadas en el SGEn. Es muy importante que dicho representante est&eacute; adecuadamente facultado con respecto a los empleados y miembros del equipo de gesti&oacute;n energ&eacute;tica; incluso si su puesto se ubica en un nivel inferior en la cadena de mando con respecto a algunos empleados o miembros del equipo de gesti&oacute;n energ&eacute;tica, esa persona debe tener autoridad por cuanto respecta al SGEn.</p>
+
+<p>Las responsabilidades y facultades del representante de gesti&oacute;n energ&eacute;tica son las siguientes:</p>
+
+<ul>
+	<li>Asegurarse de que se establezca, ponga en pr&aacute;ctica, mantenga y mejore continuamente el SGEn.</li>
+	<li>Mantener a la alta direcci&oacute;n informada con respecto al desempe&ntilde;o del SGEn.</li>
+	<li>Informar a la alta direcci&oacute;n sobre el desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Identificar a los miembros del equipo de gesti&oacute;n energ&eacute;tica, con la aprobaci&oacute;n de la alta direcci&oacute;n.</li>
+	<li>Planificar y dirigir las actividades de gesti&oacute;n energ&eacute;tica a trav&eacute;s del equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Definir y comunicar las responsabilidades y facultades.</li>
+	<li>Promocionar la pol&iacute;tica energ&eacute;tica y objetivos energ&eacute;ticos en la organizaci&oacute;n.</li>
+	<li>Asegurarse de que se siguen los procesos para garantizar la eficacia del SGEn.</li>
+</ul>
+
+<p>La alta direcci&oacute;n debe definir y transmitir claramente estas responsabilidades y facultades como parte del nombramiento del representante de la direcci&oacute;n, as&iacute; como apoyarlo con el tiempo y los recursos necesarios para que lleve a cabo las actividades relacionadas con estas responsabilidades.</p>
+
+<p>[Learn More](Actividades habituales de un representante de la direcci&oacute;n)</p>
+
+<p>Las siguientes son algunas de las actividades habituales de un representante de la direcci&oacute;n:</p>
+
+<ul>
+	<li>Seleccionar, capacitar y dirigir el equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Coordinar las funciones y actividades del equipo.</li>
+	<li>Identificar y comunicar cu&aacute;les son los recursos necesarios para las actividades de la gesti&oacute;n energ&eacute;tica.</li>
+	<li>Trabajar con la alta direcci&oacute;n en la planificaci&oacute;n, gesti&oacute;n de recursos y elaboraci&oacute;n de informes.</li>
+	<li>Ayudar en la redacci&oacute;n de la pol&iacute;tica energ&eacute;tica y otros documentos.</li>
+	<li>Evaluar las necesidades de la capacitaci&oacute;n relacionadas con el SGEn.</li>
+	<li>Llevar a cabo la sensibilizaci&oacute;n de la gesti&oacute;n energ&eacute;tica, en la organizaci&oacute;n y con los contratistas.</li>
+	<li>Proporcionar informaci&oacute;n y participar en la planificaci&oacute;n estrat&eacute;gica de la gesti&oacute;n energ&eacute;tica.</li>
+	<li>Supervisar las actividades de seguimiento y recopilaci&oacute;n de datos, as&iacute; como la verificaci&oacute;n, incluida la calibraci&oacute;n de instrumentos.</li>
+	<li>Actuar como administrador o coordinador del programa de auditor&iacute;as internas del SGEn.</li>
+	<li>Dirigir el sistema de acciones correctivas y preventivas.</li>
+	<li>Proporcionar a la alta direcci&oacute;n la informaci&oacute;n en relaci&oacute;n con la energ&iacute;a, de utilidad para la planificaci&oacute;n y la revisi&oacute;n gerencial.</li>
+	<li>Participar en las revisiones gerenciales.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Registrar y comunicar el nombramiento)</p>
+
+<p>Registre el nombramiento por parte de la alta direcci&oacute;n del representante o los representantes de gesti&oacute;n energ&eacute;tica, a fin de dar testimonio de las responsabilidades y facultades asignadas al o los individuos seleccionados. &Eacute;ste puede ser un registro aut&oacute;nomo que es mantenido y controlado de acuerdo con los requisitos para el control de registros (v&eacute;ase la tarea [task](Documentation and Records)) o puede estar documentado en el manual sobre eficiencia energ&eacute;tica (opcional). (V&eacute;ase el recurso [resource](Energy_Manual_Guidelines) si desea obtener m&aacute;s detalles acerca del uso del manual sobre eficiencia energ&eacute;tica para el SGEn.)</p>
+
+<p>Asimismo, la alta direcci&oacute;n debe comunicar a toda la organizaci&oacute;n el nombramiento y las facultades asociadas del representante de la direcci&oacute;n; ello con el fin de demostrar la importancia que confiere a la gesti&oacute;n energ&eacute;tica y, al mismo tiempo, fomentar la cooperaci&oacute;n que el representante de la direcci&oacute;n necesita del equipo de gesti&oacute;n energ&eacute;tica y, en general, de toda la organizaci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar a los miembros del equipo)</p>
+
+<p>El equipo de gesti&oacute;n energ&eacute;tica re&uacute;ne la experiencia pertinente para orientar la formulaci&oacute;n, instrumentaci&oacute;n y mantenimiento del SGEn. El tama&ntilde;o, composici&oacute;n y responsabilidades del equipo variar&aacute;n dependiendo del tama&ntilde;o y estructura de su organizaci&oacute;n y el alcance del SGEn (v&eacute;ase la tarea [task](Communications)).</p>
+
+<p>Al formar el equipo, considere incluir a representantes de las &aacute;reas funcionales involucradas en la selecci&oacute;n, adquisici&oacute;n, consumo, confiabilidad, disposici&oacute;n y efectos ambientales de combustibles y sistemas energ&eacute;ticos. Asimismo, tome en cuenta a individuos que est&eacute;n familiarizados con la norma ISO u otros sistemas de gesti&oacute;n basados en la mejora continua. Las organizaciones que instauran la norma ISO 50001 suelen considerar las siguiente &aacute;reas:</p>
+
+<ul>
+	<li>Ingenier&iacute;a</li>
+	<li>Mantenimiento</li>
+	<li>Gesti&oacute;n de instalaciones</li>
+	<li>Adquisici&oacute;n</li>
+	<li>Producci&oacute;n</li>
+	<li>Calidad</li>
+	<li>Gesti&oacute;n ambiental</li>
+	<li>Administraci&oacute;n</li>
+	<li>Contabilidad o finanzas</li>
+</ul>
+
+<p>Los proveedores, contratistas, locatarios o clientes tambi&eacute;n podr&aacute;n tener una funci&oacute;n en las actividades de la gesti&oacute;n energ&eacute;tica de su organizaci&oacute;n. Si fuera adecuado, considere incluir a sus representantes en el equipo de gesti&oacute;n energ&eacute;tica.</p>
+
+<p>Una buena pr&aacute;ctica es usar el recurso [resource](Team_Roster) para enlistar a los miembros del equipo, registrando la informaci&oacute;n de contacto para respaldar las comunicaciones del equipo y verificar la representaci&oacute;n de las diversas &aacute;reas funcionales.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Obtener la aprobaci&oacute;n de la direcci&oacute;n)</p>
+
+<p>Por lo general, el representante de la direcci&oacute;n selecciona a los miembros del equipo con las observaciones y aprobaci&oacute;n de la alta direcci&oacute;n. Para ello, lo recomendable es que genere una lista de los candidatos propuestos, que la alta direcci&oacute;n la revisar&aacute; y, en su caso, autorizar&aacute;.</p>
+
+<p>La alta direcci&oacute;n tambi&eacute;n &ldquo;autoriza&rdquo; el equipo de gesti&oacute;n energ&eacute;tica al asegurarse de que los miembros cuentan con los recursos necesarios para llevar a cabo las actividades requeridas y participar sin poner en riesgo su funci&oacute;n regular.</p>
+
+<p>[Learn More](Recursos habituales proporcionados a los miembros del equipo de gesti&oacute;n energ&eacute;tica)</p>
+
+<p>Los recursos que suelen proporcionarse a los miembros del equipo de gesti&oacute;n energ&eacute;tica pueden incluir los siguientes:</p>
+
+<ul>
+	<li>Tiempo para trabajar en las actividades del equipo durante el horario laboral normal.</li>
+	<li>Horas extra autorizadas, de ser necesario.</li>
+	<li>Ayuda a los miembros del equipo para que realicen sus funciones habituales.</li>
+	<li>Espacio para las reuniones del equipo de gesti&oacute;n energ&eacute;tica y sesiones de trabajo.</li>
+	<li>Recursos fiscales para las actividades del equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Acceso a los datos e informaci&oacute;n.</li>
+	<li>Apoyo por cuanto a solicitar la participaci&oacute;n de la organizaci&oacute;n.</li>
+	<li>Recursos requeridos, que puedan ayudar a la gesti&oacute;n del SGEn.</li>
+	<li>Acceso garantizado a la alta direcci&oacute;n y apoyo al equipo, seg&uacute;n se requiera.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Asignar las funciones y las responsabilidades)</p>
+
+<p>La alta direcci&oacute;n y el representante de la direcci&oacute;n definir&aacute;n y comunicar&aacute;n las funciones y responsabilidades del equipo y de cada uno de sus integrantes. El representante podr&aacute; dirigir el equipo, o bien podr&aacute; seleccionarse a un l&iacute;der por separado. Las actividades habituales del equipo suelen incluir la formulaci&oacute;n o la supervisi&oacute;n de la formulaci&oacute;n de lo siguiente:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Diagn&oacute;stico energ&eacute;tico</li>
+	<li>Objetivos energ&eacute;ticos, resultados previstos y planes de acci&oacute;n</li>
+	<li>Documentaci&oacute;n del SGEn</li>
+	<li>Funciones, responsabilidades, facultades y procesos para:
+	<ul style="list-style-type:circle">
+		<li>Recopilaci&oacute;n y an&aacute;lisis continuos de los datos</li>
+		<li>Determinaci&oacute;n de los usos significativos de energ&iacute;a y los indicadores del desempe&ntilde;o energ&eacute;tico</li>
+		<li>Identificaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y realizaci&oacute;n de evaluaciones de recursos energ&eacute;ticos</li>
+		<li>Actividades de medici&oacute;n, evaluaci&oacute;n y verificaci&oacute;n</li>
+		<li>Puesta en pr&aacute;ctica de la gesti&oacute;n de usos significativos de energ&iacute;a</li>
+		<li>Capacitaci&oacute;n en competencia y sensibilizaci&oacute;n para el personal adecuado</li>
+		<li>Gesti&oacute;n de auditor&iacute;as internas, as&iacute; como acciones correctivas y preventivas</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More](Otras actividades del equipo de gesti&oacute;n energ&eacute;tica)</p>
+
+<p>A continuaci&oacute;n se enlistan otras actividades del equipo de gesti&oacute;n energ&eacute;tica:</p>
+
+<ul>
+	<li>Supervisar los proyectos energ&eacute;ticos y otras actividades para garantizar que se cumplan los objetivos energ&eacute;ticos.</li>
+	<li>Dar seguimiento del desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Llevar a cabo la capacitaci&oacute;n en competencia o sensibilizaci&oacute;n en materia de energ&iacute;a.</li>
+	<li>Mantener procesos de comunicaci&oacute;n con la alta direcci&oacute;n, empleados y otras partes interesadas.</li>
+	<li>Realizar auditor&iacute;as internas y asegurar las acciones correctivas y preventivas.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>A los miembros del equipo de gesti&oacute;n energ&eacute;tica se les deber&aacute; asignar tareas de instrumentaci&oacute;n del SGEn espec&iacute;ficas y deber&aacute;n ser responsables de su oportuna finalizaci&oacute;n. Los procesos de comunicaci&oacute;n sostenida del equipo son cr&iacute;ticos para comunicar las funciones, formular elementos del sistema y obtener retroalimentaci&oacute;n de otros miembros del equipo.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Asignar funciones y responsabilidades para la gesti&oacute;n de datos)</p>
+
+<p>Un sistema 50001 Ready se basa en datos sobre energ&iacute;a e informaci&oacute;n relacionada, de importancia para el diagn&oacute;stico energ&eacute;tico de la organizaci&oacute;n y fundamentales para el seguimiento y verificaci&oacute;n de la mejora del desempe&ntilde;o energ&eacute;tico. Tales datos se conservan como informaci&oacute;n registrada; por lo tanto, el equipo debe revisar sus necesidades respecto a los datos y asignar funciones y responsabilidades en conformidad.</p>
+
+<p>Las funciones de gesti&oacute;n de datos energ&eacute;ticos pueden incluir las siguientes:</p>
+
+<ol>
+	<li>Identificaci&oacute;n de los datos necesarios.</li>
+	<li>Determinaci&oacute;n de la fuente y forma de los datos.</li>
+	<li>Determinaci&oacute;n de la ubicaci&oacute;n de los datos y la frecuencia de recopilaci&oacute;n.</li>
+	<li>Adquisici&oacute;n de datos.</li>
+	<li>Verificaci&oacute;n de la precisi&oacute;n de los datos.</li>
+	<li>Registro y mantenimiento de los datos en la ubicaci&oacute;n adecuada.</li>
+	<li>Verificaci&oacute;n del funcionamiento del proceso de recopilaci&oacute;n.</li>
+	<li>An&aacute;lisis del proceso para determinar si falta algo.</li>
+</ol>
+
+<p>Estas funciones pueden ser realizadas por diferentes miembros del personal de la organizaci&oacute;n, incluidas personas que no pertenezcan al equipo de gesti&oacute;n energ&eacute;tica. Se debe proporcionar una capacitaci&oacute;n adecuada al personal que, asignado a funciones de gesti&oacute;n de datos, no cuente con las suficientes habilidades.</p>
+
+<p>[Learn More](Formule las funciones y responsabilidades para la gesti&oacute;n de datos energ&eacute;ticos)</p>
+
+<p>La tabla modelo [resource](Potential_Responsible_Parties_Data_Collection) puede ayudar a asignar las funciones y responsabilidades para la gesti&oacute;n de datos energ&eacute;ticos, las cuales variar&aacute;n en funci&oacute;n de las necesidades de su organizaci&oacute;n. Con todo, el m&eacute;todo general de identificaci&oacute;n de los datos, descripci&oacute;n de las fuentes, ubicaci&oacute;n y frecuencia de la recopilaci&oacute;n de los datos, adquisici&oacute;n y verificaci&oacute;n de los datos, as&iacute; como registro de los mismos, debe ser uniforme. Aseg&uacute;rese de que las personas responsables de recopilar los datos est&eacute;n capacitadas adecuadamente para cumplir su funci&oacute;n. La capacitaci&oacute;n adecuada puede incluir:</p>
+
+<ul>
+	<li>Selecci&oacute;n y conexi&oacute;n del medidor (medidores port&aacute;tiles)</li>
+	<li>Lectura del medidor</li>
+	<li>Comprensi&oacute;n de las unidades de medida (amperios, voltios, watts, BTU, metro c&uacute;bico, etc&eacute;tera)</li>
+	<li>Registro de datos</li>
+	<li>Uso de programas inform&aacute;ticos</li>
+	<li>Acceso a equipo o proceso</li>
+	<li>Seguridad durante la evaluaci&oacute;n o uso del equipo</li>
+</ul>
+
+<p>La tabla para llenar [resource](Data_Collection_Responsibilities_Table) resulta una &uacute;til gu&iacute;a para lograr un proceso de recopilaci&oacute;n de datos s&oacute;lido y sustentable. Asimismo, se recomienda usar la matriz [resource](Data_Collection_Management_Matrix) para documentar los datos requeridos y su ubicaci&oacute;n, as&iacute; como los detalles y responsabilidades de la recopilaci&oacute;n. Finalmente, los recursos [resource](Example_Data_Collection_Management_Matrix_Industrial) y [resource](Example_Data_Collection_Management_Matrix_Commercial) ejemplifican c&oacute;mo usar este formato para documentar la ubicaci&oacute;n y recopilaci&oacute;n de datos.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Programar reuniones regulares del equipo de gesti&oacute;n energ&eacute;tica)</p>
+
+<p>Programe reuniones regulares del equipo para fomentar la continuidad de la evoluci&oacute;n del SGEn y para tener revisiones del progreso y funciones de las tareas, as&iacute; como para tratar problemas que vayan surgiendo. La duraci&oacute;n y la frecuencia de las reuniones pueden variar, pero &eacute;stas deben incluir sesiones de trabajo en equipo para abordar temas espec&iacute;ficos relacionados con la formulaci&oacute;n y puesta en pr&aacute;ctica del SGEn.</p>
+
+<p>Una de las primeras reuniones del equipo debe incluir la capacitaci&oacute;n sobre la norma ISO 50001. Si su organizaci&oacute;n desea obtener la certificaci&oacute;n, adquiera copias de la norma ISO 50001:2011 y distrib&uacute;yalas entre los miembros del equipo. Los miembros del equipo necesitan familiarizarse con los requisitos de la norma (apartado 4 de la ISO 50001), en particular los requisitos relacionados con su &aacute;rea de responsabilidad en el equipo. El representante de la direcci&oacute;n puede realizar esta capacitaci&oacute;n, o &mdash;si no est&aacute; familiarizado con los requisitos de la norma&mdash; se puede recurrir para ello a un proveedor de capacitaci&oacute;n externo.</p>
+
+<p>Durante la formulaci&oacute;n inicial del SGEn, su equipo se reunir&aacute; con frecuencia para hacer planes, programar actividades, asignar responsabilidades y revisar el progreso. Desde el inicio, aseg&uacute;rese de que los miembros del equipo est&aacute;n familiarizados con sus funciones y responsabilidades individuales dentro del equipo. Considere crear unos estatutos para el equipo que aclaren y comuniquen las expectativas globales a los miembros del equipo. Use t&eacute;cnicas comunes de gesti&oacute;n de proyectos a fin de definir y gestionar el programa y las actividades de instrumentaci&oacute;n, junto con su asignaci&oacute;n y terminaci&oacute;n (v&eacute;ase el recurso [resource](Project_Management_for_EnMS_Implementation)).</p>
+
+<p>Conforme progresa la creaci&oacute;n del SGEn, se pudiera requerir experiencia adicional en el equipo para tratar los detalles asociados con requisitos espec&iacute;ficos del SGEn; por ejemplo, obtenci&oacute;n y an&aacute;lisis de datos. Revise de manera regular el progreso y considere si se requieren miembros del equipo adicionales para manejar ciertos temas o problemas de la instrumentaci&oacute;n.</p>
+
+<p>Con la completa puesta en pr&aacute;ctica del SGEn, el equipo asegurar&aacute; sus actividades de operaci&oacute;n y gesti&oacute;n para la mejora continua. Podr&iacute;a ser adecuado reducir el tama&ntilde;o del equipo una vez que el sistema se haya instrumentado y est&eacute; funcionando de forma eficaz. Sin embargo, el equipo es un componente clave en la operaci&oacute;n continua del SGEn, y se debe mantener una composici&oacute;n multifuncional y nivel de actividad suficientes para garantizar su eficacia y mejora continua.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>En las normas ISO 14001:2015 e ISO 9001:2015 ya no es un requisito que haya un representante de la direcci&oacute;n nombrado. Sin embargo, la norma ISO 50001:2011 mantiene la estructura de un representante de la direcci&oacute;n. Una organizaci&oacute;n que se apegue a las versiones anteriores de la ISO 14001 e ISO 9001 tiene experiencia con respecto a las funciones y responsabilidades del representante de la direcci&oacute;n. Conforme a los sistemas de las ISO 14001 e ISO 9001, el nivel del personal asignado para preparar informes a la alta direcci&oacute;n sobre el desempe&ntilde;o del sistema de gesti&oacute;n puede ser equivalente al puesto del representante de la direcci&oacute;n conforme a la ISO 50001.</p>
+
+<p>Para la ISO 50001:2011, el equipo de gesti&oacute;n energ&eacute;tica es una estructura importante. Los equipos no est&aacute;n incluidos de manera expl&iacute;cita en los requisitos de la ISO 14001:2015 o ISO 9001:2015, pero ambas normas abordan el apoyo de la alta direcci&oacute;n al personal en las funciones importantes para el sistema de gesti&oacute;n.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La funci&oacute;n del director de energ&iacute;a descrita en el paso 1.1 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) es muy similar a la funci&oacute;n del representante de la direcci&oacute;n respecto a la ISO 50001 (y probablemente sea la misma persona). Esta tarea describe las responsabilidades espec&iacute;ficas del representante de la direcci&oacute;n conforme a la norma ISO 50001.</p>
+
+<p>El equipo de gesti&oacute;n energ&eacute;tica que su organizaci&oacute;n form&oacute; en el paso 1.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) puede funcionar como su equipo de gesti&oacute;n energ&eacute;tica para la ISO 50001. En el caso de Energy Star, el equipo de gesti&oacute;n energ&eacute;tica es dirigido por un director de energ&iacute;a. Para la ISO 50001, el equipo es dirigido por el representante de la direcci&oacute;n (es decir, el responsable de la gesti&oacute;n energ&eacute;tica) y autorizado por la alta direcci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,296 @@
+USDOE 50001 READY NAVIGATOR TASK 24
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Cálculo de los ahorros energéticos
+----------TITLE----------
+Tarea 24: Hemos decidido mejorar nuestro desempeño energético.
+----------GETTING IT DONE----------
+<ul>
+	<li>Demuestre una mejora en el desempe&ntilde;o energ&eacute;tico en su organizaci&oacute;n usando la herramienta [resource](EnPI_Lite) del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos, o bien una calculadora de desempe&ntilde;o energ&eacute;tico alternativa que convenga a su organizaci&oacute;n.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La instrumentaci&oacute;n de un SGEn conforme a la ISO 50001 se dirige a generar y mantener ahorros energ&eacute;ticos y reducciones en el costo de la energ&iacute;a consumida. Hay muchas formas de calcular los ahorros y dar seguimiento a las mejoras en el desempe&ntilde;o energ&eacute;tico. La norma ISO 50001 y el programa 50001 Ready permiten flexibilidad en la definici&oacute;n de indicadores de desempe&ntilde;o energ&eacute;tico y m&eacute;todos de seguimiento adecuados para su organizaci&oacute;n y sus USEn seleccionados.</p>
+
+<p>Se recomienda el uso de la herramienta EnPI Lite, pero ello no es indispensable para cumplir con el requisito del programa 50001 Ready en cuanto a elaborar un informe energ&eacute;tico. A continuaci&oacute;n, se presentan algunas recomendaciones y se enlistan los requisitos para la elaboraci&oacute;n del informe energ&eacute;tico necesario a fin de obtener el reconocimiento del programa 50001 Ready:</p>
+
+<div>
+<table cellspacing="0" style="width:512.8pt">
+	<tbody>
+		<tr>
+			<td style="width:176.8pt">
+			<p>1. En general se recomienda a todos los participantes presentar un <strong>archivo de resultados de la herramienta EnPI Lite </strong>(&lsquo;<em>EnPI Lite Output File</em>&rsquo;), usando los niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;) las orientaciones iniciales y del a&ntilde;o de registro como se describe en el navegador.</p>
+			</td>
+			<td>
+			<p>La herramienta EnPI Lite acepta entradas del recurso [resource](Energy_Footprint_Tool) y del gestor de cartera Energy Star de la Agencia de Protecci&oacute;n Ambiental (EPA) de Estados Unidos ([resource](Portfolio_Manager)), para realizar la modelizaci&oacute;n con base en un an&aacute;lisis de regresi&oacute;n.</p>
+
+			<p>Consulte el recurso [resource](EnPI_Lite) para obtener instrucciones detalladas sobre c&oacute;mo usar la herramienta.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:176.8pt">
+			<p>2. Si su organizaci&oacute;n est&aacute; afiliada al programa Mejores Plantas (<em>Better Plants</em>), se recomienda presentar su <strong>informe anual del programa Mejores</strong> <strong>Plantas</strong> (&lsquo;<em>Better Plants Annual Report</em>&rsquo;) m&aacute;s reciente, con datos registrados por establecimiento.</p>
+			</td>
+			<td>
+			<p>Si no tiene acceso al m&aacute;s reciente informe anual para el programa Mejores Plantas, complete la plantilla para el registro de l&iacute;neas de base del programa 50001 Ready (&lsquo;<em>50001 Ready Baseline Reporting Template</em>&rsquo;).</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:176.8pt">
+			<p>3. Si su organizaci&oacute;n pertenece al programa Desaf&iacute;o para una Mejor Edificaci&oacute;n (<em>Better Buildings Challenge</em>), se recomienda presentar la versi&oacute;n m&aacute;s reciente del correspondiente <strong>informe anual </strong>(&lsquo;<em>Better Buildings Challenge Annual Report</em>&rsquo;), con datos registrados por establecimiento.</p>
+			</td>
+			<td>
+			<p>Si no tiene acceso a su m&aacute;s reciente informe anual del programa Desaf&iacute;o para una Mejor Edificaci&oacute;n, use entonces el gestor de cartera del programa 50001 Ready.</p>
+
+			<p>En caso de que opte por no usar el gestor de cartera del programa 50001 Ready, complete entonces el informe sobre la(s) l&iacute;nea(s) de base de consumo energ&eacute;tico (&lsquo;Energy Consumption Baseline Report&rsquo;) del programa 50001 Ready.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:176.8pt">
+			<p>4. Si usa el Gestor de Cartera, ap&oacute;yese en la <strong>plantilla de registro para el </strong><strong>Informe sobre eficiencia energ&eacute;tica del Gestor de Cartera del programa 50001 Ready</strong><strong> </strong>(&lsquo;50001 Ready Energy Report for Portfolio Manager report template&rsquo;)</p>
+			</td>
+			<td>
+			<p>Descargue el recurso [resource](50001Ready_PortfolioManager) directamente en su cuenta en el Gestor de Cartera 50001 Ready.</p>
+
+			<p>Es preciso que los participantes generen el informe para un a&ntilde;o completo de datos, y que la fecha de inicio no vaya m&aacute;s all&aacute; de 23 meses a partir de la fecha de presentaci&oacute;n de la solicitud del reconocimiento 50001 Ready. Lo recomendable &mdash;si bien no indispensable&mdash; es que los datos cubran los doce meses anteriores a la instrumentaci&oacute;n del SGEn.</p>
+
+			<p>Tambi&eacute;n se pueden presentar informes del indicador de desempe&ntilde;o energ&eacute;tico del programa Energy Star.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:176.8pt">
+			<p>5. A todos los participantes se les permite usar el<strong> </strong><strong>informe sobre la(s) l&iacute;nea(s) de base de consumo energ&eacute;tico del programa 50001 Ready</strong><strong>.</strong></p>
+			</td>
+			<td>
+			<p>Descargue el recurso [resource](50001Ready_Energy_Consumption_Baseline_Report).</p>
+
+			<p>El periodo cubierto deber&aacute; ser un a&ntilde;o completo, sin que la fecha de inicio se extienda m&aacute;s all&aacute; de 23 meses a partir de la fecha de presentaci&oacute;n de la solicitud del reconocimiento 50001 Ready. Lo recomendable &mdash;si bien no indispensable&mdash; es que los datos cubran los doce meses anteriores a la instrumentaci&oacute;n del SGEn.</p>
+
+			<p>Este formulario s&oacute;lo es v&aacute;lido para el reconocimiento inicial del programa 50001 Ready.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>Para todos los informes, debe crearse un formulario separado correspondiente a cada organizaci&oacute;n que solicite el reconocimiento del programa 50001 Ready; o bien, los datos pertinentes de la organizaci&oacute;n deber&aacute;n estar claramente indicados en el documento. Si se enlistan varias organizaciones en un solo documento, sin identificaci&oacute;n clara, se supondr&aacute; que estar&aacute;n todas cubiertas por un mismo reconocimiento del programa 50001 Ready.</p>
+
+<p>Para las renovaciones del reconocimiento del programa 50001 Ready, se requerir&aacute; que los participantes demuestren una mejora en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Si su organizaci&oacute;n usa un formulario de registro de desempe&ntilde;o energ&eacute;tico aprobado por un programa patrocinado por una empresa proveedora de energ&iacute;a o el Estado, p&oacute;ngase en contacto con el programa Ready 50001, a fin de consultar si se trata de un formulario aceptable para satisfacer los requisitos de registro.</p>
+
+<p>Al completar las tareas [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives y Targets) y [task](Monitoring), se logr&oacute; ya:</p>
+
+<ul>
+	<li>identificar y obtener el consumo energ&eacute;tico apropiado y la informaci&oacute;n variable pertinente;</li>
+	<li>seleccionar su l&iacute;nea de base y periodo de registro, y</li>
+	<li>familiarizarse con su an&aacute;lisis de regresi&oacute;n.</li>
+</ul>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>correr la herramienta EnPI Lite o alg&uacute;n otro m&eacute;todo que la organizaci&oacute;n prefiera para calcular la mejora en el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>en el caso de usuarios de la herramienta EnPI Lite o de an&aacute;lisis de regresi&oacute;n, seleccionar los modelos v&aacute;lidos del consumo energ&eacute;tico de su organizaci&oacute;n que mejor describan c&oacute;mo &eacute;sta usa la energ&iacute;a, y</li>
+	<li>determinar la mejora en el desempe&ntilde;o energ&eacute;tico a escala del establecimiento.</li>
+</ul>
+
+<p>El resto de los lineamientos y orientaci&oacute;n para esta actividad se refieren al uso de la herramienta EnPI Lite para la determinaci&oacute;n de su mejora en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.6.1 de la norma ISO 50001:2011</em>.</p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Ejecutar la herramienta EnPI Lite del DOE)</p>
+
+<p>Siga las instrucciones en la p&aacute;gina de inicio del recurso [resource](EnPI_Lite), suba a la herramienta EnPI Lite el archivo generado con el recurso [resource](Energy_Footprint_Lite_Data_Uploader) y vea su mejora en desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Seleccionar aquellos modelos v&aacute;lidos del consumo energ&eacute;tico de su organizaci&oacute;n que mejor describan c&oacute;mo usa la energ&iacute;a)</p>
+
+<p>Para conocer una descripci&oacute;n t&eacute;cnica detallada de los requisitos estad&iacute;sticos y del modelo que el recurso [resource](EnPI_Lite) usa para calcular la mejora en el desempe&ntilde;o energ&eacute;tico, refi&eacute;rase al recurso [resource](50001_Ready_Protocol). Asimismo, refi&eacute;rase a los lineamientos y orientaci&oacute;n contenidos en las tareas: [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives y Targets) y [task](Monitoring). En la siguiente tabla se muestra un resumen de los requisitos:</p>
+
+<table cellspacing="0" style="width:346.0pt">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:141.75pt">
+			<p><strong>Par&aacute;metro</strong></p>
+			</td>
+			<td rowspan="2" style="width:204.25pt">
+			<p><strong>Requisito</strong></p>
+			</td>
+			<td style="height:23.95pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:13.8pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Periodo de registro</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>El &uacute;ltimo mes debe ubicarse dentro de los &uacute;ltimos once meses.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Periodo inicial</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Doce meses antes del primer mes del periodo de registro.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Fuentes de energ&iacute;a</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Todas las que entren en la organizaci&oacute;n (v&eacute;ase el recurso [resource](50001_Ready_Protocol) para la excepci&oacute;n del 5 por ciento).</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Posibles variables importantes</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Se deben considerar la producci&oacute;n y el estado del tiempo.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Frecuencia de recopilaci&oacute;n de datos</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Mensual.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Tipo de modelo</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Proyecci&oacute;n con base en regresi&oacute;n lineal, retrospectiva con base en regresi&oacute;n lineal.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>R<sup>2</sup> del modelo m&iacute;nima</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>0.5</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Estad&iacute;stico F</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Mayor que el valor cr&iacute;tico de F para un valor de p &lt; 0.1.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Valor de p m&aacute;ximo para cualquier variable importante</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>0.2</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Al menos una variable debe tener un valor de p</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>&lt; 0.1</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Requisitos de validez del modelo num&eacute;rico cuando se aplica el modelo</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>3 STD de los datos del modelo.</p>
+
+			<p>Media de los datos con/en el intervalo de m&iacute;n./m&aacute;x. de los datos usados en el modelo.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>&iquest;Energ&iacute;a del sitio o primaria?</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>Primaria.</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:141.75pt">
+			<p>Multiplicadores de energ&iacute;a primaria</p>
+			</td>
+			<td style="width:204.25pt">
+			<p>V&eacute;ase el recurso [resource](50001_Ready_Protocol).</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>El recurso [resource](EnPI_Lite) permite producir diversos modelos v&aacute;lidos para cada fuente de energ&iacute;a. Use su mejor criterio t&eacute;cnico para seleccionar el o los modelos que mejor describan c&oacute;mo su organizaci&oacute;n usa la energ&iacute;a. Por ejemplo, si se emplea vapor en todo el proceso de producci&oacute;n de un producto, el modelo debe incluir una variable para la fuente de energ&iacute;a con la que se genera el vapor. Otro ejemplo ser&iacute;a: si los principales usos de electricidad en su organizaci&oacute;n corresponden a procesos el&eacute;ctricos de calefacci&oacute;n, ventilaci&oacute;n y enfriamiento (sistemas de climatizaci&oacute;n), entonces en su modelo de electricidad deben aparecer los grados/d&iacute;a de calefacci&oacute;n y grados/d&iacute;a de enfriamiento (HDD y CDD, por sus siglas en ingl&eacute;s).</p>
+
+<p>Los resultados, dise&ntilde;ados para ayudarle a comprender mejor la mejora en el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n, est&aacute;n disponibles a trav&eacute;s del recurso [resource](EnPI_Lite) y pueden verse sin necesidad de elaborar un modelo v&aacute;lido y est&aacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determinar el nivel de mejora en el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n)</p>
+
+<p>Una vez que haya seleccionado sus modelos de consumo de energ&iacute;a, el recurso [resource](EnPI_Lite) mostrar&aacute; la mejora de su desempe&ntilde;o energ&eacute;tico en comparaci&oacute;n con el a&ntilde;o en la l&iacute;nea de base. &Eacute;sta se expresa como un porcentaje. V&eacute;ase la tarea [task](Performance Indicators) para obtener lineamientos y orientaci&oacute;n sobre c&oacute;mo interpretar el porcentaje de mejora de su organizaci&oacute;n. Un SGEn conforme al Navegador 50001 Ready requiere que su organizaci&oacute;n muestre una mejora en el desempe&ntilde;o energ&eacute;tico comparada con el a&ntilde;o de referencia (en la l&iacute;nea de base). Utilice esta mejora en el desempe&ntilde;o energ&eacute;tico para comunicar los beneficios del SGEn al interior de su organizaci&oacute;n y a la alta direcci&oacute;n (v&eacute;ase la tarea 25, [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>No se requiere el c&aacute;lculo de la mejora del desempe&ntilde;o energ&eacute;tico conforme a la ISO 9001:2015 o la ISO 14001:2015.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Mediante los programas Energy Star de la EPA estadounidense, como el desaf&iacute;o para la industria (<em>Energy Star Challenge for Industry</em>), es probable que se est&eacute; dando ya seguimiento a la mejora en el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Una forma de completar la presente tarea consiste en asociar o establecer un v&iacute;nculo entre su registro del programa Energy Star con su SGEn en el Navegador 50001 Ready.</p>
+
+<p>Si prefiere utilizar la herramienta EnPI Lite, resulta muy f&aacute;cil utilizar los datos del gestor de cartera Energy Star como datos de entrada para esta herramienta. Se recomienda consultar las instrucciones para usar la herramienta EnPI Lite en la p&aacute;gina de inicio de EnPI Lite.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,274 @@
+USDOE 50001 READY NAVIGATOR TASK 11
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Líneas de base energéticas, objetivos y metas
+----------TITLE----------
+Tarea 11: Hemos establecido líneas de base energéticas, aprobado objetivos y metas para la mejora de desempeño energético, así como plazos para su cumplimiento
+----------GETTING IT DONE----------
+<ul>
+	<li>Establezca una l&iacute;nea de base energ&eacute;tica (LBEn) para cada indicador de desempe&ntilde;o energ&eacute;tico (IDEn).
+	<ul style="list-style-type:circle">
+		<li>Registre las LBEn y compare los cambios registrados en el desempe&ntilde;o energ&eacute;tico en relaci&oacute;n con dichos valores.</li>
+		<li>Establezca las condiciones en las cuales se realizar&aacute;n cambios a las l&iacute;neas de base energ&eacute;ticas.</li>
+	</ul>
+	</li>
+	<li>Establezca las metas y los objetivos de su organizaci&oacute;n en cuanto a la mejora de desempe&ntilde;o energ&eacute;tico (MDEn).
+	<ul style="list-style-type:circle">
+		<li>Utilice el recurso [resource](Energy_Objectives_Targets_Worksheet) para revisar las consideraciones que se requieren para esta operaci&oacute;n, as&iacute; como para documentar los resultados.</li>
+		<li>Obtenga la aprobaci&oacute;n de la alta direcci&oacute;n en lo relativo a las metas y los objetivos, y comun&iacute;quela de manera apropiada.</li>
+	</ul>
+	</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Una l&iacute;nea de base energ&eacute;tica (LBEn) es el nivel de referencia que se emplea como elemento de comparaci&oacute;n para determinar el desempe&ntilde;o energ&eacute;tico. Corresponde al representante de la direcci&oacute;n, con apoyo del equipo de gesti&oacute;n energ&eacute;tica, establecer una LBEn para cada indicador de desempe&ntilde;o energ&eacute;tico, vali&eacute;ndose para ello de datos de la propia organizaci&oacute;n, tanto energ&eacute;ticos como de otra &iacute;ndole.</p>
+
+<p>La l&iacute;nea de base energ&eacute;tica facilita la comparaci&oacute;n entre el punto en que se encuentra (o se encontrar&aacute;) el desempe&ntilde;o energ&eacute;tico de una organizaci&oacute;n y aquel en que se iniciaron las mejoras energ&eacute;ticas. Esta base comparativa puede establecerse en funci&oacute;n de cualquier periodo significativo para su organizaci&oacute;n, y de acuerdo con el indicador de desempe&ntilde;o que se evaluar&aacute;. Con frecuencia, la l&iacute;nea de base energ&eacute;tica se establece dependiendo de las iniciativas estrat&eacute;gicas de una organizaci&oacute;n o en respuesta a alg&uacute;n requerimiento legal o de otro tipo, y se fija considerando los intervalos de datos que convienen al uso y consumo energ&eacute;tico de su organizaci&oacute;n. Por lo general, a cada IDEn que se identifique le corresponder&aacute; una l&iacute;nea de base energ&eacute;tica.</p>
+
+<p>Una vez que se determine la LBEn, se deber&aacute;n establecer las metas y los objetivos energ&eacute;ticos, junto con los plazos para su cumplimiento. Los objetivos energ&eacute;ticos son resultados espec&iacute;ficos que su organizaci&oacute;n establecer&aacute; para s&iacute; misma a fin de cumplir con su compromiso en materia de pol&iacute;tica energ&eacute;tica de obtener una MDEn. Las metas energ&eacute;ticas son los requisitos cuantificados de desempe&ntilde;o energ&eacute;tico que fija su organizaci&oacute;n y que deben cumplirse para alcanzar los objetivos energ&eacute;ticos asociados. Las metas y los objetivos energ&eacute;ticos, as&iacute; como los planes de acci&oacute;n relacionados (cons&uacute;ltese la tarea [task](Improvement Projects)), son la fuerza motriz para una mejora continua en el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>establecer l&iacute;nea(s) de base del desempe&ntilde;o energ&eacute;tico;</li>
+	<li>comparar los IDEn con la(s) l&iacute;nea(s) de base;</li>
+	<li>registrar y mantener la(s) l&iacute;nea(s) de base del desempe&ntilde;o energ&eacute;tico;</li>
+	<li>especificar las condiciones para el ajuste de la(s) l&iacute;nea(s) de base;</li>
+	<li>recopilar y examinar los datos convenientes;</li>
+	<li>definir y documentar las metas y los objetivos energ&eacute;ticos;</li>
+	<li>obtener aprobaci&oacute;n por parte de la direcci&oacute;n, y</li>
+	<li>comunicar las metas y los objetivos energ&eacute;ticos.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.4.4 y 4.4.6 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Establecer l&iacute;nea(s) de base del desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>Una l&iacute;nea de base energ&eacute;tica (LBEn) se puede establecer en cualquier nivel de su organizaci&oacute;n, lo mismo si se aplica para toda una instalaci&oacute;n o de manera independiente para cada equipo, sistema o proceso. De ah&iacute; que pueda haber m&aacute;s de una LBEn. La(s) l&iacute;nea(s) de base constituye(n) la referencia para comparar el desempe&ntilde;o energ&eacute;tico actual y determinar si este valor est&aacute; en proceso de mejorar. Las observaciones siguientes le ayudar&aacute;n a obtener datos para definir las l&iacute;neas de base del desempe&ntilde;o energ&eacute;tico apropiadas.</p>
+
+<ul>
+	<li>&iquest;C&oacute;mo se utiliza cada IDEn para evaluar el desempe&ntilde;o energ&eacute;tico? &iquest;Existe una l&iacute;nea de base energ&eacute;tica l&oacute;gica para cada uno de estos indicadores?</li>
+	<li>&iquest;Cu&aacute;les son los cambios hist&oacute;ricos realizados en las instalaciones, equipos, sistemas, procesos, o en la organizaci&oacute;n que pudieran modificar la manera en que se eval&uacute;a el desempe&ntilde;o energ&eacute;tico?</li>
+	<li>&iquest;Qu&eacute; intereses de los sectores involucrados deben considerarse al establecer las l&iacute;neas de base para los indicadores energ&eacute;ticos?</li>
+	<li>&iquest;Existen iniciativas estrat&eacute;gicas que pueden ser evaluadas o influenciadas a partir de uno o m&aacute;s de los IDEn que se establecieron? &iquest;Existe alguna l&iacute;nea de base energ&eacute;tica asociada con estas iniciativas estrat&eacute;gicas?</li>
+	<li>&iquest;Cu&aacute;les son los periodos hist&oacute;ricos que cuentan con datos confiables y consistentes para los IDEn establecidos?</li>
+</ul>
+
+<p>Las respuestas a estas preguntas facilitar&aacute;n la identificaci&oacute;n de los niveles de referencia relevantes para los IDEn establecidos.</p>
+
+<p>[Learn More](Uso del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite del DOE)</p>
+
+<p>Si utiliza la herramienta [resource](EnPI_Lite) del Departamento de Energ&iacute;a [<em>Department of Energy</em>, DOE] de Estados Unidos, se recomienda que su a&ntilde;o de referencia corresponda a los doce meses anteriores al periodo de presentaci&oacute;n de informes. Es recomendable tambi&eacute;n que seleccione dicho periodo de tal modo que el &uacute;ltimo mes se encuentre dentro de los &uacute;ltimos once meses. Uno de los beneficios que resulta de renovar su l&iacute;nea de base energ&eacute;tica cada a&ntilde;o es que su modelo tendr&aacute; mayores probabilidades de ajustarse a sus condiciones y operaciones actuales. Dado que los cambios impactan el uso y consumo energ&eacute;ticos en las instalaciones, los modelos energ&eacute;ticos deben revisarse y actualizarse de forma peri&oacute;dica. Actualizar cada a&ntilde;o sus l&iacute;neas de base energ&eacute;ticas garantizar&aacute; mayor exactitud.</p>
+
+<p>Puede haber varias razones para elegir l&iacute;neas de base energ&eacute;ticas diferentes a las del a&ntilde;o anterior (por ejemplo, concordancia con los niveles de referencia del equipo corporativo, concordancia con los indicadores financieros, que las condiciones actuales no est&eacute;n representadas en los valores del a&ntilde;o anterior debido a cambios en las instalaciones, etc&eacute;tera). Si tiene problemas para desarrollar un modelo, la herramienta [resource](EnPI_Lite) incluye dos opciones de regresi&oacute;n: pron&oacute;stico y retrospectiva. Si requiere m&aacute;s informaci&oacute;n al respecto, consulte los lineamientos y orientaci&oacute;n que se brindan en la tarea [task](Performance Indicators). La herramienta EnPI Lite tambi&eacute;n aceptar&aacute; l&iacute;neas de base del desempe&ntilde;o energ&eacute;tico y periodos de presentaci&oacute;n de informes fuera de las ventanas recomendadas (v&eacute;ase <em>supra</em>). Sin embargo, los periodos de LBEn anteriores tendr&aacute;n menos probabilidades de reflejar las caracter&iacute;sticas del uso energ&eacute;tico actual de sus instalaciones, y pudieran no registrar las mejoras relacionadas con su sistema de gesti&oacute;n energ&eacute;tica (SGEn) en el Navegador 50001 Ready. Si se llegan a encontrar modelos v&aacute;lidos tanto para el pron&oacute;stico como para la retrospectiva, la herramienta [resource](EnPI_Lite) marcar&aacute; el modelo de pron&oacute;stico como predeterminado. No obstante, v&aacute;lgase de su conocimiento y comprensi&oacute;n sobre c&oacute;mo afectan las variables relevantes su consumo energ&eacute;tico, y c&oacute;mo se incluyen &eacute;stas en cada modelo, antes de seleccionar uno de ellos en &uacute;ltima instancia.</p>
+
+<p>Si utiliza la herramienta [resource](EnPI_Lite) a fin de presentar un informe para oponerse a otra l&iacute;nea de base energ&eacute;tica (por ejemplo, una del equipo corporativo), o quiere potenciar sus mejoras reconocidas por el DOE tras cumplir con otra meta de desempe&ntilde;o energ&eacute;tico, tal vez quiera analizar la posibilidad de &ldquo;depositar&rdquo; sus mejoras de intensidad energ&eacute;tica interanuales. A trav&eacute;s de este &ldquo;dep&oacute;sito&rdquo; se suman entre s&iacute; sus mejoras de desempe&ntilde;o energ&eacute;tico de a&ntilde;os consecutivos. Si bien esto permite el mantenimiento de m&uacute;ltiples l&iacute;neas de base energ&eacute;ticas, existe una discrepancia entre la mejora real calculada sobre la base del a&ntilde;o de referencia y aquella que se calcula mediante el dep&oacute;sito frente al mismo a&ntilde;o de partida. Esta discrepancia incrementar&aacute; a medida que se aleje de su a&ntilde;o de referencia. El cuadro siguiente describe el concepto &ldquo;dep&oacute;sito&rdquo; e ilustra la discrepancia:</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:96.4pt">
+			<p>Periodo de cumplimiento</p>
+			</td>
+			<td style="width:116.55pt">
+			<p>Mejora anual calculada en la herramienta EnPI Lite</p>
+			</td>
+			<td style="width:123.5pt">
+			<p>Mejora total calculada sobre la base de 2015</p>
+			</td>
+			<td style="width:132.35pt">
+			<p>Mejora total frente a 2015, haciendo uso del &ldquo;dep&oacute;sito&rdquo;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:96.4pt">
+			<p>2015-2016</p>
+			</td>
+			<td style="width:116.55pt">
+			<p>2%</p>
+			</td>
+			<td style="width:123.5pt">
+			<p>2%</p>
+			</td>
+			<td style="width:132.35pt">
+			<p>2%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:96.4pt">
+			<p>2016-2017</p>
+			</td>
+			<td style="width:116.55pt">
+			<p>3%</p>
+			</td>
+			<td style="width:123.5pt">
+			<p>4.9%</p>
+			</td>
+			<td style="width:132.35pt">
+			<p>5% (= 2% + 3%)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:96.4pt">
+			<p>2017-2018</p>
+			</td>
+			<td style="width:116.55pt">
+			<p>4%</p>
+			</td>
+			<td style="width:123.5pt">
+			<p>8.7%</p>
+			</td>
+			<td style="width:132.35pt">
+			<p>9% (= 2% + 3% + 4%)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comparar los IDEn con la(s) l&iacute;nea(s) de base energ&eacute;tica(s))</p>
+
+<p>Los IDEn que se establecen para determinar el desempe&ntilde;o energ&eacute;tico se comparan con las l&iacute;neas de base energ&eacute;ticas a fin de medir el progreso en lo relativo a la mejora. Puesto que los IDEn y sus l&iacute;neas de base correspondientes se comparan, &eacute;stos deben ser consistentes en cuanto a tipo y unidad para proporcionar una comparaci&oacute;n v&aacute;lida.</p>
+
+<p>Si el IDEn consiste en una medida simple (por ejemplo, el consumo) o un cociente (por ejemplo, la intensidad energ&eacute;tica Btu/lb), el desempe&ntilde;o energ&eacute;tico se mide al comparar el IDEn actual con la l&iacute;nea de base energ&eacute;tica a fin de evaluar el desempe&ntilde;o que resulta de la implementaci&oacute;n de los planes de acci&oacute;n.</p>
+
+<p>[Learn More](Resultado de comparar el IDEn con la l&iacute;nea de base energ&eacute;tica)</p>
+
+<p>Al menos cuatro resultados posibles, que representan diferentes derivaciones de desempe&ntilde;o, pueden ocurrir al realizar la comparaci&oacute;n:</p>
+
+<ul>
+	<li>La comparaci&oacute;n entre el IDEn y la l&iacute;nea de base energ&eacute;tica indica una mejora en el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>La comparaci&oacute;n entre el IDEn y la l&iacute;nea de base energ&eacute;tica indica un deterioro en el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>La comparaci&oacute;n entre el IDEn y la l&iacute;nea de base energ&eacute;tica no indica ning&uacute;n cambio en el desempe&ntilde;o energ&eacute;tico, o</li>
+	<li>El IDEn y la l&iacute;nea de base energ&eacute;tica no muestran un patr&oacute;n discernible en sus valores relativos. (Esto podr&iacute;a indicar una variaci&oacute;n en un factor que se toma por constante o la presencia de variables no reportadas en el indicador.)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>La l&iacute;nea de base energ&eacute;tica tambi&eacute;n puede ayudar a pronosticar indicadores de desempe&ntilde;o energ&eacute;tico esperados o previstos. La ventaja de hacer la comparaci&oacute;n entre los IDEn reales y los previstos es que esta acci&oacute;n permite mostrar la direcci&oacute;n y la tasa de variaci&oacute;n en el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Dado que el objetivo final de la gesti&oacute;n energ&eacute;tica es la mejora continua, las tendencias consistentes en los indicadores de desempe&ntilde;o energ&eacute;tico reales y previstos pueden demostrar y cuantificar dicha mejora.</p>
+
+<p>La responsabilidad del an&aacute;lisis de los IDEn y las LBEn recae, por lo general, en el mismo personal que se encarga de desarrollar, probar y determinar los factores que afectan los indicadores de desempe&ntilde;o identificados. Con frecuencia, se utilizan tablas y gr&aacute;ficos para informar sobre los IDEn y las m&eacute;tricas de desempe&ntilde;o energ&eacute;tico. Los IDEn y sus l&iacute;neas de base correspondientes se utilizan para dar parte del desempe&ntilde;o energ&eacute;tico a la alta direcci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Registrar y mantener la(s) l&iacute;nea(s) de base energ&eacute;tica(s))</p>
+
+<p>&nbsp;</p>
+
+<p>La l&iacute;nea de base energ&eacute;tica ─o l&iacute;neas, seg&uacute;n sea el caso─ se registra, mantiene y se revisa de forma peri&oacute;dica para determinar si es necesario realizar ajustes. Los IDEn que se calcularon y sus l&iacute;neas de base se registran y se repasan de manera regular. Los IDEn actualizados se incorporan en la planificaci&oacute;n energ&eacute;tica de su organizaci&oacute;n y se usan para ayudar a determinar el desempe&ntilde;o energ&eacute;tico; &eacute;stos incluyen una evaluaci&oacute;n de las l&iacute;neas de base energ&eacute;ticas relevantes con la que se determina si estos valores a&uacute;n son pertinentes. Mantener las l&iacute;neas de base garantiza que la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico contin&uacute;a siendo relevante y significativa a medida que el SGEn madura.</p>
+
+<p>Registrar y almacenar de forma precisa los IDEn y sus l&iacute;neas de base correspondientes permite la creaci&oacute;n de un archivo hist&oacute;rico que muestra el impacto de las pr&aacute;cticas de gesti&oacute;n energ&eacute;tica a lo largo del tiempo. Estos datos de desempe&ntilde;o verifican el &eacute;xito de actividades como los proyectos de eficiencia energ&eacute;tica, la capacitaci&oacute;n en eficiencia energ&eacute;tica y los programas que pretenden dar mayor difusi&oacute;n a la gesti&oacute;n energ&eacute;tica. Asimismo, ofrece un mensaje positivo para los mandos directivos con miras a conseguir apoyo para el SGEn.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Especificar las condiciones para el ajuste de la(s) l&iacute;nea(s) de base energ&eacute;tica(s))</p>
+
+<p>Puesto que la LBEn sirve como fundamento de comparaci&oacute;n para estimar el desempe&ntilde;o energ&eacute;tico, por lo general se mantiene estable con el paso del tiempo. Sin embargo, se realizan ajustes a estos niveles de referencia en los siguientes casos:</p>
+
+<ul>
+	<li>cuando los IDEn ya no reflejan de forma precisa el uso o consumo energ&eacute;tico de la organizaci&oacute;n;</li>
+	<li>cuando hay cambios importantes en el proceso, los patrones operativos o los sistemas energ&eacute;ticos;</li>
+	<li>de acuerdo con un m&eacute;todo predeterminado.</li>
+</ul>
+
+<p>Las l&iacute;neas de base energ&eacute;ticas y sus registros se actualizan de forma paralela. Mantener estos niveles de referencia permite que las evaluaciones del desempe&ntilde;o energ&eacute;tico permanezcan relevantes y significativas para su organizaci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recopilar y examinar los datos convenientes)</p>
+
+<p>Un primer paso importante para establecer metas y objetivos energ&eacute;ticos consiste en reunir a las personas indicadas y proporcionarles los datos que se requieren para desarrollar metas y objetivos energ&eacute;ticos establecidos. El representante de la direcci&oacute;n y el equipo de gesti&oacute;n energ&eacute;tica tienen un papel fundamental en esta actividad, aunque involucrar otros cargos puede resultar ben&eacute;fico si &eacute;stos a&uacute;n no cuentan con un representante en el equipo de gesti&oacute;n energ&eacute;tica.</p>
+
+<p>[Learn More](Procuraci&oacute;n de la participaci&oacute;n de otras funciones en el desarrollo de metas y objetivos energ&eacute;ticos)</p>
+
+<p>Con el fin de establecer metas y objetivos energ&eacute;ticos, una pr&aacute;ctica recomendada consiste en complementar el equipo de gesti&oacute;n energ&eacute;tica con:</p>
+
+<ul>
+	<li>Individuos con experiencia en cuestiones de eficiencia energ&eacute;tica</li>
+	<li>Personal con funciones especializadas, como contadur&iacute;a o finanzas</li>
+	<li>Personal familiarizado con equipo operativo o de producci&oacute;n</li>
+	<li>Directivos familiarizados con los planes y las metas de la organizaci&oacute;n</li>
+	<li>Proveedores o contratistas que proporcionen equipo o recursos energ&eacute;ticos</li>
+	<li>Clientes</li>
+	<li>Partes interesadas</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Al establecer (y, m&aacute;s adelante, al revisar) las metas y objetivos energ&eacute;ticos, es necesario tomar en consideraci&oacute;n los usos significativos de energ&iacute;a (tareas [task](Data Analysis) y [task](Significant Energy Uses)), as&iacute; como las oportunidades de eficiencia energ&eacute;tica priorizadas (tarea [task](Improvement Opportunities)) que se identificaron como parte de su diagn&oacute;stico energ&eacute;tico y los requisitos legales y de otro tipo relacionados con la energ&iacute;a que aplican a su organizaci&oacute;n (tarea [task](Legal Requirements)). De este modo, la informaci&oacute;n que resulta del diagn&oacute;stico energ&eacute;tico se convierte en una contribuci&oacute;n para las metas y objetivos relacionados con la mejora de desempe&ntilde;o energ&eacute;tico que su organizaci&oacute;n establece para s&iacute; misma.</p>
+
+<p>No obstante, tambi&eacute;n necesita asegurar que la realidad de la situaci&oacute;n empresarial, condiciones operativas y limitaciones de su organizaci&oacute;n sean parte del contexto en el que se establecen las metas y objetivos energ&eacute;ticos. Despu&eacute;s de todo, la finalidad es establecer metas y objetivos alcanzables, que concuerden con los planes de negocio estrat&eacute;gico de su organizaci&oacute;n y que resulten en una mejora exitosa de desempe&ntilde;o energ&eacute;tico. Estos puntos son:</p>
+
+<ul>
+	<li>Requisitos financieros</li>
+	<li>Condiciones y limitaciones operativas y de negocio</li>
+	<li>Soluciones tecnol&oacute;gicas potenciales</li>
+	<li>Opiniones de las partes interesadas</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir y documentar las metas y los objetivos energ&eacute;ticos)</p>
+
+<p>En su calidad de resultados espec&iacute;ficos que una organizaci&oacute;n fija para cumplir el compromiso de mejora del desempe&ntilde;o energ&eacute;tico establecido en su pol&iacute;tica energ&eacute;tica, los objetivos energ&eacute;ticos son fines de alto nivel que se comunican a trav&eacute;s de la organizaci&oacute;n, y representan la base para establecer metas energ&eacute;ticas cuantificables. Los periodos para el cumplimiento de estas metas y objetivos energ&eacute;ticos deben definirse. Un ejemplo de objetivo energ&eacute;tico es:</p>
+
+<p><em>&ldquo;</em><em>Reducir el consumo de energ&iacute;a en un 10 por ciento en cinco a&ntilde;os a partir de la l&iacute;nea de base energ&eacute;tica de 2014&rdquo;.</em></p>
+
+<p>Luego de determinar los objetivos energ&eacute;ticos, su organizaci&oacute;n necesita establecer una o m&aacute;s metas de eficiencia energ&eacute;tica para cada objetivo. Las metas energ&eacute;ticas definen las mejoras de desempe&ntilde;o energ&eacute;tico espec&iacute;ficas y mensurables que contribuyen a alcanzar el objetivo. Una meta energ&eacute;tica puede ser aplicable a toda la organizaci&oacute;n o s&oacute;lo a una actividad o a una parte de la organizaci&oacute;n en espec&iacute;fico. Algunos ejemplos de metas que pueden relacionarse con el enunciado anterior propuesto para ejemplificar un objetivo energ&eacute;tico son:</p>
+
+<p><em>&ldquo;Reducir el consumo el&eacute;ctrico en un 5 por ciento, en comparaci&oacute;n con la l&iacute;nea de base energ&eacute;tica</em> <em>de 2014, para el tercer trimestre de 2018&rdquo;.</em></p>
+
+<p><em>&ldquo;Reducir el consumo del sistema de iluminaci&oacute;n en un 10 por ciento, en comparaci&oacute;n con la l&iacute;nea de base energ&eacute;tica de 2014, para el t&eacute;rmino del a&ntilde;o fiscal 2017&rdquo;.</em></p>
+
+<p>Las metas pueden desarrollarse de manera conjunta con el objetivo energ&eacute;tico, o tambi&eacute;n pueden ser necesarios m&aacute;s datos a fin identificar metas espec&iacute;ficas que permitir&aacute;n a la organizaci&oacute;n cumplir los objetivos. Por ejemplo, puede considerar necesario evaluar de manera minuciosa los ahorros energ&eacute;ticos potenciales que se asocian con una oportunidad de eficiencia energ&eacute;tica espec&iacute;fica, con objeto de determinar una meta energ&eacute;tica apropiada. O, de forma alternativa, una meta energ&eacute;tica puede orientar la elecci&oacute;n de las oportunidades de mejora energ&eacute;tica que se implementar&aacute;n a fin de cumplir la meta y el objetivo energ&eacute;ticos.</p>
+
+<p>El grado en que se han alcanzado las metas y objetivos energ&eacute;ticos se comunica a los altos directivos a trav&eacute;s del proceso de revisi&oacute;n gerencial (cons&uacute;ltese la tarea [task](Management Review)). Los avances en el cumplimiento de las metas y los objetivos energ&eacute;ticos deben monitorearse y revisarse de manera continua. En ocasiones, luego de la implementaci&oacute;n inicial de las metas y los objetivos de eficiencia energ&eacute;tica, una organizaci&oacute;n descubre que los datos o indicadores iniciales que se utilizaron para evaluar la meta energ&eacute;tica deben modificarse a fin de cumplir con el objetivo energ&eacute;tico.</p>
+
+<p>Las metas y los objetivos energ&eacute;ticos deben documentarse.</p>
+
+<p>[Learn More](Beneficios de documentar las metas y los objetivos energ&eacute;ticos)</p>
+
+<p>Esta documentaci&oacute;n beneficia a su organizaci&oacute;n al:</p>
+
+<ul>
+	<li>Aclarar las metas y objetivos</li>
+	<li>Prevenir malentendidos o asunciones</li>
+	<li>Proporcionar estructura al proceso</li>
+	<li>Apoyar en la capacitaci&oacute;n</li>
+	<li>Proveer medios para una comunicaci&oacute;n precisa</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>La documentaci&oacute;n puede realizarse en cualquier formato conveniente para su organizaci&oacute;n. El recurso [resource](Energy_Objectives_Targets_Worksheet) permite documentar las metas y los objetivos energ&eacute;ticos, as&iacute; como las consideraciones necesarias. Complete una hoja de trabajo independiente para cada objetivo energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Obtener aprobaci&oacute;n por parte de la direcci&oacute;n)</p>
+
+<p>Los altos directivos son los responsables de asegurar el establecimiento de las metas y objetivos energ&eacute;ticos, as&iacute; como de proporcionar los recursos necesarios para su cumplimiento. Los mandos directivos garantizan que las metas y objetivos est&eacute;n acordes con las estrategias y los fines generales de la organizaci&oacute;n.</p>
+
+<p>Presente las metas y objetivos ante los mandos directivos, en un formato claro y comprensible, para su revisi&oacute;n y aprobaci&oacute;n. Es necesario proporcionar informaci&oacute;n suficiente a fin de justificar el prop&oacute;sito de cada meta y objetivo, su relaci&oacute;n con los fines empresariales de su organizaci&oacute;n y los compromisos de &eacute;sta en materia de pol&iacute;tica energ&eacute;tica. Los mandos directivos aprobar&aacute;n las metas y los objetivos o proporcionar&aacute;n orientaci&oacute;n sobre cualquier cambio necesario.</p>
+
+<p>El recurso [resource](Energy_Objectives_Targets_Worksheet) tambi&eacute;n ofrece una v&iacute;a &oacute;ptima para comunicar a los mandos directivos tanto los objetivos propuestos como las metas relacionadas. Esto ayuda a los mandos directivos a moldear los datos y observaciones que se consideraron y se&ntilde;ala c&oacute;mo ser&aacute;n monitoreados.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comunicar las metas y los objetivos energ&eacute;ticos)</p>
+
+<p>Una vez que las metas y los objetivos de eficiencia energ&eacute;tica se documentaron de manera formal y obtuvieron la aprobaci&oacute;n de los mandos directivos, deben comunicarse a grandes rasgos en toda la organizaci&oacute;n mediante los procesos de comunicaci&oacute;n y capacitaci&oacute;n del SGEn (cons&uacute;ltense las tareas [task](Communications) y [task](Training)). Como m&iacute;nimo, comience por comunicar las metas y los objetivos al equipo de gesti&oacute;n energ&eacute;tica y a todo el personal que puede generar un impacto en estos resultados o que tenga un papel en su cumplimiento. Si bien cierto personal puede no tener la responsabilidad directa de cumplir con las metas y objetivos, una amplia sensibilizaci&oacute;n sobre las iniciativas de mejora energ&eacute;tica de su organizaci&oacute;n promueve una cultura de eficiencia energ&eacute;tica y fomenta un comportamiento positivo. Los empleados y los contratistas que trabajan en las instalaciones deben estar conscientes de c&oacute;mo contribuyen al cumplimiento de las metas y objetivos, por lo que debe asegurarse de que esta informaci&oacute;n forme parte de la capacitaci&oacute;n sobre concientizaci&oacute;n para la instrumentaci&oacute;n de un sistema de gesti&oacute;n de energ&iacute;a (SGEn) (cons&uacute;ltese la tarea [task](Communications)). De manera peri&oacute;dica, brinde al personal informaci&oacute;n actualizada de los avances logrados en lo relativo al cumplimiento de las metas y los objetivos energ&eacute;ticos, y celebre el &eacute;xito cuando se logren.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Los objetivos, y la informaci&oacute;n de los plazos en que deben cumplirse, se solicitan conforme a lo estipulado en las normas ISO 14001:2015 e ISO 9001:2015. Los procesos que se utilizan para establecer objetivos en materia ambiental o de calidad pueden ser adecuados para establecer las metas y los objetivos energ&eacute;ticos del sistema ISO 50001:2011. Se puede involucrar a distintos miembros del personal, pero el proceso general de establecimiento de objetivos puede ser el mismo. Con frecuencia, la determinaci&oacute;n de los objetivos en cuanto a calidad, seguridad, salud, ambiente y energ&iacute;a forma parte del resultado del proceso anual de la organizaci&oacute;n para establecer sus objetivos empresariales globales. Tenga en cuenta que, contrario a la norma ISO 50001, las normas ISO 14001 e ISO 9001 no emplean la elaboraci&oacute;n de &ldquo;metas&rdquo;.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El paso 2.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) proporciona consejos para establecer una l&iacute;nea de base energ&eacute;tica, mientras que los siguientes pasos (espec&iacute;ficamente 2.3, 3.0, 3.3 y 6.1) aportan recomendaciones para medir el desempe&ntilde;o energ&eacute;tico en comparaci&oacute;n con la LBEn.</p>
+
+<p>Si su organizaci&oacute;n tiene ya datos almacenados en el Gestor de Cartera Energy Star [resource](Portfolio_Manager), &eacute;stos pueden exportarse al indicador de desempe&ntilde;o energ&eacute;tico [resource](EnPI_Lite) a fin de estimar los ahorros energ&eacute;ticos relacionados con las variables relevantes, como los niveles de producci&oacute;n y el clima. Si requiere m&aacute;s instrucciones al respecto, se encuentran disponibles en el sitio web de la herramienta EnPI Lite. El modelo energ&eacute;tico de la herramienta EnPI Lite da lugar a una l&iacute;nea de base energ&eacute;tica normalizada a trav&eacute;s de variables que tienen impacto en el consumo energ&eacute;tico (como el clima y la producci&oacute;n).</p>
+
+<p>Su organizaci&oacute;n puede haber establecido previamente metas y objetivos de MDEn con la ayuda de la orientaci&oacute;n que se brinda en los pasos 3.3: &lsquo;Establecer metas&rsquo; (<em>Setting Goals</em>) y 4.1: &lsquo;Definir metas y procedimientos t&eacute;cnicos&rsquo; (<em>Define Technical Steps and Targets</em>), del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management. La presente tarea del Navegador 50001 Ready ofrece orientaci&oacute;n espec&iacute;fica que permite asegurar que las metas y los objetivos energ&eacute;ticos de su organizaci&oacute;n cumplan con ciertos criterios que dicta la norma ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

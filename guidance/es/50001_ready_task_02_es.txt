@@ -1,0 +1,62 @@
+USDOE 50001 READY NAVIGATOR TASK 2
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Política energética
+----------TITLE----------
+Tarea 2: Hemos elaborado una declaración de política energética, la cual fue aprobada por la alta dirección
+----------GETTING IT DONE----------
+<ul>
+	<li>Use el recurso [resource](Energy_Policy_Worksheets) para redactar la declaraci&oacute;n de pol&iacute;tica energ&eacute;tica.</li>
+	<li>Obtenga la aprobaci&oacute;n de la alta direcci&oacute;n, y posteriormente emita y comunique dicha declaraci&oacute;n de pol&iacute;tica energ&eacute;tica a toda la organizaci&oacute;n; asimismo, incorp&oacute;rela en su programa de concientizaci&oacute;n para la instrumentaci&oacute;n de un sistema de gesti&oacute;n de energ&iacute;a (SGEn) (v&eacute;ase la tarea [task](Communications)).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La pol&iacute;tica energ&eacute;tica es la declaraci&oacute;n de la alta direcci&oacute;n acerca de sus intenciones con respecto al desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n. Los compromisos declarados en la pol&iacute;tica establecen la direcci&oacute;n de las actividades de gesti&oacute;n energ&eacute;tica y proporcionan el marco para usar los objetivos y metas energ&eacute;ticos con el fin de lograr la mejora del desempe&ntilde;o energ&eacute;tico. Se documenta y comunica al personal en todos los niveles de la organizaci&oacute;n, incluidos los contratistas en el sitio.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>redactar la pol&iacute;tica energ&eacute;tica, y</li>
+	<li>aprobar la pol&iacute;tica energ&eacute;tica.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.2.1 a) y 4.3 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Redactar la pol&iacute;tica energ&eacute;tica)</p>
+
+<p>La pol&iacute;tica energ&eacute;tica debe establecer los compromisos de la alta direcci&oacute;n con lo siguiente:</p>
+
+<ul>
+	<li>Lograr la mejora continua en el desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Asegurar la informaci&oacute;n y recursos necesarios para cumplir con los objetivos y metas energ&eacute;ticos.</li>
+	<li>Cumplir con los requisitos legales aplicables y otros requisitos relacionados con la energ&iacute;a suscritos por su organizaci&oacute;n.</li>
+</ul>
+
+<p>Adicionalmente, la pol&iacute;tica energ&eacute;tica debe respaldar:</p>
+
+<ul>
+	<li>La adquisici&oacute;n de productos y servicios con uso eficiente de energ&iacute;a.</li>
+	<li>El mejoramiento del desempe&ntilde;o energ&eacute;tico en las actividades de dise&ntilde;o.</li>
+</ul>
+
+<p>La pol&iacute;tica puede constar de unas pocas oraciones o varios p&aacute;rrafos. Por lo general, m&aacute;s simple y m&aacute;s corto es mejor, pero es necesario que incluya los compromisos listados anteriormente y que est&eacute; adecuada a la naturaleza y alcance del uso y consumo energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p>En algunas ocasiones, la alta direcci&oacute;n o el equipo de gesti&oacute;n energ&eacute;tica incorporar&aacute; compromisos adicionales en la pol&iacute;tica energ&eacute;tica (por ejemplo, sustentabilidad, reducciones de las emisiones de gases de efecto invernadero, Energy Star) que no son requeridos por la ISO 50001. Aunque esto es aceptable, recuerde que se debe demostrar aquello declarado en la pol&iacute;tica. En otras palabras: lo que se haya establecido, eso es lo que debe hacer.</p>
+
+<p>La pol&iacute;tica energ&eacute;tica debe asentarse en documentos. Por lo general, el equipo de gesti&oacute;n energ&eacute;tica prepara un borrador inicial de la pol&iacute;tica energ&eacute;tica para la consideraci&oacute;n y aprobaci&oacute;n de la alta direcci&oacute;n. El recurso [resource](Energy_Policy_Worksheets) puede servir como ayuda a su equipo en la redacci&oacute;n de la pol&iacute;tica energ&eacute;tica. A manera de ejemplo, el recurso [resource](Example_Energy_Policy) muestra c&oacute;mo se puede usar la nemotecnia para redactar los compromisos de la alta direcci&oacute;n y facilitar al personal su comprensi&oacute;n y sensibilizaci&oacute;n como parte de las actividades de capacitaci&oacute;n del SGEn.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Aprobar la pol&iacute;tica energ&eacute;tica)</p>
+
+<p>Siendo la pol&iacute;tica energ&eacute;tica una declaraci&oacute;n de las intenciones de su organizaci&oacute;n, la alta direcci&oacute;n debe &ldquo;hacerla suya&rdquo;. Esto incluye garantizar que dicha pol&iacute;tica est&eacute; en consonancia con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n. La constancia de la aprobaci&oacute;n de la pol&iacute;tica energ&eacute;tica por la alta direcci&oacute;n puede quedar representada de varias formas, desde una simple fecha y firma hasta una decisi&oacute;n registrada de la direcci&oacute;n.</p>
+
+<p>Una vez aprobada y comunicada, la pol&iacute;tica energ&eacute;tica se revisa de manera regular y se actualiza seg&uacute;n se va requiriendo. Esto se logra por medio del proceso de revisi&oacute;n gerencial (v&eacute;ase la tarea [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Al igual que ocurre con las pol&iacute;ticas tanto en la ISO 14001:2015 como en la ISO 9001:2015, la pol&iacute;tica energ&eacute;tica en un sistema de gesti&oacute;n es responsabilidad de la alta direcci&oacute;n. Y aunque los compromisos de pol&iacute;tica que cada una de estas normas exige son diferentes, &eacute;stos se pueden combinar de manera muy f&aacute;cil en una sola pol&iacute;tica dentro de un sistema de gesti&oacute;n integrado. Los compromisos de la pol&iacute;tica energ&eacute;tica de la ISO 50001 se integran con frecuencia en pol&iacute;ticas de sistemas de gesti&oacute;n ambiental o de seguridad y sanitaria. Asimismo, la pol&iacute;tica energ&eacute;tica se puede poner en pr&aacute;ctica como una pol&iacute;tica aut&oacute;noma. Note que a diferencia de las pol&iacute;ticas de calidad y ambientales, no se requiere que la pol&iacute;tica energ&eacute;tica est&eacute; disponible fuera de la organizaci&oacute;n. En caso de que se integrara con una declaraci&oacute;n de pol&iacute;tica de la ISO 14001 o ISO 9001, entonces la pol&iacute;tica energ&eacute;tica estar&aacute; disponible para las partes interesadas externas. La diferencia clave entre la ISO 50001 y estas otras dos normas (ISO 14001 e ISO 9001) es que la pol&iacute;tica energ&eacute;tica debe estar expl&iacute;citamente comprometida con lograr la mejora del desempe&ntilde;o energ&eacute;tico.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Se debe verificar la pol&iacute;tica energ&eacute;tica que su organizaci&oacute;n instituy&oacute; en el paso 1.3 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) para garantizar que cumple con los requisitos espec&iacute;ficos de la ISO 50001. Una pol&iacute;tica energ&eacute;tica que se adhiere a la norma ISO 50001 debe comprometerse a lograr una mejora continua en el desempe&ntilde;o energ&eacute;tico, satisfacer las obligaciones de cumplimiento, respaldar la adquisici&oacute;n de productos y servicios con uso eficiente de energ&iacute;a, as&iacute; como documentar y comunicar la pol&iacute;tica en todos los niveles de la organizaci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,206 @@
+USDOE 50001 READY NAVIGATOR TASK 12
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Oportunidades de mejora del desempeño energético
+----------TITLE----------
+Tarea 12: Hemos identificado y priorizado las oportunidades de mejora del desempeño energético y está en marcha un proceso para continuar su actualización
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice el recurso [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) para determinar y documentar la forma en que su organizaci&oacute;n identificar&aacute;, priorizar&aacute; y actualizar&aacute; las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Utilice las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico priorizadas para seleccionar los proyectos a implementar.</li>
+	<li>Aplique alguno de los criterios establecidos por su organizaci&oacute;n para justificar y obtener la aprobaci&oacute;n del proyecto.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico son un componente clave de la revisi&oacute;n energ&eacute;tica. Estas oportunidades se identifican mediante el an&aacute;lisis de las pr&aacute;cticas actuales, con el fin de determinar c&oacute;mo pueden mejorarse &eacute;stas. Este proceso puede sacar a la luz el potencial de mejores pr&aacute;cticas operativas, mejoras de equipos y sistemas, y las tecnolog&iacute;as avanzadas que podr&iacute;an beneficiar a su organizaci&oacute;n.</p>
+
+<p>Las oportunidades se priorizan de conformidad con los criterios de su organizaci&oacute;n, buscando un uso m&aacute;s eficaz de los recursos de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Despu&eacute;s de establecer los objetivos y metas en materia energ&eacute;tica, usted deber&aacute; determinar c&oacute;mo los alcanzar&aacute; su organizaci&oacute;n. Esto implica la revisi&oacute;n de la lista de las oportunidades priorizadas y la selecci&oacute;n de proyectos para su implementaci&oacute;n. Este proceso contribuye a asegurar que se planifiquen e implementen aquellos proyectos m&aacute;s apropiados para cumplir los objetivos y metas energ&eacute;ticas.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>identificar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico;</li>
+	<li>establecer y aplicar los criterios para la priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, y</li>
+	<li>determinar las oportunidades (proyectos) para su implementaci&oacute;n.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados </em><em>4.4.3 c) y 4.4.6 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>La identificaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico es responsabilidad del representante directivo, con apoyo del equipo de gesti&oacute;n energ&eacute;tica y de auditor&iacute;a interna del SGEn (v&eacute;ase la tarea [task](Internal Audit)). Sin embargo, deber&iacute;a solicitarse y considerarse la participaci&oacute;n de todos los empleados, as&iacute; como la de los recursos externos, seg&uacute;n corresponda.</p>
+
+<p>[Learn More](Beneficios de la implementaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico)</p>
+
+<ul>
+	<li>Reducci&oacute;n del consumo de energ&iacute;a</li>
+	<li>Disminuci&oacute;n de las emisiones</li>
+	<li>Reducci&oacute;n de los costos operativos</li>
+	<li>Mejora de la eficiencia operativa</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Un m&eacute;todo com&uacute;n para la identificaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico es realizar una evaluaci&oacute;n energ&eacute;tica. Las evaluaciones energ&eacute;ticas son un excelente m&eacute;todo de recolecci&oacute;n de datos para todos los componentes del diagn&oacute;stico energ&eacute;tico (v&eacute;ase la tarea [task](Data Collection)) y proporcionar una fuente vital de informaci&oacute;n para la planificaci&oacute;n de la gesti&oacute;n energ&eacute;tica, incluida la identificaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Las evaluaciones producen una &ldquo;fotograf&iacute;a&rdquo; del desempe&ntilde;o energ&eacute;tico actual de la organizaci&oacute;n y ofrecen una lista de medidas de mejoramiento cuantificadas. Las evaluaciones pueden ser realizadas por el representante directivo y por los miembros del equipo de gesti&oacute;n de energ&iacute;a, los especialistas corporativos en gesti&oacute;n energ&eacute;tica, los consultores en energ&iacute;a externos, el personal de las empresas proveedoras y los expertos acad&eacute;micos.</p>
+
+<p>&nbsp;</p>
+
+<p>[Learn More](Evaluaciones energ&eacute;ticas)</p>
+
+<p>Los tipos de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico identificadas dependen del alcance y el prop&oacute;sito de la evaluaci&oacute;n, pero pueden incluir mejoras en la compra de energ&iacute;a, mejores pr&aacute;cticas de operaci&oacute;n y mantenimiento, renovaci&oacute;n o sustituci&oacute;n de los equipos de energ&iacute;a existentes. Una evaluaci&oacute;n energ&eacute;tica incluye los siguientes elementos:</p>
+
+<ul>
+	<li>Determinaci&oacute;n del alcance de la evaluaci&oacute;n, incluidas edificaciones, sistemas y herramientas de medici&oacute;n.</li>
+	<li>Revisi&oacute;n de todos los proyectos de eficiencia energ&eacute;tica anteriores para ayudar a centrarse en el alcance de la evaluaci&oacute;n.</li>
+	<li>Revisi&oacute;n de las evaluaciones anteriores y determinaci&oacute;n de los requisitos de informaci&oacute;n adicionales o actualizados.</li>
+	<li>Desarrollo del plan de evaluaci&oacute;n energ&eacute;tica con base en los alcances identificados</li>
+	<li>Realizaci&oacute;n de la evaluaci&oacute;n.</li>
+	<li>Registro de los resultados de la(s) evaluaci&oacute;n(es).</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>La Oficina de Manufactura Avanzada (<em>Advanced Manufacturing Office</em>, AMO) del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos tambi&eacute;n ofrece una variedad de recursos para identificar oportunidades de ahorro energ&eacute;tico en sistemas energ&eacute;ticos espec&iacute;ficos, incluida una variedad de recursos [resource](System_Tool_Assessment). Las herramientas de an&aacute;lisis del sistema est&aacute;n disponibles para sistemas de aire comprimido, ventiladores, motores, bombas, sistemas de calefacci&oacute;n de procesos, sistemas de vapor y edificaciones industriales. Las normas de evaluaci&oacute;n de sistemas de la Sociedad Americana de Ingenieros Mec&aacute;nicos (<em>American Society of Mechanical Engineers</em>, ASME) tambi&eacute;n proporcionan orientaci&oacute;n acerca de las evaluaciones de sistemas energ&eacute;ticos. Las orientaciones de la ASME est&aacute;n disponibles en instalaciones y en sistemas de energ&iacute;a espec&iacute;ficos relacionados con organizaciones tanto industriales como comerciales.</p>
+
+<p>El personal que trabaja para su organizaci&oacute;n o en nombre de &eacute;sta, generalmente es &uacute;til para definir aquellas oportunidades de mejora del desempe&ntilde;o energ&eacute;tico no descubiertas durante una evaluaci&oacute;n energ&eacute;tica. Este personal puede estar estrechamente asociado con los equipos o procesos de energ&iacute;a, y puede revelar oportunidades &uacute;nicas en raz&oacute;n de su experiencia. La utilizaci&oacute;n de este tipo de recursos ofrece la posibilidad de descubrir mejoras no convencionales y contratar personal que, de lo contrario, no podr&iacute;a participar activamente en la gesti&oacute;n energ&eacute;tica.</p>
+
+<p>Las evaluaciones energ&eacute;ticas son muy eficaces, pero pueden ser costosas. Para definir oportunidades de mejora del desempe&ntilde;o energ&eacute;tico se describen otros enfoques en el siguiente apartado &lsquo;Conozca m&aacute;s&rsquo; (haga clic en el enlace).</p>
+
+<p>[Learn More](Otros enfoques para definir oportunidades de mejora del desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>Las siguientes fuentes pueden ayudar a identificar oportunidades de mejora del desempe&ntilde;o energ&eacute;tico:</p>
+
+<ul>
+	<li>Sugerencias de empleados</li>
+	<li>Representantes de empresas de energ&iacute;a</li>
+	<li>T&eacute;cnicos de servicio</li>
+	<li>Normas de edificaci&oacute;n comercial</li>
+	<li>Normas para el sector industrial</li>
+	<li>Normas para equipos</li>
+	<li>Organizaciones gubernamentales</li>
+	<li>Proveedores de equipos</li>
+</ul>
+
+<p>El recurso [resource](Checklists_Identify_Energy_Opportunities_Other_Methods) puede ser &uacute;til para buscar y utilizar otros m&eacute;todos que permiten identificar oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Este recurso identifica diferentes m&eacute;todos para detectar oportunidades, as&iacute; como puntos de contacto sugeridos y posibles resultados de la aplicaci&oacute;n del m&eacute;todo.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer y aplicar criterios de priorizaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>El siguiente paso de la planificaci&oacute;n energ&eacute;tica es priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. La elecci&oacute;n del m&eacute;todo de priorizaci&oacute;n corresponde a la organizaci&oacute;n; sin embargo, &eacute;sta debe ser constante y sistem&aacute;tica. Procesar cada idea de mejora potencial puede ser dif&iacute;cil y exigir mucho tiempo a su organizaci&oacute;n; la priorizaci&oacute;n realizada con base en criterios definidos ayuda a concentrar los recursos en las oportunidades m&aacute;s pr&aacute;cticas.</p>
+
+<p>Las siguientes actividades le ayudar&aacute;n a desarrollar y aplicar criterios de priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<ul>
+	<li>Seleccionar a las personas adecuadas</li>
+	<li>Revisar la informaci&oacute;n pertinente de la organizaci&oacute;n</li>
+	<li>Determinar los criterios</li>
+	<li>Desarrollar herramientas o t&eacute;cnicas para la aplicaci&oacute;n de criterios</li>
+	<li>Aplicar los criterios para priorizar las oportunidades</li>
+</ul>
+
+<p><strong>Seleccione a las personas adecuadas.</strong> Seleccione a individuos que ocupen diferentes funciones y niveles dentro de la organizaci&oacute;n para el desarrollo de los criterios de priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Tener en cuenta diferentes puntos de vista asegura considerar una amplia gama de factores potenciales. Si los miembros del equipo de gesti&oacute;n energ&eacute;tica cuentan con una representaci&oacute;n adecuada de los diversos niveles y funciones, no es necesario entonces agregar m&aacute;s personal al equipo. Por otra parte, &eacute;ste puede ser el momento para incorporar a otros miembros del personal que aporten conocimientos espec&iacute;ficos o una experiencia &uacute;til para el proceso de determinaci&oacute;n de los criterios de priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Esto podr&iacute;a incluir, por ejemplo, personal con conocimientos acerca de la planificaci&oacute;n financiera de su organizaci&oacute;n o de los procesos de justificaci&oacute;n del proyecto.</p>
+
+<p><strong>Revisar la informaci&oacute;n pertinente de la organizaci&oacute;n.</strong> El equipo de gesti&oacute;n energ&eacute;tica deber&aacute; reunir y revisar la informaci&oacute;n de la organizaci&oacute;n que pueda afectar los criterios o el enfoque que se utilizar&aacute; en la priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Adicionalmente, puede ser &uacute;til para el equipo de gesti&oacute;n energ&eacute;tica ser consciente de cualquier riesgo en el proceso de evaluaci&oacute;n que usa su organizaci&oacute;n, as&iacute; como tener una clara comprensi&oacute;n de la seguridad y la tolerancia del riesgo ambiental de su organizaci&oacute;n.</p>
+
+<p>[Learn More](Informaci&oacute;n organizacional pertinente)</p>
+
+<p>La informaci&oacute;n organizacional pertinente puede incluir:</p>
+
+<ul>
+	<li>Estrategias empresariales de la organizaci&oacute;n</li>
+	<li>Obst&aacute;culos actuales o requisitos financieros para los proyectos de capital propuestos</li>
+	<li>Proyectos de operaci&oacute;n y mantenimiento</li>
+	<li>Otros tipos de recursos o solicitudes de financiaci&oacute;n</li>
+	<li>Previsiones de producci&oacute;n o de mercado</li>
+	<li>Requisitos corporativos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p><strong>Determinar criterios.</strong> Al seleccionar los criterios, considere la informaci&oacute;n recopilada de su organizaci&oacute;n y desarrolle criterios que permitan abordar las necesidades y requerimientos de su organizaci&oacute;n.</p>
+
+<p>[Learn More](Ejemplos de criterios)</p>
+
+<p>Algunos ejemplos de criterios incluyen:</p>
+
+<ul>
+	<li>Reducci&oacute;n estimada de la energ&iacute;a o de los costos</li>
+	<li>Implementaci&oacute;n de los costos de oportunidad</li>
+	<li>Retorno de la inversi&oacute;n, tasa interna de retorno, valor actual neto, costo del ciclo de vida</li>
+	<li>Facilidad de la implementaci&oacute;n de la oportunidad</li>
+	<li>Duraci&oacute;n del periodo de aplicaci&oacute;n</li>
+	<li>Posibles problemas de seguridad, salud y ambientales</li>
+	<li>Impacto del mantenimiento</li>
+	<li>Impacto de la producci&oacute;n o impacto operativo</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Determine el tipo y el n&uacute;mero de criterios utilizados. Es posible que uno o dos criterios sean suficientes o que se requiera de muchos criterios. Se debe determinar adem&aacute;s si se establecer&aacute;n y aplicar&aacute;n escalas de puntuaci&oacute;n o calificaci&oacute;n para cada criterio (por ejemplo, el rango de ahorro de energ&iacute;a considerado aceptable). Si tan s&oacute;lo se utiliza un criterio, un simple l&iacute;mite &ldquo;funciona o no funciona&rdquo; puede ser suficiente. Cuando se utilizan m&uacute;ltiples criterios, generalmente se requiere de un proceso para determinar la importancia relativa de cada criterio y la manera como se evaluar&aacute;n (v&eacute;ase la siguiente actividad).</p>
+
+<p>Recuerde documentar los criterios que se utilizar&aacute;n para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Esto asegura que los criterios se entiendan claramente y se apliquen de modo uniforme. El recurso [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) puede darle algunas ideas acerca de c&oacute;mo se documentan los criterios.</p>
+
+<p><strong>Elaborar herramientas o t&eacute;cnicas para la aplicaci&oacute;n de criterios.</strong> Ahora usted ya ha desarrollado criterios de priorizaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Esto garantiza que los recursos de su organizaci&oacute;n se centren en lo m&aacute;s viable para el conjunto de posibles proyectos de eficiencia energ&eacute;tica. La elaboraci&oacute;n de herramientas o t&eacute;cnicas para aplicar los criterios puede facilitar el proceso de priorizaci&oacute;n.</p>
+
+<p>Si su organizaci&oacute;n ya cuenta con herramientas para priorizar los proyectos potenciales, resulta l&oacute;gico utilizar (o adaptar) esas mismas herramientas para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Si no existen tales herramientas, entonces el recurso [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets) puede ser un buen punto de partida. En este archivo, el cuadro titulado &lsquo;Criterios y calificaciones para establecer prioridades entre las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico&rsquo; (<em>Criteria and Ratings for Prioritizing Energy Opportunities</em>) est&aacute; disponible en la pesta&ntilde;a &lsquo;Hoja de trabajo en blanco&rsquo; (<em>Blank Worksheet</em>). Es posible utilizar criterios y clasificaciones seleccionados por su organizaci&oacute;n para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. En la pesta&ntilde;a &lsquo;Hoja de trabajo (ejemplo)&rsquo; (<em>Example Worksheet</em>) de esa hoja de c&aacute;lculo, hay un ejemplo concluido de esa tabla que muestra c&oacute;mo se puede establecer una escala de calificaci&oacute;n para cada criterio. Utilice el ejemplo como gu&iacute;a para completar una hoja de trabajo en blanco, y as&iacute; obtener puntajes de oportunidades para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p>Usualmente, los criterios utilizados para evaluar los proyectos tienen diferentes niveles de importancia. Si los criterios no son igualmente importantes, entonces el equipo de gesti&oacute;n energ&eacute;tica deber&aacute; determinar la ponderaci&oacute;n relativa.</p>
+
+<p>A manera de ejemplo, dentro de su organizaci&oacute;n, la reducci&oacute;n estimada de costos puede ser m&aacute;s importante que la aplicaci&oacute;n de la oportunidad de mejora del desempe&ntilde;o energ&eacute;tico. En este caso, la reducci&oacute;n de costos se puede ponderar dos veces m&aacute;s que la de los criterios de implementaci&oacute;n.</p>
+
+<p>En el recurso [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets), la pesta&ntilde;a &lsquo;Hoja de trabajo ponderada (en blanco)&rsquo; (<em>Blank Worksheet [Weighted]</em>) contiene el cuadro titulado &lsquo;Criterios y calificaciones para establecer prioridades entre las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico (ponderadas)&rsquo; <em>(Criteria and Ratings for Prioritizing Energy Opportunities [Weighted]</em>). Esta tabla presenta un enfoque para definir y utilizar los criterios ponderados. La pesta&ntilde;a &lsquo;Hoja de trabajo ponderada (ejemplo)&rsquo; (<em>Example Worksheet [Weighted]</em>) proporciona un ejemplo completo que ilustra c&oacute;mo puede utilizarse la tabla para definir los criterios y las ponderaciones para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico en su organizaci&oacute;n.</p>
+
+<p><strong>Aplicar criterios para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico en su organizaci&oacute;n.</strong> En las dos actividades anteriores, usted ha desarrollado criterios para priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico e incorporarlas en las herramientas que ha desarrollado o elegido para aplicar de manera uniforme los criterios de priorizaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico en su organizaci&oacute;n. Consulte ejemplos sobre c&oacute;mo pueden aplicarse los criterios y clasificaciones en las pesta&ntilde;as &lsquo;Hoja de trabajo (ejemplo)&rsquo; (<em>Example Worksheet</em>) y &lsquo;Hoja de trabajo ponderada (ejemplo)&rsquo; (<em>Example Worksheet [Weighted]</em>) en el recurso [resource](Prioritizing_Energy_Opportunities_Examples_Worksheets). Tenga en cuenta que en ambos ejemplos las puntuaciones de las oportunidades se calculan para cada oportunidad y se comparan para determinar las prioridades. En estos ejemplos, los n&uacute;meros m&aacute;s altos indican mayor prioridad de puntaje.</p>
+
+<p>Reordene de mayor a menor prioridad la lista de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Utilice una &ldquo;evaluaci&oacute;n realista&rdquo; para evaluar la lista de prioridades; es decir, aseg&uacute;rese de que la lista tenga sentido desde una perspectiva que pueda no ser directamente reflejada por los criterios, y que las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico parezcan corresponder a las expectativas de la organizaci&oacute;n. Si una o m&aacute;s oportunidades de mejora del desempe&ntilde;o energ&eacute;tico parecen no tener sentido, puede ser necesario reevaluar los criterios o las ponderaciones utilizadas para los criterios. Tenga en cuenta las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Tiene sentido la lista priorizada con respecto a los objetivos generales y planes de negocio de su organizaci&oacute;n?</li>
+	<li>&iquest;Existen criterios que no se han considerado y las prioridades est&aacute;n sesgadas?</li>
+	<li>&iquest;Reflejan las ponderaciones las prioridades de su organizaci&oacute;n?</li>
+	<li>&iquest;Existe alg&uacute;n cambio organizacional planificado u otros cambios que afecten la lista priorizada?</li>
+</ul>
+
+<p>En la medida en que se identifiquen nuevas oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, aseg&uacute;rese de que &eacute;stas se prioricen e incluyan en la lista.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Seleccione oportunidades [proyectos] para su implementaci&oacute;n).</p>
+
+<p>Despu&eacute;s de identificar y priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, su organizaci&oacute;n necesitar&aacute; seleccionar los proyectos que le permitan alcanzar los objetivos y metas de desempe&ntilde;o energ&eacute;tico espec&iacute;ficos establecidos en la tarea [task](Baselines, Objectives and Targets). Sin embargo, es improbable que la administraci&oacute;n pueda proporcionar recursos para todos los proyectos potenciales que se encuentren en su lista de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Revise la lista priorizada de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. Cuando seleccione un proyecto para su implementaci&oacute;n, considere los aspectos siguientes:</p>
+
+<ul>
+	<li>Los objetivos y metas establecidos en materia de desempe&ntilde;o energ&eacute;tico</li>
+	<li>El ahorro energ&eacute;tico estimado asociado a la ejecuci&oacute;n del proyecto</li>
+	<li>Las limitaciones institucionales, como:
+	<ul>
+		<li>
+		<ul style="list-style-type:circle">
+			<li>Necesidades o limitaciones financieras</li>
+			<li>Disponibilidad de tiempo y de personal calificado (tanto interno como externo, seg&uacute;n corresponda)</li>
+			<li>Efecto sobre otras prioridades institucionales</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li>Cualquier justificaci&oacute;n de capital aplicable u otros criterios necesarios para la aprobaci&oacute;n del proyecto por parte de la organizaci&oacute;n (por ejemplo, retorno sobre la inversi&oacute;n, amortizaci&oacute;n, etc&eacute;tera).</li>
+</ul>
+
+<p>Utilizando esta informaci&oacute;n, identifique y seleccione los proyectos cuya implementaci&oacute;n sea factible para su organizaci&oacute;n y que le permita cumplir los objetivos y metas establecidos y declarados en materia de energ&iacute;a. En la tarea [task](Improvement Projects) podr&aacute; desarrollar los planes de acci&oacute;n detallados de gesti&oacute;n de energ&iacute;a para los proyectos seleccionados.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Aunque no es requerido, las organizaciones que utilizan el sistema de gesti&oacute;n ambiental ISO 14001:2015 pueden realizar procesos en lugar de identificar y priorizar las oportunidades de mejora de desempe&ntilde;o ambiental (es decir, proyectos ambientales potenciales) como insumos para el establecimiento de objetivos ambientales y la planificaci&oacute;n de acciones para lograrlos. Algunas de estas oportunidades podr&iacute;an estar relacionadas con la energ&iacute;a. Cualquier proceso existente para identificar y priorizar esas oportunidades podr&iacute;a ser de utilidad con relaci&oacute;n a las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, as&iacute; como la norma ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Los pasos 2.5 y 3.2 del recurso <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> proporcionan orientaci&oacute;n acerca de la identificaci&oacute;n de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, tal como la realizaci&oacute;n de auditor&iacute;as energ&eacute;ticas. Otro recurso de utilidad es la <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Energy_Treasure_Hunt_Guide_Jan2014.pdf">ENERGY STAR Energy Treasure Hunt Guide</a>, gu&iacute;a &ldquo;del tesoro&rdquo; del programa Energy Star que su organizaci&oacute;n puede utilizar para ayudar a identificar oportunidades de ahorro energ&eacute;tico de bajo o nulo costo. Las orientaciones contenidas en esta tarea contienen detalles adicionales, herramientas y hojas de trabajo que puede ser de utilidad para identificar oportunidades adicionales de mejora del desempe&ntilde;o energ&eacute;tico y determinar las prioridades para todas ellas.</p>
+
+<p>El paso 3.2 del recurso <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> proporciona algunos consejos acerca de c&oacute;mo estimar el potencial de mejora, incluida la revisi&oacute;n de las oportunidades para reducir el consumo de energ&iacute;a.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

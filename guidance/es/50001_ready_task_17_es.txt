@@ -1,0 +1,263 @@
+USDOE 50001 READY NAVIGATOR TASK 17
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Acciones correctivas
+----------TITLE----------
+Tarea 17: Con el sistema 50001 Ready, investigamos y respondemos a las desviaciones significativas respecto al desempeño energético y a los problemas potenciales, aplicando las acciones correctivas y preventivas necesarias
+----------GETTING IT DONE----------
+<ul>
+	<li>Defina los criterios o par&aacute;metros de la desviaci&oacute;n significativa del desempe&ntilde;o energ&eacute;tico para cada indicador de desempe&ntilde;o energ&eacute;tico del plan de medici&oacute;n.</li>
+	<li>Establezca un proceso para investigar y responder a esas desviaciones y conservar los registros de los resultados.</li>
+	<li>Capacite al personal apropiado acerca de c&oacute;mo identificar y responder a las desviaciones significativas del desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Utilice los recursos [resource](Corrective_Action_Preventive_Action_Request_Form) y [resource](CAR_PAR_Tracking_Log) para elaborar e implementar un proceso de acciones correctivas y preventivas en su organizaci&oacute;n.</li>
+	<li>Defina las funciones, las responsabilidades y el personal autorizado para las distintas etapas de los procesos de acciones correctivas y preventivas.</li>
+	<li>Capacite a los empleados acerca de los tipos de problema y situaciones de no-conformidad reales y potenciales que deben abordarse mediante el proceso AC/AP (proceso de acciones correctivas y preventivas).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Las desviaciones significativas del desempe&ntilde;o energ&eacute;tico son definidas por su organizaci&oacute;n. Cuando se produce una desviaci&oacute;n significativa, su organizaci&oacute;n debe investigar y proporcionar una respuesta adecuada y registrar los resultados de esta respuesta. Los datos recopilados mediante el monitoreo y la medici&oacute;n de los elementos o caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico se utilizan para identificar las desviaciones significativas. Su organizaci&oacute;n determina qu&eacute; desviaci&oacute;n se considerar&aacute; significativa, pero, en general, se tratar&aacute; de valores que se alejan de un nivel de rendimiento considerado aceptable, definido o esperado.</p>
+
+<p>La norma ISO 50001:2011 requiere que usted identifique procesos y resuelva problemas y situaciones de no-conformidad reales y potenciales. Una no-conformidad potencial es una situaci&oacute;n en la que el incumplimiento de un requerimiento podr&iacute;a ocurrir o lo har&aacute; en el futuro si no se toman las medidas convenientes.</p>
+
+<p>Una no-conformidad es generalmente una situaci&oacute;n para la que se tienen indicios de que:</p>
+
+<ul>
+	<li>no se cumple un requisito o un objetivo de la norma ISO 50001 o de su SGEn;</li>
+	<li>su organizaci&oacute;n no est&aacute; haciendo lo que dijo que har&iacute;a;</li>
+	<li>los actuales procesos implementados no son eficaces, o</li>
+	<li>no se est&aacute; cumpliendo el objetivo de mejora del desempe&ntilde;o energ&eacute;tico.</li>
+</ul>
+
+<p>Los procesos a aplicar en tales casos son la correcci&oacute;n, la acci&oacute;n correctiva y las medidas preventivas. La<em> correcci&oacute;n</em> es la acci&oacute;n emprendida para eliminar una no-conformidad detectada. La<em> acci&oacute;n correctiva</em> es la acci&oacute;n tomada para eliminar la causa de una no-conformidad detectada. Las<em> medidas de prevenci&oacute;n</em> se utilizan para identificar y eliminar la causa de una potencial no-conformidad antes de que &eacute;sta ocurra.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>establecer y aplicar criterios para las desviaciones significativas;</li>
+	<li>elaborar e implementar un proceso de investigaci&oacute;n;</li>
+	<li>registrar los resultados;</li>
+	<li>desarrollar los procesos para las acciones correctivas y preventivas;</li>
+	<li>definir las funciones y las responsabilidades, e</li>
+	<li>implementar los procesos para las acciones correctivas y preventivas.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.5.5, 4.6.1 y 4.6.4 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Establecer y aplicar criterios para las desviaciones significativas)</p>
+
+<p>La desviaci&oacute;n puede identificarse por un determinado nivel de variaci&oacute;n o puede ser evaluada por personal capacitado para determinar si es significativa y si se requiere tomar medidas al respecto. Los siguientes son algunos ejemplos de m&eacute;todos para especificar las desviaciones significativas:</p>
+
+<ul>
+	<li>Valores fuera de los l&iacute;mites de control</li>
+	<li>Variaci&oacute;n porcentual del valor</li>
+	<li>Identificaci&oacute;n de tendencias</li>
+	<li>Variaci&oacute;n especificada del IDEn</li>
+	<li>Variaci&oacute;n especificada del desempe&ntilde;o de los USEn</li>
+	<li>Nivel de variaci&oacute;n entre el desempe&ntilde;o esperado y el real</li>
+	<li>Cambio del rendimiento en los equipos</li>
+	<li>Variaci&oacute;n del desempe&ntilde;o de una variable relevante espec&iacute;fica</li>
+	<li>Incumplimiento de los objetivos y las metas</li>
+	<li>Incumplimiento de un determinado nivel de rendimiento</li>
+</ul>
+
+<p>Una vez determinado(s) el(los) m&eacute;todo(s) para identificar una desviaci&oacute;n significativa, deben definirse los criterios que se utilizar&aacute;n para evaluar si una desviaci&oacute;n significativa tiene lugar. Su organizaci&oacute;n determina el m&eacute;todo y los criterios de conformidad con lo que considera aceptable o inaceptable en relaci&oacute;n con el impacto en el desempe&ntilde;o energ&eacute;tico. Una desviaci&oacute;n significativa puede corresponder lo mismo a una mejora que a un deterioro; en el primer caso, aun si la desviaci&oacute;n generalmente es deseada (por tratarse de una mejora del desempe&ntilde;o energ&eacute;tico), debe investigarse si se considera significativa.</p>
+
+<p>[Learn More](Ejemplo de desviaci&oacute;n significativa)</p>
+
+<p>Si el consumo de electricidad para el mes en curso aumenta m&aacute;s de 10 por ciento con respecto al mes anterior, su organizaci&oacute;n puede considerar este aumento como una desviaci&oacute;n significativa. Con el fin de ser m&aacute;s proactivo en el mejoramiento del desempe&ntilde;o energ&eacute;tico, es posible establecer que un aumento de 5 por ciento o m&aacute;s puede considerarse una desviaci&oacute;n significativa.</p>
+
+<p>Alternativamente, el criterio podr&iacute;a establecer que <em>cualquier cambio</em> de 5 por ciento o m&aacute;s en el consumo, comparando el mes en curso con el mes anterior, se considere una desviaci&oacute;n significativa. En este caso, una mejora de 5 por ciento o m&aacute;s le exigir&iacute;a a su empresa realizar una investigaci&oacute;n para dar respuesta a esta desviaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>Considere documentar los criterios de desviaciones significativas como parte del plan de medici&oacute;n de energ&iacute;a (v&eacute;ase la tarea [task](Measurement)).</p>
+
+<p>Las desviaciones significativas tambi&eacute;n se relacionan con los controles operativos y de mantenimiento, como se discute en la tarea [task](Operational Controls). Los m&eacute;todos para identificar las desviaciones significativas respecto a los controles operativos y de mantenimiento ser&iacute;an similares al proceso de las caracter&iacute;sticas clave aqu&iacute; discutidas. Los criterios operativos y de mantenimiento podr&iacute;an ser un factor para determinar las desviaciones significativas. En la tarea [task](Operational Controls) se enumeran las desviaciones significativas que podr&iacute;an ser resultado de problemas operativos o de mantenimiento.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Desarrollar e implementar un proceso de investigaci&oacute;n)</p>
+
+<p>Una vez establecidos los criterios para determinar la desviaci&oacute;n significativa correspondiente a cada una de las caracter&iacute;sticas clave medidas y monitoreadas, se debe investigar y responder si ha tenido lugar una desviaci&oacute;n. Muchas organizaciones utilizan el proceso de acci&oacute;n correctiva para responder a las desviaciones significativas, lo que constituye la mejor pr&aacute;ctica (no es un requisito).</p>
+
+<p>Un proceso de acciones correctivas bien desarrollado y aplicado puede constituir una herramienta eficaz para investigar las desviaciones significativas. Ahora bien, la norma ISO 50001 exige s&oacute;lo investigar y responder a las desviaciones significativas, mas no necesariamente tratarlas mediante un proceso de acci&oacute;n correctiva. Es posible que usted decida investigar las desviaciones significativas al margen del sistema de acci&oacute;n correctiva. En todo caso, aun cuando no es obligatorio realizar un proceso formal de investigaci&oacute;n, se recomienda utilizar, como mejor pr&aacute;ctica, el proceso de acci&oacute;n correctiva descrito a continuaci&oacute;n.</p>
+
+<p>La investigaci&oacute;n se centra en el funcionamiento normal, as&iacute; como en la evaluaci&oacute;n del uso y consumo de energ&iacute;a previstos como resultado de los cambios en el proceso o en la implementaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Learn More](Ejemplo de investigaci&oacute;n)</p>
+
+<p>A manera de ejemplo:</p>
+
+<p>Usted puede decidir que las mejoras logradas como resultado de las actividades planeadas no se considerar&aacute;n desviaciones significativas si los resultados reales responden a las estimaciones previas al proyecto. Por otra parte, si existe una diferencia de 5 por ciento o m&aacute;s entre los resultados reales y los estimados, puede decidir que &eacute;sta es una desviaci&oacute;n significativa. Si los resultados son mejores en 5 por ciento o m&aacute;s, esto requerir&iacute;a de una investigaci&oacute;n para determinar por qu&eacute; los resultados fueron mejores que las estimaciones.</p>
+
+<p>La ventaja de analizar las desviaciones significativas que llevan a una mejora de la eficiencia energ&eacute;tica es que con ello podr&aacute; determinarse qu&eacute; acciones conviene reproducir en otros sistemas energ&eacute;ticos.</p>
+
+<p>[Learn More End]</p>
+
+<p>Como resultado de la investigaci&oacute;n, usted deber&aacute; elaborar una respuesta. Esta respuesta ser&aacute; probablemente una acci&oacute;n requerida para atenuar una desviaci&oacute;n significativa que lleva a una disminuci&oacute;n del desempe&ntilde;o energ&eacute;tico o, si la desviaci&oacute;n corresponde a una mejora del desempe&ntilde;o energ&eacute;tico, la respuesta buscar&aacute; reproducir las condiciones en otras &aacute;reas. Tenga en cuenta, sin embargo, que la decisi&oacute;n de <em>no responder</em> puede ser una respuesta leg&iacute;tima si la desviaci&oacute;n significativa cumple con cualquiera de los siguientes criterios:</p>
+
+<ul>
+	<li>ocurre una sola vez;</li>
+	<li>es el resultado de una mejora que persistir&aacute;;</li>
+	<li>se deriva de cambios en el proceso;</li>
+	<li>entra&ntilde;a medidas de correcci&oacute;n demasiado costosas;</li>
+	<li>requiere de una tecnolog&iacute;a no disponible en la actualidad.</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Registrar los resultados)</p>
+
+<p>Los resultados de la investigaci&oacute;n y de la(s) respuesta(s) deben registrarse. Si para investigar las desviaciones significativas se utiliza un proceso de acci&oacute;n correctiva, entonces los requisitos de registro ya se habr&iacute;an realizado (la norma ISO 50001 requiere registros de las acciones correctivas). De lo contrario, considere la posibilidad de realizar un proceso de registro en l&iacute;nea seg&uacute;n los requisitos de la norma ISO 50001 (v&eacute;ase la tarea [task](Documentation and Records)).</p>
+
+<p>[Learn More](Elementos a considerar para el registro)</p>
+
+<p>Para las investigaciones de desviaciones significativas no existen requisitos de registro espec&iacute;ficos, m&aacute;s all&aacute; de los registros de los resultados de la investigaci&oacute;n y la respuesta dada. Sin embargo, para el registro, deben considerarse los siguientes elementos:</p>
+
+<ul>
+	<li>Responsabilidades</li>
+	<li>Plazos</li>
+	<li>Actividades realizadas</li>
+	<li>Recursos consultados</li>
+	<li>Equipos o medidores utilizados</li>
+	<li>An&aacute;lisis realizados y resultados</li>
+	<li>Respuesta</li>
+	<li>Eficacia de la respuesta</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Desarrollar el proceso de acciones correctivas y preventivas)</p>
+
+<p>Debido a que la mayor&iacute;a de los pasos que hacen parte de las acciones correctivas y preventivas son los mismos, casi todas las organizaciones implementan un proceso que abarca ambos tipos de acciones. Este proceso de acciones correctivas y preventivas (proceso AC/AP) consta de los siguientes elementos:</p>
+
+<ol>
+	<li>Corregir la situaci&oacute;n inmediata</li>
+	<li>Evaluar la magnitud y el impacto de la no-conformidad</li>
+	<li>Determinar la causa de la no-conformidad real o potencial</li>
+	<li>Tomar medidas para eliminar la causa</li>
+	<li>Revisar la eficacia de las medidas adoptadas</li>
+	<li>Conservar registros</li>
+</ol>
+
+<p>El proceso AC/AP desarrollado por su organizaci&oacute;n debe tener en cuenta todos estos elementos. La mayor parte de organizaciones utiliza un formulario (usualmente electr&oacute;nico) de medidas de prevenci&oacute;n o correctivas para describir los pasos del proceso y obtener as&iacute; la informaci&oacute;n necesaria. Consulte un ejemplo en el recurso [resource](Corrective_Action_Preventive_Action_Request_Form).</p>
+
+<p>Si su organizaci&oacute;n dispone de un sistema de gesti&oacute;n integrado, considere la posibilidad de utilizar (o, al menos, consultar) procesos ya en marcha. Por ejemplo, su organizaci&oacute;n puede tener ya en marcha el proceso AC/AP como parte de otro sistema de gesti&oacute;n (por ejemplo, los sistemas gesti&oacute;n de calidad ISO 9001 o de gesti&oacute;n ambiental ISO 14001).</p>
+
+<p>[Learn More](Proceso de acciones correctivas y preventivas)</p>
+
+<p><strong>1. Corregir la situaci&oacute;n actual</strong></p>
+
+<p>Cuando se detecta una no-conformidad, el primer paso es tomar las medidas adecuadas para resolver de inmediato la situaci&oacute;n. Por ejemplo:</p>
+
+<p>La planta cuenta con un sistema de aire comprimido que consume una importante cantidad de energ&iacute;a. El procedimiento de la planta indica que el punto de ajuste de la presi&oacute;n de funcionamiento del sistema de aire comprimido debe ser de 105 <em>psig</em>. La planta se encuentra operando el sistema de compresi&oacute;n a 115 <em>psig</em>. Un ejemplo de c&oacute;mo corregir la situaci&oacute;n actual es cambiar la presi&oacute;n de funcionamiento a 105 <em>psig</em>, pero deben tenerse en cuenta los efectos en la producci&oacute;n antes de asumir que &eacute;ste es el procedimiento correcto. Podr&iacute;a ocurrir que la correcci&oacute;n apropiada fuera cambiar el procedimiento de manera que indique 115 <em>psig</em>.</p>
+
+<p>&nbsp;</p>
+
+<p>Esto se denomina <em>correcci&oacute;n. </em>La correcci&oacute;n es necesaria para las no-conformidades existentes, pero no se aplica a las no-conformidades potenciales.</p>
+
+<p><strong>2. Evaluar la magnitud y el impacto de la no-conformidad</strong></p>
+
+<p>El siguiente paso es determinar la magnitud de la no-conformidad y su impacto en el desempe&ntilde;o energ&eacute;tico. Esto implica considerar la magnitud de la no-conformidad y sus efectos reales y potenciales en cualquiera de los siguientes elementos:</p>
+
+<ul>
+	<li>Objetivos, metas y planes de acci&oacute;n energ&eacute;ticos</li>
+	<li>Usos significativos de energ&iacute;a</li>
+	<li>Eficiencia energ&eacute;tica de instalaciones, equipos, sistemas y procesos</li>
+	<li>Controles operativos o de mantenimiento, existentes o proyectados</li>
+	<li>Otras fuentes o usos de energ&iacute;a dentro de la organizaci&oacute;n</li>
+</ul>
+
+<p>Con base en esta informaci&oacute;n se debe tomar una decisi&oacute;n en cuanto a si la no-conformidad real o potencial debe ser objeto de ulterior revisi&oacute;n e investigaci&oacute;n, con el fin de asegurarse de que la situaci&oacute;n no sea recurrente (acci&oacute;n correctiva) o no ocurra en el futuro (medida preventiva). De ser as&iacute;, la no-conformidad entrar&aacute; en el sistema de acciones preventivas y correctivas.</p>
+
+<p><strong>3. Determinar la causa de la no-conformidad real o potencial</strong></p>
+
+<p>Una vez introducida en el sistema (v&eacute;ase un ejemplo en el recurso [resource](Corrective_Action_Preventive_Action_Request_Form)), se debe examinar la no-conformidad para determinar su causa.</p>
+
+<p>Por ejemplo, en el caso anterior del sistema de aire comprimido, la determinaci&oacute;n de la causa consiste en considerar c&oacute;mo y por qu&eacute; ha cambiado la presi&oacute;n de funcionamiento. Aun cuando es posible utilizar cualquier tipo de proceso de resoluci&oacute;n de problemas, puede ser conveniente aplicar el m&eacute;todo de los &ldquo;Cinco porqu&eacute;&rdquo; para determinar la causa de una no-conformidad real o potencial. En este caso conviene preguntarse lo siguiente:</p>
+
+<p>Pregunta: &iquest;Por qu&eacute; cambi&oacute; la presi&oacute;n de funcionamiento?</p>
+
+<p>Respuesta: Porque el operador pens&oacute; que as&iacute; deber&iacute;a ser.</p>
+
+<p>Pregunta: &iquest;Por qu&eacute; el operador piensa que deber&iacute;a cambiar?</p>
+
+<p>Respuesta: Debido a que el operador experimentaba problemas a 105 <em>psig</em>, que no experimentaba a 115 <em>psig</em>.</p>
+
+<p>Pregunta: &iquest;Qu&eacute; problema experimentaba el operador?</p>
+
+<p>Respuesta: Una falta de presi&oacute;n para accionar la prensa.</p>
+
+<p>Pregunta: &iquest;Cu&aacute;l fue la causa del problema?</p>
+
+<p>Respuesta: El man&oacute;metro estaba descalibrado e indicaba presiones incorrectas.</p>
+
+<p>Pregunta: &iquest;Por qu&eacute; estaba descalibrado el man&oacute;metro?</p>
+
+<p>Respuesta: La frecuencia de calibraci&oacute;n era anual. El historial de calibraci&oacute;n muestra que, durante los dos &uacute;ltimos a&ntilde;os, en cada calibraci&oacute;n el man&oacute;metro se encontr&oacute; descalibrado.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>4. Tomar medidas para eliminar la causa</strong></p>
+
+<p>A continuaci&oacute;n, se decide poner en pr&aacute;ctica una forma de acci&oacute;n apropiada para eliminar la causa de la no-conformidad real o potencial.</p>
+
+<p>Algunas veces, las medidas adoptadas para solucionar un problema pueden conllevar la necesidad de realizar otros ajustes o cambios en el SGEn. Por ejemplo, si los controles operativos en uso se modificaran como parte de la implementaci&oacute;n de una acci&oacute;n correctiva, entonces podr&iacute;a ser necesario modificar la documentaci&oacute;n asociada al SGEn. Las medidas adoptadas deben ser apropiadas a la magnitud del problema y su impacto en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>En el ejemplo del sistema de aire comprimido, una acci&oacute;n para eliminar la causa podr&iacute;a ser aumentar la frecuencia de calibraci&oacute;n de los man&oacute;metros.</p>
+
+<p>Una vez identificadas, una de las mejores pr&aacute;cticas en muchas organizaciones consiste en determinar si la misma medida correctiva o preventiva es necesaria en otro lugar, o quiz&aacute;s en otro proceso, &aacute;rea o instalaci&oacute;n. Un enfoque integral del sistema para la identificaci&oacute;n y resoluci&oacute;n de problemas semejantes ayuda a promover una cultura proactiva de mejora continua. Con el tiempo, para la mayor parte de las organizaciones este planteamiento da como resultado un menor n&uacute;mero de no-conformidades o un n&uacute;mero negativo en los resultados de auditor&iacute;a.</p>
+
+<p>En el ejemplo se puede decidir que resulta apropiado verificar la frecuencia de calibraci&oacute;n de todos los calibradores.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>5. Revisar la eficacia de las medidas adoptadas</strong></p>
+
+<p>Una vez implementadas las medidas, debe realizarse una revisi&oacute;n con el fin de determinar si fueron eficaces. En otras palabras, se busca responder a la pregunta &iquest;eliminaron las medidas adoptadas la causa, al punto de lograr que la no-conformidad no se produzca o se repita? En algunas situaciones podr&iacute;a ser necesario dejar un intervalo de tiempo razonable despu&eacute;s de aplicar la soluci&oacute;n y antes de realizar la revisi&oacute;n de su eficacia. Algunas veces una soluci&oacute;n necesita tiempo para dar resultados antes de poder evaluar completamente su eficacia. Retomando el ejemplo del sistema de aire comprimido:</p>
+
+<p>La revisi&oacute;n de la eficacia podr&iacute;a consistir en comprobar que la frecuencia de la calibraci&oacute;n se haya cambiado en el sistema de calibraci&oacute;n, y luego comprobar si la presi&oacute;n de operaci&oacute;n resultante corresponde a la indicada en el procedimiento.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>6. Conservar los registros</strong></p>
+
+<p>Los recursos [resource](Corrective_Action_Preventive_Action_Request_Form) y [resource](CAR_PAR_Tracking_Log) suelen utilizarse para registrar y realizar el seguimiento del estado de las acciones correctivas y preventivas. El recurso [resource](Example_CAR_PAR_Tracking_Log) ilustra c&oacute;mo realizar en una hoja de registro el seguimiento de las medidas por terminar. Tales hojas de registro pueden ser particularmente &uacute;tiles en el momento de compilar los datos y otras informaciones acerca del estado de las acciones correctivas y preventivas para la revisi&oacute;n gerencial (v&eacute;ase [task](Management Review)).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir las funciones y las responsabilidades)</p>
+
+<p>Generalmente, la responsabilidad de administrar el sistema de acciones correctivas y preventivas se asigna al representante de la direcci&oacute;n. Sin embargo, a fin de llevar a cabo la investigaci&oacute;n y el an&aacute;lisis de la causa y para la adopci&oacute;n de medidas, es posible delegar las responsabilidades, en la medida en que la persona responsable asegure que se sigan todos los pasos requeridos y se mantengan los registros apropiados.</p>
+
+<p>Lo m&aacute;s com&uacute;n es que todos los empleados sean responsables de identificar las no-conformidades reales y potenciales en sus &aacute;reas de trabajo, as&iacute; como de informar al personal de supervisi&oacute;n pertinente o corregir la situaci&oacute;n de forma inmediata.</p>
+
+<p>Las acciones correctivas y preventivas se suelen asignar al responsable del departamento o &aacute;rea donde se presenta un problema o donde puede haberlo. El administrador puede asignar la investigaci&oacute;n y el desarrollo de las acciones correctivas o preventivas propuestas a un individuo espec&iacute;fico o conformar un equipo para abordar el problema. La labor de seguimiento para evaluar la eficacia de la(s) medida(s) adoptada(s) debe asignarse a una persona independiente del &aacute;rea encargada de elaborar y aplicar las acciones correctivas o preventivas.</p>
+
+<p>Normalmente se establecen plazos para la investigaci&oacute;n y formulaci&oacute;n de propuestas de las medidas(s) adoptada(s), as&iacute; como para la implementaci&oacute;n y seguimiento de su eficacia. Es muy com&uacute;n establecer un plazo de 30 d&iacute;as. Sin embargo, de ser necesario y siempre y cuando se proporcionen las justificaciones adecuadas, es una buena idea permitir ampliaciones del plazo. Por ejemplo, una soluci&oacute;n que exija inversi&oacute;n de capital en nuevos equipos puede tomar m&aacute;s tiempo para su plena aplicaci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Implementar el proceso de acciones correctivas y preventivas)</p>
+
+<p>Como otros procesos del SGEn, la implementaci&oacute;n de acciones correctivas y preventivas implica poner en pr&aacute;ctica procesos dentro de su organizaci&oacute;n y asegurar una formaci&oacute;n apropiada. La revisi&oacute;n de los pasos a seguir, las evidencias de la utilizaci&oacute;n de los formularios requeridos y una comunicaci&oacute;n clara de las funciones, responsabilidades y expectativas a todo el personal, dan soporte a la conformidad con los requisitos del sistema correctivo y preventivo.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>En las normas ISO 50001:2011, ISO 9001:2015 e ISO 14001:2015 hay muy pocas diferencias entre los requisitos para las acciones de correcci&oacute;n y las acciones correctivas. Un proceso de acci&oacute;n correctiva completamente funcional utilizado en las normas ISO 9001 e ISO 14001 ser&aacute; igualmente funcional en la norma ISO 50001, con m&iacute;nimas modificaciones. En estos tres sistemas de gesti&oacute;n, las acciones correctivas deben ser apropiadas para efectos de las situaciones de no-conformidad. En la norma ISO 50001, las acciones correctivas tambi&eacute;n deben ser apropiadas en cuanto a las consecuencias encontradas en el desempe&ntilde;o energ&eacute;tico. La norma ISO 14001 requiere que las acciones correctivas sean apropiadas para lograr efectos importantes, incluidos los impactos ambientales.</p>
+
+<p>Los tipos de registro utilizados para las acciones correctivas y sus resultados ser&iacute;an los mismos para la norma ISO 50001 que para las normas ISO 9001 e ISO 14001. Aun cuando la norma ISO 50001 no contiene expl&iacute;citamente la exigencia de informaci&oacute;n documentada acerca de las acciones correctivas, est&aacute; impl&iacute;cito conservar los registros de las situaciones de no-conformidad y las acciones correctivas asociadas, seg&uacute;n el control de registro de requisitos de la norma ISO 50001.</p>
+
+<p>La diferencia real en esta &aacute;rea entre las normas ISO 5000:2011, ISO 9001:2015 e ISO 14001-2015 se debe a la adopci&oacute;n de la estructura de alto nivel (EAN) y su aplicaci&oacute;n a las normas de sistemas de gesti&oacute;n ISO. Las nuevas versiones de las normas ISO 9001 e ISO 14001 se han publicado en el marco de la EAN, que elimin&oacute; las &ldquo;medidas de prevenci&oacute;n&rdquo; del sistema de gesti&oacute;n. Seg&uacute;n la EAN, las &ldquo;acciones preventivas&rdquo; son inherentes a las &ldquo;acciones para abordar los riesgos y oportunidades&rdquo; de los requisitos de las normas ISO 9001 e ISO 14001. Dado que la norma ISO 50001 a&uacute;n no se ha revisado y publicado con el formato de la EAN, las medidas de prevenci&oacute;n siguen siendo parte de las funciones de &ldquo;control&rdquo; del SGEn de la norma ISO 50001.</p>
+
+<p>Si el sistema ISO 50001 se integrara a un sistema de gesti&oacute;n ISO 9001 o ISO 14001, entonces los requisitos de las medidas de prevenci&oacute;n de la norma ISO 50001 probablemente tendr&iacute;an que reflejarse en los procesos utilizados por las normas ISO 9001 e ISO 14001 para determinar los riesgos y oportunidades que deben ser abordados por el sistema de gesti&oacute;n. Si el SGEn de la norma ISO 50001 se mantiene por separado, entonces los procesos de las medidas de prevenci&oacute;n implementados para las versiones anteriores de las normas ISO 9001 (2008) e ISO 14001 (2004) podr&iacute;an aplicarse para la norma ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Esta orientaci&oacute;n es relevante en el paso 5.5 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Para aplicar el SGEn, ampl&iacute;e los sistemas de seguimiento identificados en el paso 5.5 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management), con el fin de incluir la identificaci&oacute;n y responder a las desviaciones significativas del desempe&ntilde;o energ&eacute;tico. Esto puede lograrse mediante el monitoreo y la medici&oacute;n de aquellos elementos o caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico y por medio de un proceso de investigaci&oacute;n acerca de las principales desviaciones, lo que implica el mantenimiento de registros de los resultados de la investigaci&oacute;n.</p>
+
+<p>La norma ISO 50001 requiere que las organizaciones manejen cualquier no-conformidad real o potencial (incluidas aquellas identificadas en las auditor&iacute;as internas del SGEn), aplicando las acciones correctivas y preventivas apropiadas. Si su organizaci&oacute;n ha generado un sistema de seguimiento, como se describe en el apartado 5.5 de los lineamientos del programa Energy Star para la gesti&oacute;n de energ&iacute;a ([recurso](energ&iacute;a_STAR_Guidelines_para_energ&iacute;a_Management)), este sistema de seguimiento es un buen punto de partida para el desarrollo e implementaci&oacute;n de lo que se considere necesario, a fin de cumplir con los requisitos de la norma ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

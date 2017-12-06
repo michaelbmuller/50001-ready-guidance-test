@@ -1,0 +1,242 @@
+USDOE 50001 READY NAVIGATOR TASK 22
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Adquisiciones
+----------TITLE----------
+Tarea 22: Hemos establecido criterios de desempeño que cubren la vida útil para adquisiciones con un impacto en la eficiencia energética; informado a los proveedores que éste es un factor en las adquisiciones, y definido especificaciones actualmente en uso para la adquisición del suministro de energía
+----------GETTING IT DONE----------
+<ul>
+	<li>En el caso de adquisiciones relacionadas con los USEn, las especificaciones deben identificar requisitos relacionados con el desempe&ntilde;o energ&eacute;tico. Comunique estos requisitos a los proveedores o prestadores de servicios, y com&eacute;nteles que el desempe&ntilde;o energ&eacute;tico forma parte de los criterios de evaluaci&oacute;n.</li>
+	<li>Use el recurso [resource](Procurement_Checklist) para evaluar los actuales procesos de adquisici&oacute;n de bienes que pueden afectar de manera significativa el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n. Determine y tome las acciones necesarias para ajustar los procesos de adquisici&oacute;n existentes a fin de que cumplan con los requisitos del SGEn.</li>
+	<li>Determine si su organizaci&oacute;n ha establecido criterios de ciclo de vida para tipos espec&iacute;ficos de acciones de adquisici&oacute;n.
+	<ul style="list-style-type:circle">
+		<li>De ser as&iacute;, use elementos de capacitaci&oacute;n o documentaci&oacute;n para garantizar que dichos criterios se apliquen al adquirir bienes o servicios que tienen un efecto importante en el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n.</li>
+		<li>De no ser as&iacute;, considere usar el recurso [resource](Life_Cycle_Cost_Assessment_Worksheet) para evaluar costos durante el ciclo de vida aplicables a adquisiciones que puedan afectar de manera significativa el desempe&ntilde;o energ&eacute;tico.</li>
+	</ul>
+	</li>
+	<li>Determine si su organizaci&oacute;n cuenta con especificaciones documentadas para la adquisici&oacute;n del suministro de energ&iacute;a. Revise las especificaciones existentes y comp&aacute;relas con el recurso [resource](Energy_Purchasing_Specification_Worksheets) para determinar si se necesitan especificaciones adicionales. Si no existen especificaciones en relaci&oacute;n con el suministro de energ&iacute;a, use el recurso [resource](Energy_Purchasing_Specification_Worksheets) para determinar cu&aacute;les especificaciones se podr&iacute;an aplicar a los diferentes tipos de energ&iacute;a que usa su organizaci&oacute;n.</li>
+	<li>Incorpore especificaciones pertinentes en los requisitos para la adquisici&oacute;n de energ&iacute;a.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La compra de productos, equipo y servicios que consumen energ&iacute;a puede afectar los usos significativos de energ&iacute;a (USEn) y el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n. Es importante contar con un proceso de adquisici&oacute;n que garantice que el desempe&ntilde;o energ&eacute;tico se toma en cuenta en las adquisiciones de equipo o servicios que se relacionan con los USEn de la organizaci&oacute;n o cuando &eacute;stas pudieran tener un efecto significativo en el desempe&ntilde;o energ&eacute;tico. Sus actividades de adquisici&oacute;n han de respaldar la gesti&oacute;n eficaz de los usos significativos de energ&iacute;a y lograr una mejora en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>En un SGEn en conformidad con la ISO 50001, se debe evaluar el uso, consumo y eficacia energ&eacute;ticos durante la vida &uacute;til planificada o esperada de los bienes o servicios de los que se espera un efecto significativo en el desempe&ntilde;o energ&eacute;tico. Su organizaci&oacute;n debe determinar los criterios de evaluaci&oacute;n, mismos que van m&aacute;s all&aacute; de sus USEn, por lo que conviene hacerlo con una perspectiva amplia que contemple c&oacute;mo la adquisici&oacute;n afecta a cualquier bien que, a su vez, tenga un efecto en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Una parte importante de las adquisiciones en un SGEn incluye adquirir un suministro de energ&iacute;a adecuado con una calidad adecuada para mantener las operaciones de manera continua. La formulaci&oacute;n de especificaciones de compras para las fuentes de energ&iacute;a ayuda a garantizar la disponibilidad de una cantidad suficiente de energ&iacute;a de calidad aceptable y a un precio razonable.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>comunicar a los proveedores que el desempe&ntilde;o energ&eacute;tico es un factor de evaluaci&oacute;n en las adquisiciones relacionadas con el USEn;</li>
+	<li>establecer criterios de desempe&ntilde;o energ&eacute;tico que cubren la vida &uacute;til para adquisiciones con un efecto significativo en la eficiencia energ&eacute;tica de la organizaci&oacute;n, y</li>
+	<li>formular (y documentar) especificaciones para la adquisici&oacute;n del suministro de energ&iacute;a.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.5.7 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Comunicar a los proveedores que el desempe&ntilde;o energ&eacute;tico es un factor de evaluaci&oacute;n en las adquisiciones relacionadas con los USEn)</p>
+
+<p>Los usos significativos de energ&iacute;a (USEn) de la organizaci&oacute;n han sido ya identificados, de manera que los recursos pueden orientarse o centrarse en las &aacute;reas con potencial para obtener el mayor beneficio (v&eacute;ase la tarea [task](Relevant Variables)). Cuando se considera que un uso energ&eacute;tico identificado es significativo, se deben cubrir diversos requisitos de la ISO 50001 aplicables de manera espec&iacute;fica a los USEn (de nuevo, v&eacute;ase la tarea [task](Relevant Variables)), incluidos aquellos relacionados con las adquisiciones.</p>
+
+<p>[Learn More](Adquisiciones relacionadas con los USEn)</p>
+
+<p>Las adquisiciones relacionadas con los USEn pueden incluir:</p>
+
+<ul>
+	<li>Refacciones</li>
+	<li>Equipo complementario</li>
+	<li>Partes o equipo de reemplazo</li>
+	<li>Materiales de mantenimiento</li>
+	<li>Servicios de mantenimiento</li>
+	<li>Controles de mantenimiento y operativos</li>
+	<li>Suministros</li>
+	<li>Insumos</li>
+	<li>Servicios de operador</li>
+	<li>Servicios de ingenier&iacute;a</li>
+	<li>Consultores</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>En el caso de adquisiciones relacionadas con un USEn, es preciso que las especificaciones identifiquen con claridad los requisitos relacionados con el desempe&ntilde;o energ&eacute;tico. Comunique estos requisitos a los proveedores y com&eacute;nteles que el desempe&ntilde;o energ&eacute;tico es parte indisoluble de los criterios de evaluaci&oacute;n. Considere aprovechar los procesos existentes o en curso para comunicar esta informaci&oacute;n a sus proveedores.</p>
+
+<p>Necesitar&aacute; un proceso para evaluar y seleccionar los productos, equipos o servicios relacionados con los USEn. Su organizaci&oacute;n determina cu&aacute;l ser&aacute; el papel del desempe&ntilde;o energ&eacute;tico en el proceso de selecci&oacute;n de adquisiciones. Ciertamente, el desempe&ntilde;o energ&eacute;tico no tiene que por qu&eacute; ser el &uacute;nico criterio o el de mayor peso, pero s&iacute; ser&aacute; uno de los factores a considerar en la decisi&oacute;n final de compra. Incorpore, pues, el desempe&ntilde;o energ&eacute;tico en los procesos de selecci&oacute;n de adquisiciones de su organizaci&oacute;n.</p>
+
+<p>Asimismo, a los prestadores de servicios que tienen un efecto en los USEn, com&eacute;nteles que el desempe&ntilde;o energ&eacute;tico es parte de la evaluaci&oacute;n para contratar sus servicios. El principal componente de la evaluaci&oacute;n de prestadores de servicios es la competencia, pero podr&iacute;an considerarse otros factores.</p>
+
+<p>[Learn More](Factores de evaluaci&oacute;n importantes en relaci&oacute;n con los prestadores de servicios)</p>
+
+<p>Algunos de los factores de evaluaci&oacute;n importantes para la selecci&oacute;n de prestadores de servicios incluyen:</p>
+
+<ul>
+	<li>Registros de capacitaci&oacute;n</li>
+	<li>Certificaciones</li>
+	<li>Experiencia con usos similares</li>
+	<li>Oficios calificados disponibles</li>
+	<li>Pr&aacute;cticas de adquisici&oacute;n de partes y materiales</li>
+	<li>Recomendaciones y revisiones de clientes</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer criterios para toda la vida &uacute;til de adquisiciones que puedan afectar de manera significativa el desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>El desempe&ntilde;o energ&eacute;tico se determina por elementos o caracter&iacute;sticas clave (v&eacute;ase la tarea [task](Measurement)). Es importante que su organizaci&oacute;n considere la relaci&oacute;n entre las adquisiciones y su efecto en el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n, mismo que &mdash;como m&iacute;nimo&mdash; estar&aacute; determinado por los siguientes factores:</p>
+
+<ul>
+	<li>Desempe&ntilde;o energ&eacute;tico de los usos significativos de energ&iacute;a.</li>
+	<li>Variables importantes en los usos significativos de energ&iacute;a.</li>
+	<li>Indicadores de desempe&ntilde;o energ&eacute;tico (IDEn).</li>
+	<li>Eficacia en el cumplimiento de los objetivos y metas energ&eacute;ticos mediante planes de acci&oacute;n.</li>
+	<li>Evaluaci&oacute;n del consumo energ&eacute;tico real frente al esperado.</li>
+</ul>
+
+<p>Si una adquisici&oacute;n puede afectar a una o m&aacute;s de estas caracter&iacute;sticas clave, su organizaci&oacute;n debe establecer criterios para evaluar si hay un efecto significativo en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Learn More](Ejemplos de criterios de evaluaci&oacute;n)</p>
+
+<p>A continuaci&oacute;n se muestran algunos ejemplos:</p>
+
+<ul>
+	<li><strong>Uso significativo de la energ&iacute;a.</strong> Suponga que se determin&oacute; que su sistema de alumbrado es un USEn. En tal caso, la compra de ciertos art&iacute;culos de alumbrado, el n&uacute;mero de art&iacute;culos, un nivel de costo o alguna compra asociada con el alumbrado podr&aacute;n definirse como elementos con efecto significativo.</li>
+	<li><strong>Variables importantes para el uso significativo de la energ&iacute;a.</strong> Una variable importante para el USEn del sistema de alumbrado es la cantidad de luz solar. Si su organizaci&oacute;n tiene tragaluces y est&aacute; considerando un techo nuevo que pudiera eliminar los tragaluces, la p&eacute;rdida de luz solar podr&iacute;a tener un efecto significativo en la operaci&oacute;n, y consumo energ&eacute;tico, del sistema de alumbrado. En este caso, un aumento en el consumo o la posibilidad de incrementos en el consumo constituir&iacute;an un efecto significativo.</li>
+	<li><strong>Eficacia en el cumplimiento de los objetivos y metas energ&eacute;ticos mediante planes de acci&oacute;n.</strong> La compra de un servicio o equipo puede determinar si se alcanza o no una meta en un proyecto de mejora energ&eacute;tica. El hecho de no cumplir con la meta establecida puede considerarse un efecto significativo en el desempe&ntilde;o energ&eacute;tico.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Comparta ideas sobre otros factores que pudieran tener un efecto importante en el desempe&ntilde;o energ&eacute;tico, como controles en relaci&oacute;n con los USEn, controles para mantener mejoras energ&eacute;ticas anteriores y actividades de mantenimiento del sistema energ&eacute;tico.</p>
+
+<p>Un efecto significativo puede ser un obst&aacute;culo o una limitante espec&iacute;fica, o puede ser una evaluaci&oacute;n con base en la experiencia de su organizaci&oacute;n. Tenga cautela al usar el costo como una traba al determinar un efecto significativo, ya que puede resultar enga&ntilde;oso. Por ejemplo, comprar unos cuantos focos de manera frecuente puede tener un mayor efecto en el desempe&ntilde;o energ&eacute;tico que reemplazar una pieza grande de maquinaria una sola vez, pero con menor frecuencia.</p>
+
+<p>De manera similar, un efecto significativo en el desempe&ntilde;o energ&eacute;tico no necesariamente se relaciona con art&iacute;culos grandes o servicios complejos, sino que bien puede resultar de art&iacute;culos de mantenimiento relativamente econ&oacute;micos.</p>
+
+<p>[Learn More](Ejemplos de art&iacute;culos de mantenimiento que pueden afectar de manera significativa el desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>Los ejemplos de art&iacute;culos de mantenimiento que pueden afectar de manera significativa el desempe&ntilde;o energ&eacute;tico incluyen:</p>
+
+<ul>
+	<li>Filtros de aire de alta eficacia</li>
+	<li>Lubricantes sint&eacute;ticos</li>
+	<li>Correas trapezoidales dentadas</li>
+	<li>Acoplamientos de fuga m&iacute;nima</li>
+	<li>V&aacute;lvulas de drenaje de condensado electr&oacute;nicas en sistemas de aire comprimido</li>
+</ul>
+
+<p>A continuaci&oacute;n se muestra un ejemplo:</p>
+
+<p>Los sellos anulares de desconexi&oacute;n r&aacute;pida de un compresor de aire pueden costar desde apenas dos centavos hasta un d&oacute;lar estadounidense. Los m&aacute;s caros son los que dan lugar a una mejora en la eficacia del sistema. A pesar del mayor costo inicial, la mejor eficacia de los sellos anulares de alta calidad da como resultado ahorros significativos durante su ciclo de vida.</p>
+
+<p>[Learn More End]</p>
+
+<p>Si una compra puede tener un efecto significativo en el desempe&ntilde;o energ&eacute;tico, su organizaci&oacute;n debe evaluar la adquisici&oacute;n y su desempe&ntilde;o energ&eacute;tico durante la vida &uacute;til planificada o esperada. Se pueden usar diversas herramientas para calcular el costo durante el ciclo de vida, y la mejor opci&oacute;n para su organizaci&oacute;n depender&aacute; de los art&iacute;culos adquiridos y su aplicaci&oacute;n, as&iacute; como la complejidad de su sistema de contabilidad. El recurso [resource](Life_Cycle_Cost_Assessment_Worksheet) proporciona una herramienta basada en una contabilidad sencilla para calcular el costo del ciclo de vida. Se pueden encontrar otros recursos con m&eacute;todos de c&aacute;lculo del ciclo de vida en el recurso [resource](Tool_Life_Cycle_Resources_List).</p>
+
+<p>Para garantizar que las acciones de adquisici&oacute;n respalden el SGEn, es esencial que el personal de adquisiciones se mantenga informado respecto a las necesidades del SGEn, incluidos los USEn y los tipos de bienes y servicios que podr&iacute;an afectar de manera significativa el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Esta informaci&oacute;n permite tomar decisiones apropiadas al respecto. El personal de adquisiciones debe estar familiarizado con los elementos o caracter&iacute;sticas clave que determinan el desempe&ntilde;o energ&eacute;tico, y estar consciente de que el desempe&ntilde;o energ&eacute;tico y la evaluaci&oacute;n del ciclo de vida han de ser parte de las decisiones en materia de adquisiciones. Una vez que el personal est&eacute; consciente del SGEn, es su responsabilidad adquirir bienes de manera congruente con las necesidades del SGEn.</p>
+
+<p>[Learn More](Ejemplo de adquisiciones de alumbrado con diodos emisores de luz)</p>
+
+<p>El director de mantenimiento evalu&oacute; y compar&oacute; el consumo energ&eacute;tico del alumbrado con diodos emisores de luz y focos incandescentes para el sistema de alumbrado durante la vida &uacute;til planificada o esperada. El an&aacute;lisis mostr&oacute; que la sustituci&oacute;n de focos incandescentes por alumbrado con diodos emisores de luz mejorar&iacute;a el desempe&ntilde;o energ&eacute;tico de manera sustancial y generar&iacute;a importantes ahorros, fruto de la reducci&oacute;n en el consumo energ&eacute;tico, as&iacute; como de menores costos de mantenimiento, toda vez que la mayor vida de los diodos emisores de luz reduce la frecuencia de reemplazo. El alumbrado con diodos emisores de luz cuesta m&aacute;s al inicio, pero con el tiempo consume menos energ&iacute;a. El &aacute;rea de adquisiciones por lo general trata de reducir costos, de manera que si desconoce los resultados del an&aacute;lisis del ciclo de vida y no se le proporcionan las especificaciones apropiadas, probablemente seguir&aacute; comprando focos por ser &eacute;stos m&aacute;s econ&oacute;micos.</p>
+
+<p>[Learn More End]</p>
+
+<p>El recurso [resource](Example_Life_Cycle_Cost_Assessment_Worksheet) usa el ejemplo del alumbrado para demostrar c&oacute;mo se puede calcular el costo del ciclo de vida.</p>
+
+<p>Las adquisiciones en su organizaci&oacute;n pueden manejarse mediante una funci&oacute;n corporativa o de la oficina matriz. Para satisfacer los requisitos de la ISO 50001 es posible que usted necesite trabajar con la funci&oacute;n corporativa de adquisiciones a fin de poner en marcha los procesos de adquisici&oacute;n necesarios. En el recurso [resource](Establishing_Energy_Related_Procurement_Processes) se presentan algunas ideas para establecer estos procesos.</p>
+
+<p>Asimismo, el recurso [resource](Procurement_Checklist) puede ser &uacute;til para instrumentar los requisitos de la ISO 50001 relacionados con los procesos de adquisici&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Elaborar especificaciones documentadas para el suministro de energ&iacute;a)</p>
+
+<p>La norma ISO 50001 requiere que su organizaci&oacute;n defina y documente las especificaciones para la adquisici&oacute;n del suministro de energ&iacute;a. Tal vez los proveedores locales aborden de manera adecuada los requisitos energ&eacute;ticos de su organizaci&oacute;n, de manera que no sea preciso plantear consideraciones especiales adicionales. En tales casos, suele ocurrir que el proveedor proporciona las especificaciones en relaci&oacute;n con la energ&iacute;a que le est&aacute; suministrando, o bien &eacute;stas se asientan, junto con las tarifas, en el contrato de suministro.</p>
+
+<p>Otra posibilidad es que su organizaci&oacute;n tenga necesidades especiales o haya otras consideraciones a incluir al seleccionar y adquirir la energ&iacute;a necesaria para sus instalaciones. De ser as&iacute;, es posible que tenga que integrar las especificaciones necesarias para cumplir tales necesidades.</p>
+
+<p>[Learn More](Factores que afectan la elaboraci&oacute;n de las especificaciones para una solicitud de adquisici&oacute;n del suministro de energ&iacute;a)</p>
+
+<p>La integraci&oacute;n de especificaciones de una solicitud para el suministro de energ&iacute;a puede depender de:</p>
+
+<ul>
+	<li>Requisitos del equipo</li>
+	<li>Disponibilidad de energ&iacute;a</li>
+	<li>Ubicaci&oacute;n de la instalaci&oacute;n</li>
+	<li>Requisitos del proceso de fabricaci&oacute;n</li>
+	<li>Reglamentaciones ambientales</li>
+	<li>Otras reglamentaciones gubernamentales</li>
+</ul>
+
+<p>Por ejemplo:</p>
+
+<p><em>Reglamentaciones gubernamentales</em>. En Estados Unidos, las reglamentaciones gubernamentales especifican que una instalaci&oacute;n nueva debe usar el proveedor local de energ&iacute;a el&eacute;ctrica si la carga conectada de la instalaci&oacute;n ser&aacute; menor de 900 kilowatts. Por arriba de 900 kilowatts, la organizaci&oacute;n tiene la opci&oacute;n de seleccionar a su proveedor mediante un proceso de licitaci&oacute;n competitivo. A menudo, los proveedores locales ofrecen muy pocas variaciones en las caracter&iacute;sticas o tarifas de la energ&iacute;a suministrada. Pero cuando la carga es grande, la competencia podr&aacute; permitir m&aacute;s flexibilidad en las especificaciones energ&eacute;ticas.<br />
+&nbsp;</p>
+
+<p><em>Requisitos del proceso de fabricaci&oacute;n</em>. Un fabricante de alfombras usa una secadora por gas directo. Debido a que las alfombras entran en contacto con productos de combusti&oacute;n, se requiere un combustible &ldquo;limpio&rdquo; como el gas natural o el propano. El uso de combust&oacute;leo o combustibles s&oacute;lidos se excluye, ya que el contacto entre el producto terminado y los gases de combusti&oacute;n pueden generar contaminaci&oacute;n con holl&iacute;n o cenizas.</p>
+
+<p>[Learn More End]</p>
+
+<p>Las especificaciones que es preciso considerar respecto del suministro de energ&iacute;a pueden incluir requisitos relacionados con la calidad, cantidad, confiabilidad y costo.</p>
+
+<p>[Learn More](Factores que afectan las especificaciones del suministro de energ&iacute;a)</p>
+
+<p>A continuaci&oacute;n se muestran algunos ejemplos de cada uno de estos factores (calidad, cantidad, confiabilidad y costo):</p>
+
+<ul>
+	<li>Calidad
+	<ul style="list-style-type:circle">
+		<li>Contenido m&aacute;ximo de humedad en el carb&oacute;n</li>
+		<li>Contenido m&aacute;ximo de azufre en el combust&oacute;leo</li>
+		<li>Contenido m&iacute;nimo de BTU en los combustibles</li>
+		<li>Variaci&oacute;n de la tensi&oacute;n aceptable</li>
+		<li>Factor de potencia m&iacute;nimo</li>
+	</ul>
+	</li>
+	<li>Cantidad
+	<ul style="list-style-type:circle">
+		<li>Monto</li>
+		<li>Requisitos de entrega</li>
+	</ul>
+	</li>
+	<li>Confiabilidad
+	<ul style="list-style-type:circle">
+		<li>Variaci&oacute;n permitida en la calidad</li>
+		<li>Variaci&oacute;n permitida en la entrega</li>
+		<li>Aceptaci&oacute;n interrumpible</li>
+	</ul>
+	</li>
+	<li>Factores de costo
+	<ul style="list-style-type:circle">
+		<li>Costo por unidad</li>
+		<li>Costo por no interrupci&oacute;n</li>
+		<li>Costo de demanda</li>
+		<li>Costo de entrega</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Formule las especificaciones de adquisici&oacute;n de energ&iacute;a para garantizar el uso eficaz de la energ&iacute;a; es decir, que los elementos o caracter&iacute;sticas en cuesti&oacute;n contribuir&aacute;n a maximizar el desempe&ntilde;o energ&eacute;tico sin que se generen consecuencias negativas o, de haberlas, siendo est&aacute;s limitadas. A continuaci&oacute;n se muestra un ejemplo:</p>
+
+<p>Su organizaci&oacute;n usa combust&oacute;leo para el proceso en cuesti&oacute;n. Considere el contenido de azufre en el combust&oacute;leo como uno de los factores relacionados con el uso eficaz de este combustible como fuente de energ&iacute;a. En muchas zonas hay un control estricto de las emisiones de di&oacute;xido de azufre. Los d&iacute;as con alerta por alta contaminaci&oacute;n atmosf&eacute;rica pueden afectar la capacidad de su organizaci&oacute;n para usar combust&oacute;leo si el contenido de azufre es muy alto. De ah&iacute; que el contenido de azufre pueda influir en el uso eficaz del combust&oacute;leo como fuente de energ&iacute;a.</p>
+
+<p>&nbsp;</p>
+
+<p>El recurso [resource](Energy_Purchasing_Specification_Worksheets) le ayudar&aacute; a formular especificaciones para adquisiciones de energ&iacute;a. Estas hojas de trabajo le ayudar&aacute;n a identificar par&aacute;metros importantes aplicables al suministro de energ&iacute;a y formular especificaciones de adquisici&oacute;n adecuadas. Tales especificaciones dependen de la fuente de energ&iacute;a, por lo que se incluyen pesta&ntilde;as separadas (correspondientes cada cual a una hoja de trabajo) para electricidad, gas natural, combust&oacute;leo y combustibles s&oacute;lidos. Debido a que el uso eficaz de la energ&iacute;a es una consideraci&oacute;n importante en las adquisiciones, las hojas de trabajo incluyen una columna para calificar si el factor de compra influye o no en el uso eficaz.</p>
+
+<p>Documente las especificaciones del suministro de energ&iacute;a para garantizar que los requisitos por cuanto a fuente de energ&iacute;a, entrega, precio, facturaci&oacute;n, pago y contrataci&oacute;n sean conocidas por los posibles proveedores y se satisfagan mediante procesos de adquisici&oacute;n selectiva. Para ayudarse a preparar la documentaci&oacute;n sobre adquisici&oacute;n de energ&iacute;a, formule las especificaciones para la fuente de energ&iacute;a usando el recurso [resource](Energy_Purchasing_Specification_Worksheets), junto con la informaci&oacute;n de sus departamentos de adquisiciones y legal. Consulte a sus especialistas en adquisiciones para que lo ayuden con los requisitos de entrega, facturaci&oacute;n y pago, y a analistas legales para los aspectos contractuales. Documente las especificaciones para la adquisici&oacute;n de energ&iacute;a a fin de garantizar que el suministro de energ&iacute;a inicial y futuro cumpla todos los requisitos. Use el recurso [resource](Energy_Purchasing_Specification_Summary) con el fin de organizar la informaci&oacute;n necesaria para las adquisiciones de energ&iacute;a.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las organizaciones con sistemas ISO 14001:2015 o ISO 9001:2015 tienen procesos en marcha para determinar y comunicar los requisitos aplicables en sus acciones de adquisici&oacute;n para el cumplimiento con la norma. Al instrumentar la ISO 50001:2011, es preciso evaluar y aprovechar los procesos de adquisici&oacute;n existentes como punto de partida para cumplir con los requisitos de esta norma en relaci&oacute;n con las adquisiciones.</p>
+
+<p>En consonancia con una perspectiva del ciclo de vida, la determinaci&oacute;n de los requisitos en materia ambiental para las adquisiciones de productos y servicios es parte de un sistema ISO 14001:2015. Se recomienda aprovechar estos procesos a fin de determinar los requisitos en materia ambiental que ayudan a cumplir con los requisitos de la ISO 50001 por cuanto a incluir criterios de ciclo de vida en las acciones de adquisici&oacute;n que pudieran afectar de manera significativa el desempe&ntilde;o energ&eacute;tico. Por su parte, los sistemas ISO 9001:2015 proporcionan procesos para el control de productos y servicios suministrados de manera externa que, a su vez, brindan un excelente punto de partida para instrumentar los requisitos de adquisiciones de la ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Es posible que, al poner en marcha el SGEn, se requiera revisar parte dedicada a gesti&oacute;n del suministro, en el paso 4.2 de los lineamientos del programa Energy Star para la gesti&oacute;n de energ&iacute;a (<a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>). Los requisitos para adquisiciones en el SGEn por cuanto a los USEn aplican a todos los proveedores y vendedores pertinentes.</p>
+
+<p>Adicionalmente, el paso 4.2 del recurso <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> menciona brevemente la identificaci&oacute;n de funciones internas, incluidas aquellas relacionadas con la gesti&oacute;n del suministro. La norma ISO 50001 tiene requisitos m&aacute;s espec&iacute;ficos relacionados con los criterios del ciclo de vida y las adquisiciones de energ&iacute;a, seg&uacute;n se explica en la orientaci&oacute;n contenida en la presente tarea.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

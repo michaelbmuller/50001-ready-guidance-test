@@ -1,0 +1,252 @@
+USDOE 50001 READY NAVIGATOR TASK 23
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Auditoría interna
+----------TITLE----------
+Tarea 23: Hemos llevado a cabo auditorías internas del programa 50001 Ready y rendido informes a la alta dirección sobre los resultados y las correspondientes acciones correctivas/preventivas
+----------GETTING IT DONE----------
+<ul>
+	<li>Nombre a un director del programa de auditor&iacute;a interna del SGEn.</li>
+	<li>Elabore un procedimiento documentado que aborde la planificaci&oacute;n y realizaci&oacute;n de auditor&iacute;as internas del SGEn y la presentaci&oacute;n de informes sobre los resultados de las mismas.
+	<ul style="list-style-type:circle">
+		<li>Utilice el recurso [resource](Internal_Audit_Schedule_Template) para elaborar un calendario de auditor&iacute;as.</li>
+		<li>Utilice el recurso [resource](Internal_Audit_Plan_Template) para planificar auditor&iacute;as individuales.</li>
+	</ul>
+	</li>
+	<li>Identifique a los miembros del personal que habr&aacute;n de desempe&ntilde;arse como auditores internos y capac&iacute;telos en torno a los requisitos del SGEn conforme a la norma 50001, los sistemas de gesti&oacute;n de auditor&iacute;as internas y los procedimientos para la realizaci&oacute;n de auditor&iacute;as internas de su organizaci&oacute;n.</li>
+	<li>Lleve a cabo auditor&iacute;as internas peri&oacute;dicas del SGEn para identificar &aacute;reas exitosas y &aacute;reas que requieren de mejora.</li>
+	<li>En el recurso [resource](Audit_Finding_Form) registre los hallazgos de las auditor&iacute;as internas realizadas en su organizaci&oacute;n. Otra opci&oacute;n es registrar los hallazgos negativos en el recurso [resource](Corrective_Action_Preventive_Action_Request_Form), para la solicitud de acciones correctivas y preventivas, y registrar los hallazgos positivos en un informe de la auditor&iacute;a u otro resumen de sus resultados.</li>
+	<li>Responsabilice al representante de gesti&oacute;n energ&eacute;tica o al director del programa de auditor&iacute;a interna del SGEn de asegurar que los resultados de la auditor&iacute;a interna sean remitidos a la alta direcci&oacute;n, lo cual suele verificarse durante el proceso de revisi&oacute;n gerencial (v&eacute;ase la tarea [task](Management Review)).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Una auditor&iacute;a interna sirve para evaluar tanto el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n como la instrumentaci&oacute;n y efectividad de su SGEn. Se trata de un proceso sistem&aacute;tico e independiente que debe documentarse. Los auditores internos recaban y eval&uacute;an objetivamente las pruebas necesarias para determinar si su organizaci&oacute;n cumple con los requisitos del SGEn y la norma ISO 50001.</p>
+
+<p>En un sistema de gesti&oacute;n, las auditor&iacute;as se centran en el sistema y son muy distintas de otros tipos de auditor&iacute;a m&aacute;s conocidos, como las auditor&iacute;as financieras o las de cumplimiento con normas ambientales. De ah&iacute; que la capacitaci&oacute;n espec&iacute;fica en auditor&iacute;as en sistemas de gesti&oacute;n sea un elemento decisivo para un auditor interno. Se requiere, por lo mismo, asignar los recursos apropiados para asegurar que se brinde este tipo de capacitaci&oacute;n, ya sea a trav&eacute;s de la misma organizaci&oacute;n o por medio de un capacitador externo.</p>
+
+<p>A menudo, la responsabilidad total del programa de auditor&iacute;a interna recae en el representante de gesti&oacute;n energ&eacute;tica, aunque algunas organizaciones prefieren nombrar para ello a otra persona que funcione de manera independiente.</p>
+
+<p>Si su organizaci&oacute;n cuenta con un programa de auditor&iacute;a interna aplicable a otro sistema de gesti&oacute;n (por ejemplo, el ISO 9001, de calidad; el ISO 14001, ambiental, o el OHSAS 18001, de seguridad y salud), aproveche los procesos ya en uso y los conocimientos de auditor&iacute;a interna de la empresa disponibles. De lo contrario, se recomienda ampliamente revisar el recurso del Navegador 50001 Ready [resource](Introduction_Internal_Auditing_Concepts), as&iacute; como asistir a un curso de capacitaci&oacute;n sobre auditor&iacute;a interna para aprender c&oacute;mo dirigir y llevar a cabo auditor&iacute;as internas.</p>
+
+<p>Los resultados de una auditor&iacute;a interna, tanto positivos como negativos, deber&aacute;n quedar registrados en un informe, un formulario de hallazgos o un formulario de acci&oacute;n correctiva, y comunicarse a la alta direcci&oacute;n. Tambi&eacute;n pueden entregarse a manera de presentaci&oacute;n en PowerPoint. Pero independientemente del estilo o formato espec&iacute;fico de registro que se emplee, al momento de comunicar los resultados de la auditor&iacute;a interna deber&aacute;n tenerse en cuenta dos objetivos espec&iacute;ficos:</p>
+
+<ol>
+	<li>brindar pruebas objetivas de la efectiva instrumentaci&oacute;n del proceso de auditor&iacute;a, y</li>
+	<li>permitir que se pongan en marcha las acciones correctivas, al tiempo que se da inicio a los requisitos de seguimiento establecidos.</li>
+</ol>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>formular un procedimiento documentado de auditor&iacute;a interna;</li>
+	<li>establecer un calendario para la auditor&iacute;a;</li>
+	<li>elaborar el plan de la auditor&iacute;a;</li>
+	<li>seleccionar y capacitar a auditores internos;</li>
+	<li>llevar a cabo auditor&iacute;as internas;</li>
+	<li>informar sobre los resultados de la auditor&iacute;a interna a la alta direcci&oacute;n, y</li>
+	<li>conservar registros de los resultados.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.6.3 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Establecer un procedimiento documentado de auditor&iacute;a interna)</p>
+
+<p>La norma ISO 50001 exige que se documente el proceso de auditor&iacute;a interna. Este proceso por lo general incluye:</p>
+
+<ul>
+	<li>Prop&oacute;sito de la auditor&iacute;a</li>
+	<li>Planificaci&oacute;n y calendarizaci&oacute;n de la auditor&iacute;a</li>
+	<li>Requisitos para la capacitaci&oacute;n de auditores</li>
+	<li>Realizaci&oacute;n de la auditor&iacute;a</li>
+	<li>Documentaci&oacute;n de los resultados de la auditor&iacute;a</li>
+	<li>Comunicaci&oacute;n de los resultados a la direcci&oacute;n</li>
+	<li>Conservaci&oacute;n de los registros</li>
+</ul>
+
+<p>Tome en cuenta la informaci&oacute;n que aqu&iacute; se proporciona al momento de iniciar un proceso de auditor&iacute;a interna adecuado para su organizaci&oacute;n. Aseg&uacute;rese de que el procedimiento se&ntilde;ale con claridad los papeles y responsabilidades del personal que habr&aacute; de tomar parte. Estructurar este procedimiento en torno a lo que tiene que hacerse, en qu&eacute; momento y a qui&eacute;n le corresponde hacerlo, y los registros que habr&aacute;n de conservarse, contribuye a comunicar claramente las expectativas que se guardan respecto del sistema de auditor&iacute;a interna.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer un calendario para la auditor&iacute;a)</p>
+
+<p>Lejos de ser actividades sorpresa o improvisadas, las auditor&iacute;as internas han de llevarse a cabo por etapas debidamente programadas. Corresponde al director del programa de auditor&iacute;a (o el representante de la direcci&oacute;n) preparar un calendario de auditor&iacute;a interna del SGEn que:</p>
+
+<ul>
+	<li>incluya la auditor&iacute;a tanto del desempe&ntilde;o energ&eacute;tico como del sistema de gesti&oacute;n;</li>
+	<li>considere el estado y la importancia de las &aacute;reas y procesos, y</li>
+	<li>tome en cuenta los resultados de anteriores auditor&iacute;as.</li>
+</ul>
+
+<p>Dado que la norma ISO 50001 requiere que se considere el estado y la importancia de las &aacute;reas y procesos al momento de elaborarse el calendario, se suele prestar particular atenci&oacute;n a las &aacute;reas y procesos relacionadas con lo siguiente:</p>
+
+<ul>
+	<li>Usos significativos de energ&iacute;a</li>
+	<li>Objetivos energ&eacute;ticos</li>
+	<li>Metas energ&eacute;ticas</li>
+	<li>Planes de acci&oacute;n para la gesti&oacute;n de energ&iacute;a</li>
+	<li>Controles operativos y de mantenimiento</li>
+	<li>Actividades encaminadas a dar continuidad a las mejoras en aprovechamiento energ&eacute;tico</li>
+</ul>
+
+<p>El calendario para una auditor&iacute;a interna por lo general abarca un periodo de un a&ntilde;o, pero el proceso puede tambi&eacute;n entra&ntilde;ar periodos m&aacute;s largos o m&aacute;s cortos. Tal vez su organizaci&oacute;n decida realizar una auditor&iacute;a interna al a&ntilde;o que abarque el SGEn en su integridad; o quiz&aacute;s opte por llevar a cabo una serie de auditor&iacute;as m&aacute;s breves que, en conjunto, cubran todos los requisitos del SGEn en un periodo definido. Algunas organizaciones deciden llevar a cabo auditor&iacute;as internas de desempe&ntilde;o energ&eacute;tico independientes de las auditor&iacute;as del sistema de gesti&oacute;n. Sea cual sea el m&eacute;todo que elija, calendarice sus auditor&iacute;as con base en el estado e importancia de las &aacute;reas y procesos.</p>
+
+<p>[Learn More](Importancia de elaborar un calendario de auditor&iacute;as)</p>
+
+<p>Lo que sigue es un ejemplo que destaca la importancia de elaborar un calendario de auditor&iacute;as:</p>
+
+<p>La Corporaci&oacute;n XYZ est&aacute; instrumentando un programa de optimizaci&oacute;n de purgadores de vapor a fin de reducir las p&eacute;rdidas de energ&iacute;a. El calendario para la auditor&iacute;a interna indica que dicho programa se someter&aacute; a auditor&iacute;a un par de veces durante el periodo que abarca la auditor&iacute;a. La primera auditor&iacute;a interna evaluar&aacute; si se logr&oacute; llevar a cabo la instrumentaci&oacute;n inicial, y m&aacute;s adelante, de acuerdo con el calendario establecido, el programa se volver&aacute; a auditar para asegurar que las inspecciones de rutina de los purgadores de vapor se est&aacute;n llevando conforme al plan y que la reducci&oacute;n en p&eacute;rdidas de vapor establecida por el programa ha sido efectiva.</p>
+
+<p>[Learn More End]</p>
+
+<p>Una vez realizadas las auditor&iacute;as internas, tal vez sea necesario hacer ajustes al calendario, dependiendo de los resultados registrados.</p>
+
+<p>[Learn More](Ajustes al calendario de auditor&iacute;as)</p>
+
+<p>Lo que sigue es un ejemplo de ajustes a un calendario de auditor&iacute;as:</p>
+
+<p>En este caso, el calendario anual de auditor&iacute;as internas de la organizaci&oacute;n indica dos auditor&iacute;as internas de un uso significativo de energ&iacute;a (USEn) espec&iacute;fico (iluminaci&oacute;n interior y exterior en las instalaciones de la organizaci&oacute;n). Si no se identifican situaciones de no-conformidad al llevarse a cabo las auditor&iacute;as de ese USEn, entonces el calendario para el siguiente a&ntilde;o podr&iacute;a modificarse e incluir solamente una auditor&iacute;a interna de ese USEn en espec&iacute;fico. Pero si se da el caso de que las auditor&iacute;as internas revelan una falla consistente en el cumplimiento con los requisitos del SGEn de la organizaci&oacute;n para ese USEn, entonces el calendario de la auditor&iacute;a interna para el a&ntilde;o en curso o para el siguiente (o para ambos) tendr&iacute;a tal vez que revisarse e incluir auditor&iacute;as adicionales de ese USEn en particular.</p>
+
+<p>[Learn More End]</p>
+
+<p>Otras razones para modificar el calendario de auditor&iacute;as incluir&iacute;an:</p>
+
+<ul>
+	<li>Nuevas iniciativas gerenciales</li>
+	<li>Cambios organizativos</li>
+	<li>Problemas o necesidades de los clientes</li>
+	<li>Modificaciones en los procesos</li>
+	<li>Incumplimiento con niveles establecidos para indicadores de desempe&ntilde;o energ&eacute;tico (IDEn)</li>
+	<li>Objetivos o metas energ&eacute;ticos nuevos o revisados</li>
+</ul>
+
+<p>El calendario de auditor&iacute;as internas puede presentarse en cualquier formato que satisfaga o se ajuste a las necesidades de su organizaci&oacute;n. A menudo, el calendario identifica los procesos y funciones o &aacute;reas que habr&aacute;n de someterse a auditor&iacute;a, y la fecha o fechas en que &eacute;sta se llevar&aacute; a cabo. Algunos calendarios de auditor&iacute;as s&oacute;lo indican qu&eacute; procesos del SGEn o aspectos del desempe&ntilde;o energ&eacute;tico ser&aacute;n auditados y cu&aacute;ndo. En cualquiera de estos casos, siempre debe asegurarse de:</p>
+
+<ul>
+	<li>considerar el estado y la importancia de las funciones y &aacute;reas, y</li>
+	<li>auditar todos los procesos del SGEn y requisitos de la norma ISO 50001 en todas las funciones o &aacute;reas aplicables dentro del periodo definido.</li>
+</ul>
+
+<p>Adem&aacute;s del modelo [resource](Internal_Audit_Schedule_Template), varios ejemplos de calendarios de auditor&iacute;as se encuentran disponibles para ayudarle a decidir qu&eacute; formato es el m&aacute;s apropiado para su organizaci&oacute;n: [resource](Example_Internal_Audit_Schedule), [resource](Example_Format_Internal_Audit_ Schedule_Commercial_Building), [resource](Example_Format_Internal_Audit_ Schedule_Manufacturing).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer el plan de la auditor&iacute;a)</p>
+
+<p>Cada auditor&iacute;a interna requiere de la preparaci&oacute;n de un plan o agenda de auditor&iacute;a interna, por lo general a cargo del director del programa de auditor&iacute;a o l&iacute;der auditor. La siguiente informaci&oacute;n b&aacute;sica suele incluirse en el plan de auditor&iacute;a:</p>
+
+<ul>
+	<li>Fecha(s) de la auditor&iacute;a</li>
+	<li>Objetivos de la auditor&iacute;a</li>
+	<li>Procesos y &aacute;rea(s) que ser&aacute;n auditados</li>
+	<li>Auditor(es) responsable(s) de auditar cada proceso y &aacute;rea</li>
+	<li>Coordinaci&oacute;n de tiempos</li>
+	<li>Requisitos (criterios) y referencias</li>
+</ul>
+
+<p>[Learn More](Objetivos de una auditor&iacute;a y ejemplos de procesos auditados)</p>
+
+<p>Entre los objetivos de una auditor&iacute;a se incluye la evaluaci&oacute;n de:</p>
+
+<ul>
+	<li>Conformidad con los requisitos de la norma ISO 50001 y del SGEn</li>
+	<li>Cumplimiento de los objetivos y metas energ&eacute;ticos establecidos</li>
+	<li>Instrumentaci&oacute;n y efectividad del SGEn</li>
+	<li>Mejora del desempe&ntilde;o energ&eacute;tico</li>
+</ul>
+
+<p>Algunos ejemplos de procesos auditables incluyen &mdash;sin a ello limitarse&mdash; los que se asocian con:</p>
+
+<ul>
+	<li>Responsabilidad gerencial</li>
+	<li>Usos significativos de energ&iacute;a</li>
+	<li>Objetivos energ&eacute;ticos</li>
+	<li>Metas energ&eacute;ticas y planes de acci&oacute;n para la gesti&oacute;n energ&eacute;tica</li>
+	<li>Comunicaci&oacute;n y concientizaci&oacute;n</li>
+	<li>Controles operativos y de mantenimiento</li>
+	<li>Control de la documentaci&oacute;n</li>
+	<li>Auditor&iacute;as internas</li>
+	<li>Acci&oacute;n correctiva y acci&oacute;n preventiva</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Los recursos [resource](Example_Internal_Audit_Plan_Commercial), [resource](Example_Internal_Audit_Plan_Industrial) y [resource](Internal_Audit_Plan_Template) pueden ayudarle a establecer un plan de auditor&iacute;a.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Seleccionar y capacitar a los auditores internos)</p>
+
+<p>Es importante que el personal que lleva a cabo las auditor&iacute;as internas haya sido capacitado en auditor&iacute;a interna de sistemas de gesti&oacute;n. La reserva de auditores internos debe tener representaci&oacute;n multifuncional. Las auditor&iacute;as pueden quedar en manos de un solo auditor o de uno o m&aacute;s equipos. En cualquier caso, la persona que lleva a cabo la auditor&iacute;a interna debe ser objetiva e imparcial, y no puede auditar su propio trabajo. Los auditores internos por lo general reciben capacitaci&oacute;n por parte de auditores internos experimentados o a trav&eacute;s de un proveedor de cursos de capacitaci&oacute;n externo.</p>
+
+<p>La capacitaci&oacute;n en auditor&iacute;a interna por lo general abarca:</p>
+
+<ul>
+	<li>Requisitos de la norma 50001</li>
+	<li>Objetivos de la auditor&iacute;a</li>
+	<li>C&oacute;mo elaborar y utilizar una lista de verificaci&oacute;n</li>
+	<li>C&oacute;mo recolectar y evaluar pruebas objetivas</li>
+	<li>C&oacute;mo documentar hallazgos tanto positivos como negativos</li>
+	<li>C&oacute;mo preparar un informe de resultados</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Llevar a cabo auditor&iacute;as internas)</p>
+
+<p>Las auditor&iacute;as internas identifican tanto &aacute;reas de &eacute;xito como &aacute;reas que requieren de mejora. Al realizar la auditor&iacute;a, los auditores internos se centran en determinar si su organizaci&oacute;n:</p>
+
+<ul>
+	<li>hace lo que dice que har&aacute;;</li>
+	<li>cumple con sus objetivos y metas energ&eacute;ticos;</li>
+	<li>mejora de manera continua su SGEn, y</li>
+	<li>logra mejoras en desempe&ntilde;o energ&eacute;tico.</li>
+</ul>
+
+<p>Tanto la selecci&oacute;n de auditores como el m&eacute;todo que se elija para llevar a cabo la auditor&iacute;a deben dejar claro que el proceso es objetivo e imparcial. Se espera que cada auditor cumpla con las responsabilidades que le fueron asignadas tal como se presenta en el plan de auditor&iacute;a.</p>
+
+<p>Cuando realizan una auditor&iacute;a interna, los auditores recaban pruebas objetivas mediante:</p>
+
+<ul>
+	<li>entrevistas al personal;</li>
+	<li>observaci&oacute;n de actividades;</li>
+	<li>revisi&oacute;n de documentos, y</li>
+	<li>ex&aacute;menes de registros y datos.</li>
+</ul>
+
+<p>A menudo se utilizan listas de verificaci&oacute;n de auditor&iacute;as para ayudar a organizar y documentar las pruebas y los hallazgos de la auditor&iacute;a.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Informar sobre los resultados de la auditor&iacute;a interna a la alta direcci&oacute;n)</p>
+
+<p>Algunas organizaciones registran los hallazgos de una auditor&iacute;a interna en el recurso [resource](Audit_Finding_Form). Otras organizaciones registran los hallazgos negativos directamente en una solicitud de acciones correctivas y preventivas ([resource](Corrective_Action_Preventive_Action_Request_Form)) y enlistan los hallazgos positivos en un informe de la auditor&iacute;a u otro tipo de resumen de sus resultados. Depender&aacute; de cada qui&eacute;n decidir c&oacute;mo habr&aacute;n de registrarse los resultados de la auditor&iacute;a.</p>
+
+<p>En cualquiera de los casos, informar a la alta direcci&oacute;n sobre los resultados de la auditor&iacute;a interna forma parte del proceso de revisi&oacute;n gerencial (v&eacute;ase la tarea [task](Management Review)), y el grado de detalle que presenten los resultados de la auditor&iacute;a deber&aacute; corresponder a las necesidades de la alta direcci&oacute;n. Cabe se&ntilde;alar que toda acci&oacute;n correctiva basada en hallazgos negativos debe llevarse a cabo a tiempo.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Conservar registros de resultados)</p>
+
+<p>La norma ISO 50001 exige que se conserven registros de los resultados de auditor&iacute;as internas, tanto positivos como negativos. T&iacute;picamente tales registros consisten en:</p>
+
+<ul>
+	<li>Calendario de la auditor&iacute;a</li>
+	<li>Plan(es) de la auditor&iacute;a</li>
+	<li>Registros de capacitaci&oacute;n de auditores</li>
+	<li>Informes de situaciones de no-conformidad o registros de acciones correctivas</li>
+	<li>Informes de hallazgos de la auditor&iacute;a</li>
+</ul>
+
+<p>El recurso [resource](Introduction_Internal_Auditing_Concepts) aporta informaci&oacute;n m&aacute;s detallada sobre el proceso de auditor&iacute;a interna. Si su organizaci&oacute;n es nueva en la adopci&oacute;n de sistemas de gesti&oacute;n de la norma ISO, se recomienda ampliamente leer con detenimiento dicho documento.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Son muy pocas las diferencias entre la estructura y el manejo de un programa de auditor&iacute;a interna para la norma ISO 50001:2011 y los que se requieren para las normas ISO 9001:2015 e ISO 14001:2015. De hecho, estas dos normas establecen algunos requisitos espec&iacute;ficos no incluidos en la norma ISO 50001 (por ejemplo, la necesidad de definir criterios y campo de acci&oacute;n para cada auditor&iacute;a, tomando en cuenta los cambios que afectan a la organizaci&oacute;n). Aun si una organizaci&oacute;n decide no llevar a cabo auditor&iacute;as de sistemas de gesti&oacute;n integrados, los sistemas ISO 9001, ISO 14001 e ISO 50001 comparten procedimientos para la planificaci&oacute;n, realizaci&oacute;n y elaboraci&oacute;n de informes de las auditor&iacute;as internas. O bien, si los sistemas han de mantenerse totalmente separados, la estructura y los requisitos de los procesos, procedimientos, m&eacute;todos y responsabilidades de auditor&iacute;a interna para las normas ISO 9001 o ISO 14001, pueden ser copiados y adaptados a un SGEn basado en la norma ISO 50001.</p>
+
+<p>Entre la norma 50001 y las normas ISO 9001 e ISO 14001, la principal diferencia en requisitos para una auditor&iacute;a interna radica en la intenci&oacute;n de la auditor&iacute;a. Adem&aacute;s de asegurar cumplimiento e instrumentaci&oacute;n y mantenimiento efectivos del sistema de gesti&oacute;n, las auditor&iacute;as de la norma ISO 50001 se realizan con el fin de asegurar que el SGEn en verdad <em>mejora</em> el desempe&ntilde;o energ&eacute;tico. Una de las implicaciones pr&aacute;cticas de este requisito de la norma ISO 50001 tiene que ver con la capacitaci&oacute;n y competencia de los auditores internos. El conjunto de auditores internos para la norma ISO 50001 debe incluir personal que se sienta c&oacute;modo (y que incluso tenga ya experiencia) con los procesos de evaluaci&oacute;n y an&aacute;lisis de datos. Estas habilidades tal vez ya estaban en uso entre los auditores internos en el caso, por ejemplo, de la norma ISO 9001, con experiencia en evaluaci&oacute;n de datos de calidad. Por su parte, en los sistemas de la norma ISO 14001 tambi&eacute;n es necesario evaluar el desempe&ntilde;o en materia ambiental; sin embargo, esto s&oacute;lo se puede efectuar a trav&eacute;s de procesos de monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n, y no mediante el proceso de auditor&iacute;a interna en s&iacute;. As&iacute;, lo m&aacute;s probable es que se requieran ajustes a los conjuntos de habilidades de los auditores internos para que puedan auditar en forma efectiva el desempe&ntilde;o energ&eacute;tico en un sistema basado en la norma ISO 50001. Sobra decir que los auditores internos encargados de la auditor&iacute;a de sistemas de gesti&oacute;n ambiental y de calidad requerir&aacute;n de capacitaci&oacute;n en torno a los requisitos de la norma ISO 50001 y las cuestiones de energ&iacute;a que aborda dicha norma, a fin de poder llevar a cabo auditor&iacute;as internas del SGEn.</p>
+
+<p>Al igual que ocurre con las normas ISO 9001:2015 e ISO 14001:2015, la ISO 5001-2011 exige que se elaboren informes sobre los resultados de cualquier auditor&iacute;a interna. En el caso de la norma ISO 50001, tales informes de resultados deben comunicarse a la alta direcci&oacute;n, en tanto que para las normas ISO 9001 y 14001, los resultados de las auditor&iacute;as deben dirigirse a la direcci&oacute;n relevante. Desde una perspectiva pr&aacute;ctica, el &ldquo;a qui&eacute;n&rdquo; ir&aacute;n dirigidos los informes de resultados tal vez no sea muy distinto en uno u otro sistema de gesti&oacute;n; sin embargo, a efectos de integrar la norma ISO 50001 con las normas ISO 9001 o ISO 14001, la direcci&oacute;n relevante tendr&iacute;a que incluir la alta direcci&oacute;n.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Estos lineamientos y orientaci&oacute;n se aplican a los pasos 5.1, 5.2, 5.5, 6.1 y 6.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Aproveche y adapte algunos elementos de los lineamientos del programa Energy Star al elaborar un programa de auditor&iacute;a interna, pero tenga en mente que para cumplir con los requisitos en cuanto a procedimientos, calendarios y planes de auditor&iacute;a interna documentados establecidos para un SGEn conforme a la norma ISO 50001 se requerir&aacute; de trabajo adicional. Los lineamientos del programa Energy Star recomiendan crear un plan de comunicaciones y hacer labor de concientizaci&oacute;n en toda la organizaci&oacute;n. La norma ISO 50001 especifica que deben documentarse los resultados de las auditor&iacute;as internas y mantenerse registros de ellas, adem&aacute;s de comunicarse los resultados a la alta direcci&oacute;n como parte de la revisi&oacute;n gerencial del desempe&ntilde;o del SGEn y el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

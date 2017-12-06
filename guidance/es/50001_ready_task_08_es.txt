@@ -1,0 +1,124 @@
+USDOE 50001 READY NAVIGATOR TASK 8
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Usos significativos de energía (USEn)
+----------TITLE----------
+Tarea 8: Hemos determinado nuestros usos significativos de energía (USEn) y su respectivo desempeño energético, así como estimado uso y consumo futuros, y generado un plan para su revisión y actualización
+----------GETTING IT DONE----------
+<ul>
+	<li>Mediante el apartado &lsquo;Usos de energ&iacute;a&rsquo; (<em>Energy Uses</em>) de la herramienta [resource](Energy_Footprint_Tool), identifique los usos significativos de energ&iacute;a (USEn) que consumen la mayor parte de energ&iacute;a de su establecimiento.</li>
+	<li>Determine el desempe&ntilde;o energ&eacute;tico de los USEn y su consumo futuro completando el recurso [resource](SEU_Future_Energy_Estimate_Worksheet).</li>
+	<li>Formule e implemente un plan para revisar y actualizar los USEn.</li>
+	<li>Incluya una revisi&oacute;n de la metodolog&iacute;a de evaluaci&oacute;n y selecci&oacute;n de los USEn como parte del proceso de actualizaci&oacute;n de sus usos significativos de energ&iacute;a.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Es importante identificar los usos significativos de energ&iacute;a (USEn) de su organizaci&oacute;n utilizando criterios definidos para determinar el car&aacute;cter significativo de &eacute;stos. Los USEn pueden definirse con base en consumos importantes o en oportunidades de mejora considerables.</p>
+
+<p>Una vez identificados los USEn, es necesario conocer el desempe&ntilde;o actual de estos equipos, sistemas, instalaciones o edificaciones como parte del diagn&oacute;stico energ&eacute;tico. Despu&eacute;s se han de implementar procesos con objeto de monitorear de manera continua este desempe&ntilde;o. Recopilar, analizar y supervisar los datos relativos al desempe&ntilde;o de los USEn facilita la identificaci&oacute;n de las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Adem&aacute;s de determinar y, a continuaci&oacute;n, monitorear el desempe&ntilde;o de los USEn, la proyecci&oacute;n de su consumo energ&eacute;tico futuro tambi&eacute;n es una parte esencial de la planificaci&oacute;n energ&eacute;tica. Las proyecciones permiten a las organizaciones advertir los factores que con el tiempo podr&iacute;an afectar el consumo.</p>
+
+<p>Por &uacute;ltimo, es sustancial planificar c&oacute;mo y cu&aacute;ndo el equipo de gesti&oacute;n energ&eacute;tica llevar&aacute; a cabo la revisi&oacute;n y actualizaci&oacute;n tanto de los USEn como de su evaluaci&oacute;n y metodolog&iacute;a de selecci&oacute;n. Este diagn&oacute;stico debe ejecutarse de forma regular. Con el tiempo, los usos energ&eacute;ticos que se identificaron como significativos podr&iacute;an cambiar conforme su organizaci&oacute;n contin&uacute;a mejorando su desempe&ntilde;o energ&eacute;tico. Por ello, eventualmente podr&iacute;a resultar conveniente modificar la metodolog&iacute;a de evaluaci&oacute;n y selecci&oacute;n, con base en las modificaciones a las instalaciones, equipos, sistemas y procesos.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>determinar y aplicar criterios para seleccionar los USEn;</li>
+	<li>determinar el desempe&ntilde;o energ&eacute;tico actual de los USEn e implementar un plan de monitoreo correspondiente;</li>
+	<li>calcular el uso energ&eacute;tico futuro y proyecciones de consumo de los USEn, y</li>
+	<li>planificar la actualizaci&oacute;n regular de los USEn.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.4.3 b) de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determinar y aplicar criterios de significaci&oacute;n)</p>
+
+<p>Recordemos que, de acuerdo con la definici&oacute;n de los usos significativos de energ&iacute;a, &ldquo;un consumo sustancial de energ&iacute;a y/o que ofrece un potencial considerable para la mejora del desempe&ntilde;o energ&eacute;tico&rdquo; es el criterio que se utiliza para determinar los USEn de su organizaci&oacute;n. La mayor parte de las organizaciones decidir&aacute;n sus USEn en funci&oacute;n de los sistemas y equipos que se identifican en su balance energ&eacute;tico como mayores consumidores de energ&iacute;a. Sin embargo, tambi&eacute;n es posible se&ntilde;alar los USEn una vez que se identifique un sistema o equipo con un potencial considerable para mejorar el desempe&ntilde;o energ&eacute;tico, lo que puede resultar conveniente si su organizaci&oacute;n ha participado en actividades de gesti&oacute;n de energ&iacute;a durante muchos a&ntilde;os, y las oportunidades de mejora adicional de la eficiencia energ&eacute;tica para los sistemas que m&aacute;s consumen energ&iacute;a son limitadas. En este caso, es recomendable enfocarse en sistemas m&aacute;s peque&ntilde;os que tengan mayor oportunidad de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>En la tarea [task](Data Analysis) se introdujo el balance energ&eacute;tico como m&eacute;todo razonable para garantizar que se ha dado cuenta de toda la energ&iacute;a que se consume en su organizaci&oacute;n. Una vez que se logra el balance, uno de los m&eacute;todos m&aacute;s comunes para determinar los USEn consiste en clasificar los usos de energ&iacute;a en relaci&oacute;n con su consumo. A continuaci&oacute;n, puede establecer cierto umbral de consumo energ&eacute;tico o cierto porcentaje de consumo total como criterio de selecci&oacute;n para determinar la significaci&oacute;n (cons&uacute;ltese la [task](Data Analysis)). Luego, se eval&uacute;an los mayores consumidores de energ&iacute;a para determinar si hay oportunidades de mejora del desempe&ntilde;o energ&eacute;tico. De cualquier forma, lo anterior s&oacute;lo es ejemplo de una las formas que existen para abordar los criterios de selecci&oacute;n. Existen diversos enfoques apropiados para su organizaci&oacute;n, de entre los cuales usted podr&aacute; elegir el o los que prefiera.</p>
+
+<p>[Learn More](Regla 80/20)</p>
+
+<p>En el sector industrial y en muchas empresas suele ser v&aacute;lida la <em>regla 80/20</em> (cons&uacute;ltese la tarea [task](Data Analysis)), esto es, 80 por ciento del consumo de energ&iacute;a proceder&aacute; del 20 por ciento de los equipos y procesos. En general, s&oacute;lo unos cuantos sistemas consumen la mayor parte de la energ&iacute;a de un establecimiento. Centre su atenci&oacute;n en esta cuesti&oacute;n y aplique los criterios de significaci&oacute;n. La gesti&oacute;n de energ&iacute;a es un proceso de mejora continua, por lo que, con el tiempo, otros sistemas y usos de energ&iacute;a pueden ser identificados como significativos.</p>
+
+<p>[Learn More End]</p>
+
+<p>En el caso de sistemas de gesti&oacute;n de energ&iacute;a reci&eacute;n implementados, es importante comenzar de manera simple. Considere limitar el n&uacute;mero de USEn en su nuevo SGEn, puesto que estos usos de energ&iacute;a requieren la mayor parte de los recursos. La norma ISO 50001 solicita que analice las competencias del personal cuyo trabajo se relaciona con la capacitaci&oacute;n y comunicaci&oacute;n (cons&uacute;ltense las tareas [task](Training) y [task](Communications)), el control operacional (cons&uacute;ltese la tarea [task](Operational Controls)), la adquisici&oacute;n (cons&uacute;ltese la tarea [task](Procurement)) y el monitoreo y medici&oacute;n (cons&uacute;ltense las tareas [task](Monitoring) y [task](Measurement)) de todos los USEn que se identificaron. Asimismo, ser&aacute; necesario que considere los USEn al establecer objetivos y metas (cons&uacute;ltese la tarea [task](Improvement Projects)). Todos estos requisitos pueden agotar con rapidez los recursos disponibles.</p>
+
+<p>Para planificar la gesti&oacute;n energ&eacute;tica, resulta importante llevar como parte de la documentaci&oacute;n una lista de los USEn, as&iacute; como el m&eacute;todo empleado para determinarlos. Ser&aacute; necesario que registre la evaluaci&oacute;n y selecci&oacute;n tanto del criterio como del proceso que se utiliz&oacute; para determinar la significaci&oacute;n de los usos energ&eacute;ticos. Es probable que la metodolog&iacute;a cambie con el tiempo, y estos cambios tambi&eacute;n deben registrarse. El recurso [resource](Worksheet_Documenting_SEU_Criteria_Method) se encuentra disponible para ayudar a documentar el m&eacute;todo y los criterios empleados para determinar los USEn.</p>
+
+<p>[Learn More](Realizaci&oacute;n de conexiones de los USEn)</p>
+
+<p><strong>Realizar conexiones de los USEn</strong> representa una pr&aacute;ctica &oacute;ptima que consiste en registrar los usos significativos de energ&iacute;a, las &aacute;reas u operaciones con las que &eacute;stos se asocian, as&iacute; como el personal afectado (por cargo), llenando las columnas 1, 2 y 5 de la &lsquo;Tabla de control de usos significativos de energ&iacute;a&rsquo; (cons&uacute;ltese el recurso [resource](SEU_Control_Chart)). Esta simple hoja de c&aacute;lculo puede servirle para enlistar los usos de energ&iacute;a significativos actuales, y para depositar los registros de otros datos que ser&aacute;n necesarios a fin de garantizar la buena gesti&oacute;n de los USEn. Tambi&eacute;n se proporciona un ejemplo de lo anterior en el recurso [resource](Example_SEU_Control_Chart). Los otros datos relacionados con los USEn (columnas 4, 6, 7 y 8 de la &lsquo;Tabla de control de usos significativos de energ&iacute;a&rsquo;) se generar&aacute;n en las tareas [task](Monitoring), [task](Measurement) y [task](Operational Controls).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determinar el desempe&ntilde;o energ&eacute;tico actual e implementar un plan de monitoreo)</p>
+
+<p>Una vez identificados los USEn, recopile los datos oportunos en materia de energ&iacute;a a fin de determinar el desempe&ntilde;o de estos usos (parte de la tarea [task](Data Analysis)). Una pr&aacute;ctica id&oacute;nea consiste en incluir su desempe&ntilde;o energ&eacute;tico y dem&aacute;s informaci&oacute;n en un sistema de seguimiento energ&eacute;tico (cons&uacute;ltese la tarea [task](Data Analysis)); esto permite reunir todos los datos energ&eacute;ticos de la organizaci&oacute;n en una ubicaci&oacute;n centralizada. Por tanto, el an&aacute;lisis y seguimiento regular de los datos relacionados con la energ&iacute;a incluir&aacute;n la actualizaci&oacute;n del desempe&ntilde;o energ&eacute;tico de los USEn.</p>
+
+<p>Con objeto de definir el desempe&ntilde;o energ&eacute;tico de un USEn, se sugiere generar un indicador de desempe&ntilde;o energ&eacute;tico (IDEn) (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets)). Existen IDEn generalmente aceptados (cons&uacute;ltese el recurso [resource](Generally_Accepted_EnPIs)) para m&uacute;ltiples sistemas de energ&iacute;a comunes, a menudo identificados como USEn. Se pueden desarrollar IDEn similares para establecimientos, equipo, procesos, personal y otros sistemas. Lleve un seguimiento de los IDEn a fin de poner de manifiesto tendencias que permitan comparar el desempe&ntilde;o de los USEn a lo largo del tiempo. El establecimiento de par&aacute;metros de referencia, pr&aacute;ctica que permite realizar comparaciones entre un USEn y el desempe&ntilde;o que se considera como de &ldquo;mejor categor&iacute;a&rdquo; o te&oacute;ricamente &oacute;ptimo de usos similares, puede utilizarse cuando sea posible (cons&uacute;ltese la tarea [task](Data Analysis)).</p>
+
+<p>[Learn More](Ejemplo de seguimiento de los IDEn)</p>
+
+<p>Se incluye un ejemplo para realizar seguimiento de los IDEn de un horno para fundir metales en el siguiente recurso: [resource](Example_EnPI_Tracking). El ejemplo presenta el desempe&ntilde;o del horno expresado en kilowatts-hora por tonelada, en dos turnos, durante un periodo de tres semanas. Adem&aacute;s, ilustra c&oacute;mo utilizar los IDEn para realizar seguimiento del desempe&ntilde;o del USEn a lo largo del tiempo, y c&oacute;mo puede afectar el personal operativo el desempe&ntilde;o energ&eacute;tico del uso significativo de energ&iacute;a.</p>
+
+<p>[Learn More End]</p>
+
+<p>El desempe&ntilde;o energ&eacute;tico de un USEn tambi&eacute;n se puede determinar y monitorear mediante par&aacute;metros operativos o de mantenimiento (cons&uacute;ltese la tarea [task](Monitoring)).</p>
+
+<p>Los usos significativos de energ&iacute;a se encuentran entre las &ldquo;caracter&iacute;sticas clave&rdquo; del desempe&ntilde;o energ&eacute;tico que se monitorean, miden y analizan de forma regular (cons&uacute;ltese la tarea [task](Monitoring)). Su organizaci&oacute;n decide el m&eacute;todo para determinar el desempe&ntilde;o energ&eacute;tico, e identifica la necesidad del monitoreo y la medici&oacute;n en funci&oacute;n de la recopilaci&oacute;n de datos. El an&aacute;lisis de datos es un proceso constante; contin&uacute;e con el monitoreo de los USEn a fin de recopilar, analizar y llevar seguimiento de los datos para identificar oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Calcular el uso y consumo de energ&iacute;a futuros)</p>
+
+<p>Dado que, com&uacute;nmente, los USEn determinan una porci&oacute;n importante del consumo energ&eacute;tico de una organizaci&oacute;n, la proyecci&oacute;n de su consumo energ&eacute;tico futuro es parte fundamental de la planificaci&oacute;n energ&eacute;tica. Las proyecciones permiten que una organizaci&oacute;n considere los factores que pueden afectar el consumo, y posibilitan la toma de decisiones importantes relativas a la producci&oacute;n, proyectos energ&eacute;ticos, implementaci&oacute;n de tecnolog&iacute;a, recursos, disponibilidad, etc&eacute;tera. Con la finalidad de facilitar la proyecci&oacute;n del consumo energ&eacute;tico de los usos significativos, se proporciona una hoja de trabajo para estimar el uso y consumo de energ&iacute;a futuros de los USEn en el recurso [resource](SEU_Future_Energy_Estimate_Worksheet). Complete una estimaci&oacute;n por cada USEn; puede estimar cambios potenciales en el consumo de los USEn con base en repercusiones de distintos factores.</p>
+
+<p>[Learn More](Factores que pueden afectar el consumo energ&eacute;tico)</p>
+
+<p>A fin de facilitar la identificaci&oacute;n de factores importantes para su organizaci&oacute;n, quiz&aacute;s quiera considerar los siguientes factores:</p>
+
+<ul>
+	<li>Ocupaci&oacute;n</li>
+	<li>Producci&oacute;n</li>
+	<li>Inversi&oacute;n de capital</li>
+	<li>Fuentes de energ&iacute;a de reemplazo</li>
+	<li>Proyectos de energ&iacute;a concluidos</li>
+	<li>Nuevas tecnolog&iacute;as</li>
+	<li>Cambios en procesos</li>
+	<li>Cambios en materiales</li>
+	<li>Criterios relativos a los productos</li>
+	<li>Clima</li>
+	<li>Criterios operativos</li>
+	<li>Cambios en la econom&iacute;a</li>
+	<li>Cambios en el sector empresarial o industrial</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Desarrolle un c&aacute;lculo del consumo energ&eacute;tico futuro de los USEn con el fin de alertar a tiempo sobre cambios que se esperan en su organizaci&oacute;n, y emplee esta estimaci&oacute;n como referencia para evaluar resultados.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Elaborar el plan para actualizar los usos significativos de energ&iacute;a)</p>
+
+<p>Establezca un plan para que el equipo de gesti&oacute;n energ&eacute;tica revise y actualice con regularidad los USEn, as&iacute; como la metodolog&iacute;a para su evaluaci&oacute;n y selecci&oacute;n. Durante este proceso deben solicitarse las observaciones de los mandos directivos de la empresa. Realizar modificaciones a los USEn seleccionados o a los procesos de evaluaci&oacute;n y selecci&oacute;n puede ser necesario por varias razones:</p>
+
+<ul>
+	<li>Los proyectos de mejora han reducido el consumo de un USEn por debajo del umbral seleccionado.</li>
+	<li>Cambios en los recursos disponibles para analizar los USEn.</li>
+	<li>Los cambios en el negocio afectaron el enfoque o selecci&oacute;n de los USEn.</li>
+	<li>Nuevos procesos alteraron los patrones del consumo energ&eacute;tico.</li>
+</ul>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las normas ISO 14001:2015 e ISO 50001:2011 utilizan la construcci&oacute;n &ldquo;significaci&oacute;n&rdquo;. En un sistema de gesti&oacute;n ambiental conforme a la norma ISO 40001 se determinan los aspectos ambientales significativos; mientras que en un SGEn en conformidad con la norma ISO 50001:2011, lo que se establece son los usos significativos de energ&iacute;a. Si bien los criterios (y, por lo general, las metodolog&iacute;as) que se emplean para determinar la significaci&oacute;n difieren entre las normas ISO 50001 e ISO 14001, el resultado final es que, en ambos sistemas de gesti&oacute;n, determinar la significaci&oacute;n ayuda a establecer prioridades y a enfocar recursos.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El programa Energy Star no solicita que los usos significativos de energ&iacute;a (USEn) se determinen, ni exige el establecimiento de un plan para su actualizaci&oacute;n; sin embargo, estos puntos s&iacute; son requeridos por la norma ISO 50001, y se incluyen en el material de orientaci&oacute;n de esta tarea.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

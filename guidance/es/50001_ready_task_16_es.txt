@@ -1,0 +1,210 @@
+USDOE 50001 READY NAVIGATOR TASK 16
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Controles operativos
+----------TITLE----------
+Tarea 16: Hemos establecido criterios operativos y de mantenimiento para nuestros USEn, funcionamos conforme a éstos y los hemos comunicado al personal pertinente
+----------GETTING IT DONE----------
+<ul>
+	<li>Complete los recursos [resource](Significant_Energy_Use_Operating_Criteria_Worksheet) y [resource](Operational_Controls_Checklist) con el fin de determinar y establecer los criterios y controles necesarios para cada uso significativo de energ&iacute;a. Aseg&uacute;rese de identificar los factores cr&iacute;ticos que afectan el desempe&ntilde;o energ&eacute;tico y comun&iacute;quelos al personal responsable para que se utilicen.</li>
+	<li>Opere y mantenga las instalaciones, los equipos, los sistemas o los procesos asociados con los USEn de conformidad con los criterios determinados.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Los controles operativos y de mantenimiento aseguran que los equipos, sistemas, procesos e instalaciones cr&iacute;ticos sean operados y mantenidos para obtener un desempe&ntilde;o eficiente y los resultados requeridos. Los controles definidos adecuadamente promueven la eficiencia y un funcionamiento ininterrumpido de los equipos importantes.</p>
+
+<p>La determinaci&oacute;n de los controles operativos y de mantenimiento implica la identificaci&oacute;n y la planificaci&oacute;n de actividades para asegurar que los factores cr&iacute;ticos que afecten el desempe&ntilde;o energ&eacute;tico sean conocidos, utilizados y comunicados al personal responsable. Los controles operativos y de mantenimiento deben identificarse y planificarse para todos los usos significativos de energ&iacute;a (USEn).</p>
+
+<p>Los controles operativos y de mantenimiento pueden adoptar una variedad de formas. Pueden incluir, por ejemplo, procedimientos e instrucciones de trabajo, controles f&iacute;sicos, la utilizaci&oacute;n de personal licenciado o calificado, o una combinaci&oacute;n de &eacute;stos.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip; </strong></p>
+
+<ul>
+	<li>establecer criterios operativos y de mantenimiento;</li>
+	<li>asegurar que los equipos, sistemas y procesos principales y las instalaciones funcionen y sean mantenidos seg&uacute;n los criterios establecidos, y</li>
+	<li>comunicar al personal los controles establecidos.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado</em><em> 4.5.5 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Establecer criterios operativos y de mantenimiento).</p>
+
+<p>La organizaci&oacute;n debe dotarse de criterios operativos y de mantenimiento eficaces para sus principales instalaciones, equipos, sistemas y procesos. Sus principales sistemas y los usos significativos de energ&iacute;a (USEn) funcionan bajo &oacute;ptimas condiciones y pr&aacute;cticas de mantenimiento que maximizan su eficiencia operativa y les permiten alcanzar su vida &uacute;til de dise&ntilde;o.</p>
+
+<p>Los criterios operativos establecen puntos donde sus USEn deben funcionar de la manera m&aacute;s eficaz para satisfacer las condiciones requeridas por un proceso.</p>
+
+<p>[Learn More](Ejemplo de criterios operativos)</p>
+
+<p>Los criterios operativos incluyen, por ejemplo:</p>
+
+<ul>
+	<li>Configuraci&oacute;n del temporizador de ocupaci&oacute;n</li>
+	<li>Ajustes de temperatura del sistema de climatizaci&oacute;n</li>
+	<li>Presi&oacute;n de funcionamiento del compresor de aire</li>
+	<li>Punto de ajuste de temperatura de la caldera y el horno</li>
+	<li>Presi&oacute;n de la caldera de vapor</li>
+	<li>Punto de ajuste de temperatura del refrigerador y el congelador</li>
+	<li>Temperatura del agua generada por los enfriadores</li>
+	<li>Velocidades de l&iacute;nea de producci&oacute;n</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>Los criterios operativos se implementan a trav&eacute;s de controles operativos que aseguran que los USEn correspondan a los criterios identificados. Algunos ejemplos de controles operativos son:</p>
+
+<ul>
+	<li>L&iacute;mites f&iacute;sicos</li>
+	<li>Controladores el&eacute;ctricos y mec&aacute;nicos</li>
+	<li>Equipos y los indicadores de medici&oacute;n</li>
+	<li>Rotulaci&oacute;n y se&ntilde;alizaci&oacute;n</li>
+	<li>Procedimientos documentados</li>
+	<li>Aptitudes y la formaci&oacute;n del operador</li>
+</ul>
+
+<p>Su organizaci&oacute;n tambi&eacute;n debe tener en cuenta los criterios de mantenimiento y los controles asociados a &eacute;stos. Algunos ejemplos de pr&aacute;cticas de mantenimiento pertinentes incluyen:</p>
+
+<ul>
+	<li>Cambio del filtro</li>
+	<li>Lubricaci&oacute;n</li>
+	<li>Ajuste de la tensi&oacute;n</li>
+	<li>Reparaci&oacute;n de fugas</li>
+	<li>Limpieza</li>
+	<li>Niveles de l&iacute;quido</li>
+	<li>An&aacute;lisis de vibraciones</li>
+	<li>Calibraci&oacute;n</li>
+</ul>
+
+<p>Muchas organizaciones utilizan un sistema de mantenimiento preventivo que puede constituir un componente de los criterios de mantenimiento y de los controles del SGEn. Dicho sistema es un proceso organizado para asegurar el mantenimiento de los USEn por medio de una inspecci&oacute;n sistem&aacute;tica que busca detectar y corregir las anomal&iacute;as con el fin de evitar fallas y obtener un m&aacute;ximo estado de funcionamiento. Ambos criterios operativos y de mantenimiento, as&iacute; como los controles asociados a &eacute;stos, influyen en el desempe&ntilde;o y la eficiencia de los equipos que consumen energ&iacute;a.</p>
+
+<p>La norma ISO 50001 requiere que usted desarrolle criterios operativos y de mantenimiento para sus USEn, criterios &ldquo;cuya ausencia podr&iacute;a llevar a una desviaci&oacute;n significativa de la eficacia del desempe&ntilde;o energ&eacute;tico&rdquo;. En la tarea [task](Corrective Actions) se discute en detalle la desviaci&oacute;n significativa con respecto al monitoreo y la medici&oacute;n de las caracter&iacute;sticas clave de operaci&oacute;n que determinan el desempe&ntilde;o energ&eacute;tico. Consulte esa secci&oacute;n para obtener m&aacute;s informaci&oacute;n acerca de las desviaciones significativas. Su organizaci&oacute;n debe determinar qu&eacute; controles son esenciales para evitar una desviaci&oacute;n significativa respecto a los criterios operativos y de mantenimiento de los USEn. Algunos ejemplos de desviaciones significativas que podr&iacute;an deberse, al menos en parte, a los problemas de control de funcionamiento y mantenimiento incluyen:</p>
+
+<ul>
+	<li>Salida de los l&iacute;mites de control</li>
+	<li>Variaci&oacute;n del consumo de energ&iacute;a</li>
+	<li>Cambio en la eficiencia</li>
+	<li>Aumento de los requerimientos de mantenimiento</li>
+	<li>Aumento del tiempo de inactividad</li>
+	<li>Requerimientos adicionales de los equipos</li>
+	<li>Tiempos de funcionamiento m&aacute;s prolongados</li>
+	<li>Necesidad de cambio de la configuraci&oacute;n</li>
+	<li>Cambios de producto (por ejemplo, exceso o defecto de cocci&oacute;n de alimentos)</li>
+</ul>
+
+<p>[Learn More](Fuentes para ayudar a identificar los criterios operativos y de mantenimiento).</p>
+
+<p>Diversas fuentes pueden ser de utilidad para identificar criterios operativos y de mantenimiento para su USEn, as&iacute; como otros procesos que puedan afectar al desempe&ntilde;o energ&eacute;tico. Entre ellas:</p>
+
+<ul>
+	<li>Recomendaciones del fabricante</li>
+	<li>Personal de sistemas que mide el desempe&ntilde;o</li>
+	<li>Requisitos m&iacute;nimos del sistema o de los procesos</li>
+	<li>Ajustes operativos e intervalos de mantenimiento sugeridos por el personal de servicio t&eacute;cnico</li>
+	<li>Control estad&iacute;stico de los procesos</li>
+	<li>Evaluaci&oacute;n comparativa del rendimiento de equipos similares</li>
+	<li>Est&aacute;ndares de la industria</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Tenga presente que probablemente su organizaci&oacute;n ya cuenta con algunos criterios operativos y de mantenimiento, especialmente en cuanto a la eficiencia operativa de los equipos. Esto es especialmente cierto para las organizaciones que han implementado un sistema de gesti&oacute;n de calidad ISO 9001, o un sistema de gesti&oacute;n ambiental ISO 14001. Parte de la determinaci&oacute;n de los controles operativos y de mantenimiento consiste en examinar lo ya existente e incorporarlo a su SGEn, en lo referente a la eficiencia energ&eacute;tica. Se debe hacer un balance de los criterios en curso en su organizaci&oacute;n y dar una mirada fresca a aquello que pueda resultar necesario para controlar las operaciones y las actividades de mantenimiento relacionadas con el USEn. El recurso [resource](Significant_Energy_Use_Operating_Criteria_Worksheet) ejemplifica c&oacute;mo se puede organizar y registrar informaci&oacute;n respecto de los criterios operativos y de mantenimiento.</p>
+
+<p>Es posible que desee considerar la formulaci&oacute;n de criterios adicionales de funcionamiento y mantenimiento para manejar otros factores relacionados con el desempe&ntilde;o energ&eacute;tico, tales como la efectividad de los planes de acci&oacute;n para el logro de los objetivos y metas en materia energ&eacute;tica, los controles necesarios para sostener las mejoras del desempe&ntilde;o energ&eacute;tico pasado y el mantenimiento de los sistemas de energ&iacute;a no-USEn.</p>
+
+<p>Los controles operativos y de mantenimiento tambi&eacute;n pueden ser dispositivos f&iacute;sicos (por ejemplo, sistemas de automatizaci&oacute;n de edificios, sensores de movimiento para luces, controladores de secuencia para compresores de aire), o bien recaer en personal certificado o especializado (electricista certificado, operador de calderas certificado, operador para tratamiento de residuos certificado, etc&eacute;tera).</p>
+
+<p>[Learn More](Evaluaci&oacute;n de criterios operativos y de mantenimiento).</p>
+
+<p>Con el fin de evaluar los criterios operativos y de mantenimiento que usted pudiera necesitar, re&uacute;na el personal pertinente y, teniendo en cuenta la informaci&oacute;n descrita anteriormente, discutan acerca los siguientes puntos:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; criterios operativos y de mantenimiento se han establecido para los &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USEn?</li>
+	<li>&iquest;Qu&eacute; controles son necesarios para operar y mantener los USEn seg&uacute;n los &nbsp; criterios apropiados?</li>
+	<li>&iquest;Qu&eacute; criterios operativos y de mantenimiento indicar&iacute;an una desviaci&oacute;n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; significativa?</li>
+	<li>&iquest;Existen en la organizaci&oacute;n controles operativos y de mantenimiento?</li>
+	<li>&iquest;Son eficaces los controles operativos y de mantenimiento para mantener el desempe&ntilde;o a partir de los criterios identificados?</li>
+	<li>&iquest;Son necesarios otros controles para mantener los USEn seg&uacute;n los criterios operativos y de mantenimiento identificados?</li>
+	<li>&iquest;Son necesarios otros controles para detectar o evitar una desviaci&oacute;n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; significativa?</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Utilice el recurso [resource](Operational_Controls_Checklist) para ayudar a determinar los criterios y controles necesarios.</p>
+
+<p>Una vez determinados los criterios operativos y de mantenimiento apropiados, implem&eacute;ntelos como meta de funcionamiento y mantenimiento.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Asegurar que los equipos, sistemas, procesos e instalaciones principales sean operados y mantenidos seg&uacute;n los criterios establecidos)</p>
+
+<p>Una vez determinados los controles y criterios operativos y de mantenimiento adecuados, ser&aacute; necesario operar y mantener las instalaciones, equipos, sistemas o procesos asociados a los USEn en conformidad con los criterios establecidos. Si los criterios y controles son nuevos o han cambiado, habr&aacute; que informar al personal apropiado. Si los controles no funcionan o se les est&aacute; omitiendo, ser&aacute; preciso realizar inspecciones para confirmar su aplicaci&oacute;n y tambi&eacute;n que los criterios establecidos efectivamente se cumplan.</p>
+
+<p>[Learn More](Ejemplo de equipos que no funcionan seg&uacute;n los criterios establecidos)</p>
+
+<p>Si, por ejemplo, se desactiva el control de velocidad del variador de frecuencia (<em>variable frequency drive</em>, VFD) de un ventilador, se estar&aacute; permitiendo que el ventilador funcione permanentemente a su velocidad m&aacute;xima. El VFD no reducir&iacute;a la velocidad del motor del ventilador &mdash;y, por consiguiente, el consumo&mdash; durante aquellos periodos en los que el ventilador est&aacute; s&oacute;lo ligeramente cargado, por lo que no se lograr&iacute;a la esperada mejora del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Learn More End]</p>
+
+<p>El recurso [resource](SEU_Control_Chart), presentado por primera vez en las tareas [task](Significant Energy Uses) y [task](Performance Indicators), puede utilizarse para documentar referencias a los controles operativos, ingresando la informaci&oacute;n en la columna 4 de la tabla. El recurso [resource](Example_SEU_Control_Chart), con la columna 4 sobre controles operativos llenada, ejemplifica c&oacute;mo utilizar este formulario. Observe que este ejemplo de la tabla de control de usos significativos de energ&iacute;a incluye tambi&eacute;n informaci&oacute;n acerca de los registros asociados a controles operativos espec&iacute;ficos (v&eacute;ase la columna 8).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comunicar al personal informaci&oacute;n acerca de los controles)</p>
+
+<p>Para que instalaciones, equipos, sistemas y procesos asociados con el USEn operen y se mantengan mediante los controles establecidos, habr&aacute; de asegurarse que la informaci&oacute;n pertinente relativa a tales controles se ha comunicado al personal apropiado, incluidos los contratistas o proveedores que realizan un trabajo <em>in situ</em> relacionado con los USEn. Contar con procesos de comunicaci&oacute;n s&oacute;lidos ayuda a asegurar que el personal apropiado conozca y comprenda plenamente las expectativas con respecto a la ejecuci&oacute;n y seguimiento de dichos controles. La informaci&oacute;n acerca de los criterios y los controles puede brindarse, seg&uacute;n corresponda, mediante procesos de formaci&oacute;n, documentaci&oacute;n u otros procesos de comunicaci&oacute;n, tales como:</p>
+
+<ul>
+	<li>Demostraciones</li>
+	<li>Correos electr&oacute;nicos</li>
+	<li>Reuniones con el personal</li>
+	<li>Marcas de equipos</li>
+	<li>Reuniones de proveedores</li>
+	<li>Sesiones de informaci&oacute;n con contratistas</li>
+</ul>
+
+<p>Para procesos complicados tal vez se requiera proporcionar capacitaci&oacute;n apoyada en una documentaci&oacute;n apropiada. En esta formaci&oacute;n deber&iacute;a incluirse el personal nuevo de la organizaci&oacute;n o aquellos procesos que requieran de un operador o un t&eacute;cnico de mantenimiento certificados. La capacitaci&oacute;n tambi&eacute;n puede ser una forma conveniente de informar a numerosos elementos del personal acerca del funcionamiento o de las actividades de mantenimiento. La capacitaci&oacute;n puede incluir:</p>
+
+<ul>
+	<li>Capacitaci&oacute;n en el lugar de trabajo</li>
+	<li>Formaci&oacute;n por turnos</li>
+	<li>Formaci&oacute;n presencial</li>
+	<li>Capacitaci&oacute;n de proveedores</li>
+	<li>Tutor&iacute;a de pares</li>
+	<li>Formaci&oacute;n en l&iacute;nea</li>
+	<li>Formaci&oacute;n impartida por organismos certificados</li>
+	<li>Formaci&oacute;n t&eacute;cnica</li>
+</ul>
+
+<p>[Learn More](Documentaci&oacute;n de sus controles de funcionamiento y mantenimiento)</p>
+
+<p>La norma ISO 50001 no exige expl&iacute;citamente documentar sus controles operativos y de mantenimiento, pero constituye una mejor pr&aacute;ctica dado que la documentaci&oacute;n suele ser un medio eficaz para comunicar o notificar, adem&aacute;s de que es posible controlarla y actualizarla f&aacute;cilmente, seg&uacute;n sea necesario, con el fin de asegurar que la informaci&oacute;n sea pertinente y precisa. La documentaci&oacute;n puede incluir:</p>
+
+<ul>
+	<li>Instrucciones de trabajo</li>
+	<li>Libros de registro de los equipos</li>
+	<li>Procedimientos de funcionamiento de los equipos</li>
+	<li>Manuales de contratistas y proveedores</li>
+	<li>Hojas de instrucciones</li>
+	<li>Listas de control</li>
+	<li>Publicaciones en el &aacute;rea de trabajo</li>
+	<li>Cartelera de anuncios</li>
+	<li>Terminales de computadora</li>
+	<li>Folletos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Utilice el o los m&eacute;todos de comunicaci&oacute;n que considere m&aacute;s eficaces para su organizaci&oacute;n. Es importante que los criterios operativos y de mantenimiento sean claros y precisos, y asegurarse de que empleados y contratistas los tengan presentes.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las normas ISO 14001:2015 e ISO 9001:2015 tambi&eacute;n incluyen requisitos para la planificaci&oacute;n y el control operativos, aun cuando es posible que no est&eacute;n centradas en determinados usos de energ&iacute;a. Al implementar los controles operativos y de mantenimiento para los USEn seg&uacute;n la norma ISO 50001:2011, no es extra&ntilde;o que la organizaci&oacute;n encuentre que algunos de los controles operativos ya existentes para el sistema de gesti&oacute;n de calidad o de gesti&oacute;n ambiental sean pertinentes para los USEn identificados. En este caso, puede resultar conveniente aprovechar los controles existentes. Esto es especialmente cierto cuando los controles se basan en procedimientos, instrucciones de trabajo y otra informaci&oacute;n documentada que deba aplicarse en un proceso operativo espec&iacute;fico.</p>
+
+<p>Las organizaciones que cuenten con sistemas conformes con las normas ISO 14001:2015 o ISO 9001:2015 ya han implementado procesos de comunicaci&oacute;n internos y externos, incluida la comunicaci&oacute;n al personal interno y a los proveedores externos, acerca de los requisitos pertinentes. Estos mismos procesos de comunicaci&oacute;n pueden utilizarse para dar a conocer los controles operativos al personal interno y externo pertinente, en conformidad a la norma ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 3.1, 3.3, 4.1, 4.2 y 5.3 del recurso <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. En su programa de SGEn, las actividades de operaci&oacute;n y mantenimiento se identifican y planifican para sus usos significativos de energ&iacute;a (USEn). Esto garantiza que esas operaciones y actividades se lleven a cabo sistem&aacute;ticamente. Es probable que su organizaci&oacute;n ya haya implementado algunos controles operativos y de mantenimiento que puedan satisfacer los requisitos de la norma ISO 50001.</p>
+
+<p>Adicionalmente, al implementar su SGEn, se deber&aacute; informar a los empleados y contratistas que realizan trabajos relacionados con los usos significativos de energ&iacute;a acerca de la implementaci&oacute;n de los controles operativos y de mantenimiento para los USEn. Es posible aprovechar los procesos de formaci&oacute;n y comunicaci&oacute;n existentes para este prop&oacute;sito.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

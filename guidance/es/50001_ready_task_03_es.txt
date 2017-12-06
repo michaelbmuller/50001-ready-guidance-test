@@ -1,0 +1,178 @@
+USDOE 50001 READY NAVIGATOR TASK 3
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Compromiso de la alta dirección
+----------TITLE----------
+Tarea 3: Nuestra alta dirección ha expresado su compromiso con el sistema 50001 Ready y está consciente de sus funciones y responsabilidades
+----------GETTING IT DONE----------
+<ul>
+	<li>Use el recurso [resource](Business_Drivers_EnMS) para identificar beneficios e impulsores empresariales aplicables a su organizaci&oacute;n.</li>
+	<li>Prepare y presente un informe a la alta direcci&oacute;n sobre los beneficios e impulsores empresariales identificados, funciones y responsabilidades de gesti&oacute;n y c&oacute;mo se cumplir&aacute; con estas responsabilidades.</li>
+	<li>Garantice que la alta direcci&oacute;n se comprometa.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La clave m&aacute;s decisiva para el &eacute;xito de un SGEn es la participaci&oacute;n y compromiso de la alta direcci&oacute;n. Adem&aacute;s de brindar el liderazgo necesario para mejorar el desempe&ntilde;o energ&eacute;tico y el SGEn, la alta direcci&oacute;n debe demostrar que lleva a cabo las funciones espec&iacute;ficas que se le asignaron dentro del marco de mejora continua (PHVA: Planificar-Hacer-Verificar-Actuar) del SGEn ([resource](PDCA_Components_ISO_50001)). La alta direcci&oacute;n no s&oacute;lo aprueba y autoriza un SGEn, sino que tambi&eacute;n es responsable de garantizar que &eacute;ste siga siendo suficiente, adecuado y efectivo.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>identificar los beneficios e impulsores empresariales del SGEn;</li>
+	<li>preparar un informe para la alta direcci&oacute;n;</li>
+	<li>presentar un informe a la alta direcci&oacute;n;</li>
+	<li>garantizar el compromiso de la alta direcci&oacute;n;</li>
+	<li>presentar un informe a la alta direcci&oacute;n sobre sus responsabilidades en el SGEn, y</li>
+	<li>planear c&oacute;mo la alta direcci&oacute;n debe cumplir con sus responsabilidades.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.2.1, 4.2.2, 4.7.1, 4.7.2 y 4.7.3 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar los beneficios e impulsores empresariales del SGEn)</p>
+
+<p>Muchas organizaciones buscan la eficiencia y ahorro energ&eacute;ticos, la reducci&oacute;n de efectos ambientales y contar con iniciativas de sustentabilidad debido a que consideran que &ldquo;eso es lo correcto&rdquo;. Sin embargo, los efectos sobre los niveles de referencia del desempe&ntilde;o energ&eacute;tico y los prospectos para la viabilidad a largo plazo son con mucha frecuencia los factores determinantes de las iniciativas organizacionales propuestas, incluidas aquellas para la gesti&oacute;n energ&eacute;tica. Es necesario identificar los beneficios de una mejora en la gesti&oacute;n y desempe&ntilde;o energ&eacute;ticos para comunicarlos a la alta direcci&oacute;n en t&eacute;rminos f&aacute;ciles de entender. Por lo tanto, la justificaci&oacute;n financiera es importante para establecer un SGEn.</p>
+
+<p>Conforme la ISO 50001 cobra fuerza en el mercado, los estudios de caso de instrumentaci&oacute;n y otros an&aacute;lisis van registrando los beneficios de este enfoque sistem&aacute;tico en la gesti&oacute;n energ&eacute;tica. &Eacute;stos incluyen:</p>
+
+<ul>
+	<li>Mejora en las eficiencias operativas.</li>
+	<li>Disminuci&oacute;n en la intensidad energ&eacute;tica.</li>
+	<li>Datos energ&eacute;ticos para tomar decisiones objetivas.</li>
+	<li>Respaldo para el cambio organizacional y cultural.</li>
+	<li>Incentivos para la integraci&oacute;n organizacional.</li>
+	<li>Reducci&oacute;n de los efectos ambientales.</li>
+	<li>Ventajas competitivas sobre las compa&ntilde;&iacute;as que descuidan la gesti&oacute;n de recursos.</li>
+	<li>Demostraci&oacute;n visible de la responsabilidad social.</li>
+	<li>Posicionamiento para la contabilizaci&oacute;n de carbono.</li>
+</ul>
+
+<p>Conozca los beneficios que otras organizaciones han obtenido con su SGEn. Busque en la red ejemplos de su industria o industrias relacionadas. Por ejemplo, consulte los recursos:</p>
+
+<ul>
+	<li>[resource](Energy_Efficiency_Business_Case)</li>
+	<li>[resource](ISO_50001_Benefits)</li>
+</ul>
+
+<p>Considere los posibles beneficios de un SGEn dentro del contexto de las prioridades y necesidades de su organizaci&oacute;n. Para tener la justificaci&oacute;n financiera deber&aacute; vincular los beneficios del SGEn con los impulsores empresariales de su organizaci&oacute;n, ya que la alta direcci&oacute;n querr&aacute; saber de qu&eacute; manera el SGEn y la mejora en la eficiencia energ&eacute;tica afectan a esos impulsores.</p>
+
+<p>La hoja de recursos <a href="http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%201_2%20Tool%20Business%20Drivers%20and%20EnMS%20Res%20Sheet.docx" target="_blank">[resource](Business_Drivers_EnMS)</a> trata diferentes tipos de impulsores empresariales e incluye ejemplos de c&oacute;mo la gesti&oacute;n energ&eacute;tica los puede afectar. El representante de la direcci&oacute;n y los miembros del equipo de gesti&oacute;n energ&eacute;tica (v&eacute;ase la tarea [task](EnergyTeam)) deben revisar esta informaci&oacute;n e identificar los impulsores empresariales pertinentes a su organizaci&oacute;n. Entonces, trabaje para garantizar que la direcci&oacute;n entiende los beneficios (presente la informaci&oacute;n en t&eacute;rminos que sean importantes para ellos). Si no se ha nombrado al representante de la direcci&oacute;n y a los miembros del equipo de gesti&oacute;n energ&eacute;tica, identifique a alguien con deseos de defender la iniciativa y que acepte esta responsabilidad.</p>
+
+<p>[Learn More](Principales elementos con influencia al interior de la organizaci&oacute;n)</p>
+
+<p>Considere identificar, como parte de la justificaci&oacute;n financiera, a los &ldquo;principales elementos con influencia al interior&rdquo; de su organizaci&oacute;n. Los elementos con influencia al interior son individuos que tienen o pudieran tener inter&eacute;s o influencia en las decisiones relacionadas con la energ&iacute;a. Para obtener apoyo en la formulaci&oacute;n y operaci&oacute;n del SGEn, puede resultar &uacute;til identificar a estos individuos entre miembros de la direcci&oacute;n y los empleados. Identifique cu&aacute;nta importancia le otorgan a la energ&iacute;a y qu&eacute; alentar&iacute;a su apoyo y participaci&oacute;n. Cada uno podr&iacute;a tener motivaciones diferentes; por ejemplo:</p>
+
+<ul>
+	<li>El inter&eacute;s principal de un gerente de construcci&oacute;n o de producci&oacute;n podr&iacute;a ser la disponibilidad de energ&iacute;a.</li>
+	<li>El inter&eacute;s principal de un gerente de compras podr&iacute;a ser el costo de la energ&iacute;a.</li>
+	<li>El inter&eacute;s principal de un gerente de mantenimiento podr&iacute;a ser la calidad y disponibilidad de la energ&iacute;a.</li>
+	<li>El inter&eacute;s principal de un gerente de gesti&oacute;n ambiental podr&iacute;an ser los efectos ambientales &mdash;la contaminaci&oacute;n, por ejemplo&mdash; a partir del consumo de energ&iacute;a.</li>
+</ul>
+
+<p>Aseg&uacute;rese de que las necesidades de los elementos con influencia al interior relacionadas con el uso de la energ&iacute;a (es decir, aplicaci&oacute;n de la energ&iacute;a) y consumo energ&eacute;tico (cantidad de energ&iacute;a aplicada) se entiendan y aborden en la justificaci&oacute;n financiera. El recurso que ejemplifica estos elementos [resource](Example_Key_Internal_Influencers_Worksheet) muestra c&oacute;mo se puede capturar esta informaci&oacute;n. Adem&aacute;s, la correspondiente hoja de trabajo en blanco, para llenar, est&aacute; disponible en el recurso [resource](Key_Internal_Influencers_Worksheet).</p>
+
+<p>[Learn More End]</p>
+
+<p>[AccordionEnd]</p>
+
+<p>[Accordion](Preparar un informe para la alta direcci&oacute;n)</p>
+
+<p>Si la alta direcci&oacute;n a&uacute;n no se compromete con la instrumentaci&oacute;n del SGEn o si le falta compromiso, se le deber&aacute; convencer de los beneficios de manera que brinden un apoyo satisfactorio.</p>
+
+<p>[Learn More](Sugerencias para preparar un informe a la alta direcci&oacute;n)</p>
+
+<p>Cuando prepare su informe a la alta direcci&oacute;n, considere las siguientes sugerencias:</p>
+
+<ul>
+	<li><strong>El p&uacute;blico meta es la alta direcci&oacute;n.</strong> &iquest;Cu&aacute;les incentivos son importantes para ellos? Por lo general, la alta direcci&oacute;n se interesa en el nivel de referencia del desempe&ntilde;o energ&eacute;tico, pero puede haber otros incentivos importantes. Ponga especial inter&eacute;s en &eacute;stos y elabore la presentaci&oacute;n de manera completa pero breve. Por lo regular, la direcci&oacute;n quiere escuchar s&oacute;lo los aspectos importantes. Tenga informaci&oacute;n adicional disponible por si se requiere mayor detalle, pero si hay un plazo para la presentaci&oacute;n, at&eacute;ngase al mismo.</li>
+	<li><strong>Conc&eacute;ntrese en lo que trata de transmitir.</strong> Presente los antecedentes necesarios para respaldar los beneficios de un SGEn y no mezcle asuntos o ideas no relacionados. C&eacute;ntrese en la naturaleza basada en la mejora continua del sistema de gesti&oacute;n y los efectos directos sobre el bienestar y mejora de la organizaci&oacute;n.</li>
+	<li><strong>Presente los beneficios en los t&eacute;rminos de la alta direcci&oacute;n.</strong> Use los incentivos ya identificados para presentar los beneficios en t&eacute;rminos de esos incentivos. Aseg&uacute;rese de que la alta direcci&oacute;n entiende los beneficios relacionados con los puntos clave de inter&eacute;s.</li>
+	<li><strong>Entienda la meta deseada.</strong> &iquest;Cu&aacute;l es el resultado esperado de esta presentaci&oacute;n? Proporcione informaci&oacute;n para fomentar ese resultado u ofrezca sugerencias.</li>
+</ul>
+
+<p>Una pr&aacute;ctica &uacute;til que le puede ayudar a preparar el informe es primero elaborar un &ldquo;discurso de ascensor&rdquo; (<em>elevator pitch</em>): un resumen breve que se usa para presentar de manera r&aacute;pida, simple y convincente un punto de vista. No deber&aacute; ocupar m&aacute;s de dos minutos. Use el recurso [resource](Elevator_Speech_Worksheet) para centrarse en la informaci&oacute;n esencial, y luego exti&eacute;ndase en funci&oacute;n del tiempo disponible. Independientemente del tiempo disponible, aseg&uacute;rese de cubrir al inicio los puntos importantes. Cuide que la alta direcci&oacute;n escuche lo que usted quiere compartir, como dice el viejo adagio: &ldquo;Diles lo que vas a decir, luego dilo y, finalmente, diles lo que les has dicho&rdquo;.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Presentar el informe a la alta direcci&oacute;n)</p>
+
+<p>Elabore el informe para la alta direcci&oacute;n con la informaci&oacute;n preparada en la tarea anterior. Realice la presentaci&oacute;n usando las herramientas de presentaci&oacute;n de la organizaci&oacute;n o en otro formato que muestre de mejor manera la informaci&oacute;n.</p>
+
+<p>[Learn More](Sugerencias para presentar un informe a la alta direcci&oacute;n)</p>
+
+<p>No rebase el tiempo concedido y at&eacute;ngase a &eacute;l con la presentaci&oacute;n planeada. Prep&aacute;rese para contestar preguntas y dar m&aacute;s detalles si se los solicitan.</p>
+
+<p>La alta direcci&oacute;n puede hacer el siguiente tipo de preguntas:</p>
+
+<ul>
+	<li>&iquest;Cu&aacute;nto estamos gastando cada a&ntilde;o en energ&iacute;a?</li>
+	<li>&iquest;A cu&aacute;nto asciende el ahorro que se podr&iacute;a hacer en uno o dos a&ntilde;os?</li>
+	<li>&iquest;Cu&aacute;nto tiempo le dedicar&aacute; el equipo de gesti&oacute;n energ&eacute;tica?</li>
+	<li>&iquest;Cu&aacute;les son los mayores retos de la puesta en pr&aacute;ctica del SGEn seg&uacute;n la ISO 50001?</li>
+	<li>&iquest;Qu&eacute; necesita de nosotros (alta direcci&oacute;n) para hacer de &eacute;ste un programa exitoso?</li>
+</ul>
+
+<p>El prop&oacute;sito de la presentaci&oacute;n es proporcionar brevemente la informaci&oacute;n requerida a la alta direcci&oacute;n para que &eacute;sta pueda tomar las decisiones necesarias, as&iacute; como detalles adicionales seg&uacute;n se requiera. Si el tema se empieza a desviar, reanude la presentaci&oacute;n llamando la atenci&oacute;n del grupo hacia los materiales de la presentaci&oacute;n. El recurso que ejemplifica el orden a seguir para una sesi&oacute;n informativa [resource](Example_Management_Briefing_Agenda) puede ayudarle a mantenerse en el tema. Ajuste la agenda con base en el tiempo disponible.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Asegurar que la alta direcci&oacute;n se comprometa)</p>
+
+<p>Obtener el apoyo de la alta direcci&oacute;n es una de las tareas m&aacute;s importantes a cumplir antes de poner en marcha su sistema de gesti&oacute;n. Considere las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Est&aacute; la alta direcci&oacute;n involucrada?</li>
+	<li>La alta direcci&oacute;n &iquest;ha asignado las responsabilidades y autoridades para poner en marcha un SGEn?</li>
+	<li>La alta direcci&oacute;n &iquest;ha aprobado y asignado los recursos necesarios para poner en marcha de manera satisfactoria un SGEn?</li>
+</ul>
+
+<p>Tras el compromiso de la alta direcci&oacute;n debe venir un claro entendimiento de sus responsabilidades y acciones adecuadas. Cuando la alta direcci&oacute;n est&aacute; activa y visible en el SGEn, los empleados y dem&aacute;s perciben el valor y la importancia de la gesti&oacute;n energ&eacute;tica y la mejora en el desempe&ntilde;o energ&eacute;tico para la organizaci&oacute;n. Por ejemplo, acciones simples de la alta direcci&oacute;n &mdash;como agregar temas energ&eacute;ticos en las &oacute;rdenes del d&iacute;a de las reuniones y enviar actualizaciones por correo electr&oacute;nico sobre el desempe&ntilde;o energ&eacute;tico&mdash; ayudan a mantener involucrada a toda la organizaci&oacute;n.</p>
+
+<p>[Learn More](Formule un plan de proyecto)</p>
+
+<p>Un plan de proyecto que defina las acciones, programa y recursos necesarios para poner en marcha el SGEn puede ayudar a obtener el apoyo de la alta direcci&oacute;n debido a que define de manera clara las expectativas del esfuerzo. Considere formular semejante plan para poner en marcha el SGEn usando el enfoque que se describe en el recurso [resource](Project_Management_for_EnMS_Implementation).</p>
+
+<p>[Learn More End]</p>
+
+<p>La alta direcci&oacute;n debe apoyar el esfuerzo no s&oacute;lo durante la puesta en marcha del SGEn, sino tambi&eacute;n despu&eacute;s de que el sistema est&eacute; implantado y en operaci&oacute;n. La alta direcci&oacute;n deber&aacute; llevar a cabo varias acciones para dar seguimiento a su compromiso con el sistema. A continuaci&oacute;n se detallan estas acciones, mismas que se incluyen tambi&eacute;n en las tareas [task](Scope and Boundaries), [task](EnergyPolicy), [task](EnergyTeam) y [task](Communications) del Navegador 50001 Ready.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Presentar el informe a la alta direcci&oacute;n sobre sus responsabilidades en el SGEn)</p>
+
+<p>Una vez que la alta direcci&oacute;n est&aacute; comprometida con el SGEn, aseg&uacute;rese de que sus miembros comprenden las diez responsabilidades clave que deben cumplir para demostrar el compromiso con la mejora continua tanto del desempe&ntilde;o energ&eacute;tico como del SGEn. Tales responsabilidades comprenden:</p>
+
+<ol>
+	<li>Definir e implantar una pol&iacute;tica energ&eacute;tica y actualizarla seg&uacute;n se requiera.</li>
+	<li>Nombrar un representante y autorizar un equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Asignar los recursos necesarios para poner en marcha, operar y mejorar el SGEn y el desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Aprobar el alcance y los l&iacute;mites del SGEn.</li>
+	<li>Comunicar a toda la organizaci&oacute;n la importancia de la energ&iacute;a.</li>
+	<li>Asegurarse de que est&eacute;n establecidas las metas y objetivos de la mejora del desempe&ntilde;o energ&eacute;tico.</li>
+	<li>Garantizar el uso de indicadores de desempe&ntilde;o energ&eacute;tico adecuados (IDEn).</li>
+	<li>Considerar el desempe&ntilde;o energ&eacute;tico en la planeaci&oacute;n estrat&eacute;gica.</li>
+	<li>Garantizar la evaluaci&oacute;n y elaboraci&oacute;n de informes de los resultados a intervalos definidos.</li>
+	<li>Llevar a cabo revisiones gerenciales.</li>
+</ol>
+
+<p>De estas diez responsabilidades de la alta direcci&oacute;n, las &uacute;nicas que pueden delegarse a otra direcci&oacute;n son las que corresponden a los puntos 6, 7 y 9 de la lista.</p>
+
+<p>Por lo general, el representante de la direcci&oacute;n es quien presenta a la alta direcci&oacute;n el informe sobre sus responsabilidades en el SGEn. Programar la sesi&oacute;n informativa como parte de una reuni&oacute;n administrativa en curso puede brindar un resultado eficaz. De manera alterna, el informe podr&iacute;a presentarse como parte de una actividad de capacitaci&oacute;n de la ISO 50001 en la que est&eacute; incluida la alta direcci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Planificar c&oacute;mo la alta direcci&oacute;n cumplir&aacute; con sus responsabilidades)</p>
+
+<p>El informe a la alta direcci&oacute;n debe dar como resultado la planificaci&oacute;n de c&oacute;mo &eacute;sta cumplir&aacute; con sus responsabilidades durante la puesta en marcha del SGEn. Por ejemplo, en la mayor&iacute;a de las puestas en marcha de un SGEn, el equipo de gesti&oacute;n energ&eacute;tica establece tanto los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn) propuestos como los objetivos y metas energ&eacute;ticas propuestas. Posteriormente, la alta direcci&oacute;n los revisa y aprueba antes de que pasen a ser parte formal del SGEn. Una pr&aacute;ctica id&oacute;nea de gesti&oacute;n de un proyecto para la puesta en marcha es, para los objetivos del proyecto, incluir la presentaci&oacute;n a la alta direcci&oacute;n de los productos laborales finales (resultados) de elementos espec&iacute;ficos del SGEn. (V&eacute;ase el recurso sobre elaboraci&oacute;n de un plan para la implementaci&oacute;n del SGEn [resource](Project_Management_for_EnMS_Implementation) para obtener informaci&oacute;n sobre los pasos y aspectos b&aacute;sicos de la planeaci&oacute;n del proyecto.)</p>
+
+<p>Tras la puesta en marcha, la alta direcci&oacute;n presentar&aacute; la mayor&iacute;a de sus responsabilidades por medio de la revisi&oacute;n gerencial (v&eacute;ase la tarea [task](Calculate Energy Savings)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las normas ISO 9001:2015, ISO 14001:2015 e ISO 50001:2011 especifican las responsabilidades de la funci&oacute;n de la alta direcci&oacute;n en el sistema de gesti&oacute;n. Con respecto a estas responsabilidades, hay un traslape considerable entre las tres normas. La ISO 50001 incluye algunas responsabilidades de gesti&oacute;n adicionales que, aunque son &uacute;nicas, son tambi&eacute;n congruentes con los requisitos de liderazgo de la ISO 14001 e ISO 9001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El paso 5.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) proporciona la orientaci&oacute;n para crear una mayor conciencia en las diversas partes interesadas clave, incluida la alta direcci&oacute;n. Asimismo, el paso 1 de los lineamientos del programa Energy Star proporciona una sugerencia al director de energ&iacute;a para que involucre a los altos directivos como &ldquo;aliados ejecutivos&rdquo;. En la ISO 50001 se formaliza esta sugerencia al <em>requerir</em> que la alta direcci&oacute;n demuestre su compromiso con el SGEn y la mejora del desempe&ntilde;o energ&eacute;tico, lo cual incluye la comprensi&oacute;n de sus funciones y responsabilidades espec&iacute;ficas.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

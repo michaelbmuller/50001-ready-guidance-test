@@ -1,0 +1,317 @@
+USDOE 50001 READY NAVIGATOR TASK 6
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Recopilación de datos
+----------TITLE----------
+Task 6: We have identified all our energy sources and uses and accurately collected the related energy consumption data
+----------GETTING IT DONE----------
+<ul>
+	<li>Si est&aacute; utilizando el indicador de desempe&ntilde;o energ&eacute;tico [resource](EnPI_Lite), pida a alg&uacute;n miembro de su personal, entre cuyas responsabilidades se incluya la gesti&oacute;n o el seguimiento de datos, que complete la ficha &lsquo;Consumo energ&eacute;tico&rsquo; ya sea desde: 1) la utilidad Energy Footprint Lite para subir datos [resource](Energy_Footprint_Lite_Data_Uploader) o desde: 2) la herramienta [resource](Energy_Footprint_Tool). Siga las instrucciones que se indican en la p&aacute;gina de inicio de la herramienta [resource](EnPI_Lite). Para usuarios del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite (o herramienta EnPI Lite), la utilidad [resource](Energy_Footprint_Lite_Data_Uploader) podr&iacute;a ser m&aacute;s sencilla de utilizar en la medida en que es una versi&oacute;n de la <a name="_Hlk496526491">Herramienta Huella Energ&eacute;tica </a>(<em>Footprint Tool</em>) adaptada para la herramienta EnPl Lite.</li>
+	<li>Si no est&aacute; utilizando el indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite, identifique y tome nota de la <a name="_Hlk496641175">ubicaci&oacute;n centralizada </a>donde se almacenan los datos.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>El primer paso del proceso para la recopilaci&oacute;n de datos consiste en identificar las fuentes de energ&iacute;a que su organizaci&oacute;n utiliza dentro del alcance y l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (SGEn). Para garantizar que todas las fuentes de energ&iacute;a se reconozcan, esta iniciativa debe incluir identificaci&oacute;n de las instalaciones, equipos, sistemas y procesos que se asocian con cada fuente de energ&iacute;a. Conocer las fuentes de energ&iacute;a que se consumen y la forma en que se utilizan permite crear el marco que ha de emplearse con miras a determinar, recolectar y analizar los datos necesarios para evaluar el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p>El siguiente paso del proceso para la recopilaci&oacute;n de datos consiste en identificar las necesidades de su organizaci&oacute;n en materia de datos. La norma ISO 50001 requiere la inclusi&oacute;n de ciertos datos en el diagn&oacute;stico energ&eacute;tico, entre los que se encuentran: fuentes energ&eacute;ticas, an&aacute;lisis de los usos y consumos energ&eacute;ticos pasados y presentes (as&iacute; como estimaciones del uso y consumo energ&eacute;tico futuros) y datos que pormenoricen los usos significativos de energ&iacute;a. En conjunto, estos datos ser&aacute;n fundamentales para seleccionar indicadores de desempe&ntilde;o energ&eacute;tico (IDEn), establecer niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;) y fijar objetivos y metas en lo relativo a la energ&iacute;a.</p>
+
+<p>En cuanto haya definido sus necesidades en materia de datos, establezca un proceso para su recopilaci&oacute;n y garantizar que se recaben de manera peri&oacute;dica. Los recibos de suministro de energ&iacute;a son una fuente de datos f&aacute;cil de obtener; sin embargo, se requerir&aacute;n otros datos para la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico. Con base en las necesidades de datos energ&eacute;ticos que ha identificado, su organizaci&oacute;n debe desarrollar un proceso de recopilaci&oacute;n que incluya la asignaci&oacute;n de responsabilidades en cuanto al manejo y recopilaci&oacute;n de los datos (consulte la tarea [task](Energy Team)).</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ol>
+	<li>identificar fuentes de energ&iacute;a actuales;</li>
+	<li>identificar usos energ&eacute;ticos;</li>
+	<li>Identificar necesidades en materia de datos;</li>
+	<li>recopilar datos;</li>
+	<li>ingresar datos en una ubicaci&oacute;n centralizada</li>
+</ol>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.4.3 y 4.4.3 a) de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar fuentes de energ&iacute;a actuales)</p>
+
+<p>El primer paso para llevar a t&eacute;rmino esta tarea consiste en identificar y documentar las fuentes de energ&iacute;a actuales de su organizaci&oacute;n. Para la norma ISO 50001, las fuentes energ&eacute;ticas son las formas de energ&iacute;a que modelan los l&iacute;mites de su organizaci&oacute;n, lo que incluye tanto energ&iacute;as primarias como secundarias. La <em>energ&iacute;a primaria</em> corresponde a la energ&iacute;a en su estado natural, como el gas natural. La <em>energ&iacute;a secundaria</em> proviene de la energ&iacute;a primaria y comprende fuentes como la electricidad, el vapor y el aire comprimido.</p>
+
+<p>&nbsp;[Learn More](Ejemplo de fuentes de energ&iacute;a)</p>
+
+<p>Algunos ejemplos de fuentes de energ&iacute;a son:</p>
+
+<ul>
+	<li>Electricidad</li>
+	<li>Gas natural</li>
+	<li>Combust&oacute;leo</li>
+	<li>Di&eacute;sel</li>
+	<li>Gasolina</li>
+	<li>Propano</li>
+	<li>Carb&oacute;n</li>
+	<li>Viento</li>
+	<li>Geot&eacute;rmica</li>
+	<li>Biomasa</li>
+	<li>Aire comprimido</li>
+	<li>Agua refrigerada</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Ser&aacute; necesario identificar instalaciones, equipo, sistemas y procesos asociados a cada uso energ&eacute;tico, con el fin de asegurar que todas las fuentes de energ&iacute;a se han identificado y que ninguna se pas&oacute; por alto. Utilice uno o m&aacute;s de los siguientes recursos para ayudarse a identificar las instalaciones, equipos, sistemas y procesos que consumen energ&iacute;a, y para dar cuenta de todas las fuentes de energ&iacute;a:</p>
+
+<ul>
+	<li>Planos de piso</li>
+	<li>Diagramas de flujo de proceso</li>
+	<li>Planos de las instalaciones con ubicaciones del equipo</li>
+	<li>Esquemas de las edificaciones</li>
+	<li>Diagramas del cableado</li>
+	<li>Diagramas de las centrales el&eacute;ctricas</li>
+	<li>Listas de equipo</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar los usos energ&eacute;ticos)</p>
+
+<p>De acuerdo con la terminolog&iacute;a de la norma ISO 50001, uso de la energ&iacute;a no significa lo mismo que consumo de energ&iacute;a. El <em>uso de la energ&iacute;a</em> se define como una &ldquo;forma o tipo de aplicaci&oacute;n de la energ&iacute;a&rdquo;. Entre sus ejemplos se incluyen la ventilaci&oacute;n, calefacci&oacute;n, refrigeraci&oacute;n, iluminaci&oacute;n y transporte. Los usos de la energ&iacute;a se asocian con las instalaciones, el equipo, los sistemas y los procesos que utilizan energ&iacute;a.</p>
+
+<p>[Learn More](Ejemplos de usos de la energ&iacute;a)</p>
+
+<p>Algunos ejemplos de usos de la energ&iacute;a son:</p>
+
+<ul>
+	<li>Iluminaci&oacute;n interior</li>
+	<li>Iluminaci&oacute;n exterior</li>
+	<li>Calefacci&oacute;n de locales</li>
+	<li>Refrigeraci&oacute;n de locales o aire acondicionado</li>
+	<li>Agua caliente o calderas de vapor en aplicaciones comerciales o industriales</li>
+	<li>Calentadores de agua de tipo dom&eacute;stico</li>
+	<li>Equipo de oficina</li>
+	<li>Nave de mantenimiento</li>
+	<li>Nave de calderas</li>
+	<li>Edificio principal de la producci&oacute;n</li>
+	<li>Oficina de contabilidad</li>
+	<li>Compresores de aire</li>
+	<li>Bombas</li>
+	<li>Hornos o calefacci&oacute;n que se emplea en los procesos</li>
+	<li>Sistemas de refrigeraci&oacute;n</li>
+	<li>Bandas y sistemas transportadores</li>
+	<li>Ventiladores y ventilaci&oacute;n (no asociados con la calefacci&oacute;n o refrigeraci&oacute;n de locales)</li>
+	<li>Torres de refrigeraci&oacute;n</li>
+	<li>Motores</li>
+	<li>Enfriadores de agua</li>
+	<li>L&iacute;nea de pintura</li>
+	<li>Montaje</li>
+	<li>Adquisiciones</li>
+	<li>Tecnolog&iacute;as de la informaci&oacute;n</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Los usos de la energ&iacute;a se pueden identificar de la manera que m&aacute;s convenga a su organizaci&oacute;n. En esta tarea, anteriormente, usted asoci&oacute; las fuentes de energ&iacute;a con sus respectivas instalaciones, equipos, sistemas y procesos, con el prop&oacute;sito de asegurar la identificaci&oacute;n de todas las fuentes relevantes. Organice equipo, sistemas y procesos en agrupaciones l&oacute;gicas o categor&iacute;as (es decir, en &ldquo;usos&rdquo;) que le permitan evaluar y mejorar el desempe&ntilde;o energ&eacute;tico de la forma m&aacute;s adecuada posible.</p>
+
+<p>&nbsp;[Learn More](Equipo, sistemas y agrupaciones de procesos)</p>
+
+<p>Algunas categor&iacute;as que han de contemplarse (con sus respectivos ejemplos entre par&eacute;ntesis) son las siguientes:</p>
+
+<ul>
+	<li>Procesos (todo el equipo que se asocia con un proceso de impresi&oacute;n o de secado)</li>
+	<li>Equipo similar (todos los equipos de aire acondicionado o todos los compresores)</li>
+	<li>Departamentos (sala de c&oacute;mputo o departamento de pintura)</li>
+	<li>Sistemas (iluminaci&oacute;n o aire comprimido)</li>
+	<li>Distribuci&oacute;n de la planta generadora de electricidad (panel A o todos los interruptores de 50 amperes)</li>
+	<li>Equipo espec&iacute;fico (un procesador central o caldera)</li>
+	<li>Instalaciones (edificio administrativo o nave de producci&oacute;n)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>No es necesario registrar los usos de energ&iacute;a en una categor&iacute;a espec&iacute;fica; para clasificarlos pueden utilizarse combinaciones de distintas categor&iacute;as. Por ejemplo, la sala de c&oacute;mputo, el proceso de impresi&oacute;n, la caldera y la electricidad que utiliza el resto de la instalaci&oacute;n pueden, cada uno, identificarse como un uso de energ&iacute;a independiente.</p>
+
+<p>&nbsp;[Accordion End]</p>
+
+<p>[Accordion](Identificar necesidades en materia de datos)</p>
+
+<p>Un sistema de gesti&oacute;n de energ&iacute;a (SGEn) exitoso se basa en datos precisos y apropiados. El diagn&oacute;stico energ&eacute;tico tiene como objetivo ofrecer un perfil de la situaci&oacute;n de su organizaci&oacute;n en lo relativo a la energ&iacute;a, as&iacute; como servir de gu&iacute;a para la recopilaci&oacute;n y el an&aacute;lisis de datos necesarios para determinar el desempe&ntilde;o energ&eacute;tico e identificar las oportunidades de mejora.</p>
+
+<p>La norma ISO 50001 requiere que se incluyan los siguientes datos e informaci&oacute;n en el diagn&oacute;stico energ&eacute;tico:</p>
+
+<ul>
+	<li><strong>Fuentes de energ&iacute;a</strong>. Aseg&uacute;rese de identificar todas las fuentes de energ&iacute;a. Los datos de las fuentes de energ&iacute;a por lo general se encuentran disponibles en facturas de servicios energ&eacute;ticos o pueden obtenerse con el proveedor de la energ&iacute;a fuente (cons&uacute;ltese el recurso [resource](Example_Types_Energy_Management_Data)).</li>
+	<li><strong>An&aacute;lisis de los usos y consumos de energ&iacute;a anteriores.</strong> La manera y el detalle con que estos datos se pueden recopilar depender&aacute; del medidor que su organizaci&oacute;n ha instalado o puesto a disposici&oacute;n. La medici&oacute;n podr&iacute;a estar disponible &uacute;nicamente a escala de la central el&eacute;ctrica, y la capacidad de an&aacute;lisis podr&iacute;a ser limitada. Recolecte datos de los &uacute;ltimos a&ntilde;os para establecer el historial de desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n (cons&uacute;ltese la tarea [task](Data Analysis)).</li>
+	<li><strong>An&aacute;lisis de los usos y consumos de energ&iacute;a actuales.</strong> La recopilaci&oacute;n de estos datos depende tambi&eacute;n de los medidores ya instalados (o que usted va a instalar) en su edificaci&oacute;n. Si los medidores de energ&iacute;a son los &uacute;nicos instalados y su organizaci&oacute;n busca mayor precisi&oacute;n en la evaluaci&oacute;n del uso y consumo energ&eacute;ticos, quiz&aacute;s deba considerar mediciones adicionales (cons&uacute;ltese la tarea [task](Data Analysis)).</li>
+	<li><a name="_Hlk496216963"><strong>Usos significativos de energ&iacute;a (USEn) y su desempe&ntilde;o actual</strong></a><strong>.</strong> Los usos significativos de energ&iacute;a son las instalaciones, sistemas, equipo, procesos y personal que consumen una cantidad significativa de energ&iacute;a o que tienen una oportunidad importante de mejorar su desempe&ntilde;o energ&eacute;tico. Utilice la informaci&oacute;n contenida en la secci&oacute;n de recopilaci&oacute;n de datos y an&aacute;lisis de oportunidades del diagn&oacute;stico energ&eacute;tico a fin de determinar sus USEn (cons&uacute;ltense las tareas [task](Data Analysis) y [task](Significant Energy Uses)). Centrar la atenci&oacute;n en los USEn permite a su organizaci&oacute;n concentrar recursos en las &aacute;reas que consumen la mayor cantidad de energ&iacute;a o que tienen el mayor potencial de mejora en cuanto a desempe&ntilde;o energ&eacute;tico.</li>
+	<li><strong>Variables relevantes que afectan los usos significativos de energ&iacute;a.</strong> Las variables relevantes son los factores que pueden tener impacto en el desempe&ntilde;o energ&eacute;tico de los usos significativos de energ&iacute;a en su organizaci&oacute;n. Determine las variables relevantes por medio de los datos que contiene el diagn&oacute;stico energ&eacute;tico (consulte las tareas [task](Significant Energy Uses) y [task](Relevant Variables)).</li>
+	<li><strong>Estimaciones de los usos y consumos de energ&iacute;a futuros.</strong> Elabore previsiones sobre los usos y consumos de energ&iacute;a futuros para los usos significativos de energ&iacute;a de su organizaci&oacute;n (cons&uacute;ltese la tarea [task](Significant Energy Uses)). Estas estimaciones pueden ayudarlo a gestionar sus usos significativos de energ&iacute;a, establecer objetivos y metas en materia de energ&iacute;a, as&iacute; como ofrecerle un nivel de expectativa del que puede servirse para comparar los resultados actuales (cons&uacute;ltese la tarea [task](Monitoring)).</li>
+	<li><strong>Oportunidades priorizadas para mejorar el desempe&ntilde;o energ&eacute;tico.</strong> Identifique las oportunidades de mejora mediante los datos y an&aacute;lisis que re&uacute;ne el diagn&oacute;stico energ&eacute;tico, as&iacute; como datos de las mediciones energ&eacute;ticas y otros m&eacute;todos (cons&uacute;ltese la tarea [task](Improvement Opportunities)).</li>
+</ul>
+
+<p>Adem&aacute;s de recopilar y analizar datos con objeto de determinar el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n, el diagn&oacute;stico energ&eacute;tico establece el marco que se ha de utilizar durante el establecimiento de los indicadores para la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico y durante el proceso de identificaci&oacute;n de oportunidades de eficiencia energ&eacute;tica. Emplee estos datos para los fines siguientes:</p>
+
+<ul>
+	<li><strong>Seleccionar indicadores de desempe&ntilde;o energ&eacute;tico (IDEn).</strong> Los IDEn son medidas que se utilizan para cuantificar el desempe&ntilde;o en materia energ&eacute;tica de su organizaci&oacute;n. Se puede tratar de una medida simple o de un indicador mucho m&aacute;s complejo (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Establecer la l&iacute;nea de base energ&eacute;tica.</strong> Esta &ldquo;l&iacute;nea de base&rdquo; o nivel de referencia es el par&aacute;metro que sirve como punto de comparaci&oacute;n frente al desempe&ntilde;o energ&eacute;tico actual, a fin de determinar si se ha logrado un desempe&ntilde;o energ&eacute;tico mejorado. &Eacute;ste puede expresarse como una simple medida (por ejemplo, el consumo) o como un indicador m&aacute;s complicado (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets)).</li>
+	<li><strong>Fijar objetivos y metas en materia de energ&iacute;a.</strong> Una vez que su organizaci&oacute;n determine el estatus de su desempe&ntilde;o energ&eacute;tico e identifique sus oportunidades, puede establecer objetivos y fijar metas con la finalidad de lograr mejoras en cuanto al desempe&ntilde;o energ&eacute;tico (cons&uacute;ltense las tareas [task](Improvement Opportunities) y [task](Improvement Projects)).</li>
+</ul>
+
+<p>Los datos requeridos pueden abarcar m&aacute;s que aquellos relacionados con el consumo; &eacute;stos pueden vincularse con la eficiencia, operaciones de carga, tiempo operativo, etc. Por tanto, es necesario que su equipo de gesti&oacute;n energ&eacute;tica determine qu&eacute; datos son convenientes para los indicadores se&ntilde;alados.</p>
+
+<p>Al considerar las necesidades en cuanto a datos para la gesti&oacute;n energ&eacute;tica, resulta una pr&aacute;ctica &oacute;ptima que el equipo dedicado a la gesti&oacute;n energ&eacute;tica de su empresa considere cu&aacute;les son las posibles necesidades de datos que ata&ntilde;en a los requisitos, distintos de los que se precisan para el diagn&oacute;stico y los indicadores energ&eacute;ticos. Entre &eacute;stos se encuentran:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Requisitos legales y de otros tipos</li>
+	<li>Datos de la operaci&oacute;n o producci&oacute;n</li>
+	<li>Costos de energ&iacute;a</li>
+	<li>Informaci&oacute;n financiera de la organizaci&oacute;n</li>
+</ul>
+
+<p>La pol&iacute;tica energ&eacute;tica examina aquello que es importante para la organizaci&oacute;n en t&eacute;rminos de energ&iacute;a, y proporciona orientaci&oacute;n estrat&eacute;gica con respecto a los datos energ&eacute;ticos (cons&uacute;ltese la tarea [task](Energy Policy)). La gesti&oacute;n de energ&iacute;a puede afectar o verse afectada por los requisitos legales ─y de otros tipos─ que se relacionan con la energ&iacute;a, mismos que pueden exigir datos espec&iacute;ficos de parte de la organizaci&oacute;n (cons&uacute;ltese la tarea [task](Legal Requirements)). Los datos que resultan de la operaci&oacute;n y producci&oacute;n pueden ser importantes durante la determinaci&oacute;n del desempe&ntilde;o energ&eacute;tico y los IDEn, en la medida en que ayudan a fortalecer las operaciones y a desarrollar actividades industriales (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets)). Por otro lado, la informaci&oacute;n que guarda relaci&oacute;n con las consideraciones de costos de energ&iacute;a no puede desatenderse porque, en la mayor parte de las organizaciones, la alta direcci&oacute;n requiere saber el impacto que registran los balances finales de la organizaci&oacute;n.</p>
+
+<p>El siguiente recurso contiene informaci&oacute;n &uacute;til para la identificaci&oacute;n de datos: [resource](Example_Types_Energy_Management_Data).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recopilar datos)</p>
+
+<p>Conocer las necesidades de datos de su organizaci&oacute;n en materia de energ&iacute;a no es suficiente; resulta fundamental conocer d&oacute;nde se localiza la informaci&oacute;n necesaria y c&oacute;mo puede obtenerla. Los requisitos var&iacute;an en funci&oacute;n del tipo de datos que se precisa recopilar. Por lo general, la adquisici&oacute;n de las facturas de servicios energ&eacute;ticos es sencilla, ya que &eacute;stas se encuentran f&aacute;cilmente disponibles; sin embargo, la obtenci&oacute;n de otro tipo de datos puede exigir mayores esfuerzos. Es posible que no existan medidores para estimar algunos de los datos que se requieren para la gesti&oacute;n energ&eacute;tica, por lo que podr&iacute;a ser necesario evaluar qu&eacute; tan accesible resulta la medici&oacute;n y el proceso de recopilaci&oacute;n de datos en su organizaci&oacute;n a fin de precisar el m&eacute;todo (o m&eacute;todos, seg&uacute;n corresponda) m&aacute;s conveniente para recopilar los datos solicitados. Por lo general existen cuatro fuentes para la recolecci&oacute;n de datos relacionados con la energ&iacute;a, mismos que puede aplicar en combinaciones:</p>
+
+<ul>
+	<li>Medidores de las empresas proveedoras de energ&iacute;a</li>
+	<li>Placa t&eacute;cnica de datos</li>
+	<li>Medidores port&aacute;tiles</li>
+	<li>Submedidores</li>
+</ul>
+
+<p>[Learn More](Fuentes para la recopilaci&oacute;n de datos energ&eacute;ticos)</p>
+
+<p><strong>Medidores de las empresas proveedoras de energ&iacute;a.</strong> Su organizaci&oacute;n o instalaci&oacute;n contar&aacute; con uno o m&aacute;s medidores de las empresas proveedoras de energ&iacute;a. Los medidores de electricidad y de gas natural son los m&aacute;s comunes; adem&aacute;s, puede haber m&aacute;s de un medidor de energ&iacute;a para cualquier fuente de combustible. Las facturas de suministro de energ&iacute;a deben reunirse de forma que capturen los datos del consumo energ&eacute;tico de cada combustible, de preferencia durante al menos doce meses o m&aacute;s. Asimismo, otras fuentes de combustible, como el combust&oacute;leo, el carb&oacute;n y la biomasa, pueden registrar entregas con periodicidad irregular a lo largo del a&ntilde;o; no obstante, sus recibos tambi&eacute;n deben recopilarse.</p>
+
+<p><strong>Placa t&eacute;cnica del equipo.</strong> La mayor parte del equipo que consume energ&iacute;a cuenta con una placa t&eacute;cnica que proporciona informaci&oacute;n acerca del uso energ&eacute;tico del mismo. Por lo general, esta placa contendr&aacute; informaci&oacute;n sobre el tama&ntilde;o, capacidad y alguna otra informaci&oacute;n relacionada con la energ&iacute;a. Estos datos pueden incluir:</p>
+
+<ul>
+	<li>Equipo el&eacute;ctrico
+	<ul style="list-style-type:circle">
+		<li>Caballos de fuerza</li>
+		<li>Voltaje</li>
+		<li>Amperaje a plena carga</li>
+		<li>Velocidad de rotaci&oacute;n (que se expresa en revoluciones por minuto [rpm])</li>
+		<li>N&uacute;mero de etapas de potencia</li>
+	</ul>
+	</li>
+	<li>Equipo que funciona con combustible
+	<ul style="list-style-type:circle">
+		<li>Entrada y salida de MMBtu (millones de unidades t&eacute;rmicas brit&aacute;nicas)</li>
+		<li>Caudal de vapor m&aacute;ximo</li>
+		<li>Presi&oacute;n m&aacute;xima</li>
+		<li>Temperatura de funcionamiento</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Los manuales de los equipos pueden proporcionar informaci&oacute;n adicional acerca del &iacute;ndice o clasificaci&oacute;n y de las capacidades de &eacute;stos. El recurso [resource](Energy_Use_Worksheet) es un formulario de ejemplo que puede utilizar para recopilar los datos energ&eacute;ticos de las placas t&eacute;cnicas de sus equipos.</p>
+
+<p><strong>Medidores port&aacute;tiles.</strong> Este tipo de medidores brinda la flexibilidad de utilizar los instrumentos de medici&oacute;n en varios lugares, y generalmente son mucho menos costosos. Adem&aacute;s, los hay disponibles con la funci&oacute;n de registro de datos, que permite recopilar datos en diversos intervalos de tiempo a fin de verificar c&oacute;mo responde el equipo en condiciones de carga distintas.</p>
+
+<p><strong>Submedidores.</strong> La submedici&oacute;n tiene la ventaja de ofrecer disponibilidad constante en lo que respecta a la evaluaci&oacute;n de los datos y, al integrarse con el equipo de registro de datos adecuado, puede proporcionar informaci&oacute;n energ&eacute;tica de f&aacute;cil acceso. La instalaci&oacute;n de submedidores puede resultar costosa, por lo que su organizaci&oacute;n debe determinar cu&aacute;les son sus necesidades m&aacute;s importantes en materia de recopilaci&oacute;n de datos antes de tomar una decisi&oacute;n de adquisici&oacute;n. Este tipo de fuente para la recolecci&oacute;n de datos podr&iacute;a requerir adem&aacute;s la interrupci&oacute;n de procesos en su organizaci&oacute;n durante el periodo de instalaci&oacute;n, de modo que es necesaria la programaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>Los datos recopilados de las placas t&eacute;cnicas de los equipos y de los medidores port&aacute;tiles generalmente requieren c&aacute;lculos adicionales para evaluar el consumo o desempe&ntilde;o energ&eacute;ticos, si bien los valores que se obtienen de los submedidores tambi&eacute;n pueden requerir otros c&aacute;lculos. Usted debe identificar cu&aacute;l es el m&eacute;todo de an&aacute;lisis apropiado para los datos disponibles (cons&uacute;ltese la tarea [task](Data Analysis)).</p>
+
+<p>Las necesidades de datos para la gesti&oacute;n energ&eacute;tica pueden extenderse m&aacute;s all&aacute; de aquellos en materia de energ&iacute;a, e incluir operaciones, producci&oacute;n, costos asociados con varios factores y otra informaci&oacute;n financiera. A fin de identificar con exactitud la ubicaci&oacute;n de los datos para la gesti&oacute;n energ&eacute;tica, es necesario evaluar los tipos de datos que se quieren recoger y qu&eacute; instrumentos ser&aacute;n necesarios para recopilarlos.</p>
+
+<p>&nbsp;[Learn More](Ejemplo de tipo de datos a recopilar)</p>
+
+<p>Entre los ejemplos de datos que deben recopilarse se pueden incluir los siguientes:</p>
+
+<ul>
+	<li>Consumo de electricidad de la instalaci&oacute;n (se recoge por medio del medidor de electricidad)</li>
+	<li>Temperatura en la chimenea de la caldera (se recoge por medio del term&oacute;metro de la chimenea)</li>
+	<li>Horas de operaci&oacute;n (se recogen por medio del reloj registrador)</li>
+	<li>Combustible para la calefacci&oacute;n de las instalaciones (se recoge por medio de los registros del suministro de combustible)</li>
+	<li>Costo del equipo (se recoge por medio de las facturas que entregan los proveedores)</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>Una vez que identifique qu&eacute; datos requiere recoger, as&iacute; como el mecanismo potencial para la recopilaci&oacute;n, determine si ya se ha establecido un proceso de recolecci&oacute;n y c&oacute;mo reunir la informaci&oacute;n. Si estos datos a&uacute;n no se han recogido, eval&uacute;e la forma en que se generan y, posteriormente, determine si su organizaci&oacute;n cuenta con los medios para recopilarlos. De no contar con los medios necesarios, considere la adquisici&oacute;n de equipo de medici&oacute;n adicional o trace un modelo alternativo para analizar el desempe&ntilde;o de su organizaci&oacute;n.</p>
+
+<p>Puesto que la gesti&oacute;n energ&eacute;tica se basa en los datos, es menester tener a disposici&oacute;n los datos pertinentes para el funcionamiento correcto de su SGEn. Asimismo, considere emplear un formulario para el registro de los datos que sea sencillo de comprender y que ayude en el proceso de an&aacute;lisis. En consecuencia, desarrolle un proceso coherente y de funcionamiento seguro para la obtenci&oacute;n y el registro de los datos.</p>
+
+<p>Una pr&aacute;ctica id&oacute;nea que se puede aplicar durante el proceso de gesti&oacute;n de datos relacionados con la energ&iacute;a consiste en definir los pasos a seguir con el fin de garantizar la obtenci&oacute;n oportuna de datos fidedignos para la gesti&oacute;n energ&eacute;tica. El proceso completo de recopilaci&oacute;n incluye:</p>
+
+<ul>
+	<li>Datos solicitados para la gesti&oacute;n energ&eacute;tica</li>
+	<li>Localizaci&oacute;n de los datos</li>
+	<li>Persona (por cargo) o fuente que conserva los datos</li>
+	<li>Frecuencia de la recopilaci&oacute;n de datos</li>
+	<li>M&eacute;todo del almacenamiento de datos y localizaci&oacute;n</li>
+	<li>M&eacute;todo para el an&aacute;lisis</li>
+</ul>
+
+<p>Si bien el proceso puede incluir pasos adicionales, los arriba enumerados, como m&iacute;nimo, han sido identificados como mejores pr&aacute;cticas a seguir. Por lo general, corresponde al representante de la direcci&oacute;n supervisar este proceso. El cuadro del recurso [resource](Example_Types_Energy_Management_Data) puede resultar &uacute;til para establecer su propio proceso de recopilaci&oacute;n de datos.</p>
+
+<p>En cuanto a la frecuencia de recolecci&oacute;n de datos, &eacute;sta depende de las necesidades y requisitos de su organizaci&oacute;n. La ventaja de contar con un proceso formal de recopilaci&oacute;n de datos es que garantiza que la reuni&oacute;n y el registro de los datos pertinentes se lleven a cabo con la frecuencia necesaria.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Ingresar los datos en una ubicaci&oacute;n centralizada)</p>
+
+<p>Una vez que ha reunido todos los datos ─tanto los que se relacionan con energ&iacute;a como los de otro tipo─ y asignado responsabilidades en cuanto a la administraci&oacute;n de los mismos, lo ideal es que esta colecci&oacute;n se ingrese a una ubicaci&oacute;n centralizada. (La norma ISO 50001 no requiere que sus datos se introduzcan o se registren en una ubicaci&oacute;n centralizada.) Se recomienda documentar los datos de todas sus fuentes de energ&iacute;a durante por lo menos 24 meses a fin de demostrar la mejora continua del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Learn More](<a name="_Hlk496529555">Herramienta Energy Footprint Tool</a>)</p>
+
+<p>Una pr&aacute;ctica id&oacute;nea consiste en utilizar la herramienta para la medici&oacute;n y seguimiento de la huella energ&eacute;tica [resource](Energy_Footprint_Tool) del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) a fin de ayudarse a organizar sus datos en materia energ&eacute;tica. Con una frecuencia mensual, la herramienta [resource](Energy_Footprint_Tool) le permite ingresar datos de energ&iacute;a para las siguientes variables por hasta diez a&ntilde;os:</p>
+
+<ul>
+	<li>Todas las fuentes de energ&iacute;a</li>
+	<li>Costos energ&eacute;ticos</li>
+	<li>&Iacute;ndices de producci&oacute;n</li>
+	<li>Horas de operaci&oacute;n</li>
+	<li>&Iacute;ndices de ocupaci&oacute;n en las edificaciones e instalaciones</li>
+	<li>Datos meteorol&oacute;gicos (Grados/d&iacute;a de calentamiento y enfriamiento, temperatura media)</li>
+	<li>Datos del equipo pesado</li>
+	<li>Datos de los submedidores</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Utilizaci&oacute;n del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite del DOE)</p>
+
+<p>La herramienta [resource](EnPI_Lite) del DOE es un recurso en l&iacute;nea que se basa en regresiones para poder estimar los ahorros energ&eacute;ticos relacionados con las variables relevantes, como los niveles de producci&oacute;n y el clima. El DOE desarroll&oacute; el EnPI Lite para utilizarse como herramienta complementaria al Navegador 50001 Ready, y se considera el enfoque recomendado para hacer seguimiento del consumo energ&eacute;tico y de la mejora del desempe&ntilde;o, como parte de su SGEn en el Navegador 50001 Ready. No obstante, tambi&eacute;n podr&iacute;a ser conveniente utilizar las herramientas existentes y los m&eacute;todos de seguimiento al tenor de la orientaci&oacute;n detallada en el Navegador 50001 Ready. Puede utilizar el EnPI Lite ingresando sus datos energ&eacute;ticos en una de estas tres formas:</p>
+
+<p><strong>1. Aportar datos de la Herramienta Huella Energ&eacute;tica del DOE</strong></p>
+
+<p>Si est&aacute; utilizando la herramienta [resource](EnPI_Lite), descargue la utilidad [resource](Energy_Footprint_Lite_Data_Uploader) para compilar en una hoja de c&aacute;lculo los datos del consumo energ&eacute;tico a fin de definir el alcance de su SGEn en el Navegador 50001 Ready. Adem&aacute;s de almacenar sus datos, la utilidad Footprint Lite<em> </em>para subir datos (<em>Footprint Lite Data Uploader</em>) convierte sus datos energ&eacute;ticos de unidades fuente (por ejemplo, kilowatt-hora [kWh]) en energ&iacute;a primaria. La energ&iacute;a fuente es la cantidad de energ&iacute;a que se suministra en su instalaci&oacute;n. La energ&iacute;a primaria considera las p&eacute;rdidas que la energ&iacute;a fuente experimenta durante su generaci&oacute;n, transmisi&oacute;n y distribuci&oacute;n. Para m&aacute;s detalles al respecto, cons&uacute;ltese el paso 4 del recurso [resource](Energy_Intensity_Baselining_And_Tracking_Guidance).</p>
+
+<p>En la tarea 9 ([task](Relevant Variables)) se le pedir&aacute; identificar las variables relevantes. La ficha &lsquo;Variables relevantes&rsquo; (<em>Relevant Variables</em>) que se encuentra dentro de la utilidad Footprint Lite para subir datos puede emplearse para compilar informaci&oacute;n de las variables relevantes ([task](Relevant Variables)). Los datos de las fichas &lsquo;Consumo energ&eacute;tico&rsquo; (<em>Energy Consumption</em>) y &lsquo;Variables relevantes&rsquo; se subir&aacute;n a la herramienta [resource](EnPI_Lite) a fin de calcular la mejora del desempe&ntilde;o energ&eacute;tico experimentada por su organizaci&oacute;n mediante la aplicaci&oacute;n recomendada del Departamento de Energ&iacute;a de Estados Unidos y que funciona a partir de un an&aacute;lisis regresivo. Si requiere una descripci&oacute;n pormenorizada del an&aacute;lisis de regresi&oacute;n, consulte la tarea 10. La herramienta [resource](EnPI_Lite) le permitir&aacute; descargar su archivo de la utilidad Footprint Lite Data Uploader, mismo que contiene tambi&eacute;n los resultados de su an&aacute;lisis energ&eacute;tico. Las instrucciones detalladas para utilizar el Footprint Lite Data Uploader se pueden encontrar en la p&aacute;gina de inicio de la herramienta [resource](EnPI_Lite).</p>
+
+<p>Al utilizar el indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite, se recomienda que ingrese los datos de 24 meses consecutivos, de manera que el mes n&uacute;mero 24 ocurra dentro de los &uacute;ltimos once meses. Por ejemplo, si rellena la herramienta [resource](EnPI_Lite) en diciembre de 2016, lo m&aacute;s que puede llegar a retroceder para establecer su punto de partida ser&iacute;a enero de 2014.</p>
+
+<p>A&ntilde;o de referencia: enero-diciembre 2014</p>
+
+<p>A&ntilde;o del informe: enero-diciembre 2015</p>
+
+<p>&nbsp;</p>
+
+<p>Para m&aacute;s orientaci&oacute;n en torno a los niveles de referencia, consulte la tarea [task](Baselines, Objectives and Targets). Esta orientaci&oacute;n le ayudar&aacute; a garantizar que sus c&aacute;lculos respecto a la mejora del desempe&ntilde;o energ&eacute;tico est&aacute;n en consonancia con sus acciones m&aacute;s recientes, esto con el fin de reducir el consumo de energ&iacute;a en su instalaci&oacute;n. Incluya en esta tarea todas las fuentes de energ&iacute;a que se identificaron. Consulte la documentaci&oacute;n para obtener orientaci&oacute;n sobre c&oacute;mo identificar y recopilar estos datos. En lo que respecta a los datos que se re&uacute;nen con m&aacute;s frecuencia que la mensual (por ejemplo, aquellos que se re&uacute;nen diariamente), haga una adici&oacute;n mensual de los datos antes de subirlos a la utilidad Footprint Lite Data Uploader.</p>
+
+<p><strong>2. Aportar datos de la</strong> <strong>Herramienta Huella Energ&eacute;tica del DOE</strong></p>
+
+<p>Tambi&eacute;n puede emplear los datos recopilados de la herramienta [resource](Energy_Footprint_Tool) del DOE, al completar la ficha &lsquo;Principal<em>&rsquo;</em> (<em>Main</em>), as&iacute; como la ficha &lsquo;Usos energ&eacute;ticos&rsquo; (<em>Energy Uses</em>), enlistando todas sus fuentes y usos de energ&iacute;a. Consulte los recursos [resource](Energy_Footprint_Tool_Guide) y [resource](Energy_Footprint_Tool_Video). Tenga en cuenta que la herramienta [resource](EnPI_Lite) no tiene la funci&oacute;n de remitir los resultados de su an&aacute;lisis de energ&iacute;a dentro de la Herramienta Huella Energ&eacute;tica (mientras que la utilidad Footprint Lite Data Uploader s&iacute; lo permite).</p>
+
+<p><strong>3. Aportar datos del Gestor de Cartera Energy Star de la EPA</strong></p>
+
+<p>Adem&aacute;s, puede utilizar los datos que compile del Gestor de Cartera Energy Star (<em>Portfolio Manager</em>, PM) de la Agencia de Protecci&oacute;n Ambiental (EPA) de Estados Unidos. Si va a partir de esta herramienta, necesitar&aacute; a&ntilde;adir informaci&oacute;n de las variables relevantes antes de ejecutar la herramienta [resource](EnPI_Lite). Para realizar lo anterior mediante la herramienta [resource](EnPI_Lite), siga las instrucciones disponibles en la p&aacute;gina de inicio del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite a fin de subir el archivo que resulte del PM a la herramienta [resource](EnPI_Lite). La herramienta [resource](EnPI_Lite) no aportar&aacute; un modelo v&aacute;lido puesto que no hay una lista de informaci&oacute;n de las variables relevantes en el PM; sin embargo, s&iacute; proporcionar&aacute; datos que se pueden descargar. Obt&eacute;ngalos a partir de la herramienta [resource](EnPI_Lite) e ingrese la informaci&oacute;n de sus variables relevantes en la ficha &lsquo;Variables relevantes&rsquo; que se encuentra en el archivo (consulte la tarea [task](Relevant Variables) a fin de obtener orientaci&oacute;n acerca de las variables relevantes).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>De acuerdo con un SGEn en conformidad con la norma ISO 50001:2011, todas las fuentes y usos de energ&iacute;a que se encuentran dentro de los alcances y l&iacute;mites definidos para el SGEn deben incluirse y registrarse en el diagn&oacute;stico energ&eacute;tico. Las organizaciones con sistemas de gesti&oacute;n ambiental (SGA) conforme a la norma ISO 14001:2015 quiz&aacute;s pueden identificar sus fuentes y usos energ&eacute;ticos con la informaci&oacute;n que posean en materia de aspectos ambientales. No obstante, incluso si su organizaci&oacute;n parte de su informaci&oacute;n sobre los aspectos ambientales, su equipo debe comprobar la amplitud de esa informaci&oacute;n con el prop&oacute;sito de garantizar que todos los usos y fuentes de energ&iacute;a se han identificado para fines del SGEn. Puesto que los procesos de medici&oacute;n, evaluaci&oacute;n y an&aacute;lisis de datos correspondientes a la norma ISO 50001:2011 requieren ser m&aacute;s exhaustivos que aquellos propios de la norma ISO 14001, se recomienda que el diagn&oacute;stico energ&eacute;tico se trabaje de manera independiente de la informaci&oacute;n relacionada con los aspectos ambientales.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Tanto el paso 2.1 como el ap&eacute;ndice 3 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) ofrecen orientaci&oacute;n en materia de recopilaci&oacute;n y seguimiento de datos. Los lineamientos y orientaci&oacute;n que se relacionan con esta parte del Navegador 50001 Ready proporcionan sugerencias, herramientas y detalles adicionales sobre cu&aacute;l es la mejor forma de reunir y seguir el curso de sus datos.</p>
+
+<p>Para aquellos usuarios del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite que ya tengan datos almacenados en el recurso [resource](Portfolio_Manager) Energy Star, pueden exportar estos datos a la herramienta [resource](EnPI_Lite) para estimar los ahorros de energ&iacute;a relacionados con variables relevantes, como los niveles de producci&oacute;n y el clima. Para obtener m&aacute;s instrucciones, visite el sitio web de la herramienta [resource](EnPI_Lite).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

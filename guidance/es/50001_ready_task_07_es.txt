@@ -1,0 +1,287 @@
+USDOE 50001 READY NAVIGATOR TASK 7
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Análisis de datos
+----------TITLE----------
+Tarea 7: Hemos analizado el consumo energético a escala del sistema o equipo
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice el recurso [resource](Energy_Use_Worksheet) como apoyo para elaborar una lista de los sistemas y equipos que utilizan energ&iacute;a, as&iacute; como de sus consumos y fuentes de energ&iacute;a correspondientes.</li>
+	<li>Complete las secciones &lsquo;Usos de energ&iacute;a&rsquo; (<em>Energy Uses</em>) y &lsquo;Consumos de energ&iacute;a&rsquo; (<em>Energy Consumption</em>) de la herramienta [resource](Energy_Footprint_Tool). Consulte las instrucciones en la p&aacute;gina electr&oacute;nica de la herramienta [resource](Energy_Footprint_Tool).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La norma ISO 50001 se basa en datos efectivos y se enfoca en la mejora medible del desempe&ntilde;o energ&eacute;tico, por lo que el an&aacute;lisis de datos es fundamental no s&oacute;lo para los procesos de planificaci&oacute;n energ&eacute;tica del sistema de gesti&oacute;n de energ&iacute;a (SGEn), sino tambi&eacute;n para garantizar la efectividad global del SGEn. Con el fin de analizar los datos del uso y consumo energ&eacute;ticos, ser&aacute; necesario que identifique o desarrolle m&eacute;todos efectivos que se adecuen de manera id&oacute;nea a las necesidades de su organizaci&oacute;n. Existen varias opciones disponibles para su consideraci&oacute;n.</p>
+
+<p>Los usos significativos de energ&iacute;a (USEn) se determinan como parte del proceso de diagn&oacute;stico energ&eacute;tico. Designar instalaciones, equipos, sistemas o procesos importantes, y a su personal operativo como &ldquo;significativos&rdquo;, permite a su organizaci&oacute;n dedicar los recursos limitados disponibles a la mejora y mantenimiento del desempe&ntilde;o energ&eacute;tico &oacute;ptimo. Lo anterior implica que su organizaci&oacute;n necesita desarrollar una metodolog&iacute;a confiable para evaluar los usos de energ&iacute;a y determinar su importancia. Un punto de partida excelente consiste en inventariar los usos energ&eacute;ticos y cuantificar sus consumos mediante una &ldquo;lista de equipos y sistemas&rdquo;, as&iacute; como desarrollar ─de manera potencial─ un balance energ&eacute;tico (opcional).</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>determinar el m&eacute;todo (o los m&eacute;todos) de an&aacute;lisis de datos y designar responsabilidades;</li>
+	<li>analizar los usos y consumos energ&eacute;ticos pasados y presentes, y</li>
+	<li>preparar una lista de los equipos y sistemas.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.4.3, 4.4.3 b) y 4.6.1 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determinar el m&eacute;todo (o los m&eacute;todos) de an&aacute;lisis de datos y designar responsabilidades)</p>
+
+<p>Su organizaci&oacute;n puede analizar y dar seguimiento a los usos y consumos energ&eacute;ticos de diferentes maneras, utilizando desde una simple hoja de c&aacute;lculo &ldquo;de su propia cosecha&rdquo;, hasta programas inform&aacute;ticos sofisticados y aplicaciones con soporte web. La herramienta [resource](Energy_Footprint_Tool) del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos proporciona un an&aacute;lisis b&aacute;sico de los datos energ&eacute;ticos de su edificaci&oacute;n o establecimiento.</p>
+
+<p>Es importante definir un m&eacute;todo de an&aacute;lisis de datos efectivo a fin de identificar las oportunidades de eficiencia energ&eacute;tica que conducen al ahorro de costos, as&iacute; como mostrar las &aacute;reas que son significativas y que merecen una mayor atenci&oacute;n. Este an&aacute;lisis puede ayudar a identificar errores de facturaci&oacute;n y costos ocultos en la estructura tarifaria del suministro de energ&iacute;a. Adem&aacute;s, resultar&aacute; de utilidad al representante de la direcci&oacute;n a la hora de comunicar la importancia de la gesti&oacute;n energ&eacute;tica a la alta direcci&oacute;n, y a fin de obtener los recursos necesarios para lograr el &eacute;xito del SGEn.</p>
+
+<p>Los m&eacute;todos de an&aacute;lisis de datos apropiados para su organizaci&oacute;n pueden depender de diversos factores:</p>
+
+<ul>
+	<li>Accesibilidad de los datos</li>
+	<li>Resultados deseados</li>
+	<li>Nivel de competencia disponible para el an&aacute;lisis de datos</li>
+	<li>Destinatarios</li>
+</ul>
+
+<p>&nbsp;[Learn More](Factores que repercuten en la elecci&oacute;n de los m&eacute;todos de an&aacute;lisis de datos)</p>
+
+<p><strong>Accesibilidad de los datos:</strong> La tarea [task](Data Collection) considera las necesidades de su SGEn en materia de datos, lo que se relaciona en gran parte con el diagn&oacute;stico energ&eacute;tico, los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn), los niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;) y las metas y objetivos energ&eacute;ticos. El campo de acci&oacute;n de la recopilaci&oacute;n de datos puede ser considerable y, en general, la posibilidad de recopilar dichos datos depende de la disponibilidad de medidores (cons&uacute;ltese la tarea [task](Data Collection)). Las instalaciones, equipos, sistemas y procesos de su organizaci&oacute;n pueden contar con varias fuentes de recopilaci&oacute;n de datos (por ejemplo, presi&oacute;n, temperatura, flujo, etc&eacute;tera). Sin embargo, si no se cuenta con medidores, puede que no sea posible recopilar los datos necesarios para determinar y evaluar la m&eacute;trica de desempe&ntilde;o deseada, sino hasta la instalaci&oacute;n de equipos de medici&oacute;n adicionales.</p>
+
+<p>Por ejemplo, si una caldera cuenta con un medidor independiente, los datos de consumo directos pueden recopilarse para evaluar el desempe&ntilde;o energ&eacute;tico. Si la medici&oacute;n del establecimiento es la &uacute;nica disponible, es posible que el desempe&ntilde;o de la caldera tenga que evaluarse con ayuda de un analizador port&aacute;til de gases de escape o de otros m&eacute;todos de medici&oacute;n.</p>
+
+<p><strong>Resultados deseados: </strong>&iquest;Cu&aacute;l es el resultado que desea obtener del an&aacute;lisis? Antes de determinar el m&eacute;todo de an&aacute;lisis a utilizarse, es necesario que comprenda de manera clara el objetivo del an&aacute;lisis de datos. El apartado &lsquo;Resumen de la tarea&rsquo; de esta tarea menciona varios usos que pueden darse a los datos, aunque es tambi&eacute;n posible que requiera los siguientes:</p>
+
+<ul>
+	<li>Determinar el nivel de desempe&ntilde;o</li>
+	<li>Monitorear las operaciones</li>
+	<li>Comparar con un punto de referencia o un equipo o sistema parecidos</li>
+	<li>Evaluar el resultado del mantenimiento o de las iniciativas de mejora</li>
+	<li>Comprobar las repercusiones de las variables relevantes</li>
+</ul>
+
+<p>Considere, al seleccionar un m&eacute;todo para el an&aacute;lisis de datos, el resultado que desea.</p>
+
+<p>Por ejemplo, es posible determinar los usos significativos de energ&iacute;a de manera simple (cons&uacute;ltense las tareas [task](Significant Energy Uses) y [task](Relevant Variables)), al enlistar en orden de consumo los usos de energ&iacute;a que identific&oacute; (cons&uacute;ltese la tarea [task](Data Collection)), y seleccionar uno o dos de los mayores consumidores. Por otro lado, determinar el d<em>esempe&ntilde;o energ&eacute;tico</em> de uno de los usos significativos puede requerir m&uacute;ltiples datos espec&iacute;ficos y c&aacute;lculos con referencia a tablas de desempe&ntilde;o. De modo similar, si requiere comprobar las repercusiones de las variables relevantes en un uso de energ&iacute;a significativo, es posible que necesite llevar a cabo un an&aacute;lisis estad&iacute;stico.</p>
+
+<p><strong>Nivel de competencia disponible para el an&aacute;lisis de datos</strong><strong>:</strong> El personal que lleva a cabo el an&aacute;lisis debe ser capaz de ejecutarlo y de evaluar los resultados que de &eacute;ste deriven. El personal con experiencia en an&aacute;lisis de datos puede utilizar una variedad de m&eacute;todos para analizar dichos datos. Por otra parte, el personal con menos experiencia podr&iacute;a &uacute;nicamente ser capaz de realizar an&aacute;lisis simples, mediante herramientas simples. En caso de que sea necesario un an&aacute;lisis m&aacute;s pormenorizado, el personal necesitar&aacute; herramientas sofisticadas que requieren de poca manipulaci&oacute;n o interpretaci&oacute;n. Su organizaci&oacute;n debe tener u obtener el nivel de competencia necesario para realizar el an&aacute;lisis de datos deseado.</p>
+
+<p><strong>Destinatarios: </strong>&iquest;Qui&eacute;n es el p&uacute;blico destinatario del an&aacute;lisis? Por lo general, la administraci&oacute;n se interesar&aacute; m&aacute;s en los datos financieros y en los efectos que tiene el SGEn en la l&iacute;nea de base del desempe&ntilde;o energ&eacute;tico. Los encargados de las operaciones tendr&aacute;n inter&eacute;s en garantizar que su equipo funciona al m&aacute;ximo rendimiento. El personal de mantenimiento utilizar&aacute; el desempe&ntilde;o como indicador para conocer si su equipo o sistemas requieren mantenimiento rutinario o reparaciones. El personal de ingenier&iacute;a querr&aacute; verificar si las mejoras realizadas a un proceso han obtenido los resultados esperados.</p>
+
+<p>Como ejemplo, suponga que se ha implementado un proyecto de mejora energ&eacute;tica en su organizaci&oacute;n. El departamento de ingenier&iacute;a buscar&aacute; realizar c&aacute;lculos para corroborar que, en efecto, se ahorraron aproximadamente 10,000 MMBtu de gas natural. La administraci&oacute;n solicitar&aacute; c&aacute;lculos para verificar el ahorro de costos iniciales previstos de $EU40,000, y que el ciclo de vida del costo y la rentabilidad de la inversi&oacute;n se ha conseguido.</p>
+
+<p>Muchos m&eacute;todos de an&aacute;lisis simples pueden resultar efectivos a fin de analizar los datos recopilados en el diagn&oacute;stico energ&eacute;tico y proporcionar los resultados deseados. Algunos de ellos se analizan m&aacute;s adelante.</p>
+
+<p>[Learn More End]</p>
+
+<p>Su organizaci&oacute;n es responsable de seleccionar uno o m&aacute;s m&eacute;todos de an&aacute;lisis de datos para efectos del SGEn y de mejorar el desempe&ntilde;o energ&eacute;tico. Ejemplos de m&eacute;todos frecuentes incluyen an&aacute;lisis tendencial, evaluaci&oacute;n comparativa, gr&aacute;ficos, tendencias, an&aacute;lisis de Pareto, balance energ&eacute;tico, balance t&eacute;rmico, an&aacute;lisis del suministro energ&eacute;tico, an&aacute;lisis financiero y an&aacute;lisis regresivo. Elija el m&eacute;todo o la combinaci&oacute;n de m&eacute;todos que satisfaga las metas espec&iacute;ficas de su organizaci&oacute;n, y considere que aprender de las experiencias de otras organizaciones durante este proceso probablemente sea la estrategia m&aacute;s efectiva. Si est&aacute; utilizando la herramienta [resource](EnPI_Lite), llevar&aacute; a cabo an&aacute;lisis regresivos de los datos a escala de su establecimiento (cons&uacute;ltese la tarea [task](Performance Indicators)).</p>
+
+<p>&nbsp;[Learn More](M&eacute;todos de an&aacute;lisis frecuentes)</p>
+
+<p><strong>An&aacute;lisis tendencial</strong><strong>:</strong> Este tipo de an&aacute;lisis consiste en tratar de identificar un patr&oacute;n en los datos. Si se puede establecer un patr&oacute;n, cualquier modificaci&oacute;n en el mismo podr&iacute;a indicar un cambio en el desempe&ntilde;o energ&eacute;tico que puede requerir investigaci&oacute;n.</p>
+
+<p>Por ejemplo, en general el consumo el&eacute;ctrico de una organizaci&oacute;n con calefacci&oacute;n de gas natural disminuir&aacute; en invierno debido a la ausencia de cargas de aire acondicionado. Una disminuci&oacute;n menor o la ausencia de &eacute;sta pueden indicar que alg&uacute;n equipo ha permanecido encendido o que necesita reparaci&oacute;n (o quiz&aacute;s un invierno muy caluroso).</p>
+
+<p><strong>Evaluaci&oacute;n comparativa:</strong> Una evaluaci&oacute;n comparativa es el proceso mediante el cual se comparan los datos del desempe&ntilde;o energ&eacute;tico con una norma, con el fin de evaluar el desempe&ntilde;o energ&eacute;tico actual. Algunos de estos modelos est&aacute;ndares pueden incluir:</p>
+
+<ul>
+	<li>Normas industriales</li>
+	<li>C&aacute;lculos te&oacute;ricos</li>
+	<li>Equipo similar</li>
+	<li>Procesos similares</li>
+	<li>Organizaciones hermanas</li>
+	<li>Organizaciones competidoras</li>
+	<li>Niveles de desempe&ntilde;o establecidos con anterioridad</li>
+</ul>
+
+<p><strong>Gr&aacute;ficos:</strong> Los gr&aacute;ficos proporcionan los datos en una presentaci&oacute;n que permite una evaluaci&oacute;n m&aacute;s sencilla, en comparaci&oacute;n con una gran cantidad de n&uacute;meros en una p&aacute;gina o tabla. Los gr&aacute;ficos facilitan la detecci&oacute;n de datos que no encajan en el patr&oacute;n de un an&aacute;lisis tendencial o que no concuerdan con un punto de referencia. Pueden resultar &uacute;tiles al identificar anomal&iacute;as o desviaciones significativas, mismas que requieren investigaci&oacute;n en apego a la norma ISO 50001 (cons&uacute;ltese la tarea [task](Corrective Actions)). Algunos tipos de gr&aacute;ficos incluyen:</p>
+
+<ul>
+	<li>Gr&aacute;fico lineal</li>
+	<li>Gr&aacute;fico de barras</li>
+	<li>Gr&aacute;fico de pastel</li>
+	<li>Gr&aacute;fico de dispersi&oacute;n</li>
+	<li>Gr&aacute;fico de serie cronol&oacute;gica</li>
+</ul>
+
+<p><strong>Clasificaci&oacute;n:</strong> Es el orden de los elementos que establece una relaci&oacute;n. La clasificaci&oacute;n consiste en un m&eacute;todo com&uacute;n para ordenar equipos, sistemas o procesos a fin de determinar los usos significativos de energ&iacute;a (cons&uacute;ltese la tarea [task](Significant Energy Uses)). Resulta &uacute;til para establecer las relaciones relativas entre los elementos, lo que permite aplicar los criterios apropiados para concentrarse en los ejes centrales.</p>
+
+<p><strong>An&aacute;lisis de Pareto:</strong> El an&aacute;lisis de Pareto es una forma de clasificaci&oacute;n que puede ayudar a identificar campos de inter&eacute;s. Tambi&eacute;n conocido como la <em>regla 80/20</em>, considera que 80 por ciento de los efectos provienen de 20 por ciento de las causas. En lo relativo al consumo energ&eacute;tico, por lo general, 80 por ciento de la energ&iacute;a que se suministra estar&aacute; asociada a 20 por ciento del equipo, procesos o sistemas. Si bien la tasa real puede variar de manera significativa de la relaci&oacute;n 80/20 dentro de un establecimiento u organizaci&oacute;n, en la mayor&iacute;a de los casos, gran parte del consumo energ&eacute;tico puede atribuirse a un n&uacute;mero reducido de equipo, procesos o sistemas. Un an&aacute;lisis de Pareto es &uacute;til al evaluar proyectos o de determinar usos significativos de energ&iacute;a, ya que puede facilitar el enfoque de recursos.</p>
+
+<p><strong>Balance energ&eacute;tico:</strong> Un balance energ&eacute;tico puede ayudar a dar cuenta del consumo energ&eacute;tico.</p>
+
+<p><strong>Balance t&eacute;rmico:</strong> El balance t&eacute;rmico es similar al energ&eacute;tico pero, por lo general, se enfoca en un equipo o sistema, e implica la comparaci&oacute;n entre el calor entrante y saliente de estos consumidores.</p>
+
+<p>Por ejemplo, la cantidad de calor que entra a un secador a trav&eacute;s de un quemador de gas debe ser igual a la suma entre el calor absorbido por el producto desecado, aquel emitido por las paredes del secador y aquel que escapa por la chimenea del secador. Un cambio en la temperatura de la chimenea puede indicar un cambio en el desempa&ntilde;o energ&eacute;tico (problemas de circulaci&oacute;n del aire, temperatura incorrecta del secador, cambio en el flujo del producto, cambio en la humedad o en la temperatura del producto u otra condici&oacute;n que ocasione que salga m&aacute;s o menos calor por la chimenea).</p>
+
+<p><strong>An&aacute;lisis del suministro energ&eacute;tico:</strong> Analizar las facturas de energ&iacute;a es importante a fin de comprender c&oacute;mo se mide y c&oacute;mo se determina el costo de la energ&iacute;a que se suministra a su organizaci&oacute;n. Asimismo, permite monitorear los cambios en el consumo y el costo, mediante los datos de las facturas. Realizar seguimiento de las facturas de cada una de las fuentes de energ&iacute;a de su organizaci&oacute;n permite identificar errores, comparar su desempe&ntilde;o energ&eacute;tico con el de otras organizaciones y evaluar los resultados de los proyectos de mejora energ&eacute;tica. La identificaci&oacute;n de errores resulta particularmente efectiva si su organizaci&oacute;n cuenta con submedidores que recopilan los datos de consumo, o si lleva a cabo de manera regular un balance energ&eacute;tico para verificar la cantidad de energ&iacute;a que recibe de cada fuente.</p>
+
+<p><strong>An&aacute;lisis financiero:</strong> Una de las razones principales para mejorar el desempe&ntilde;o energ&eacute;tico es reducir los costos. Monitorear los costos y evaluar las repercusiones en la l&iacute;nea de base energ&eacute;tica son funciones clave de la administraci&oacute;n, por lo que sus miembros requieren datos necesarios para llevar a cabo su evaluaci&oacute;n. Las necesidades en materia de datos pueden estar relacionadas con los costos operativos generales, o con la evaluaci&oacute;n de los cambios en su organizaci&oacute;n. Usualmente, la administraci&oacute;n solicita un an&aacute;lisis financiero, ya sea antes de un cambio (para evaluar c&oacute;mo proceder) o despu&eacute;s de uno (para evaluar su impacto y c&oacute;mo afecta a la econom&iacute;a de la organizaci&oacute;n). En algunos casos solicita ambos. Existen varios m&eacute;todos y herramientas financieros disponibles para poder ejecutar el an&aacute;lisis financiero necesario.</p>
+
+<p><strong>An&aacute;lisis regresivo:</strong> &Eacute;ste consiste en un an&aacute;lisis estad&iacute;stico que permite comprender la relaci&oacute;n entre una variable dependiente y una o m&aacute;s variables independientes. La variable dependiente est&aacute; sujeta a las variables independientes, y cambiar&aacute; en respuesta a una modificaci&oacute;n en estas &uacute;ltimas. El an&aacute;lisis regresivo puede utilizarse para predecir un consumo ─mismo que representa una variable dependiente─ con base en variables independientes tales como producci&oacute;n, clima, ocupaci&oacute;n u horas operativas. La regresi&oacute;n lineal es la m&aacute;s sencilla y utilizada, pero existen otros tipos de modelos de regresi&oacute;n.</p>
+
+<p>Por ejemplo, el consumo de gas natural de un sistema de calefacci&oacute;n de una edificaci&oacute;n (variable dependiente) incrementar&aacute; cuando la temperatura (variable independiente) disminuya, y disminuir&aacute; cuando la temperatura aumente.</p>
+
+<p>[Learn More End]</p>
+
+<p>En nuestros recursos se proporcionan ejemplos de dos estudios de caso de monitoreo energ&eacute;tico a fin de mostrar la variaci&oacute;n entre ambos m&eacute;todos. El primero, el recurso [resource](Case_Study_Large_Enterprise), ilustra el uso de diversas tablas y gr&aacute;ficos para realizar un an&aacute;lisis b&aacute;sico. El an&aacute;lisis incluye diferentes informes de un suministro energ&eacute;tico, convierte las diferentes fuentes de energ&iacute;a a una unidad com&uacute;n (Btu) e informa el consumo energ&eacute;tico combinado y los costos de un establecimiento. En el segundo, el recurso [resource](Case_Study_Small_Enterprise), s&oacute;lo existe una fuente de energ&iacute;a (electricidad), y se emplea una hoja de c&aacute;lculo sencilla para monitorear el consumo energ&eacute;tico y los costos.</p>
+
+<p>Una vez que haya determinado el m&eacute;todo de an&aacute;lisis a aplicar, asigne las diferentes responsabilidades en el proceso de an&aacute;lisis de datos. Algunas consideraciones a tomar en cuenta al asignar responsabilidades son:</p>
+
+<ul>
+	<li>Complejidad del an&aacute;lisis</li>
+	<li>Disponibilidad de recursos</li>
+	<li>Accesibilidad de los datos</li>
+	<li>Experiencia en el proceso o equipo que se analiza</li>
+	<li>Necesidad de obtener resultados</li>
+</ul>
+
+<p>[Learn More](Consideraciones para asignar las responsabilidades en cuanto al an&aacute;lisis de datos)</p>
+
+<p><strong>Complejidad del an&aacute;lisis:</strong> El tema de la competencia se discuti&oacute; con anterioridad; as&iacute; pues, las capacidades de an&aacute;lisis dentro de su organizaci&oacute;n pueden indicar el m&eacute;todo de an&aacute;lisis conveniente. Por otro lado, si es necesario adoptar un m&eacute;todo de an&aacute;lisis deseado a fin de obtener los resultados que se requieren para la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico, las personas responsables del an&aacute;lisis deben contar con las aptitudes necesarias para manejar dicho an&aacute;lisis, por complejo que sea.</p>
+
+<p>Por ejemplo, el consumo el&eacute;ctrico empleado para iluminar una oficina sin ventanas tendr&aacute; relaci&oacute;n directa con su ocupaci&oacute;n; esto puede demostrarse con una gr&aacute;fica simple, y es f&aacute;cil de comprender para el personal con capacitaci&oacute;n b&aacute;sica. Ahora bien, el consumo el&eacute;ctrico que emplea un sistema de aire acondicionado puede verse afectado por el clima, la &eacute;poca del a&ntilde;o, la hora del d&iacute;a y la ocupaci&oacute;n, y puede requerir t&eacute;cnicas estad&iacute;sticas complicadas para analizar la relaci&oacute;n entre el consumo y todos esos factores; adem&aacute;s, puede requerir una persona con mayor nivel de competencia en cuanto a t&eacute;cnicas estad&iacute;sticas.</p>
+
+<p><strong>Disponibilidad de recursos:</strong> Adem&aacute;s de ser competente, la persona que conduce el an&aacute;lisis puede requerir recursos tales como tiempo, datos y equipo apropiado para el examen, como calculadoras o computadoras.</p>
+
+<p><strong>Accesibilidad de los datos:</strong> El acceso a los datos puede incluir acceso f&iacute;sico al equipo para la recopilaci&oacute;n de datos, o acceso al personal responsable de esta recopilaci&oacute;n. Algunos datos pueden encontrarse en ubicaciones de dif&iacute;cil acceso, y pueden requerir equipos de asistencia, de protecci&oacute;n, u otros, para su recolecci&oacute;n. Con objeto de conducir un an&aacute;lisis consistente y regular, los datos deben estar disponibles de forma peri&oacute;dica.</p>
+
+<p><strong>Experiencia en el proceso o equipo que se analiza:</strong> Las personas que tienen experiencia en el proceso o equipo que se requiere analizar aportan conocimientos adicionales que pueden ser &uacute;tiles para aquellos responsables del an&aacute;lisis de datos. Las organizaciones pueden considerar formar equipos dedicados al an&aacute;lisis de datos que incluyan elementos con capacidad desarrollada en procesos y equipos, as&iacute; como con conocimientos sobre an&aacute;lisis.</p>
+
+<p><strong>Necesidad de obtener resultados:</strong> Cuando se requiere un an&aacute;lisis preciso para que alguien de su organizaci&oacute;n desempe&ntilde;e su trabajo, esa persona estar&aacute; interesada en garantizar que los datos sean fidedignos y el an&aacute;lisis correcto. Un elemento con intereses particulares resultar&aacute; un buen candidato para asignarle la responsabilidad del an&aacute;lisis de datos.</p>
+
+<p>&nbsp;[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Analizar usos y consumos energ&eacute;ticos pasados y presentes)</p>
+
+<p>Las necesidades en materia de datos se identificaron en la tarea [task](Data Collection), y el an&aacute;lisis de los usos y consumos energ&eacute;ticos pasados y presentes forma parte del diagn&oacute;stico energ&eacute;tico.</p>
+
+<p>El diagn&oacute;stico energ&eacute;tico requiere tanto la recopilaci&oacute;n de los datos relativos al consumo energ&eacute;tico como su an&aacute;lisis, a fin de:</p>
+
+<ul>
+	<li>Determinar los usos significativos de energ&iacute;a (USEn) (cons&uacute;ltense las tareas [task](Data Analysis) y [task](Significant Energy Uses))</li>
+	<li>Identificar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico (cons&uacute;ltese la tarea [task](Improvement Opportunities))</li>
+	<li>Desarrollar indicadores de desempe&ntilde;o energ&eacute;tico (IDEn) (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets))</li>
+	<li>Establecer niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;) (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets))</li>
+	<li>Fijar metas y objetivos energ&eacute;ticos (cons&uacute;ltese la tarea [task](Improvement Opportunities))</li>
+	<li>Monitorear el desempe&ntilde;o energ&eacute;tico</li>
+</ul>
+
+<p>Una vez que haya determinado los puntos anteriores, ser&aacute; necesario que contin&uacute;e regularmente con la recopilaci&oacute;n y actualizaci&oacute;n de los datos a fin de monitorear las condiciones en las que se encuentra el SGEn, de manera que pueda realizar cambios cuando sea necesario. Las modificaciones que realiza una organizaci&oacute;n en los procesos, equipos, ocupaci&oacute;n, proyectos de mejora, etc&eacute;tera, pueden a su vez requerir ajustes en los IDEn, niveles de referencia, USEn, objetivos y metas, u otros componentes de su SGEn. Contin&uacute;e recopilando datos a fin de evaluar cualquier ajuste conveniente para las m&eacute;tricas o el desempe&ntilde;o energ&eacute;ticos.</p>
+
+<p>[Learn More](Pr&aacute;cticas &oacute;ptimas para el an&aacute;lisis de datos)</p>
+
+<p>Los usos energ&eacute;ticos se identificaron en la tarea [task](Data Collection). Una pr&aacute;ctica &oacute;ptima recomendada consiste en mantener an&aacute;lisis constantes de datos relativos a los usos de energ&iacute;a, a fin de determinar si la delimitaci&oacute;n de los usos contin&uacute;a siendo relevante para el SGEn, e identificar oportunidades potenciales de mejora del desempe&ntilde;o energ&eacute;tico. Las cuestiones que se deben considerar durante el an&aacute;lisis incluyen:</p>
+
+<ul>
+	<li>&iquest;Los usos de energ&iacute;a se prestan a la recopilaci&oacute;n de datos?</li>
+	<li>&iquest;Son suficientes los datos recopilados para evaluar el uso de energ&iacute;a?</li>
+	<li>&iquest;Es necesaria la medici&oacute;n a fin de recopilar datos para evaluar los usos de energ&iacute;a?</li>
+	<li>&iquest;Puede evaluarse el desempe&ntilde;o energ&eacute;tico a partir de los usos de energ&iacute;a actuales?</li>
+	<li>&iquest;Es necesario realizar modificaciones en los usos de energ&iacute;a debido a cambios en la organizaci&oacute;n o de otro tipo?</li>
+	<li>&iquest;Los usos de energ&iacute;a comprenden todas las pr&aacute;cticas energ&eacute;ticas de su organizaci&oacute;n?</li>
+	<li>&iquest;Una fuente de energ&iacute;a diferente podr&iacute;a resultar en mejor eficiencia o utilizaci&oacute;n energ&eacute;ticas?</li>
+</ul>
+
+<p>Al principio, el an&aacute;lisis del consumo energ&eacute;tico consistir&aacute; en definir los grandes consumidores de energ&iacute;a y abordar los componentes del diagn&oacute;stico energ&eacute;tico y otras m&eacute;tricas, como se indica en la tarea [task](Data Collection). Contin&uacute;e con la recopilaci&oacute;n y an&aacute;lisis de datos relacionados con el consumo a fin de:</p>
+
+<ul>
+	<li>Evaluar resultados de proyectos de mejora</li>
+	<li>Garantizar la congruencia de las operaciones</li>
+	<li>Verificar la relevancia continua de los usos significativos de energ&iacute;a</li>
+	<li>Evaluar los efectos que producen las modificaciones o adiciones en los procesos</li>
+	<li>Identificar &aacute;reas que deben mejorarse</li>
+	<li>Evaluar el desempe&ntilde;o energ&eacute;tico</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Emplee los m&eacute;todos que elabor&oacute; en esta tarea a fin de analizar los datos y realizar cambios en el sistema para obtener mejoras continuas. Para obtener m&aacute;s informaci&oacute;n sobre el monitoreo y an&aacute;lisis del consumo energ&eacute;tico, consulte la tarea [task](Monitoring).</p>
+
+<p>La herramienta [resource](Energy_Footprint_Tool) del DOE, de la que se hace menci&oacute;n en las tareas [task](Energy Team), [task](Data Collection) y [task](Data Analysis), tambi&eacute;n puede ayudarle a ejecutar an&aacute;lisis fundamentales del uso y consumo energ&eacute;ticos presentes y pasados, incluidos los siguientes:</p>
+
+<ul>
+	<li>Calcular el consumo y los costos energ&eacute;ticos anuales de todas fuentes de combustible y para todos los a&ntilde;os de los que se cuenta con datos de energ&iacute;a.</li>
+	<li>Esquematizar por mes y a&ntilde;o el consumo de energ&iacute;a de los combustibles individuales y combinados.</li>
+	<li>Generar un balance energ&eacute;tico mediante un c&aacute;lculo de energ&iacute;a ascendente que considere los principales equipos, sistemas y procesos consumidores de energ&iacute;a para realizar una comparaci&oacute;n de arriba abajo del consumo de energ&iacute;a total de su establecimiento o edificaci&oacute;n. Esto puede llevarse a cabo a manera de antecedente, a fin de determinar sus usos significativos de energ&iacute;a. (Un an&aacute;lisis energ&eacute;tico ascendente [de abajo arriba] estima el consumo energ&eacute;tico seg&uacute;n los grandes usos energ&eacute;ticos de equipos, sistemas o procesos.)</li>
+</ul>
+
+<p>En nuestros recursos se brinda un ejemplo de las entradas y salidas de la herramienta [resource](Energy_Footprint_Tool), tanto para una edificaci&oacute;n comercial protot&iacute;pica como para un establecimiento industrial.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Preparar una lista de su equipo y sistemas)</p>
+
+<p>En la tarea [task](Data Collection), usted identific&oacute; sus usos energ&eacute;ticos y necesidades en materia de datos como primer paso para conocer los equipos, sistemas y procesos que consumen energ&iacute;a en su organizaci&oacute;n, as&iacute; como para identificar sus USEn. El proceso de recopilaci&oacute;n de datos relacionados con la energ&iacute;a establecido en la tarea [task](Data Collection) y el an&aacute;lisis del consumo energ&eacute;tico que se analiz&oacute; en esta tarea son tambi&eacute;n antecedentes para identificar los USEn.</p>
+
+<p>El siguiente paso consiste en desglosar los usos energ&eacute;ticos que identific&oacute;, y determinar cu&aacute;nta energ&iacute;a consumen. Para ello, re&uacute;na informaci&oacute;n pormenorizada de los sistemas que consumen energ&iacute;a y prepare una lista de su equipo. Despu&eacute;s, emplee la informaci&oacute;n relativa al consumo para iniciar el proceso de identificaci&oacute;n de los USEn. La consecuci&oacute;n de este objetivo exige las acciones siguientes:</p>
+
+<ul>
+	<li><strong>Obtener diagramas de flujo del proceso:</strong> Este tipo de diagramas son un buen punto de partida, ya que muestran los principales equipos de proceso en orden, y facilitan su identificaci&oacute;n. Los diagramas de flujo de proceso colaboran para que una organizaci&oacute;n comprenda y organice sus operaciones y sus sistemas de energ&iacute;a. En el siguiente recurso se proporciona un ejemplo: [resource](Example_Process_Flow_Diagram). <em>Nota</em>: Es posible que requiera una versi&oacute;n amplificada del diagrama a fin de completar las acciones que siguen.</li>
+	<li><strong>Obtener listas del equipo de la instalaci&oacute;n:</strong> Las listas del equipo con que cuenta la instalaci&oacute;n tambi&eacute;n podr&iacute;an ser necesarias, debido a que com&uacute;nmente incluyen sistemas que conforman la edificaci&oacute;n que no est&aacute;n incluidos en el diagrama de flujo del proceso. Algunos ejemplos de sistemas o equipos que puede emplear una instalaci&oacute;n incluyen:
+	<ul style="list-style-type:disc">
+		<li>Aire acondicionado</li>
+		<li>Ventiladores</li>
+		<li>Alumbrado</li>
+		<li>Calentadores de agua</li>
+		<li>Enfriadores</li>
+		<li>Torres de refrigeraci&oacute;n</li>
+		<li>Computadoras</li>
+		<li>Equipo de oficina</li>
+		<li>Elevadores</li>
+		<li>Aire comprimido</li>
+	</ul>
+	</li>
+</ul>
+
+<p>En los siguientes recursos se proporcionan ejemplos de listas de equipos para dos tipos de organizaciones: [resource](Example_Equipment_List_Small_Manufacturer) y [resource](Example_Equipment_List_Commercial_Building). Localice estos sistemas y equipos en el diagrama de flujo del proceso con la finalidad de obtener un panorama integral de los consumidores de energ&iacute;a de su organizaci&oacute;n. Tenga en cuenta que a veces no todos los equipos se pueden localizar en el diagrama; sin embargo, &eacute;ste representa como m&iacute;nimo los principales sistemas de alg&uacute;n modo.</p>
+
+<p>[Learn More](Pr&aacute;cticas &oacute;ptimas para el diagrama de flujo del proceso)</p>
+
+<ul>
+	<li><strong>Muestre tanto los flujos de energ&iacute;a primarios como secundarios en el diagrama de flujo del proceso: </strong>Incluya tambi&eacute;n las formas secundarias de energ&iacute;a, puesto que los sistemas de energ&iacute;a que las abastecen pueden ser de alto consumo energ&eacute;tico.<br />
+	Re&uacute;na los datos que recopil&oacute; en la tarea [task](Data Collection). Obtenga los datos de las placas t&eacute;cnicas, horas de funcionamiento, factores de trabajo y coeficientes de carga de los equipos y procesos asociados con los usos que document&oacute; en el recurso [resource](Energy_Use_Worksheet). Esta informaci&oacute;n resulta necesaria para determinar el consumo energ&eacute;tico de los distintos usos y elaborar un balance energ&eacute;tico. Asimismo, recoja cualquier medici&oacute;n que haya recolectado y registrado mediante los submedidores o el equipo port&aacute;til</li>
+	<li><strong>Localice los usos de energ&iacute;a que identific&oacute; en la tarea &lsquo;Recopilaci&oacute;n de datos&rsquo; en el diagrama de flujo y trace una l&iacute;nea alrededor del l&iacute;mite de cada uno:</strong> Utilizando los datos relativos al consumo que recopil&oacute; en la tarea [task](Data Collection), a&ntilde;ada el consumo promedio de todos los consumidores de energ&iacute;a que se encuentren dentro del l&iacute;mite del uso energ&eacute;tico, e indique el total en el diagrama de flujo o en una lista independiente. Examine todos los usos que identific&oacute;, as&iacute; como el consumo de energ&iacute;a asociado. H&aacute;gase las siguientes preguntas:
+	<ul style="list-style-type:circle">
+		<li>&iquest;Cuento con datos suficientes para todos los usos identificados?</li>
+		<li>&iquest;La lista de usos de energ&iacute;a y sus consumos asociados distribuyen el consumo de un modo razonable?</li>
+		<li>&iquest;El consumo de uno o de un n&uacute;mero reducido de consumidores de energ&iacute;a dentro de un uso energ&eacute;tico supera con holgura otros?</li>
+		<li>&iquest;Hay interacciones entre los usos energ&eacute;ticos que puedan requerir una revaluaci&oacute;n de los usos energ&eacute;ticos identificados?</li>
+		<li>&iquest;El conjunto de consumidores de energ&iacute;a dentro de cada uso se presta a la recopilaci&oacute;n de datos y la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico?</li>
+		<li>Con base en la disponibilidad de los medidores, &iquest;existe alguna otra manera de organizar los usos de energ&iacute;a que permita una determinaci&oacute;n m&aacute;s sencilla y realista del desempe&ntilde;o energ&eacute;tico?</li>
+		<li>&iquest;Tiene l&oacute;gica el conjunto de consumidores de energ&iacute;a dentro de cada uso energ&eacute;tico?</li>
+	</ul>
+	</li>
+</ul>
+
+<p>Esas preguntas le ayudar&aacute;n a evaluar la identificaci&oacute;n inicial de sus usos de energ&iacute;a. Puede ser necesario que reval&uacute;e y modifique la designaci&oacute;n original de sus usos de energ&iacute;a con base en los datos disponibles, as&iacute; como las interacciones de los equipos, sistemas o procesos. Los usos de energ&iacute;a deben elegirse de manera que consideren la mayor parte de las interacciones que puedan afectar el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p>&nbsp;[Learn More End]</p>
+
+<p>Los usos de energ&iacute;a identificados en la lista tambi&eacute;n pueden depender de la informaci&oacute;n con la que se cuenta para determinar la cantidad de energ&iacute;a que consumen, ya sea a trav&eacute;s de datos del medidor, de las placas t&eacute;cnicas o de los c&aacute;lculos de ingenier&iacute;a. Tome en cuenta que los usos energ&eacute;ticos pueden clasificarse ampliamente: desde un equipo hasta una edificaci&oacute;n entera; por lo que, si el consumo de energ&iacute;a es significativo, quiz&aacute;s sea conveniente inscribir algunos equipos de manera independiente. Una vez que se encuentre satisfecho con la lista de los equipos y sistemas, ejecute un balance energ&eacute;tico con objeto de verificar el consumo total de todos los balances de usos de energ&iacute;a con el consumo total de la instalaci&oacute;n. Este paso no es obligatorio; sin embargo, se le recomienda a fin de asegurar que ning&uacute;n componente significativo del consumo energ&eacute;tico se haya omitido o contado incorrectamente.</p>
+
+<ul>
+	<li><strong>Identifique al personal:</strong> Por &uacute;ltimo, identifique al personal cuyas actividades laborales puedan tener o tengan un impacto en los USEn, o cuyos deberes afecten de modo significativo c&oacute;mo se obtiene, utiliza o consume la energ&iacute;a en su organizaci&oacute;n. Esto puede ser particularmente efectivo para el personal responsable de las operaciones o mantenimiento de las instalaciones, equipos, sistemas o procesos identificados como USEn. A medida que se implemente el SGEn, este tipo de personal puede requerir capacitaci&oacute;n adicional, o puede ser necesario que cuente con competencias espec&iacute;ficas, a fin de garantizar que los controles operativos se ejecuten y que los objetivos del desempe&ntilde;o energ&eacute;tico se logren. Este recurso [resource](Example_Personnel_Associated_SEUs) puede hallarse en el enlace proporcionado.</li>
+</ul>
+
+<p>[Learn More](Desarrollo de un balance energ&eacute;tico)</p>
+
+<p>Un balance energ&eacute;tico es un enfoque seguro para garantizar de manera razonable que se han contabilizado todos los usos de energ&iacute;a de su organizaci&oacute;n. Relacione la energ&iacute;a total suministrada a su organizaci&oacute;n con equipos y sistemas espec&iacute;ficos (cons&uacute;ltese la tarea [task](Data Collection)); la cantidad de energ&iacute;a que consume su equipo y sistemas debe estar muy pr&oacute;xima al total de energ&iacute;a consumida por su organizaci&oacute;n. Obtener resultados similares (por lo general, cerca de 5 por ciento) indica que las estimaciones del consumo de los equipos y sistemas son correctas. Consulte el recurso [resource](Methodology_for_Conducting_Energy_Balance) para obtener una gu&iacute;a sobre c&oacute;mo ejecutar un balance energ&eacute;tico.</p>
+
+<p>El consumo energ&eacute;tico de equipos y sistemas espec&iacute;ficos puede determinarse a trav&eacute;s de los datos que ofrecen los medidores, aunque realizar los c&aacute;lculos utilizando informaci&oacute;n de otras fuentes ─como los datos de las placas t&eacute;cnicas de los equipos o de los medidores port&aacute;tiles (cons&uacute;ltese la tarea [task](Data Collection))─ permite una buena aproximaci&oacute;n. Con el tiempo, el consumo energ&eacute;tico puede mejorarse a trav&eacute;s de medidores o familiariz&aacute;ndose m&aacute;s con el funcionamiento de los sistemas de energ&iacute;a.</p>
+
+<p>La herramienta [resource](Energy_Footprint_Tool) del DOE elabora un balance energ&eacute;tico para edificaciones del sector comercial o instalaciones industriales. Este recurso ayuda al usuario a balancear la cantidad de energ&iacute;a calculada de la suma de los principales equipos, sistemas y procesos, en relaci&oacute;n con el total de energ&iacute;a de todas las fuentes de energ&iacute;a.</p>
+
+<p>Consulte el recurso [resource](Example_Energy_Balance), balance que elabor&oacute; la herramienta [resource](Energy_Footprint_Tool) para una planta peque&ntilde;a de procesamiento de alimentos. Este balance se determine mediante los recursos [resource](Example_Process_Flow_Diagram) y [resource](Example_Industrial_Plant_Equipment_List). Un diagrama de barras desarrollado para el consumo de energ&iacute;a que se calcul&oacute; muestra con claridad los mayores consumidores.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las organizaciones con un sistema de gesti&oacute;n ambiental conforme a la norma ISO 14001:2015 pueden contar, como parte de su informaci&oacute;n sobre aspectos ambientales, con datos que identifican sistemas y equipos que utilizan energ&iacute;a. Sin embargo, para los fines del SGEn, la amplitud de esa informaci&oacute;n podr&iacute;a no ser suficiente, por lo que el equipo de gesti&oacute;n energ&eacute;tica debe verificarla.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Como usuario del programa Energy Star, probablemente ya se encuentre en proceso de analizar los consumos pasados y presentes de su organizaci&oacute;n mediante herramientas como el Gestor de Cartera Energy Star. En los siguientes pasos se examinan algunas recomendaciones para llevar a cabo el an&aacute;lisis de los datos: &lsquo;Paso 2.1&rsquo;, &lsquo;Paso 2.2&rsquo;, &lsquo;Paso 2.3&rsquo; y &lsquo;Paso 2.4&rsquo; del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). La orientaci&oacute;n sobre el uso del Navegador 50001 Ready proporciona, en estos pasos, herramientas de an&aacute;lisis adicionales y recomendaciones para su consideraci&oacute;n.</p>
+
+<p>El recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) no ofrece orientaci&oacute;n sobre c&oacute;mo conservar una lista de los sistemas que utilizan energ&iacute;a. En cambio, se deja a criterio de cada organizaci&oacute;n determinar cu&aacute;l es el grado de detalle que se requiere al recopilar datos. La norma ISO 50001 exige que cada organizaci&oacute;n determine sus usos significativos de energ&iacute;a (USEn).</p>
+
+<p><em>Nota</em>: Los USEn pueden ser distintos que aquellas &aacute;reas, instalaciones o establecimientos y equipos que identifica el programa Energy Star.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

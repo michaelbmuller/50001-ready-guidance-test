@@ -1,0 +1,157 @@
+USDOE 50001 READY NAVIGATOR TASK 25
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Revisión gerencial
+----------TITLE----------
+Tarea 25: Con acuerdo al programa 50001 Ready, la alta dirección ha llevado a cabo revisiones periódicas del sistema de gestión energética y del desempeño energético de nuestra organización.
+----------GETTING IT DONE----------
+<ul>
+	<li>Defina los intervalos en los cuales la alta direcci&oacute;n revisar&aacute; el desempe&ntilde;o energ&eacute;tico y el SGEn.</li>
+	<li>Identifique qui&eacute;n debe participar en las revisiones gerenciales.</li>
+	<li>Recopile informaci&oacute;n y resultados para la revisi&oacute;n gerencial.</li>
+	<li>Lleve a cabo revisiones gerenciales que aborden toda la informaci&oacute;n de entrada y resultados requeridos.</li>
+	<li>Ponga en pr&aacute;ctica los resultados (decisiones y acciones) de las revisiones gerenciales.</li>
+	<li>Determine si el SGEn es conveniente, adecuado y eficaz.</li>
+	<li>Use el recurso [resource](Management_Review_Record_Form) para mantener un registro de las revisiones gerenciales.</li>
+	<li>Opcional: Complete el recurso [resource](50001_Ready_Self-Attestation_Form) para acreditar ante el Departamento de Energ&iacute;a de Estados Unidos que su organizaci&oacute;n ha instrumentado satisfactoriamente un SGEn conforme al programa 50001 Ready.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La direcci&oacute;n debe evaluar de manera peri&oacute;dica la conveniencia, adecuaci&oacute;n y eficacia del SGEn. Debido a que el objetivo de un SGEn en apego a la norma ISO 50001 es mejorar la gesti&oacute;n energ&eacute;tica y el desempe&ntilde;o energ&eacute;tico, esta revisi&oacute;n incluye los siguientes puntos:</p>
+
+<ul>
+	<li>analizar datos relacionados con el SGEn y el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n;</li>
+	<li>determinar si se est&aacute;n tomando las acciones apropiadas;</li>
+	<li>tomar decisiones sobre cambios necesarios y encontrar oportunidades de mejora.</li>
+</ul>
+
+<p>Esta revisi&oacute;n y evaluaci&oacute;n son responsabilidad de la alta direcci&oacute;n y se llevan a cabo como parte de una revisi&oacute;n gerencial. Un proceso de revisi&oacute;n gerencial eficaz garantiza que:</p>
+
+<ul>
+	<li>se recopile la informaci&oacute;n apropiada;</li>
+	<li>se presente la informaci&oacute;n de manera que resulte significativa para la direcci&oacute;n y conduzca a la toma de decisiones;</li>
+	<li>los altos mando tomen decisiones relacionadas con mejoras en el desempe&ntilde;o energ&eacute;tico y el SGEn, y</li>
+	<li>se instrumenten las acciones que tales las decisiones entra&ntilde;an.</li>
+</ul>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>planificar la revisi&oacute;n gerencial;</li>
+	<li>recopilar informaci&oacute;n;</li>
+	<li>preparar informaci&oacute;n para la presentaci&oacute;n;</li>
+	<li>llevar a cabo la revisi&oacute;n gerencial, y</li>
+	<li>mantener los registros.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.7, 4.7.1, 4.7.2 y 4.7.3 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Planificar la revisi&oacute;n gerencial)</p>
+
+<p><strong>Frecuencia.</strong> Las revisiones gerenciales deben realizarse en intervalos planificados; sin embargo, la frecuencia depende de su organizaci&oacute;n. Cuando hay cambios en la situaci&oacute;n energ&eacute;tica de su organizaci&oacute;n, o un gran n&uacute;mero de planes de acci&oacute;n o proyectos de inversi&oacute;n en marcha relacionados con el SGEn, entonces se podr&aacute;n necesitar revisiones gerenciales adicionales. Las revisiones gerenciales con mayor frecuencia permiten responder de manera m&aacute;s r&aacute;pida a los problemas y oportunidades que se presenten, mientras que una revisi&oacute;n anual permitir&aacute; tener un referente cada a&ntilde;o. No hay una frecuencia prescrita o requerida, siempre y cuando la revisi&oacute;n sea eficaz. La revisi&oacute;n gerencial tampoco tiene que realizarse como un proceso o evento &uacute;nico; &eacute;sta puede estar formada por una serie de revisiones parciales. Sin embargo, las revisiones parciales deben dar como resultado una revisi&oacute;n completa de todo el SGEn durante un periodo espec&iacute;fico. Doce meses es un periodo habitual dentro del cual se revisa todo el sistema gerencial.</p>
+
+<p><strong>Medios.</strong> Los medios para realizar una revisi&oacute;n gerencial son determinados por la organizaci&oacute;n y deben basarse en sus necesidades. Por ejemplo, las revisiones gerenciales podr&aacute;n realizarse en una reuni&oacute;n presencial o mediante teleconferencias, intercambios de correos electr&oacute;nicos, reuniones electr&oacute;nicas u otras formas de revisi&oacute;n electr&oacute;nica. Es importante que la informaci&oacute;n clave sea comunicada a la alta direcci&oacute;n para que pueda utilizarse en la toma de decisiones y para determinar las acciones necesarias que conduzcan a garantizar la mejora continua del desempe&ntilde;o energ&eacute;tico y el SGEn.</p>
+
+<p><strong>Participantes.</strong> Como m&iacute;nimo, la alta direcci&oacute;n y el representante de la direcci&oacute;n de su organizaci&oacute;n deben participar en la revisi&oacute;n gerencial. Se puede invitar a otras personas con base en:</p>
+
+<ul>
+	<li>qui&eacute;n requiere informaci&oacute;n;</li>
+	<li>qui&eacute;n puede tomar medidas, y</li>
+	<li>qui&eacute;n puede proporcionar los recursos necesarios para alguna de las acciones necesarias.</li>
+</ul>
+
+<p>Una buena pr&aacute;ctica a considerar es que algunas organizaciones definen el qu&oacute;rum requerido para llevar a cabo una revisi&oacute;n gerencial, o bien, especifican una asistencia m&iacute;nima mediante ciertos puestos o funciones. Si no se puede obtener el qu&oacute;rum m&iacute;nimo o los puestos requeridos no est&aacute;n representados, se vuelve a programar la revisi&oacute;n o se realiza por medio de un mecanismo alterno.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recopilar informaci&oacute;n)</p>
+
+<p>La revisi&oacute;n gerencial involucra la toma de decisiones objetivas relacionadas con la mejora continua del SGEn y el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Estas decisiones se toman tras el an&aacute;lisis de informaci&oacute;n espec&iacute;fica (&ldquo;informaci&oacute;n de entrada&rdquo;) acerca del sistema y su desempe&ntilde;o.</p>
+
+<p><strong>Responsabilidad.</strong> El representante de la direcci&oacute;n es responsable de informar a los altos mandos sobre el desempe&ntilde;o del SGEn, y de &eacute;l depende garantizar que se obtenga la informaci&oacute;n necesaria para revisi&oacute;n por parte de la direcci&oacute;n. El representante de la direcci&oacute;n puede requerir del equipo de gesti&oacute;n energ&eacute;tica u otros individuos que tengan una responsabilidad asignada los datos o informaci&oacute;n que considere pertinentes para la revisi&oacute;n gerencial. Se puede usar el recurso [resource](Management_Review_Data_Assignment_Sheet) para este fin. Aseg&uacute;rese de que el personal est&eacute; consciente de que son responsables de proporcionar la informaci&oacute;n en el formato especificado por el representante de la direcci&oacute;n, y que est&eacute;n de acuerdo en proporcionarla en la fecha de vencimiento o antes.</p>
+
+<p><strong>Informaci&oacute;n que se debe recopilar.</strong> El alcance de la revisi&oacute;n gerencial a realizar (es decir, si &eacute;sta es completa o parcial) establecer&aacute; los datos y dem&aacute;s informaci&oacute;n que se recopilar&aacute;. Durante cada revisi&oacute;n gerencial se examinan los resultados de la revisi&oacute;n gerencial anterior y las actividades desde entonces realizadas.</p>
+
+<p>Una forma de determinar la informaci&oacute;n necesaria es iniciar teniendo en cuenta el resultado final. Esto significa considerar todos los tipos de decisiones y acciones que se pueden dar como resultado de la revisi&oacute;n gerencial. Los temas habituales a tratar incluyen los siguientes:</p>
+
+<ul>
+	<li>&iquest;Cu&aacute;l es el estado del SGEn? &iquest;C&oacute;mo se est&aacute; desempe&ntilde;ando?</li>
+	<li>&iquest;Cu&aacute;les cambios o modificaciones estrat&eacute;gicas (por ejemplo, un cambio en la pol&iacute;tica) se necesitan, si fuera el caso?</li>
+	<li>&iquest;Cu&aacute;les cambios se necesitan en t&eacute;rminos de desempe&ntilde;o energ&eacute;tico?</li>
+	<li>&iquest;Proporcionan las medidas actuales (por ejemplo, IDEn) la informaci&oacute;n correcta?</li>
+	<li>&iquest;Hay una necesidad por cambiar, agregar o suprimir alg&uacute;n objetivo o meta de mejora actual?</li>
+	<li>&iquest;Qu&eacute; recursos se necesitan para el SGEn?</li>
+	<li>&iquest;Es el SGEn conveniente, eficaz y logra una mejora continua para la organizaci&oacute;n?</li>
+</ul>
+
+<p>Una vez que se tenga claridad respecto de los temas y tipos de decisiones importantes que es preciso instrumentar, revise la informaci&oacute;n generada por el sistema y determine los datos que ayudar&aacute;n a la direcci&oacute;n a abordar estas decisiones y acciones. En otras palabras, la informaci&oacute;n que se necesita para la revisi&oacute;n gerencial es generada por los mismos sistemas y procesos del SGEn.</p>
+
+<p>La norma ISO 50001 requiere que se revise la siguiente informaci&oacute;n de entrada como m&iacute;nimo:</p>
+
+<ul>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Objetivos energ&eacute;ticos, metas energ&eacute;ticas, planes de acci&oacute;n de gesti&oacute;n energ&eacute;tica y su estado</li>
+	<li>IDEn y datos del desempe&ntilde;o energ&eacute;tico pasados, actuales y proyectados, incluidos los usos significativos de la energ&iacute;a</li>
+	<li>Resultados de las evaluaciones de cumplimiento con requisitos legales</li>
+	<li>Resultados de las evaluaciones de cumplimiento con otros requisitos en materia de energ&iacute;a suscritos</li>
+	<li>Cambios en los requisitos legales u otros requisitos en materia de energ&iacute;a suscritos</li>
+	<li>Resultados de la auditor&iacute;a del SGEn</li>
+	<li>Estado de las acciones correctivas y preventivas</li>
+	<li>Recomendaciones y oportunidades de mejora</li>
+	<li>Actividades de revisiones gerenciales previas</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Preparar la informaci&oacute;n para la presentaci&oacute;n)</p>
+
+<p>En general, el personal responsable debe proporcionar al representante de la direcci&oacute;n los datos e informaci&oacute;n originales detallados, junto con un resumen que sea conciso y, de ser posible, incluya representaciones gr&aacute;ficas. Esto facilita a la direcci&oacute;n la revisi&oacute;n y comprensi&oacute;n de la informaci&oacute;n. La informaci&oacute;n debe brindar un panorama amplio, pero tambi&eacute;n lo suficientemente detallado como para permitir a la direcci&oacute;n tomar decisiones objetivas (v&eacute;ase el recurso [resource](Example_Management_Review_Presentation)). Se recomienda que el representante de la direcci&oacute;n tenga disponibles los datos originales detallados a manera de respaldo, en caso de que los necesite para responder preguntas durante la revisi&oacute;n gerencial (v&eacute;ase el recurso [resource](Example_Management_Review_Preparation_Information)).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Realizar una revisi&oacute;n gerencial)</p>
+
+<p>La revisi&oacute;n gerencial corresponde al elemento &lsquo;actuar&rsquo; del ciclo de mejora continua PHVA (Planificar-Hacer-Verificar-Actuar) (v&eacute;ase el recurso ([resource](PDCA_Components_ISO_50001)). Es una responsabilidad clave de la alta direcci&oacute;n y se dise&ntilde;&oacute; para ser una actividad din&aacute;mica dirigida no s&oacute;lo a la propia revisi&oacute;n, sino a la acci&oacute;n. Recuerde que el prop&oacute;sito de la revisi&oacute;n gerencial es garantizar la conveniencia, adecuaci&oacute;n y eficacia continuas del SGEn en t&eacute;rminos de cumplimiento con los requisitos y generaci&oacute;n de los resultados anticipados. Con base en su revisi&oacute;n del estado del SGEn y el desempe&ntilde;o energ&eacute;tico resultante, la alta direcci&oacute;n decide cu&aacute;l es la acci&oacute;n necesaria para la mejora continua del SGEn y el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
+
+<p>La revisi&oacute;n gerencial consiste en:</p>
+
+<ul>
+	<li>analizar datos relacionados con el SGEn y el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>determinar si se est&aacute;n tomando las acciones apropiadas;</li>
+	<li>tomar decisiones sobre cambios necesarios y encontrar oportunidades de mejora.</li>
+</ul>
+
+<p>La norma ISO 50001 requiere que los resultados m&iacute;nimos de la revisi&oacute;n gerencial sean decisiones y acciones relacionadas con cambios en los siguientes elementos del SGEn:</p>
+
+<ul>
+	<li>Desempe&ntilde;o energ&eacute;tico</li>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>IDEn</li>
+	<li>Objetivos energ&eacute;ticos</li>
+	<li>Metas energ&eacute;ticas</li>
+	<li>Recursos</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mantener los registros)</p>
+
+<p>Es preciso mantener registro de las revisiones gerenciales. Si bien el formato para ello no est&aacute; prescrito, es importante que el registro identifique lo siguiente:</p>
+
+<ul>
+	<li>Fecha de la revisi&oacute;n gerencial</li>
+	<li>Nombres y puestos de los participantes</li>
+	<li>Asuntos cubiertos e informaci&oacute;n presentada</li>
+	<li>Cualquier decisi&oacute;n o acci&oacute;n tomada</li>
+	<li>Cualquier asignaci&oacute;n hecha durante la reuni&oacute;n</li>
+</ul>
+
+<p>Se recomienda usar los recursos [resource](Management_Review_Record_Form) y [resource](50001_Ready_Self-Attestation_Form) (completarlos) como registros de la revisi&oacute;n gerencial.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>El proceso de revisi&oacute;n gerencial instrumentado para las normas ISO 9001:2015 o ISO 14001:2015 se puede usar tambi&eacute;n para la norma ISO 50001:2011, ya sea como un proceso independiente o como uno integrado. En los tres sistemas de gesti&oacute;n, la alta direcci&oacute;n lleva a cabo, como m&iacute;nimo, la revisi&oacute;n para garantizar la conveniencia, adecuaci&oacute;n y eficacia continuas del sistema mismo. La informaci&oacute;n requerida (&ldquo;informaci&oacute;n de entrada&rdquo;) se obtiene, recopila y prepara para la revisi&oacute;n, aunque existen algunas diferencias entre estas normas en t&eacute;rminos de la informaci&oacute;n precisa necesaria. Los procesos de obtenci&oacute;n y preparaci&oacute;n de la informaci&oacute;n pueden ser los mismos en los tres casos, aunque estar&aacute; involucrado personal diferente, dependiendo del sistema de gesti&oacute;n en cuesti&oacute;n. El hecho de que los resultados de la revisi&oacute;n gerencial sean decisiones y acciones es algo que los tres sistemas tienen en com&uacute;n, aunque habr&aacute; algunas diferencias en los temas tratados en esas decisiones y acciones.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Estos lineamientos y orientaci&oacute;n aplican a los pasos 5.2, 5.5, 6.0, 6.1 y 6.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Una revisi&oacute;n gerencial tiene una estructura formal que requiere que la alta direcci&oacute;n garantice la conveniencia, adecuaci&oacute;n y eficacia del SGEn y la mejora continua en el desempe&ntilde;o energ&eacute;tico. El proceso de revisi&oacute;n gerencial del SGEn puede sacar provecho de las estrategias del programa Energy Star para obtener el respaldo de la direcci&oacute;n (paso 5.2 de los lineamientos del programa Energy Star), llevar a cabo revisiones peri&oacute;dicas (paso 5.5 de los lineamientos del programa Energy Star), identificar y llevar a cabo acciones correctivas a partir de las revisiones (paso 5.5 de los lineamientos del programa Energy Star) y evaluar el progreso y resultados a partir de las revisiones formales (paso 6.0 de los lineamientos del programa Energy Star).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

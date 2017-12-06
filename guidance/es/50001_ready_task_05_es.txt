@@ -1,0 +1,164 @@
+USDOE 50001 READY NAVIGATOR TASK 5
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Requisitos legales
+----------TITLE----------
+Tarea 5: Hemos identificado requisitos legales en materia energética aplicables a nuestras operaciones, tenemos un proceso para evaluarlos y actualizarlos en el tiempo, así como para evaluar su cumplimiento
+----------GETTING IT DONE----------
+<ul>
+	<li>Identifique y documente todos los requisitos legales y de otro tipo aplicables en materia energ&eacute;tica en el recurso [resource](Legal_Other_Requirements_Tracking_Matrix).</li>
+	<li>Asigne responsabilidades y establezca una frecuencia para la revisi&oacute;n y actualizaci&oacute;n de la matriz concluida.</li>
+	<li>Establezca un proceso para evaluar de manera peri&oacute;dica el cumplimiento de todos los requisitos. Use el recurso [resource](Compliance_Evaluation_Checklist) para llevar a cabo evaluaciones del cumplimiento y registrar los resultados de su organizaci&oacute;n.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La norma ISO 50001 reconoce que las obligaciones en materia energ&eacute;tica, tanto legales como voluntarias, son un componente importante de un enfoque exhaustivo y sistem&aacute;tico para la gesti&oacute;n energ&eacute;tica. Los requisitos de planificaci&oacute;n del SGEn incluyen recabar informaci&oacute;n sobre los requisitos legales y de otro tipo aplicables al uso, consumo y eficacia energ&eacute;tica de su organizaci&oacute;n. Debe haber procesos en operaci&oacute;n para identificar, evaluar y tener acceso a esos requisitos, as&iacute; como para mantenerse actualizado con respecto a &eacute;stos.</p>
+
+<p>La identificaci&oacute;n y acceso a los requisitos legales y de otro tipo es el primer paso en el proceso de planificaci&oacute;n energ&eacute;tica para conocer la informaci&oacute;n energ&eacute;tica que exigen estos requisitos y que puede incluirse en la revisi&oacute;n energ&eacute;tica. Los requisitos legales son aquellos que forman parte de la ley o bien son impuestos por una entidad gubernamental u oficina de regulaci&oacute;n. Es necesario que tenga usted un panorama completo de los requisitos legales de su organizaci&oacute;n en materia energ&eacute;tica, de manera que pueda mantenerse un cumplimiento continuo de esos requisitos.</p>
+
+<p>Adem&aacute;s de los requisitos legales, hay una gama de &ldquo;otros requisitos&rdquo; en materia energ&eacute;tica a los que una organizaci&oacute;n pudiera estar sujeta (por ejemplo, un mandato corporativo en materia energ&eacute;tica) o con los que pudiera comprometerse voluntariamente (por ejemplo, el programa Desempe&ntilde;o Energ&eacute;tico Superior [<em>Superior Energy Performance</em>, SEP] del Departamento de Energ&iacute;a [<em>Department of Energy</em>, DOE] o el sistema de an&aacute;lisis comparativo y calificaci&oacute;n de la eficiencia energ&eacute;tica [Energy Star] de la Agencia de Protecci&oacute;n Ambiental [<em>Environmental Protection Agency</em>, EPA] de Estados Unidos). Los procesos de la organizaci&oacute;n para identificar, evaluar, anticipar y tener acceso a los requisitos legales aplicables tambi&eacute;n deben abordar estos &ldquo;otros requisitos&rdquo;.</p>
+
+<p>El personal encargado de identificar y tener acceso a los diversos requisitos legales y de otro tipo en materia energ&eacute;tica es tambi&eacute;n, por lo general, responsable de evaluar y actualizar esos requisitos. Tener funciones, responsabilidades y facultades claramente definidas es fundamental para mantener el cumplimiento.</p>
+
+<p>Necesita evaluar de forma sistem&aacute;tica el cumplimiento de su organizaci&oacute;n con los requisitos legales y de otro tipo aplicables al uso, consumo y eficacia energ&eacute;tica. El prop&oacute;sito de evaluar el cumplimiento es garantizar que su organizaci&oacute;n cumple con esos requisitos y, en caso de que no se cumplan o que exista la posibilidad de no cumplirlos, adoptar la acci&oacute;n apropiada.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>identificar y tener acceso a los requisitos legales aplicables;</li>
+	<li>identificar y tener acceso a otros requisitos energ&eacute;ticos;</li>
+	<li>establecer un proceso para evaluar y actualizar los requisitos;</li>
+	<li>establecer un programa y asignar responsabilidades;</li>
+	<li>llevar a cabo evaluaciones del cumplimiento, y</li>
+	<li>garantizar que se mantengan los registros de los resultados.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.4.2 y 4.6.2 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar y tener acceso a los requisitos legales aplicables)</p>
+
+<p>Esta actividad incluye la identificaci&oacute;n y el acceso a los requisitos legales federales, estatales y locales aplicables al uso, consumo y eficacia energ&eacute;tica de su organizaci&oacute;n. En la mayor&iacute;a de las organizaciones, este proceso ya existe en el caso de requisitos legales y reglamentarios ambientales. Adicionalmente, tenga en mente que diversas normas ambientales, en particular algunas que regulan emisiones atmosf&eacute;ricas, son importantes tanto para los efectos ambientales como para los usos energ&eacute;ticos de la organizaci&oacute;n.</p>
+
+<p>[Learn More](Ejemplos)</p>
+
+<ul>
+	<li>Una autorizaci&oacute;n reglamentaria ambiental puede imponer un control que consuma energ&iacute;a, pero que no est&eacute; en operaci&oacute;n continua (por ejemplo, una bomba de desag&uuml;e para descarga de aguas pluviales).</li>
+	<li>Una autorizaci&oacute;n reglamentaria ambiental puede especificar un uso energ&eacute;tico (por ejemplo, la operaci&oacute;n de un cicl&oacute;n conforme a un permiso sobre el aire).</li>
+	<li>Un permiso reglamentario sobre el aire puede imponer que la instalaci&oacute;n queme s&oacute;lo cierto tipo de combustible.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Los requisitos legales adicionales que pudieran aplicar al uso y consumo energ&eacute;tico de su organizaci&oacute;n incluyen reglamentos locales, leyes o reglamentos de uso de suelo o requisitos de los servicios. Los c&oacute;digos de construcci&oacute;n pueden incluir requisitos de eficiencia energ&eacute;tica para instalaciones nuevas, modificadas o renovadas. El recurso [resource](Example_Legal_Other_Requirements_Related_Energy) incluye diversos ejemplos de requisitos.</p>
+
+<p>Para comenzar, recabe informaci&oacute;n que responda las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Cu&aacute;l es el proceso en su organizaci&oacute;n para identificar los requisitos legales aplicables en materia de usos energ&eacute;ticos?</li>
+	<li>&iquest;Qui&eacute;n en su organizaci&oacute;n cuenta con informaci&oacute;n sobre los requisitos legales y reglamentarios en materia de usos energ&eacute;ticos aplicables?</li>
+	<li>&iquest;C&oacute;mo se mantiene esta informaci&oacute;n? &iquest;Hay una lista de estos requisitos legales y reglamentarios aplicables?</li>
+	<li>&iquest;Qui&eacute;n es responsable de garantizar el acceso a las leyes y reglamentos aplicables y sus requisitos? &iquest;C&oacute;mo se lleva a cabo esto?</li>
+	<li>&iquest;Qui&eacute;n es responsable de mantener al d&iacute;a esta informaci&oacute;n?</li>
+</ul>
+
+<p>Una vez obtenidas las respuestas a estas preguntas, por lo general el equipo de gesti&oacute;n energ&eacute;tica se coordina con el personal de gesti&oacute;n ambiental y la alta direcci&oacute;n para evaluar el proceso en curso y realizar los cambios necesarios, y entonces asignar responsabilidades para identificar, evaluar y actualizar esos requisitos legales. El personal de gesti&oacute;n ambiental puede seguir manejando el proceso para los requisitos legales ambientales que tambi&eacute;n apliquen a los usos energ&eacute;ticos, mientras que el representante de la direcci&oacute;n puede manejar requisitos legales espec&iacute;ficos relacionados s&oacute;lo con la energ&iacute;a.</p>
+
+<p>Se puede usar el recurso [resource](Legal_Other_Requirements_Tracking_Matrix) para documentar los requisitos legales y de otro tipo aplicables, as&iacute; como otra informaci&oacute;n pertinente.</p>
+
+<p>En el caso de organizaciones que no cuentan con un proceso ni responsabilidades asignadas para identificar, evaluar y actualizar los requisitos legales aplicables, el punto de partida para esta actividad es otro. En primer lugar, encargue estas actividades a personal espec&iacute;fico. En algunos casos, la organizaci&oacute;n pudiera decidir contratar personal externo para llevar a cabo esta parte del SGEn.</p>
+
+<p>[Learn More](Recursos para ayudar a identificar los requisitos legales aplicables)</p>
+
+<p>Existen diversos recursos para ayudar a una organizaci&oacute;n a identificar los requisitos legales aplicables en materia de usos energ&eacute;ticos. &Eacute;stos incluyen los siguientes:</p>
+
+<ul>
+	<li>Servicios comerciales de actualizaci&oacute;n legal y reglamentaria</li>
+	<li>Sitios en internet de dependencias reguladoras federales, estatales y locales</li>
+	<li>C&oacute;digo de Reglamentos Federales (<em>Code of Federal Regulations</em>, CFR), de Estados Unidos</li>
+	<li>Boletines electr&oacute;nicos</li>
+	<li>Publicaciones especializadas en comercio</li>
+	<li>Asociaciones de comerciantes</li>
+	<li>Cursos de capacitaci&oacute;n y seminarios informativos</li>
+	<li>Red de relaciones con dependencias locales y funcionarios</li>
+	<li>Abogados y consultores</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Aseg&uacute;rese de que los requisitos legales aplicables sean f&aacute;cilmente accesibles. Dependiendo de la fuente del requisito legal, se puede tener acceso a trav&eacute;s de sitios en internet gubernamentales u otros sitios, bases de datos comerciales o gubernamentales y suscripciones a publicaciones en papel o electr&oacute;nicas, entre otros.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar y tener acceso a otros requisitos)</p>
+
+<p>El proceso b&aacute;sico para identificar y tener acceso a programas voluntarios u otros requisitos en materia energ&eacute;tica suscritos por su organizaci&oacute;n es casi el mismo que para los requisitos legales. Se asignan las funciones, responsabilidades y facultades, y se determinan las fuentes para tener acceso al texto de los requisitos aplicables. Se mantiene accesible la informaci&oacute;n sobre los compromisos voluntarios y &ldquo;otros requisitos&rdquo; aplicable a los usos energ&eacute;ticos de su organizaci&oacute;n. Con frecuencia, esta informaci&oacute;n est&aacute; incluida en la lista (o base de datos u otra compilaci&oacute;n) de requisitos legales aplicables como un apartado separado o codificado como un requisito voluntario o sin obligatoriedad legal. Se recomienda usar el recurso [resource](Legal_Other_Requirements_Tracking_Matrix) para documentar otros requisitos aplicables y la informaci&oacute;n asociada.</p>
+
+<p>[Learn More](Ejemplos de compromisos y otros requisitos voluntarios)</p>
+
+<p>Los ejemplos de compromisos y otros requisitos voluntarios relacionados con el uso energ&eacute;tico de la organizaci&oacute;n incluyen los siguientes:</p>
+
+<ul>
+	<li>Normas voluntarias (por ejemplo, ISO 50001)</li>
+	<li>Programas de certificaci&oacute;n (ISO, asociaci&oacute;n comercial, entre otros)</li>
+	<li>Requisitos energ&eacute;ticos corporativos (por ejemplo, ahorro de energ&iacute;a, elaboraci&oacute;n de informes sobre el desempe&ntilde;o energ&eacute;tico)</li>
+	<li>Certificaci&oacute;n LEED (Edificaci&oacute;n existente y mantenimiento)</li>
+	<li>Certificaci&oacute;n de Energy Star (EPA de Estados Unidos)</li>
+	<li>Metas estatales en materia de gases de efecto invernadero (GEI)</li>
+	<li>Programas estatales sobre desempe&ntilde;o ambiental o energ&eacute;tico</li>
+	<li>Programa Mejores Edificaciones, Mejores Plantas (<em>Better Buildings</em>, <em>Better Plants</em>) (Departamento de Energ&iacute;a de Estados Unidos)</li>
+	<li>Programa Desempe&ntilde;o Energ&eacute;tico Superior (<em>Superior Energy Performance</em>, SEP) (Consejo para la Fabricaci&oacute;n Energ&eacute;ticamente Eficiente de Estados Unidos)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>El proceso para identificar los &ldquo;otros requisitos en materia energ&eacute;tica&rdquo; aplicables que su organizaci&oacute;n haya suscrito incluye canales de comunicaci&oacute;n claramente definidos entre la alta direcci&oacute;n (la cual se compromete en nombre de la organizaci&oacute;n) y el equipo de gesti&oacute;n energ&eacute;tica (u otro personal de la organizaci&oacute;n responsable del cumplimiento con esos requisitos). Por lo general, la dependencia, organizaci&oacute;n no gubernamental, asociaci&oacute;n comercial u otra organizaci&oacute;n responsable del programa o requisitos dar&aacute; acceso a los requisitos del programa y recursos relacionados.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer un proceso para evaluar y actualizar los requisitos)</p>
+
+<p>La evaluaci&oacute;n de los requisitos legales y de otro tipo en materia energ&eacute;tica, ya sea actuales, nuevos o modificados, incluye en primer lugar una revisi&oacute;n de su aplicabilidad. En segundo lugar, si se determina que es aplicable, es necesario evaluar lo que esos requisitos actuales, nuevos o modificados significan para las instalaciones, equipo, sistemas, procesos y personal de su organizaci&oacute;n. Una vez que finaliz&oacute; la evaluaci&oacute;n y se tiene conocimiento de los efectos, se ponen en pr&aacute;ctica las acciones necesarias para cumplir con esos requisitos. Por ejemplo, esto puede incluir aumentar o modificar la capacitaci&oacute;n, controles operativos, medici&oacute;n y monitoreo, calibraci&oacute;n y registro de datos.</p>
+
+<p>El enfoque recomendado para llevar una gesti&oacute;n eficaz de esta parte del SGEn es incorporar los procesos tanto de evaluaci&oacute;n como de actualizaci&oacute;n en los procesos de gesti&oacute;n del cambio de su organizaci&oacute;n. Tenga en mente que hay otros factores, aparte de los requisitos legales y de otro tipo nuevos o modificados, que pueden producir los cambios en su SGEn. Los cambios en las actividades, instalaciones, equipo, sistemas y procesos de su organizaci&oacute;n (incluidos aquellos resultantes de proyectos energ&eacute;ticos) tambi&eacute;n pueden generar cambios en los requisitos legales y de otro tipo aplicables a sus operaciones.</p>
+
+<p>Es necesario que establezca intervalos definidos para revisar los requisitos legales y otros requisitos energ&eacute;ticos. Algunas organizaciones establecen un programa de revisi&oacute;n m&iacute;nimo (por ejemplo, trimestral, semestral), pero mantienen una actualizaci&oacute;n continua de la informaci&oacute;n sobre los requisitos legales. Algunas veces se puede llevar a cabo el monitoreo de requisitos legales nuevos o modificados usando boletines electr&oacute;nicos o notificaciones de actualizaciones por correo electr&oacute;nico de dependencias reguladoras o de otras fuentes. Las revisiones de las actualizaciones de programas voluntarios u otros requisitos energ&eacute;ticos suscritos por su organizaci&oacute;n se realizan, por lo general, con una frecuencia establecida. Aseg&uacute;rese de mantener la informaci&oacute;n que compruebe que se realizaron dichas revisiones.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Establecer un programa y asignar responsabilidades)</p>
+
+<p>Se debe evaluar el cumplimiento con los requisitos legales y de otro tipo en materia energ&eacute;tica suscritos por su organizaci&oacute;n en intervalos planificados. No se requiere de una frecuencia espec&iacute;fica; usted determina el intervalo adecuado para las evaluaciones. Los intervalos planificados pueden ser diferentes para los diversos conjuntos de requisitos. Si bien, por lo general, no se considera que la recopilaci&oacute;n y presentaci&oacute;n de los informes en materia de reglamentaci&oacute;n requeridos sea una evaluaci&oacute;n del cumplimiento con los requisitos legales, las decisiones sobre los programas internos planificados para las evaluaciones del cumplimiento habitualmente toman en cuenta el tiempo necesario para elaborar tales informes.</p>
+
+<p>Es imperativo que las funciones, responsabilidades y facultades para planificar, llevar a cabo y mantener los resultados de las evaluaciones del cumplimiento est&eacute;n definidas y se comuniquen al personal adecuado. Dependiendo del tipo de requisitos legales y de otro tipo aplicables, las responsabilidades y facultades de la evaluaci&oacute;n del cumplimiento pueden dividirse en diferentes puestos. Por ejemplo, el responsable de la gesti&oacute;n ambiental puede tener la responsabilidad global de evaluar el cumplimiento de los requisitos legales que incluyen aspectos tanto ambientales como energ&eacute;ticos, mientras que el responsable de la gesti&oacute;n energ&eacute;tica puede encargarse de evaluar el cumplimiento de los requisitos energ&eacute;ticos de los c&oacute;digos de construcci&oacute;n locales.</p>
+
+<p>Su organizaci&oacute;n pudiera ya tener procesos para llevar a cabo auditor&iacute;as o evaluaciones peri&oacute;dicas del cumplimiento. Por ejemplo, puede haber procesos establecidos para requisitos reglamentarios de seguridad y salud o ambientales. Aprovechar los procesos existentes puede llevar a un uso m&aacute;s eficiente de los recursos que empezar desde cero.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Llevar a cabo evaluaciones del cumplimiento)</p>
+
+<p>Considere crear u obtener herramientas de listas de verificaci&oacute;n como apoyo en el proceso de evaluaci&oacute;n del cumplimiento. Por lo general, las listas de verificaci&oacute;n para auditar los requisitos legales (en particular, para reglamentos federales) pueden encontrarse a la venta o en internet. Es posible crear listas de verificaci&oacute;n personalizadas: basta tomar cada requisito y formular las preguntas pertinentes o establecer los datos que han de examinarse (por ejemplo, registros) para determinar si se est&aacute; cumpliendo con ese requisito. El recurso [resource](Compliance_Evaluation_Checklist) puede ser un punto de partida &uacute;til para la elaboraci&oacute;n de listas de verificaci&oacute;n personalizadas.</p>
+
+<p>Cuando las evaluaciones del cumplimiento determinen que no se est&aacute; cumpliendo con uno o m&aacute;s requisitos, se toma una acci&oacute;n correctiva para eliminar la fuente del problema. Algunas veces puede darse una situaci&oacute;n en la que no haya indicios de una no-conformidad, pero s&iacute; de que pudiera surgir un problema con base en las condiciones actuales. En este caso, podr&iacute;a ser apropiado iniciar una acci&oacute;n preventiva para investigar el problema y emprender las acciones necesarias. V&eacute;ase la tarea [task](Corrective Actions) si se desea conocer informaci&oacute;n adicional sobre acciones correctivas y preventivas.</p>
+
+<p>La alta direcci&oacute;n debe revisar los resultados de estas evaluaciones como parte del proceso de revisi&oacute;n gerencial. La tarea [task](Management Review) proporciona informaci&oacute;n acerca del proceso de revisi&oacute;n gerencial.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mantener registros de los resultados)</p>
+
+<p>Es preciso registrar y mantener los resultados de las evaluaciones del cumplimiento. Usted decide c&oacute;mo se registran los resultados, incluidos el formato y el nivel de detalle. Un enfoque podr&iacute;a ser preparar un resumen de los principales resultados que indique si se identificaron o no problemas o incumplimientos y si, para resolverlos, se tomaron y concluyeron acciones correctivas o preventivas.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Se pueden aprovechar los procesos de la norma ISO 14001:2015 para determinar y tener acceso a los requisitos legales y de otro tipo aplicables para cumplir con requisitos similares de la ISO 50001:2011. La integraci&oacute;n de los requisitos legales y de otro tipo en materia energ&eacute;tica con los requisitos ambientales legales y de otro tipo es relativamente sencilla, aunque las responsabilidades del personal relacionado con los requisitos energ&eacute;ticos pueden ser diferentes de aquellas del personal asignado a la gesti&oacute;n ambiental. Si no es posible la integraci&oacute;n, entonces se pueden duplicar los procesos existentes que se usan para identificar y tener acceso a los requisitos ambientales para que puedan usarse en el sistema ISO 50001.</p>
+
+<p>Los procesos de la ISO 9001:2015 para identificar y cumplir con los requisitos estatutarios y reglamentarios aplicables est&aacute;n incorporados en el enfoque en el cliente y la determinaci&oacute;n de los requisitos para productos y servicios. Debido a que la ISO 50001:2011 no aborda requisitos energ&eacute;ticos como parte de los requisitos del cliente, producto o servicio, la ISO 9001 podr&iacute;a no proporcionar los procesos necesarios para cumplir en su totalidad los requisitos de la ISO 50001 respecto a los requisitos legales y de otro tipo.</p>
+
+<p>En la evaluaci&oacute;n y actualizaci&oacute;n de los requisitos legales y de otro tipo en materia energ&eacute;tica de la ISO 50001:2011 se pueden adaptar y aplicar los procesos usados para evaluar y actualizar los requisitos legales ambientales y de otro tipo conforme a la ISO 14001:2015, o bien se puede usar un solo proceso integrado para cumplir con los requisitos de ambas normas.</p>
+
+<p>La norma ISO 50001:2011 no necesariamente requiere alguna adaptaci&oacute;n para los procesos de evaluaci&oacute;n del cumplimiento que se mantienen para la ISO 14001:2015. Se puede usar el mismo proceso para ambos sistemas por separado o de manera integrada. Las diferencias probablemente se relacionan con la responsabilidad y facultad del personal asignadas para el proceso de evaluaci&oacute;n del cumplimiento y los requisitos legales espec&iacute;ficos y de otro tipo involucrados (denominados &ldquo;obligaciones de cumplimiento&rdquo; en la norma ISO 14001). La integraci&oacute;n de las evaluaciones del cumplimiento en materia energ&eacute;tica con aquellas en materia ambiental lleva a un uso eficaz de los recursos. Dicha integraci&oacute;n con un sistema ISO 9001:2015 pudiera no ser tan sencilla y, por lo general, genera procesos separados. Esto se debe al hecho de que, en los sistemas de calidad ISO 9001:2015, los requisitos estatutarios y reglamentarios son parte de la determinaci&oacute;n y revisi&oacute;n de los requisitos para productos y servicios, incluidos los requisitos del cliente. &Eacute;stos se centran casi exclusivamente en los productos o servicios y se obtienen por medio de procesos de control y evaluaci&oacute;n del desempe&ntilde;o del sistema de calidad.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) no hace referencia a los requisitos legales y de otro tipo.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

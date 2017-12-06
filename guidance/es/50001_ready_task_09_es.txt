@@ -1,0 +1,74 @@
+USDOE 50001 READY NAVIGATOR TASK 9
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Variables relevantes
+----------TITLE----------
+Tarea 9: Hemos determinado las variables relevantes que afectan el consumo de energía de cada USEn y recopilado los datos asociados.
+----------GETTING IT DONE----------
+<ul>
+	<li>Identifique y enumere las variables relevantes para su organizaci&oacute;n de los usos significativos de energ&iacute;a (USEn).</li>
+	<li>Si su organizaci&oacute;n est&aacute; utilizando el recurso [resource](EnPI_Lite), designe a un miembro de su personal para completar la pesta&ntilde;a &lsquo;Variables relevantes&rsquo; (<em>Relevant Variables</em>) de los recursos [resource](Energy_Footprint_Lite_Data_Uploader) o [resource](Energy_Footprint_Tool) que se est&eacute; utilizando para la tarea [task](Data Collection).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Una vez determinados los USEn, es importante identificar los factores que pueden afectarlos (sus <em>variables relevantes</em>). Con frecuencia, en la fabricaci&oacute;n, las principales variables relevantes son la producci&oacute;n y el clima. En los edificios comerciales, la ocupaci&oacute;n o el clima son casi siempre las variables clave que afectan el consumo de energ&iacute;a. Entender la relaci&oacute;n entre las variables relevantes y el consumo de energ&iacute;a permite comprender mejor c&oacute;mo la energ&iacute;a puede controlarse y c&oacute;mo se puede maximizar el desempe&ntilde;o energ&eacute;tico en su organizaci&oacute;n.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado... </strong></p>
+
+<ul>
+	<li>identificar las variables relevantes que afectan los USEn, e</li>
+	<li>identificar las variables relevantes que afectan la instalaci&oacute;n.</li>
+</ul>
+
+<p><em>Esta orientaci&oacute;n se aplica a la secci&oacute;n 4.4.3 b) de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar las variables relevantes que afectan los USEn)</p>
+
+<p>Los factores que pueden afectar los USEn se denominan <em>variables relevantes.</em> En instalaciones comerciales o institucionales, la ocupaci&oacute;n y el clima pueden ser a menudo variables que influyen en el consumo. En las instalaciones industriales, la producci&oacute;n es generalmente una de las variables clave que afectan el consumo de energ&iacute;a del USEn. Dado que la tasa de producci&oacute;n cambia, el consumo generalmente cambiar&aacute; en consecuencia. Sin embargo, el consumo de los USEn puede ser influido por otros factores, y &eacute;stos deben examinarse para establecer su correlaci&oacute;n. Es importante comprender la relaci&oacute;n entre las variables relevantes y el consumo de energ&iacute;a para la formulaci&oacute;n del modo de control de la energ&iacute;a y para maximizar el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>A continuaci&oacute;n se indican algunas de las variables relevantes, incluidos sus posibles efectos en el consumo de energ&iacute;a.</p>
+
+<ul>
+	<li><strong>El clima.</strong> Los cambios de temperatura pueden afectar tanto los procesos como el consumo de energ&iacute;a para una calefacci&oacute;n y refrigeraci&oacute;n confortables. Otro ejemplo lo representan los procesos de secado. Otras caracter&iacute;sticas (el clima, la humedad, el viento, la lluvia, etc&eacute;tera) tambi&eacute;n pueden afectar el consumo de energ&iacute;a.</li>
+	<li><strong>La programaci&oacute;n de la operaci&oacute;n (ejemplo: horas, d&iacute;as, semanas, vacaciones).</strong> Generalmente, una programaci&oacute;n m&aacute;s larga requerir&aacute; m&aacute;s energ&iacute;a.</li>
+	<li><strong>La ocupaci&oacute;n.</strong> Un cambio en el n&uacute;mero de ocupantes de un edificio puede cambiar las exigencias de iluminaci&oacute;n, las cargas de energ&iacute;a y del aire acondicionado y, en consecuencia, del consumo energ&eacute;tico asociado.</li>
+	<li><strong>Los resultados de producci&oacute;n.</strong> Los cambios en la tasa de producci&oacute;n (es decir, el n&uacute;mero de unidades producidas dentro de un periodo determinado) afectar&aacute;n el consumo de energ&iacute;a.</li>
+	<li><strong>La mezcla de productos.</strong> Cada producto generado por la organizaci&oacute;n puede consumir una cantidad diferente de energ&iacute;a. Por consiguiente, la mezcla de productos puede afectar el consumo de energ&iacute;a.</li>
+	<li><strong>Los materiales de entrada.</strong> Las variaciones en las caracter&iacute;sticas de las materias primas, como el contenido de humedad, podr&iacute;an afectar la cantidad de energ&iacute;a necesaria para el modelado, el corte, el secado, la evaporaci&oacute;n y la temperatura del producto, etc&eacute;tera.</li>
+	<li><strong>La temporada del a&ntilde;o.</strong> Los productos o servicios con una demanda estacional influyen en la producci&oacute;n o en la ocupaci&oacute;n y afectan el consumo de energ&iacute;a&nbsp;.</li>
+	<li><strong>La(s) l&iacute;nea(s) de producci&oacute;n y los USEn en operaci&oacute;n.</strong> El n&uacute;mero y el tama&ntilde;o de las l&iacute;neas de producci&oacute;n o de los USEn en operaci&oacute;n afectar&aacute;n el consumo de energ&iacute;a.</li>
+</ul>
+
+<p>Verificar el impacto de las variables relevantes espec&iacute;ficas en los USEn mediante la recopilaci&oacute;n de datos de energ&iacute;a para compararlos con los datos de las variables relevantes, con el fin de determinar la relaci&oacute;n, si la hubiera, de un cambio en el consumo de energ&iacute;a que coincida con el cambio en la variable. Una manera de definir la relaci&oacute;n es representar gr&aacute;ficamente los datos energ&eacute;ticos obtenidos durante un periodo determinado y compararlos con la gr&aacute;fica de los datos de las variables, como la temperatura media diaria, durante el mismo periodo, y determinar si hay variaciones coincidentes. Las variaciones consistentes entre los dos podr&iacute;an indicar una variable relevante v&aacute;lida. Las anomal&iacute;as entre las dos pueden indicar que otras variables relevantes tambi&eacute;n son un factor de consumo de energ&iacute;a de los USEn. Es posible que se requiera recurrir a t&eacute;cnicas estad&iacute;sticas o a otros c&aacute;lculos de ingenier&iacute;a m&aacute;s sofisticados para realizar el an&aacute;lisis de las variables m&uacute;ltiples.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identificar las variables relevantes que afectan la instalaci&oacute;n)</p>
+
+<p>El recurso [resource](EnPI_Lite), del Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos, es una herramienta en l&iacute;nea basada en regresiones que calculan el ahorro energ&eacute;tico con relaci&oacute;n a las variables relevantes, como los niveles de producci&oacute;n y el clima. Se recomienda el uso de EnPI Lite junto con el Navegador 50001 Ready para dar seguimiento a la mejora de su desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>La producci&oacute;n y el tiempo deben considerarse variables relevantes. Para obtener m&aacute;s orientaci&oacute;n acerca de la selecci&oacute;n de las variables relevantes a nivel de la instalaci&oacute;n, consulte el recurso [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) del Departamento de Energ&iacute;a, donde encontrar&aacute; informaci&oacute;n espec&iacute;fica acerca de la selecci&oacute;n de las variables relevantes en el &lsquo;Paso 3: Para cada instalaci&oacute;n, determinar las variables relevantes, incluidas las unidades de producci&oacute;n&nbsp;&rsquo; (<em>Step 3: Determine Relevant Variables, Including Units of Output, for Each Facility</em>).</p>
+
+<p>El periodo durante el cual se recopilan datos de las variables relevantes debe coincidir con el de los datos recopilados para el consumo de energ&iacute;a en la tarea [task](Data Collection). Adicionalmente, los intervalos de los datos de la variable relevante deben ser mensuales y corresponder a los datos de consumo de energ&iacute;a del mismo intervalo de tiempo. Consulte los lineamientos suministrados en la tarea [task](Data Collection) si desea obtener m&aacute;s detalles acerca de la selecci&oacute;n de una l&iacute;nea de base y del a&ntilde;o de registro, cuando se utilice el EnPI Lite.</p>
+
+<p>Puede utilizar la herramienta de b&uacute;squeda QUEST introduciendo sus variables relevantes de una de las siguientes tres maneras:</p>
+
+<p><strong>1. Introducci&oacute;n de datos de la utilidad Energy Footprint Lite del DOE</strong></p>
+
+<p>La utilidad Energy Footprint Lite para subir datos relativos a la huella energ&eacute;tica, que puede descargarse de la p&aacute;gina de inicio de [resource](EnPI_Lite), le permitir&aacute; compilar en una hoja de c&aacute;lculo los datos de las variables de su instalaci&oacute;n relevantes para el alcance de su SGEn en el Navegador 50001 Ready. Si usted ha completado la tarea [task](Data Collection), la informaci&oacute;n acerca del consumo de energ&iacute;a de su instalaci&oacute;n se almacenar&aacute; en la hoja <em>Consumo de energ&iacute;a </em>(<em>Energy Consumption</em>),<em> </em>en el mismo archivo del [resource](Energy_Footprint_Lite_Data_Uploader). Despu&eacute;s de subir los datos y ejecutar el EnPI Lite (esto se realiza en la tarea 24), EnPI Lite le devolver&aacute; el archivo de Energy Lite Data Uploader con los resultados de su an&aacute;lisis energ&eacute;tico en el mismo archivo. En la p&aacute;gina de inicio del recurso [resource](EnPI_Lite) encontrar&aacute; instrucciones detalladas para usar la utilidad Energy Lite Data Uploader.</p>
+
+<p><strong>2. Introducci&oacute;n de datos de la herramienta Huella Energ&eacute;tica del DOE</strong></p>
+
+<p>Es posible utilizar igualmente los datos compilados de la variable relevante en la herramienta [resource](Energy_Footprint_Tool) del Departamento de Energ&iacute;a. Complete la pesta&ntilde;a &lsquo;Variables relevantes&rsquo; (<em>Relevant Variables</em>) en la herramienta Energy Footprint Tool. Si necesita instrucciones acerca del uso de esta herramienta para el c&aacute;lculo de la huella energ&eacute;tica de su establecimiento, consulte la p&aacute;gina de inicio del recurso [resource](Energ&iacute;a_espacio_Tool). Es importante observar que el recurso [resource](EnPI_Lite) no puede dar los resultados de su an&aacute;lisis energ&eacute;tico dentro de la herramienta Energy Footprint Tool (como s&iacute; lo hace cuando se utiliza la utilidad Energy Lite Data Uploader).</p>
+
+<p><strong>3. Introducci&oacute;n de los datos desde el Gestor de Cartera ENERGY STAR de la Agencia de Protecci&oacute;n Ambiental (EPA)</strong></p>
+
+<p>Para agregar informaci&oacute;n de las variables relevantes cuando se inicia desde el Gestor de Cartera Energy Star (<em>Energy Star</em> <em>Portfolio Manager</em>, PM), suba el archivo del PM al recurso [resource](EnPI_Lite) y siga las instrucciones que se dan en la p&aacute;gina de inicio de EnPI Lite. La herramienta [resource](EnPI_Lite) no proporcionar&aacute; un modelo v&aacute;lido, dado que en el gestor de cartera de Energy Star no se enumera la informaci&oacute;n correspondiente a las variables relevantes; sin embargo, seguir&aacute; proporcionando resultados descargables. Descargue &eacute;stos desde [resource](EnPI_Lite) e introduzca la informaci&oacute;n de las variables relevantes en la pesta&ntilde;a &lsquo;Variables relevantes&rsquo; (<em>Relevant Variables</em>) del archivo. (Si se desea obtener orientaci&oacute;n acerca de las variables relevantes, cons&uacute;ltese la tarea [task](Performance Indicators).)</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las variables relevantes est&aacute;n determinadas para un SGEn conforme a la norma ISO 50001:2011, lo que no es aplicable para los sistemas de gesti&oacute;n ambiental (SGA) conforme a la norma ISO 14001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El programa Energy Star no requiere la determinaci&oacute;n de las variables relevantes. El ap&eacute;ndice 4 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) proporciona detalles acerca de la normalizaci&oacute;n de datos que pueden utilizar variables similares.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

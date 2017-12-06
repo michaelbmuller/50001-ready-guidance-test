@@ -1,0 +1,227 @@
+USDOE 50001 READY NAVIGATOR TASK 10
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Indicadores de desempeño energético (IDEn)
+----------TITLE----------
+Tarea 10: Hemos identificado indicadores de desempeño energético (IDEn) y desarrollado una metodología para definirlos y actualizarlos.
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice el recurso [resource](Checklists_Potential_EnPIs) a fin de definir los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn) que revelar&aacute;n informaci&oacute;n &uacute;til sobre el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</li>
+	<li>Comunique a la alta direcci&oacute;n los IDEn propuestos a fin de conocer sus observaciones y recibir su aprobaci&oacute;n.</li>
+	<li>Registre y revise de forma regular el m&eacute;todo que se emple&oacute; para definir y actualizar los IDEn.</li>
+	<li>Compare los IDEn con sus valores de referencia de manera regular.</li>
+	<li>Implemente un proceso para el monitoreo, evaluaci&oacute;n y an&aacute;lisis continuos de sus IDEn.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Los indicadores de desempe&ntilde;o energ&eacute;tico (llamados &ldquo;IDEn&rdquo; conforme a la norma ISO 50001) son medidas cuantitativas del desempe&ntilde;o energ&eacute;tico que se utilizan para determinar mejoras en la eficiencia, el uso y el consumo de energ&iacute;a. &Eacute;stos se pueden establecer en diferentes niveles dentro del sistema de gesti&oacute;n de energ&iacute;a (SGEn); por ejemplo, se pueden implementar a escala organizacional, o para una instalaci&oacute;n, equipo, sistema o proceso en espec&iacute;fico.</p>
+
+<p>En su calidad de medidas cuantitativas, los IDEn son medidas, cocientes o modelos que su organizaci&oacute;n reconoce como representaciones efectivas del desempe&ntilde;o energ&eacute;tico. La mejora en el desempe&ntilde;o energ&eacute;tico se determina al comparar los IDEn actuales con los valores iniciales de las l&iacute;neas de base energ&eacute;ticas relevantes (cons&uacute;ltese la tarea [task](Baselines, Objectives and Targets)).</p>
+
+<p>La responsabilidad de identificar o definir los IDEn recae, por lo general, en el representante de gesti&oacute;n energ&eacute;tica, y puede incluir la participaci&oacute;n de otros miembros del equipo de gesti&oacute;n energ&eacute;tica. Es responsabilidad de la alta direcci&oacute;n asegurar que estos indicadores sean apropiados para su organizaci&oacute;n y proporcionar los recursos necesarios para su establecimiento, supervisi&oacute;n y evaluaci&oacute;n.</p>
+
+<p>Una vez que se han establecido estos valores, se considera vital analizarlos y monitorearlos. La ventaja de analizar los IDEn mediante la comparaci&oacute;n de los valores reales y los previstos es que el resultado muestra la direcci&oacute;n y la tasa de variaci&oacute;n del desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n. Dado que el objetivo final de la gesti&oacute;n energ&eacute;tica es la mejora continua, la consistencia en las tendencias de los IDEn reales y los previstos puede demostrar y cuantificar dicha mejora.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>identificar los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn);</li>
+	<li>registrar una metodolog&iacute;a para definir y actualizar los IDEn, y</li>
+	<li>monitorear y analizar los IDEn.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.4.5 y 4.6.1 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Definir los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn))</p>
+
+<p>Los IDEn se obtienen al utilizar la informaci&oacute;n que resulta del diagn&oacute;stico energ&eacute;tico (cons&uacute;ltense las tareas [task](Data Collection) y [task](Improvement Opportunities)). La responsabilidad de elaborar una lista de indicadores potenciales recae en el representante de la direcci&oacute;n, as&iacute; como en cualquier persona asignada para asistirle, incluidos miembros del equipo de gesti&oacute;n energ&eacute;tica.</p>
+
+<p>Las necesidades de los sectores interesados pueden variar de manera significativa, y sus requisitos deben ser considerados durante la elaboraci&oacute;n de los IDEn. Por tanto, puede ser necesario emplear diferentes IDEn para cada grupo de inter&eacute;s. La alta direcci&oacute;n, por lo general, se interesar&aacute; en un IDEn que tenga relaci&oacute;n con las finalidades empresariales estrat&eacute;gicas de su organizaci&oacute;n y que mejore el balance final. El personal operativo y de producci&oacute;n puede requerir un indicador que ofrezca orientaci&oacute;n en cuanto al manejo del equipo y sistemas con la m&aacute;xima eficiencia. Las agencias externas pueden solicitar indicadores de desempe&ntilde;o espec&iacute;ficos a fin de generar y proveer informaci&oacute;n relacionada con los requisitos normativos o de otros tipos.</p>
+
+<p>No hay restricciones para el n&uacute;mero de IDEn que puede tener su organizaci&oacute;n. Los IDEn se elaboran cuando son necesarios para el monitoreo o la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico. El recurso [resource](Checklists_Potential_EnPIs) ofrece ejemplos y puede servir como punto de partida para la formulaci&oacute;n de indicadores de desempe&ntilde;o energ&eacute;tico apropiados para su organizaci&oacute;n. El recurso [resource](Checklist_Other_Factors_Affecting_EnPIs) puede resultar &uacute;til para identificar las variables relevantes que podr&iacute;an tener impacto tanto en el desempe&ntilde;o energ&eacute;tico como en los IDEn identificados. Por lo regular, se lleva un registro de los IDEn a lo largo del tiempo mediante herramientas comunes integradas en programas de hojas de c&aacute;lculo.</p>
+
+<p>De manera habitual, los IDEn se establecen en una de las tres formas siguientes:</p>
+
+<ul>
+	<li>una medida simple, como el consumo;</li>
+	<li>un <a name="_Hlk497142463">cociente o base unitaria</a>, como Btu por metro cuadrado, Btu por kilo o Btu por unidad, o bien</li>
+	<li>un modelo num&eacute;rico que represente las variables relevantes.</li>
+</ul>
+
+<p>Una <strong>medida simple</strong>, como el consumo, con frecuencia resulta adecuada para determinar y monitorear el desempe&ntilde;o energ&eacute;tico en caso de que otras variables no afecten el equipo, sistema o proceso, o si las variables relevantes son constantes.</p>
+
+<p>[Learn More](Ejemplos de indicadores o medidas simples)</p>
+
+<ul>
+	<li>Se espera que un almac&eacute;n sin calefacci&oacute;n ni refrigeraci&oacute;n, equipado s&oacute;lo con iluminaci&oacute;n, y que opera en un horario fijo todos los d&iacute;as, tenga un consumo de energ&iacute;a consistente. Cualquier alteraci&oacute;n reflejar&iacute;a un cambio en la instalaci&oacute;n (por ejemplo, un ajuste en el horario, la expansi&oacute;n de la instalaci&oacute;n), o cambios en el desempe&ntilde;o energ&eacute;tico (por ejemplo, la instalaci&oacute;n de iluminaci&oacute;n altamente eficiente, o la remoci&oacute;n de los accesorios o dispositivos excedentes).</li>
+	<li>Un motor que opera con carga constante las 24 horas del d&iacute;a, al presentar cambios en el consumo, puede indicar problemas con el motor, o, en caso de que el motor actual se reemplace por un motor de bajo consumo, se prever&iacute;a una disminuci&oacute;n en el consumo energ&eacute;tico.</li>
+</ul>
+
+<p>En estos ejemplos, el monitoreo del consumo a modo de IDEn proporciona orientaci&oacute;n respecto al estado operativo del equipo, o informaci&oacute;n sobre el resultado de los cambios.</p>
+
+<p>[Learn More End]</p>
+
+<p>Si se requiere realizar comparaciones con el paso del tiempo entre diferentes niveles de producci&oacute;n o entre las diferentes ubicaciones de un proceso similar, puede elegirse un <strong>cociente </strong>o IDEn por unidad. De manera caracter&iacute;stica, estos IDEn relacionan el consumo energ&eacute;tico, el costo o el impacto ambiental con un resultado apropiado de la organizaci&oacute;n. Una clase de IDE expresado como cociente, que relaciona el desempe&ntilde;o con la producci&oacute;n o con un resultado individual, es lo que com&uacute;nmente se conoce como <em>intensidad energ&eacute;tica simple</em>. Un IDEn de intensidad energ&eacute;tica se define y calcula al dividir el consumo de energ&iacute;a entre el resultado productivo de una organizaci&oacute;n, instalaci&oacute;n, departamento, producto, equipo, sistema, proceso, o de otra parte de la organizaci&oacute;n que se tenga en consideraci&oacute;n.</p>
+
+<p>Al calcular el IDEn, la evaluaci&oacute;n energ&eacute;tica debe capturar de forma precisa el consumo energ&eacute;tico de la unidad en consideraci&oacute;n, y la unidad elegida ─como puede ser la medici&oacute;n de la producci&oacute;n─ debe abarcar el mismo periodo que el consumo energ&eacute;tico.</p>
+
+<p>[Learn More](Ejemplos de indicadores expresados como cociente)</p>
+
+<ul>
+	<li>En una operaci&oacute;n comercial, un IDEn puede expresarse en Btu por metros cuadrados ocupados o Btu por tipo de metro cuadrado o uso (por ejemplo, un almac&eacute;n comercial puede calcular un IDEn para una superficie cuadrada con refrigeraci&oacute;n, y otro para una superficie cuadrada ocupada por productos secos).</li>
+	<li>En una planta industrial, un IDEn puede expresarse en Btu por unidad producida o Btu por costo del valor a&ntilde;adido al producto.</li>
+	<li>En una organizaci&oacute;n que fabrica ladrillos, un IDEn t&iacute;pico se expresa en Btu por kilogramo o Btu por tonelada de ladrillos. Un cambio en este IDEn indicar&iacute;a la existencia de un cambio en alg&uacute;n par&aacute;metro del proceso, lo que ameritar&iacute;a investigaci&oacute;n.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Un <strong>modelo</strong> puede ofrecer una medici&oacute;n m&aacute;s significativa del desempe&ntilde;o energ&eacute;tico que un indicador simple o por cociente, y as&iacute; representar de forma precisa la relaci&oacute;n entre las actividades operativas y el consumo energ&eacute;tico. En este caso, es posible que se requieran modelos m&aacute;s sofisticados que permitan el uso de m&uacute;ltiples factores para la estimaci&oacute;n del consumo energ&eacute;tico. En funci&oacute;n de sus necesidades, es posible que requiera un an&aacute;lisis regresivo o c&aacute;lculos que se sirvan de teor&iacute;as de ingenier&iacute;a para obtener un modelo lo suficientemente preciso. Los modelos que se basan en el an&aacute;lisis regresivo o en teor&iacute;as de ingenier&iacute;a pueden ser complejos, y por lo general requieren la evaluaci&oacute;n de alguien calificado para los sistemas, procesos, operaciones o equipos que se desea modelar. El Departamento de Energ&iacute;a (<em>Department of Energy</em>, DOE) de Estados Unidos ofrece el indicador de desempe&ntilde;o energ&eacute;tico EnPI Tool Lite (recurso [resource](EnPI_Lite)), una herramienta que se basa en el an&aacute;lisis regresivo. Adem&aacute;s, el DOE enumera distintos programas para el modelamiento en su recurso [resource](Several_Energy_Modeling_Software_Programs), disponibles de varias fuentes.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Registrar una metodolog&iacute;a para definir y actualizar los IDEn)</p>
+
+<p>Es necesario registrar y revisar de manera regular los m&eacute;todos que utilice para definir y actualizar los IDEn de su organizaci&oacute;n. Las revisiones regulares aseguran que sus m&eacute;todos se mantienen v&aacute;lidos. Algunas organizaciones documentan sus m&eacute;todos en un manual energ&eacute;tico que, si bien no es necesario, puede resultar &uacute;til como un &ldquo;mapa&rdquo; en funci&oacute;n del SGEn (cons&uacute;ltese el recurso [resource](Energy_Manual_Guidelines) para obtener m&aacute;s informaci&oacute;n). Otras organizaciones abordan sus m&eacute;todos para definir y actualizar los IDEn en su procedimiento de planeaci&oacute;n energ&eacute;tica. Otra estrategia consiste en crear y mantener un registro del m&eacute;todo o c&aacute;lculo que se utiliz&oacute;, as&iacute; como de las actualizaciones que se efectuaron tras las revisiones de los IDEn.</p>
+
+<p>Los IDEn se examinan de manera regular a fin de asegurar su aplicabilidad continua en la medici&oacute;n del desempe&ntilde;o energ&eacute;tico. Las modificaciones en las instalaciones, equipo, sistemas, procesos, procedimientos operativos, materiales, variables relevantes, as&iacute; como en muchos otros factores, pueden generar cambios en la vigencia del IDEn utilizado para medir el desempe&ntilde;o energ&eacute;tico. Cuando se producen cambios, &eacute;stos se eval&uacute;an con objeto de actualizar el IDEn, de ser necesario. La alta direcci&oacute;n es responsable de velar por que los indicadores de desempe&ntilde;o energ&eacute;tico sean aptos para la organizaci&oacute;n (cons&uacute;ltese la tarea [task](Management Commitment)); y, por lo general, esto se consigue mediante la revisi&oacute;n gerencial (cons&uacute;ltese la tarea [task](Management Review)), cuya evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico se basa en las comparaciones actualizadas de los IDEn y sus niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;). (La tarea [task](Baselines, Objectives and Targets) aborda el tema del establecimiento de las l&iacute;neas de base energ&eacute;ticas [LBEn].)</p>
+
+<p>&nbsp;</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Monitorear y analizar los IDEn)</p>
+
+<p>Los c&aacute;lculos de IDEn se registran y eval&uacute;an peri&oacute;dicamente. Los IDEn actualizados son insumos para la revisi&oacute;n gerencial (cons&uacute;ltese la tarea [task](Management Review)) y se utilizan para ayudar a determinar el desempe&ntilde;o energ&eacute;tico. Estos datos en materia de desempe&ntilde;o verificar&aacute;n el &eacute;xito de actividades tales como proyectos de eficiencia energ&eacute;tica, capacitaci&oacute;n en eficiencia energ&eacute;tica para el personal operativo o los responsables del mantenimiento y programas de concientizaci&oacute;n sobre gesti&oacute;n energ&eacute;tica; adem&aacute;s de que los progresos estimados env&iacute;an un mensaje positivo a los directivos de tipo medio y alto con el fin de conseguir apoyo para el SGEn. Las mejoras en los IDEn son indicios del &eacute;xito que est&aacute; teniendo la gesti&oacute;n energ&eacute;tica, y est&aacute;n correlacionadas con &eacute;ste. Registrar y almacenar los IDEn de forma precisa crea un registro hist&oacute;rico que mostrar&aacute; el impacto de las pr&aacute;cticas de gesti&oacute;n energ&eacute;tica con el paso de tiempo.</p>
+
+<p>Los componentes de los IDEn que se miden o se calculan se administrar&aacute;n para su precisi&oacute;n y repetibilidad en el plan para la medici&oacute;n de energ&iacute;a (que se examina en la tarea [task](Measurement)). La revisi&oacute;n del desempe&ntilde;o energ&eacute;tico que lleva a cabo la alta direcci&oacute;n debe incluir un diagn&oacute;stico del desempe&ntilde;o conforme a los IDEn. Asimismo, los directivos tienen la responsabilidad permanente de garantizar que estas medidas de desempe&ntilde;o sean &oacute;ptimas para la organizaci&oacute;n, y de recomendar cambios cuando dejen de ser convenientes.</p>
+
+<p>&nbsp;</p>
+
+<p>[Learn More](Utilizaci&oacute;n del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite del DOE)</p>
+
+<p>Como se mencion&oacute; en la tarea [task](Data Collection) y en la tarea 9 &lsquo;Variables relevantes&rsquo;, el recurso [resource](EnPI_Lite) realizar&aacute; un an&aacute;lisis regresivo del consumo energ&eacute;tico de su organizaci&oacute;n y de los datos de las variables relevantes compiladas en su recurso [resource](Energy_Footprint_Tool) o en la utilidad [resource](Energy_Footprint_Lite_Data_Uploader). El recurso [resource](EnPI_Lite) le proporcionar&aacute; un IDEn, a nivel instalaci&oacute;n, con base en un modelo regresivo (un tipo de modelo num&eacute;rico) que considera las variables relevantes. Esto representa la mejora porcentual en el desempe&ntilde;o energ&eacute;tico con respecto al a&ntilde;o anterior, que se determina mediante un an&aacute;lisis regresivo. Para obtener m&aacute;s informaci&oacute;n sobre el an&aacute;lisis regresivo, refi&eacute;rase al recurso [resource](Energy_Intensity_Baselining_And_Tracking_Guidance) del DOE (para obtener informaci&oacute;n espec&iacute;fica sobre el an&aacute;lisis regresivo, consulte el paso 5: &lsquo;Utilizar el an&aacute;lisis regresivo para normalizar los datos de cada instalaci&oacute;n&rsquo; [<em>Use Regression Analysis to Normalize Each Facility&rsquo;s Data</em>]). Los requisitos de validez estad&iacute;stica que utiliza la herramienta EnPI Lite son los siguientes:</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>R<sup>2</sup></p>
+			</td>
+			<td>
+			<p>&gt;0.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valores P para todas las variables relevantes en el modelo</p>
+			</td>
+			<td>
+			<p>&lt;0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valores P para al menos una variable relevante en el modelo</p>
+			</td>
+			<td>
+			<p>&lt;0.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Valor P para el modelo integral</p>
+			</td>
+			<td>
+			<p>&lt;0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>El promedio de las variables relevantes utilizadas en el modelo debe estar dentro del rango de las variables relevantes que se emplearon para generar el modelo</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>El promedio de las variables relevantes utilizadas en el modelo debe encontrarse dentro de tres desviaciones t&iacute;picas de los datos de las variables relevantes que se emplearon en el modelo</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Si utiliza el recurso [resource](EnPI_Lite), el IDEn se calcula con base en la &ldquo;energ&iacute;a primaria&rdquo;, que es la energ&iacute;a necesaria para generar, transmitir y distribuir energ&iacute;a en su instalaci&oacute;n. El recurso [resource](EnPI_Lite) convertir&aacute; de manera autom&aacute;tica los datos del consumo energ&eacute;tico de su organizaci&oacute;n (es decir, los valores reportados en sus facturas de energ&iacute;a, como los kWh) en consumo de energ&iacute;a primaria, utilizando los valores siguientes:</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Fuente de energ&iacute;a</p>
+			</td>
+			<td>
+			<p>Multiplicador de energ&iacute;a primaria</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Electricidad adquirida a partir de la red de suministro</p>
+			</td>
+			<td>
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Electricidad renovable generada <em>in situ</em> por fuentes solares, e&oacute;licas o geot&eacute;rmicas</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Combustibles f&oacute;siles quemados <em>in situ</em></p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Todas las dem&aacute;s</p>
+			</td>
+			<td>
+			<p>Consulte el protocolo del programa 50001 Ready</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>La herramienta EnPI Lite puede determinar el porcentaje de mejora del desempe&ntilde;o energ&eacute;tico mediante un modelo de pron&oacute;stico o retrospectiva. A continuaci&oacute;n se describe la importancia de cada uno de estos modelos.</p>
+
+<p><strong>Pron&oacute;stico</strong>: Una mejora positiva en el desempe&ntilde;o energ&eacute;tico indica la reducci&oacute;n porcentual del consumo energ&eacute;tico en el a&ntilde;o del informe, como resultado de los planes de acci&oacute;n y de cualquier otra medida para la eficiencia energ&eacute;tica, implementados desde el a&ntilde;o de referencia. Se mide al comparar el consumo energ&eacute;tico real del a&ntilde;o del informe con un consumo energ&eacute;tico hipot&eacute;tico en el que no se implement&oacute; ning&uacute;n plan de acci&oacute;n ni medida para la eficiencia energ&eacute;tica.</p>
+
+<p><strong>Retrospectiva</strong>: Una mejora positiva en el desempe&ntilde;o energ&eacute;tico indica la reducci&oacute;n porcentual del consumo energ&eacute;tico en su a&ntilde;o de referencia, en caso de que su instalaci&oacute;n implemente todos los planes de acci&oacute;n y otras medidas para la eficiencia energ&eacute;tica en dicho a&ntilde;o. Se mide al comparar el consumo energ&eacute;tico real del a&ntilde;o de referencia con un consumo energ&eacute;tico hipot&eacute;tico; aqu&iacute;, todos los planes de acci&oacute;n y las medidas de eficiencia energ&eacute;tica se implementan durante el a&ntilde;o de referencia.</p>
+
+<p>Si utiliza el recurso [resource](EnPI_Lite), &eacute;ste se ejecutar&aacute; para calcular los ahorros energ&eacute;ticos en la tarea [task](Calculate Energy Savings).</p>
+
+<p>El indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite tambi&eacute;n le proporcionar&aacute; lo siguiente:</p>
+
+<ul>
+	<li>Porcentaje de mejora del desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n</li>
+	<li>Porcentaje de energ&iacute;a primaria y de mejora del desempe&ntilde;o energ&eacute;tico de la sede por cada fuente de energ&iacute;a</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Los sistemas de gesti&oacute;n de las normas ISO 14001:2015 e ISO 9001:2015 involucran el uso de indicadores, pero no necesariamente de indicadores de desempe&ntilde;o energ&eacute;tico (IDEn). No obstante, los procesos que se emplean para identificar o definir los indicadores apropiados de factores relativos al medio ambiente y la calidad pueden quiz&aacute; ser aplicados para definir los IDEn aptos para un SGEn en apego a la norma ISO 50001:2011.</p>
+
+<p>La norma ISO 14001:2015 utiliza indicadores para evaluar el progreso con respecto a los objetivos ambientales. Dado que la norma ISO 14001 tambi&eacute;n requiere la determinaci&oacute;n de criterios con los que se eval&uacute;a el desempe&ntilde;o ambiental, algunas organizaciones pueden emplear indicadores ambientales a fin de evaluar al mismo tiempo el desempe&ntilde;o energ&eacute;tico. Para la norma ISO 9001:2015, los indicadores se enfocan en la operaci&oacute;n efectiva y el control de los procesos. Para la norma ISO 50001:2011, los indicadores son mediciones o valores cuantitativos del desempe&ntilde;o energ&eacute;tico. En general, para estas normas los indicadores son diferentes los unos de los otros en t&eacute;rminos de enfoque y prop&oacute;sito. Sin embargo, que una organizaci&oacute;n se encuentre familiarizada con el desarrollo y uso de estos indicadores puede resultar &uacute;til a la hora de implementar los IDEn de un SGEn conforme a la norma ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Su organizaci&oacute;n puede actualmente estar utilizando indicadores de desempe&ntilde;o energ&eacute;tico (IDEn) a fin de monitorear, medir y evaluar el desempe&ntilde;o energ&eacute;tico. Varios pasos del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) ─pasos 3.2, 4.1, 5.5, 6.0 y 6.1─ proporcionan recomendaciones relacionadas con este tema, incluido el establecimiento de IDEn como Btu por metro cuadrado o Btu por producto. Los indicadores de desempe&ntilde;o energ&eacute;tico empleados en el programa Energy Star pueden aplicarse al SGEn, pero deber&aacute;n volver a evaluarse a fin de asegurar el cumplimiento con todos los requisitos del SGEn. Asimismo, el ap&eacute;ndice 4 de los lineamientos del programa Energy Star para la gesti&oacute;n de energ&iacute;a (<em>Energy Star Guidelines</em>) ofrece detalles sobre la normalizaci&oacute;n de los datos. Esta tarea del Navegador 50001 Ready proporciona orientaci&oacute;n adicional y herramientas del DOE para ayudar a su organizaci&oacute;n a establecer un modelo energ&eacute;tico sencillo que, en la mayor&iacute;a de las ocasiones, representa una medici&oacute;n m&aacute;s significativa del desempe&ntilde;o energ&eacute;tico que un indicador simple o por cociente, a fin de representar de manera precisa la relaci&oacute;n entre las actividades operativas y el consumo energ&eacute;tico.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,161 @@
+USDOE 50001 READY NAVIGATOR TASK 15
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Medición
+----------TITLE----------
+Tarea 15: Contamos con un plan de medición de energía, revisado periódicamente, en el que se definen, organizan y documentan las actividades de monitoreo y medición, asegurando su precisión y repetibilidad
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilizar el recurso [resource](Energy_Measurement_Plan_Worksheet) con el fin de obtener orientaci&oacute;n acerca de los requisitos para la recopilaci&oacute;n adecuada de los datos que permitir&aacute;n determinar el desempe&ntilde;o energ&eacute;tico. Aseg&uacute;rese de que todos los elementos o caracter&iacute;sticas clave que determinan el desempe&ntilde;o energ&eacute;tico se tengan en cuenta en el plan de medici&oacute;n.</li>
+	<li>Establecer la frecuencia de la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n de su organizaci&oacute;n. Realizar la revisi&oacute;n y la actualizaci&oacute;n del plan de medici&oacute;n seg&uacute;n se considere necesario.</li>
+	<li>Establecer y ejecutar un programa de calibraci&oacute;n para garantizar que los equipos de monitoreo y medici&oacute;n se encuentren bien mantenidos y proporcionen datos precisos.
+	<ul style="list-style-type:circle">
+		<li>Utilizar el recurso [resource](Calibration_Plan) para obtener una lista de los equipos de monitoreo y medici&oacute;n que requieren calibrarse. Describir el m&eacute;todo, el personal de calibraci&oacute;n, la frecuencia y la informaci&oacute;n b&aacute;sica de los equipos.</li>
+		<li>Utilizar el recurso [resource](Calibration_Record) para documentar los resultados de la calibraci&oacute;n de los equipos.</li>
+		<li>Utilizar el recurso [resource](Equipment_Calibration_Record) para proporcionar un registro continuo que combine informaci&oacute;n similar a la del <em>Plan de calibraci&oacute;n</em> y el <em>R</em><em>egistro de calibraci&oacute;n</em>, <del>por piezas</del><ins>para cada uno</ins> de los equipos de monitoreo y medici&oacute;n.</li>
+	</ul>
+	</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Los datos apropiados se basan en una medici&oacute;n apropiada, por lo que no sorprende que la norma ISO 50001:2011 requiera de un plan de medici&oacute;n de energ&iacute;a. El plan de medici&oacute;n de energ&iacute;a se elabora para definir, organizar y documentar las actividades de monitoreo y medici&oacute;n. Cada una de las caracter&iacute;sticas clave es evaluada para determinar las cualidades apropiadas que deben medirse o monitorearse, de manera que los datos recopilados sean apropiados para el an&aacute;lisis. Los requisitos para el monitoreo, la medici&oacute;n y el an&aacute;lisis de los indicadores de desempe&ntilde;o se centran en los elementos o caracter&iacute;sticas clave de las operaciones que determinan el rendimiento energ&eacute;tico.</p>
+
+<p>Examinar peri&oacute;dicamente las necesidades de medici&oacute;n ayuda a asegurar que el plan de medici&oacute;n de energ&iacute;a se mantenga actualizado y refleje las modificaciones de los requerimientos por cuanto a desempe&ntilde;o energ&eacute;tico, tales como nuevos objetivos, metas, planes de acci&oacute;n e IDEn. Esta revisi&oacute;n debe realizarse de forma peri&oacute;dica (mensual o trimestralmente, por ejemplo) y se debe integrar a los procesos de gesti&oacute;n de cambios en &ldquo;tiempo real&rdquo;.</p>
+
+<p>El equipo utilizado para monitorear y medir los elementos o caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico debe proporcionar datos precisos y repetibles. El software utilizado para el monitoreo y la medici&oacute;n tambi&eacute;n ha de proporcionar datos precisos y repetibles, confirmados por medio de la verificaci&oacute;n. La precisi&oacute;n y la repetibilidad son necesarias para validar el desempe&ntilde;o energ&eacute;tico y verificar los resultados de las acciones de mejora.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>definir e implementar un plan de medici&oacute;n de energ&iacute;a;</li>
+	<li>desarrollar un proceso para revisar peri&oacute;dicamente las necesidades de medici&oacute;n;</li>
+	<li>garantizar la precisi&oacute;n y la repetibilidad de las mediciones, y</li>
+	<li>conservar los registros de calibraci&oacute;n.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado</em><em> 4.6.1 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Definir e implementar un plan de medici&oacute;n de energ&iacute;a)</p>
+
+<p>La norma ISO 50001 requiere de un plan de medici&oacute;n de energ&iacute;a, elaborado para definir, organizar y documentar las actividades de monitoreo y medici&oacute;n. Cada una de las caracter&iacute;sticas clave es evaluada para determinar las cualidades apropiadas que deben medirse o monitorearse, de manera que puedan recopilarse los datos apropiados para el an&aacute;lisis.</p>
+
+<p>Los elementos o caracter&iacute;sticas clave deben incluir, como m&iacute;nimo, lo siguiente:</p>
+
+<ul>
+	<li>Consumo de energ&iacute;a pasado y actual</li>
+	<li>Usos significativos de energ&iacute;a (USEn) y las variables relevantes correspondientes</li>
+	<li>Oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y los planes de acci&oacute;n</li>
+	<li>Indicadores de desempe&ntilde;o energ&eacute;tico (IDEn)</li>
+	<li>Eficacia de los planes de acci&oacute;n para alcanzar los objetivos y metas de energ&iacute;a</li>
+	<li>Consumo de energ&iacute;a esperado <em>versus</em> el real</li>
+</ul>
+
+<p>[Learn More](Caracter&iacute;sticas clave de las mejores pr&aacute;cticas de planificaci&oacute;n)</p>
+
+<p>Un recurso como el [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) puede utilizarse para identificar y registrar las caracter&iacute;sticas clave y los requerimientos de monitoreo y medici&oacute;n de su organizaci&oacute;n, a medida que realiza las siguientes tareas. El recurso [resource](Example_Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) se proporciona con el fin de ilustrar los tipos de informaci&oacute;n que pueden obtenerse en la planificaci&oacute;n para el monitoreo, la medici&oacute;n y el an&aacute;lisis de las caracter&iacute;sticas clave.</p>
+
+<p>[Learn More End]</p>
+
+<p>Los elementos a incluir en el plan var&iacute;an seg&uacute;n el tama&ntilde;o y la complejidad de la organizaci&oacute;n, y seg&uacute;n sus equipos de monitoreo y medici&oacute;n. Normalmente, el plan deber&iacute;a incluir al menos lo siguiente:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; se est&aacute; midiendo (sistemas, procesos o equipos)?</li>
+	<li>&iquest;Cu&aacute;ndo o con qu&eacute; frecuencia se toman las mediciones?</li>
+	<li>&iquest;C&oacute;mo se recopilan los datos (m&eacute;todos y procedimientos)?</li>
+	<li>&iquest;D&oacute;nde se almacenan los datos?</li>
+	<li>&iquest;Qui&eacute;n es responsable de la recopilaci&oacute;n de los datos?</li>
+	<li>&iquest;C&oacute;mo se analizar&aacute;n los datos y qui&eacute;n ser&aacute; el responsable?</li>
+	<li>&iquest;C&oacute;mo se mantienen la precisi&oacute;n y la repetibilidad (es decir, la calibraci&oacute;n)?</li>
+</ul>
+
+<p>Una vez identificados los elementos o caracter&iacute;sticas clave y los requisitos de monitoreo y medici&oacute;n, el recurso [resource](Energy_Measurement_Plan_Worksheet) proporciona orientaci&oacute;n acerca de los detalles necesarios para asegurar la recopilaci&oacute;n adecuada de datos con el fin de determinar el desempe&ntilde;o energ&eacute;tico. Este formulario incluye las caracter&iacute;sticas clave. Si se requiere informaci&oacute;n m&aacute;s detallada con respecto a algunos equipos o sistemas, &uacute;sese el recurso [resource](Equipment_Energy_Measurement_Plan), mismo que se ejemplifica (modelo del plan llenado) en resource](Example_Equipment_Energy_Measurement_Plan).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Revisar peri&oacute;dicamente las necesidades de medici&oacute;n)</p>
+
+<p>Dado que los elementos o caracter&iacute;sticas clave que determinan el desempe&ntilde;o energ&eacute;tico cambian con el tiempo, la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n de su organizaci&oacute;n asegura que se realicen los ajustes necesarios del plan de medici&oacute;n de energ&iacute;a. Informe al personal pertinente acerca de los cambios. Un enfoque pr&aacute;ctico para la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n y para la actualizaci&oacute;n del plan de medici&oacute;n incluye dos elementos:</p>
+
+<ul>
+	<li>la definici&oacute;n de la frecuencia m&iacute;nima para realizar la revisi&oacute;n (por ejemplo, mensual, trimestral, semestralmente), y</li>
+	<li>la integraci&oacute;n de la revisi&oacute;n como parte de los procesos de gesti&oacute;n del cambio de su organizaci&oacute;n &ldquo;en tiempo real&rdquo; (principalmente, la comunicaci&oacute;n)</li>
+</ul>
+
+<p>[Learn More](Importancia de revisar peri&oacute;dicamente las necesidades de medici&oacute;n)</p>
+
+<p>Por ejemplo:</p>
+
+<p>Los cambios de m&eacute;todos de monitoreo y medici&oacute;n, as&iacute; como de equipos, procedimientos y personal, pueden ser necesarios en respuesta a los cambios de aquellos usos de energ&iacute;a identificados como USEn. Las necesidades de medici&oacute;n tambi&eacute;n pueden modificarse como resultado de nuevos requerimientos de desempe&ntilde;o energ&eacute;tico o de su modificaci&oacute;n (por ejemplo, nuevos objetivos energ&eacute;ticos, metas, planes de acci&oacute;n, IDEn). Los cambios en cualquiera de los resultados de planificaci&oacute;n energ&eacute;tica del SGEn pueden conllevar un cambio en las necesidades de medici&oacute;n. Tambi&eacute;n pueden ser el resultado de cambios en los equipos, procedimientos, personal y m&eacute;todos de monitoreo y medici&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Garantizar la precisi&oacute;n y la repetibilidad de las mediciones)</p>
+
+<p>El programa de calibraci&oacute;n proporciona los medios necesarios para garantizar que el equipo de monitoreo y medici&oacute;n reciba el mantenimiento adecuado para proporcionar datos precisos. Los componentes b&aacute;sicos de un programa de calibraci&oacute;n deben incluir lo siguiente:</p>
+
+<ul>
+	<li>identificar los equipos por calibrar: caracter&iacute;sticas clave;</li>
+	<li>especificar el m&eacute;todo de calibraci&oacute;n a utilizar: referencia;</li>
+	<li>establecer la tolerancia y la frecuencia de calibraci&oacute;n: desviaci&oacute;n;</li>
+	<li>definir y asignar las responsabilidades de la calibraci&oacute;n: m&uacute;ltiples elementos, y</li>
+	<li>mantener la documentaci&oacute;n apropiada: plan y registros</li>
+</ul>
+
+<p>[Learn More](Componentes de un programa de calibraci&oacute;n)</p>
+
+<p><strong>Identificar los equipos por calibrar.</strong> En primer lugar, identifique el equipo que debe calibrarse. La norma ISO 50001 se centra en datos precisos y repetibles de equipos utilizados para monitorear y medir los elementos o caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico. Este equipo de monitoreo y medici&oacute;n debe haberse identificado en el plan de medici&oacute;n de energ&iacute;a. Revise el plan de medici&oacute;n de energ&iacute;a e identificar y registrar los equipos que requieren de calibraci&oacute;n.</p>
+
+<p><strong>Especificar el m&eacute;todo de calibraci&oacute;n.</strong> La especificaci&oacute;n del m&eacute;todo de calibraci&oacute;n implica determinar el documento adecuado, el procedimiento est&aacute;ndar u otro tipo de referencia que deber&aacute; utilizarse para cada pieza del equipo de monitoreo y medici&oacute;n. La calibraci&oacute;n puede variar, desde un complicado proceso utilizando m&uacute;ltiples documentos con procedimientos definidos y pruebas hasta una simple comparaci&oacute;n con una referencia est&aacute;ndar calibrada. Las asociaciones comerciales, los fabricantes de equipos y los laboratorios de metrolog&iacute;a pueden ofrecer asesor&iacute;a para determinar la referencia de calibraci&oacute;n apropiada. La(s) referencia(s) o el(los) est&aacute;ndar(es) especifican la frecuencia de calibraci&oacute;n, as&iacute; como los m&eacute;todos, la rastreabilidad y las competencias del personal. Tambi&eacute;n pueden proporcionar informaci&oacute;n acerca de las tolerancias.</p>
+
+<p><strong>Establecer la tolerancia y la frecuencia de calibraci&oacute;n.</strong> La calibraci&oacute;n de la tolerancia es la desviaci&oacute;n permitida respecto a un valor espec&iacute;fico. Las tolerancias son especificadas para garantizar que el equipo est&eacute; calibrado con la precisi&oacute;n necesaria dentro de los l&iacute;mites aceptables. Para establecer las tolerancias, considere los siguientes factores:</p>
+
+<ul>
+	<li><strong>Capacidad del equipo.</strong> El equipo de monitoreo o medici&oacute;n debe tener la capacidad de medir con la exactitud requerida. El equipo no debe calibrarse con una tolerancia que le impida realizar la medici&oacute;n.</li>
+	<li><strong>Requisitos de proceso o de producto.</strong> Los requisitos del cliente o del subensamblaje, o el uso final, pueden determinar las tolerancias requeridas.</li>
+	<li><strong>Especificaciones del fabricante.</strong> Los fabricantes pueden especificar las tolerancias de los equipos utilizados en los procesos de la organizaci&oacute;n. De nuevo, el equipo debe tener la capacidad de medir con la exactitud requerida.</li>
+	<li><strong>Normas reguladoras.</strong> Las tolerancias pueden ser determinadas por las normas asociadas al producto o seg&uacute;n sea requerido por las dependencias reguladoras.</li>
+</ul>
+
+<p>La frecuencia de la calibraci&oacute;n va a la par de la tolerancia. Si bien las recomendaciones del fabricante son una fuente para definir la frecuencia de la calibraci&oacute;n, deben tenerse en cuenta adem&aacute;s el prop&oacute;sito y el uso de los equipos. Los entornos rudos y las mediciones con una tolerancia muy estrecha pueden requerir una mayor frecuencia en las calibraciones. El historial del equipo tambi&eacute;n es importante. El equipo de monitoreo y medici&oacute;n con antecedentes de p&eacute;rdida de precisi&oacute;n puede requerir una mayor frecuencia en las calibraciones. Adem&aacute;s, estos equipos deben recalibrarse cuando haya razones para dudar de su precisi&oacute;n. Cambie o modifique los m&eacute;todos, la programaci&oacute;n o el equipo seg&uacute;n resulte necesario para satisfacer los requerimientos de tolerancia.</p>
+
+<p><strong>Definir y asignar responsabilidades de calibraci&oacute;n.</strong> Con el fin de garantizar que el equipo est&eacute; correctamente calibrado y proporcione datos precisos, es necesario definir y asignar responsabilidades al personal apropiado. Se debe tener en cuenta, por ejemplo:</p>
+
+<ul>
+	<li><strong>&iquest;Qui&eacute;n realizar&aacute; la calibraci&oacute;n?</strong> &iquest;Se ejecutar&aacute; internamente o ser&aacute; contratada? Si se hace internamente, &iquest;se cuenta con la experiencia, los equipos y la documentaci&oacute;n necesaria? Si se contrata, &iquest;podr&aacute; un solo contratista calibrar todos los equipos? &iquest;Podr&aacute; la calibraci&oacute;n ser realizada <em>in situ</em> por un contratista o deber&aacute; llevarse a cabo externamente? &iquest;Existen requisitos legales aplicables?</li>
+	<li><strong>&iquest;Qui&eacute;n mantendr&aacute; los registros de calibraci&oacute;n?</strong> &iquest;Se realizar&aacute;n internamente o ser&aacute;n contratados? &iquest;Qu&eacute; registros ser&aacute;n mantenidos y en qu&eacute; forma? &iquest;Qu&eacute; acceso se requiere a los registros?</li>
+	<li><strong>&iquest;Qui&eacute;n van a mantener y a utilizar los equipos?</strong> &iquest;Se requiere de una formaci&oacute;n para ello? &iquest;Qu&eacute; requisitos de calibraci&oacute;n existen asociados al mantenimiento? &iquest;Pueden los operadores realizar los ajustes? &iquest;Qu&eacute; necesitan saber los operadores acerca de la calibraci&oacute;n?</li>
+	<li><strong>&iquest;Qui&eacute;n ser&aacute; responsable de que se realice la calibraci&oacute;n? </strong>&iquest;Qui&eacute;n mantendr&aacute; o ser&aacute; responsable de la revisi&oacute;n peri&oacute;dica de la programaci&oacute;n de la calibraci&oacute;n? &iquest;Qui&eacute;n asegurar&aacute; que el equipo est&eacute; disponible para realizar la calibraci&oacute;n oportunamente?</li>
+	<li><strong>&iquest;Qui&eacute;n verificar&aacute; que la calibraci&oacute;n se realice correctamente?</strong> &iquest;Se realizar&aacute; internamente o ser&aacute; contratada? &iquest;Qu&eacute; se requiere para verificar la calibraci&oacute;n? &iquest;Est&aacute;n disponibles los recursos necesarios o se requiere de equipos o de formaci&oacute;n de personal?</li>
+</ul>
+
+<p><strong>Mantener la documentaci&oacute;n apropiada.</strong> Se requiere documentaci&oacute;n precisa para verificar el estado de la calibraci&oacute;n de los equipos de monitoreo y medici&oacute;n, y para proporcionar orientaci&oacute;n acerca de las necesidades y responsabilidades de calibraci&oacute;n. No hay ning&uacute;n tipo o formato prescrito de documentaci&oacute;n. Se recomienda desarrollar lo que se considere funcional para su organizaci&oacute;n. Entre los recursos disponibles para las plantillas se incluyen el plan y el registro de calibraci&oacute;n de equipo: [resource](Calibration_Plan) y [resource](Equipment_Calibration_Record).</p>
+
+<p>Es posible utilizar el plan de calibraci&oacute;n [resource](Calibration_Plan) para establecer la lista de los equipos de medici&oacute;n y monitoreo que requieren calibraci&oacute;n, as&iacute; como para describir el m&eacute;todo, el personal de calibraci&oacute;n, la frecuencia y la informaci&oacute;n b&aacute;sica del equipo. El registro de calibraci&oacute;n [resource](Calibration_Record) se puede utilizar para documentar los resultados de la calibraci&oacute;n del equipo. Tanto el <em>plan de calibraci&oacute;n</em> como el <em>registro de calibraci&oacute;n</em> pueden conservar informaci&oacute;n de calibraci&oacute;n acerca de varias piezas de los equipos de monitoreo y medici&oacute;n. El recurso [resource](Equipment_Calibration_Record) proporciona un registro continuo que combina informaci&oacute;n similar a la del <em>plan</em> <em>de calibraci&oacute;n</em> y del <em>registro de calibraci&oacute;n</em>, pero &eacute;ste se utiliza para registrar tan s&oacute;lo una pieza de los equipos de monitoreo y medici&oacute;n: muestra el historial de los equipos, lo que resulta &uacute;til para el an&aacute;lisis de tendencias y para indicar cuando debe reemplazarse el equipo.</p>
+
+<p>[Learn More End]</p>
+
+<p><strong>Elaboraci&oacute;n de relaciones para los USEn.</strong> El recurso [resource](SEU_Control_Chart), presentado inicialmente en la tarea [task](Relevant Variables) y de nuevo en las tareas [task](Operational Controls) y [task](Monitoring), tambi&eacute;n est&aacute; concebido para recopilar informaci&oacute;n b&aacute;sica acerca de la calibraci&oacute;n de los equipos de monitoreo y medici&oacute;n utilizados para los USEn. Si se utiliza este gr&aacute;fico, complete la columna 7 introduciendo el equipo (o software) que se va a calibrar (o verificar) para cada USEn. Igualmente, en la columna 8 agregue los registros de calibraci&oacute;n (o verificaci&oacute;n) que deber&aacute;n mantenerse. El recurso [resource](Example_SEU_Control_Chart) muestra un gr&aacute;fico de control de los USEn ya terminado.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mantener registros adecuados de monitoreo y medici&oacute;n)</p>
+
+<p>Los resultados de las actividades de monitoreo y medici&oacute;n deben registrarse. Esto se puede realizar de diversas maneras, lo que incluye el uso de hojas de c&aacute;lculo, bases de datos, hojas de registro u otros formatos. Los registros tambi&eacute;n son necesarios a fin de demostrar la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n de la organizaci&oacute;n. Para ello, es preciso registrar las fechas de revisi&oacute;n o actualizaci&oacute;n de la informaci&oacute;n en el plan de medici&oacute;n. Los registros de calibraci&oacute;n u otros medios utilizados para garantizar la precisi&oacute;n y la repetibilidad de los datos recopilados se necesitan tambi&eacute;n para comprobar la eficacia del programa de calibraci&oacute;n.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las normas ISO 14001:2015 e ISO 9001:2015 no requieren planes de medici&oacute;n. Sin embargo, ambas requieren que la organizaci&oacute;n determine qu&eacute; necesita monitorear y medir y cu&aacute;ndo analizar los m&eacute;todos, los criterios de evaluaci&oacute;n y los resultados. Esta informaci&oacute;n podr&aacute; mentenerse como parte de un plan integrado de medici&oacute;n, que incluya la energ&iacute;a (ISO 50001:2011), el medio ambiental (ISO 14001) y la calidad (ISO 9001).</p>
+
+<p>Las normas ISO 9001:2015 e ISO 14001:2015 requieren que la organizaci&oacute;n determine lo que es necesario monitorear y medir. Dado que los sistemas de gesti&oacute;n y todos los procesos constitutivos deben ser mantenidos, esas necesidades pueden determinarse peri&oacute;dicamente, cuando sea necesario o de forma continua. No ser&iacute;a dif&iacute;cil cumplir con los requisitos de la norma ISO 50001:2011 al respecto, ya sea integrando revisiones peri&oacute;dicas de las necesidades de medici&oacute;n a trav&eacute;s de varios sistemas de gesti&oacute;n, o estableciendo una revisi&oacute;n aut&oacute;noma de las necesidades de medici&oacute;n s&oacute;lo para el SGEn.</p>
+
+<p>Los procesos de calibraci&oacute;n y verificaci&oacute;n implementados por las normas ISO 9001:2015, ISO 14001:2015 o ISO 50001:2011 pueden modificarse, a fin de utilizarse en otros sistemas de gesti&oacute;n. Los requisitos espec&iacute;ficos relacionados con la calibraci&oacute;n y la verificaci&oacute;n var&iacute;an entre estas normas, pero no son tan diferentes, de manera que separar los sistemas de calibraci&oacute;n podr&iacute;a justificarse f&aacute;cilmente. La norma ISO 9001:2015 tiene requisitos m&aacute;s expl&iacute;citos y estrictos al respecto, pero los procesos de verificaci&oacute;n y calibraci&oacute;n en las normas ISO 9001 e ISO 14001 pueden ser adaptados para utilizarse en un SGEn, con modificaciones apropiadas. Un posible problema de la implementaci&oacute;n es la &ldquo;propiedad&rdquo; de los procesos de calibraci&oacute;n si se utilizan a trav&eacute;s de m&uacute;ltiples sistemas de gesti&oacute;n.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.1, 4.2 y 5.5 del recurso <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>, en el que se define e implementa un plan de medici&oacute;n de energ&iacute;a, y se ampl&iacute;an las medidas t&eacute;cnicas contenidas en el paso 4.1 de las directrices de Energy Star, por medio de la identificaci&oacute;n de los elementos o caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico y los correspondientes requisitos de monitoreo y medici&oacute;n. La presente tarea contiene orientaci&oacute;n y varios recursos para ayudarle.</p>
+
+<p>Las necesidades de medici&oacute;n pueden haberse incluido cuando se identificaron los recursos en el apartado 4.2 de las directrices de Energy Star. Al implementar el SGEn, es necesario asegurar la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n. Las revisiones de las necesidades de medici&oacute;n pueden incorporarse a las revisiones peri&oacute;dicas que su organizaci&oacute;n ya ha puesto en marcha, seg&uacute;n la orientaci&oacute;n del paso 5.5 de las directrices de Energy Star.</p>
+
+<p>Los sistemas de monitoreo y medici&oacute;n del SGEn de su organizaci&oacute;n deben incluir la calibraci&oacute;n de los equipos de monitoreo y medici&oacute;n, con el fin de asegurar la precisi&oacute;n y repetibilidad de los datos, y para mantener los registros asociados de documentaci&oacute;n y registros.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

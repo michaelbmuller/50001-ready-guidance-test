@@ -1,0 +1,260 @@
+USDOE 50001 READY NAVIGATOR TASK 14
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Monitoreo
+----------TITLE----------
+Tarea 14: Hemos realizado el monitoreo y análisis continuos de nuestro consumo energético, los USEn, las variables relevantes y el avance y eficacia del plan de acción
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice los recursos [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) y [resource](Energy_Measurement_Plan_Worksheet) para determinar c&oacute;mo y con qu&eacute; frecuencia la organizaci&oacute;n planea monitorear, medir y analizar los elementos clave que determinan su desempe&ntilde;o energ&eacute;tico, entre los que figuran:
+	<ul style="list-style-type:circle">
+		<li>Consumo energ&eacute;tico de todas las fuentes de energ&iacute;a</li>
+		<li>&nbsp;[task](Significant Energy Uses) y [task](Relevant Variables)</li>
+		<li>&nbsp;[task](Improvement Opportunities)</li>
+		<li>&nbsp;[task](Performance Indicators)</li>
+		<li>Avance y la eficacia del plan de acci&oacute;n</li>
+		<li>Consumo energ&eacute;tico esperado <em>versus</em> el real</li>
+	</ul>
+	</li>
+	<li>Si a&uacute;n no lo ha considerado como parte de la planificaci&oacute;n energ&eacute;tica, asigne responsabilidades e implemente procesos de monitoreo continuo, medici&oacute;n y an&aacute;lisis del consumo energ&eacute;tico de su organizaci&oacute;n para todas las fuentes de energ&iacute;a.</li>
+	<li>Implemente peri&oacute;dicamente actividades de monitoreo, evaluaci&oacute;n y an&aacute;lisis de las principales caracter&iacute;sticas o elementos en relaci&oacute;n con el consumo energ&eacute;tico de sus instalaciones seg&uacute;n su plan de monitoreo, an&aacute;lisis y evaluaci&oacute;n.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>El monitoreo, la medici&oacute;n y el an&aacute;lisis de los indicadores del desempe&ntilde;o (IDEn) constituyen la continuaci&oacute;n l&oacute;gica de los an&aacute;lisis de los datos realizados en la secci&oacute;n 2 (&lsquo;Revisi&oacute;n energ&eacute;tica&rsquo;) del programa 50001 Ready. Las decisiones eficaces en materia de gesti&oacute;n de energ&iacute;a se basan en la recopilaci&oacute;n y an&aacute;lisis permanentes de datos energ&eacute;ticos y de otra &iacute;ndole. Para asegurarse de que se recopilan datos precisos que permitan realizar an&aacute;lisis fiables es preciso utilizar sistemas de calibraci&oacute;n.</p>
+
+<p>El monitoreo, la medici&oacute;n y el an&aacute;lisis permiten a la organizaci&oacute;n determinar:</p>
+
+<ul>
+	<li>si la utilizaci&oacute;n de un significativo uso de energ&iacute;a est&aacute; siendo gestionado adecuadamente;</li>
+	<li>si la organizaci&oacute;n est&aacute; cumpliendo sus objetivos y metas energ&eacute;ticas y</li>
+	<li>si las tendencias de desempe&ntilde;o energ&eacute;tico van en la direcci&oacute;n deseada.</li>
+</ul>
+
+<p>Para ayudar a la organizaci&oacute;n a determinar estos aspectos, se debe aplicar el monitoreo, la medici&oacute;n y el an&aacute;lisis a los elementos o caracter&iacute;sticas clave de las operaciones de la organizaci&oacute;n que determinan el desempe&ntilde;o energ&eacute;tico, entre las que se incluyen el consumo energ&eacute;tico, los usos significativos de energ&iacute;a (USEn) y sus variables relevantes, las oportunidades energ&eacute;ticas, los IDEn, la eficacia de los planes de acci&oacute;n y el consumo actual <em>versus</em> el consumo previsto.</p>
+
+<p>La identificaci&oacute;n de los usos significativos de energ&iacute;a (USEn) y las variables relevantes es parte de la planificaci&oacute;n energ&eacute;tica (v&eacute;anse las tareas [task](Data Analysis) y [task](Relevant Variables)). Una vez determinados estos elementos, toca monitorear, medir y analizar los USEn y las variables relevantes para evaluar el desempe&ntilde;o energ&eacute;tico, as&iacute; como cualquier cambio o mejora.</p>
+
+<p>Los USEn son importantes para el SGEn. Es preciso monitorear el desempe&ntilde;o energ&eacute;tico de sus USEn, puesto que peque&ntilde;os cambios en su funcionamiento o desviaciones en los procedimientos, los equipos o el mantenimiento, pueden afectar el consumo energ&eacute;tico total de su organizaci&oacute;n.</p>
+
+<p>Las oportunidades de mejora son otro resultado de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico. Este proceso debe ser din&aacute;mico con el fin de garantizar su continua identificaci&oacute;n, evaluaci&oacute;n y aplicaci&oacute;n con miras a mejorar el desempe&ntilde;o energ&eacute;tico y el SGEn. El monitoreo frecuente del plan de acci&oacute;n asegura que los proyectos de mejora del desempe&ntilde;o energ&eacute;tico permanezcan en la direcci&oacute;n correcta y que los planes de acci&oacute;n se mantengan actualizados. El avance del plan de acci&oacute;n y el alcance de los resultados son medidos y analizados para asegurar el cumplimiento efectivo de los objetivos y las metas. Los planes de acci&oacute;n tambi&eacute;n deben incluir estimaciones respecto de la mejora del desempe&ntilde;o energ&eacute;tico esperada a partir de la puesta en marcha del plan de acci&oacute;n. Una revisi&oacute;n exhaustiva del plan de acci&oacute;n deber&aacute; incluir una evaluaci&oacute;n de los resultados reales del plan <em>versus</em> los resultados esperados.</p>
+
+<p>En la tarea [task](Measurement) se elaborar&aacute; un plan de medici&oacute;n de energ&iacute;a.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip; </strong></p>
+
+<ul>
+	<li>monitorear y analizar el consumo de todas las fuentes de energ&iacute;a;</li>
+	<li>monitorear y analizar los usos significativos de energ&iacute;a y las variables relevantes;</li>
+	<li>verificar el avance del plan de acci&oacute;n;</li>
+	<li>verificar la eficacia del plan de acci&oacute;n;</li>
+	<li>monitorear las oportunidades energ&eacute;ticas, y</li>
+	<li>evaluar el consumo energ&eacute;tico previsto <em>versus</em> el real.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado</em><em> 4.6.1 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>El monitoreo, la medici&oacute;n y el an&aacute;lisis se aplican a los elementos o caracter&iacute;sticas de las operaciones de la organizaci&oacute;n clave para el desempe&ntilde;o energ&eacute;tico, a saber:</p>
+
+<ul>
+	<li>Consumo de energ&iacute;a anterior y actual</li>
+	<li>USEn y sus variables relevantes</li>
+	<li>Oportunidades de mejora del desempe&ntilde;o energ&eacute;tico</li>
+	<li>IDEn</li>
+	<li>Eficacia de los planes de acci&oacute;n para el alcance de los objetivos y metas en materia de energ&iacute;a</li>
+	<li>Consumo energ&eacute;tico esperado <em>versus</em> el real</li>
+</ul>
+
+<p>[Accordion](Monitorear y analizar el consumo de todas las fuentes de energ&iacute;a)</p>
+
+<p>Como parte de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico se identificaron las fuentes de energ&iacute;a y se recogieron y analizaron inicialmente los datos del consumo energ&eacute;tico pasado y presente (incluidos la edificaci&oacute;n, los equipos, el sistema o los niveles de proceso) (v&eacute;anse las tareas [task](Data Collection) y [task](Data Analysis)). Esta informaci&oacute;n se utiliz&oacute; para realizar las siguientes tareas:</p>
+
+<ul>
+	<li>Determinar el perfil de su organizaci&oacute;n en cuanto al uso y consumo energ&eacute;tico</li>
+	<li>Determinar los usos significativos de energ&iacute;a de su organizaci&oacute;n</li>
+	<li>Identificar y priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico</li>
+	<li>Desarrollar los indicadores de desempe&ntilde;o energ&eacute;tico y las l&iacute;neas de base necesarias para evaluar el desempe&ntilde;o energ&eacute;tico</li>
+</ul>
+
+<p>El consumo energ&eacute;tico se debe monitorear de forma continua, dado que es un componente clave de la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico y porque el objetivo de la mejora del desempe&ntilde;o energ&eacute;tico es utilizar una menor cantidad de energ&iacute;a. El consumo actual de energ&iacute;a se compara con el consumo anterior utilizando l&iacute;neas de tendencia, hojas de c&aacute;lculo, t&eacute;cnicas estad&iacute;sticas y otros enfoques. En la tarea [task](Data Analysis) se discutieron diversos m&eacute;todos de an&aacute;lisis de datos.</p>
+
+<p>Los datos del consumo energ&eacute;tico deben:</p>
+
+<ul>
+	<li>monitorearse y medirse antes de realizar cualquier cambio (l&iacute;nea de base);</li>
+	<li>monitorearse y medirse despu&eacute;s de haber realizado cambios y de haber sido comparados con la l&iacute;nea de base (o evaluaci&oacute;n previa a la implementaci&oacute;n);</li>
+	<li>ser representativos de las condiciones normales de funcionamiento, y</li>
+	<li>reflejar la coherencia de los factores que puedan afectar el desempe&ntilde;o energ&eacute;tico, tales como el clima, la ocupaci&oacute;n, la producci&oacute;n o las horas de funcionamiento.</li>
+</ul>
+
+<p>[Learn More](Monitoreo y an&aacute;lisis del consumo de todas las fuentes de energ&iacute;a).</p>
+
+<p><strong>Ejemplo de fuentes de datos.</strong> La medici&oacute;n del consumo energ&eacute;tico a partir de la fuente implica generalmente tener medidores de electricidad y de gas natural ubicados en la propiedad o instalaciones de la organizaci&oacute;n. Estos datos est&aacute;n al alcance y f&aacute;cilmente disponibles en las facturas de las empresas proveedoras de energ&iacute;a, pero tambi&eacute;n pueden leerse los contadores y su informaci&oacute;n registrarse regularmente como parte del programa de monitoreo regular de la organizaci&oacute;n. Los m&eacute;todos de medici&oacute;n pueden variar para otras fuentes de energ&iacute;a: la madera o el carb&oacute;n pueden requerir balanzas, ya sea <em>in situ</em> o ser medidos por el proveedor; el propano y el fueloil pueden medirse desde un cami&oacute;n de distribuci&oacute;n o su medici&oacute;n ser proporciona por un tanque, y las energ&iacute;as renovables, por su parte, requieren de una medici&oacute;n adecuada seg&uacute;n la forma de entrega.</p>
+
+<p><strong>Considerar niveles m&aacute;s precisos de monitoreo y medici&oacute;n.</strong> La medici&oacute;n tambi&eacute;n puede realizarse a nivel de la edificaci&oacute;n, los equipos, el sistema o a nivel de procesos, utilizando para ello submedidores; es decir, medidores instalados en equipos o medidores port&aacute;tiles. El monitoreo y la medici&oacute;n del consumo energ&eacute;tico en niveles m&aacute;s precisos (por ejemplo, de equipos, sistemas o procesos) permite realizar an&aacute;lisis m&aacute;s detallados y una mejor evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico. El monitoreo de datos a niveles m&aacute;s precisos podr&iacute;a indicar m&aacute;s f&aacute;cilmente las desviaciones respecto al desempe&ntilde;o energ&eacute;tico esperado y dar una alerta temprana acerca de problemas que podr&iacute;an generarse en los equipos, sistemas o procesos que consumen energ&iacute;a. Por ejemplo, un aumento en el consumo de electricidad podr&iacute;a indicar que las luces se dejan encendidas o que el equipo est&aacute; empezando a fallar.</p>
+
+<p><strong>Evaluar los datos bajo condiciones constantes.</strong> El consumo debe evaluarse bajo condiciones uniformes, de manera que constituya un indicador fiable de una mejora o de una disminuci&oacute;n del desempe&ntilde;o energ&eacute;tico. Los datos deben recopilarse antes de realizar los cambios con el fin de establecer una l&iacute;nea de base a partir de la cual comparar los datos recopilados despu&eacute;s de realizados los cambios (por ejemplo, las mediciones previas y posteriores a los planes de acci&oacute;n, cambios de procesos y otros similares). Los datos recogidos antes y despu&eacute;s de implementarse de los cambios deben ser representativos de las condiciones de funcionamiento normales.</p>
+
+<p>Los datos deben reflejar tambi&eacute;n la mayor coherencia posible con otros factores que puedan afectar el desempe&ntilde;o energ&eacute;tico, como el clima, la ocupaci&oacute;n, la producci&oacute;n o las horas de funcionamiento. Por ejemplo:</p>
+
+<p>El beneficio de instalar una iluminaci&oacute;n m&aacute;s eficiente podr&iacute;a ser ocultado o incluso eliminado si la electricidad consumida por la nueva iluminaci&oacute;n en el invierno fuese comparada con el consumo de electricidad de una iluminaci&oacute;n obsoleta y menos eficiente durante el verano, cuando hay m&aacute;s luz natural y potencialmente un menor uso de iluminaci&oacute;n.</p>
+
+<p>Para realizar evaluaciones precisas es importante entender las posibles variaciones y sus efectos en el consumo energ&eacute;tico, de manera que el desempe&ntilde;o energ&eacute;tico pueda evaluarse con exactitud. Si es posible establecer la coherencia de los factores y condiciones, el consumo puede ser un indicador viable del desempe&ntilde;o energ&eacute;tico. De otra manera, el consumo puede ser un factor clave para determinar el desempe&ntilde;o, como parte de los datos necesarios para establecer un indicador de desempe&ntilde;o energ&eacute;tico (v&eacute;ase la tarea [task](Performance Indicators)).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Monitorear y analizar el uso significativo de energ&iacute;a y variables relevantes)</p>
+
+<p>Monitorear y medir el desempe&ntilde;o energ&eacute;tico de los USEn y compararlo con el desempe&ntilde;o anterior para:</p>
+
+<ul>
+	<li>mantener o restablecer un funcionamiento eficaz;</li>
+	<li>controlar el uso y el consumo energ&eacute;tico;</li>
+	<li>evaluar la oportunidad de introducir mejoras;</li>
+	<li>determinar la efectividad de las mejoras, y</li>
+	<li>evaluar la conveniencia de realizar el mantenimiento de equipos, sistemas, procesos o instalaciones como el USEn</li>
+</ul>
+
+<p>Monitorear el desempe&ntilde;o energ&eacute;tico de un USEn puede incluir la medici&oacute;n del consumo energ&eacute;tico, los par&aacute;metros asociados al funcionamiento y el mantenimiento, las variables relevantes asociadas al USEn, o una combinaci&oacute;n de &eacute;stos. (El monitoreo de los IDEn se discute en la tarea [task](Performance Indicators).)</p>
+
+<p>[Learn More](Monitoreo del desempe&ntilde;o energ&eacute;tico de un USEn)</p>
+
+<p><strong>Consumo energ&eacute;tico.</strong> La comparaci&oacute;n del consumo directo de energ&iacute;a es uno de los m&eacute;todos m&aacute;s f&aacute;ciles para evaluar el desempe&ntilde;o energ&eacute;tico, pero &eacute;sta supone condiciones de funcionamiento consistentes. (La tarea [task](Monitoring) aborda la evaluaci&oacute;n de consumo energ&eacute;tico.) Esto tambi&eacute;n supone contar en el lugar con los equipos de medici&oacute;n de energ&iacute;a adecuados. Para algunas aplicaciones, la medici&oacute;n del consumo directo puede resultar costosa o inconveniente. Sin embargo, si las condiciones de funcionamiento son consistentes y la medici&oacute;n se encuentra disponible, la comparaci&oacute;n del consumo directo es generalmente la forma m&aacute;s conveniente de evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p><strong>Par&aacute;metros de funcionamiento y mantenimiento.</strong> El consumo energ&eacute;tico y el IDEn no son los &uacute;nicos m&eacute;todos para determinar el desempe&ntilde;o energ&eacute;tico. Pueden utilizarse tambi&eacute;n la medici&oacute;n y el an&aacute;lisis de los par&aacute;metros de funcionamiento y mantenimiento. Los siguientes son algunos de los par&aacute;metros operacionales y de mantenimiento:</p>
+
+<ul>
+	<li>Temperatura</li>
+	<li>Presi&oacute;n</li>
+	<li>Flujo</li>
+	<li>Niveles de ocupaci&oacute;n</li>
+	<li>Tiempo de ejecuci&oacute;n</li>
+	<li>Demanda</li>
+</ul>
+
+<p>Por ejemplo:</p>
+
+<p>La disminuci&oacute;n del tiempo de funcionamiento de un sistema de aire acondicionado (bajo condiciones ambientales internas y externas constantes) puede ser un indicador de la mejora de la eficiencia energ&eacute;tica como resultado del cambio de filtros y de la limpieza de la bobina. Para una caldera, la eficacia puede determinarse midiendo la temperatura y el nivel de ox&iacute;geno de una muestra de los gases de combusti&oacute;n, mediante un analizador de gases de combusti&oacute;n. La supervisi&oacute;n peri&oacute;dica de la eficiencia es una actividad t&iacute;pica de mantenimiento que puede proporcionar una indicaci&oacute;n del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p><strong>Variables relevantes.</strong> Las variables relevantes asociadas con los USEn de su organizaci&oacute;n se identificaron en las tareas [task](Data Analysis) y [task](Significant Energy Uses). Entre ellas se incluyen:</p>
+
+<ul>
+	<li>Clima</li>
+	<li>Ocupaci&oacute;n</li>
+	<li>Horas de funcionamiento</li>
+	<li>Velocidades de l&iacute;nea</li>
+	<li>Niveles de humedad</li>
+	<li>Tasa de combusti&oacute;n</li>
+</ul>
+
+<p>Las variables relevantes deben monitorearse regularmente, medirse y analizarse con el fin de evaluar su impacto en el desempe&ntilde;o energ&eacute;tico del USEn. Utilice estos datos en relaci&oacute;n con las instalaciones, los equipos, los sistemas o los datos de los procesos para asegurar la consistencia de la evaluaci&oacute;n de la eficiencia energ&eacute;tica. A manera de ejemplo:</p>
+
+<p>El consumo energ&eacute;tico del aire acondicionado puede variar en funci&oacute;n de las condiciones clim&aacute;ticas. Las mejoras del sistema pueden evaluarse bajo condiciones constantes, mediante la recopilaci&oacute;n de datos de temperatura y humedad, antes y despu&eacute;s de implementar las mejoras o de que los datos para el clima se normalicen. La ocupaci&oacute;n tambi&eacute;n puede afectar el consumo energ&eacute;tico debido a un cambio en la iluminaci&oacute;n o de los requerimientos de calefacci&oacute;n y enfriamiento. Utilice tarjetas de tiempo, horarios de vacaciones, hojas de registro, etc&eacute;tera, con el fin de recopilar datos para evaluar el desempe&ntilde;o energ&eacute;tico bajo condiciones uniformes o por medio de la normalizaci&oacute;n de datos de ocupaci&oacute;n.</p>
+
+<p>Recopile datos para cada una de las variables m&aacute;s relevantes utilizando el mecanismo de recopilaci&oacute;n correspondiente. Por ejemplo, recopile los datos de temperatura y humedad del clima utilizando registros manuales o por medio de term&oacute;metros o higr&oacute;metros. Otro ejemplo consiste en recopilar informaci&oacute;n sobre la asistencia para la ocupaci&oacute;n, utilizando hojas de registro, registros de tiempo, etc&eacute;tera.</p>
+
+<p>[Learn More End]</p>
+
+<p><strong>Establecer relaciones de los USEn.</strong> El recurso [resource](SEU_Control_Chart) presentado en las tareass [task](Relevant Variables) y [task](Data Analysis) se concibi&oacute; como una orientaci&oacute;n concisa para la gesti&oacute;n de los USEn de su organizaci&oacute;n. Puede estar dirigido al usuario, a las relaciones necesarias entre cada USEn y sus correspondientes:</p>
+
+<ul>
+	<li>controles operativos;</li>
+	<li>competencias y requisitos de formaci&oacute;n;</li>
+	<li><strong>monitoreo y medici&oacute;n (columna 6)</strong>;</li>
+	<li>calibraci&oacute;n, y</li>
+	<li>registros.</li>
+</ul>
+
+<p>El llenado de las columnas de 1 a 5 de la &lsquo;Tabla de control de usos significativos de energ&iacute;a&rsquo; (<em>SEU Control Chart</em>) se elabor&oacute; como parte de la implementaci&oacute;n de las tareas [task](Relevant Variables) y [task](Data Analysis). Ahora, como parte de la presente tarea, usted podr&aacute; completar la columna 6 con el fin de proporcionar referencias al monitoreo (descripciones) y la medici&oacute;n implementada para hacer seguimiento y analizar el desempe&ntilde;o de cada USEn. Usted podr&aacute; tambi&eacute;n agregar a la columna 8 el listado de los registros de monitoreo y evaluaci&oacute;n que se mantendr&aacute;n relacionados con los USEn. (Cons&uacute;ltese el recurso [resource](Example_SEU_Control_Chart) que ejemplifica el llenado del control de usos significativos de energ&iacute;a). Usted podr&aacute; completar la columna 7 como parte de la tarea [task](Measurement).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Verificar el avance del plan de acci&oacute;n).</p>
+
+<p>El monitoreo peri&oacute;dico de los planes de acci&oacute;n asegura que los proyectos de mejora del desempe&ntilde;o energ&eacute;tico conserven su rumbo y que los planes de acci&oacute;n se mantengan actualizados.</p>
+
+<p>El representante de la direcci&oacute;n y el equipo de gesti&oacute;n de energ&iacute;a deben revisar los siguientes elementos a intervalos planificados (por ejemplo, semanal, mensual, trimestral):</p>
+
+<ul>
+	<li>Fechas de finalizaci&oacute;n de las etapas y tareas</li>
+	<li>Asignaci&oacute;n de recursos</li>
+	<li>Asignaci&oacute;n de personal</li>
+	<li>Informes de estado</li>
+	<li>Monitoreo y medici&oacute;n continua de objetivos y metas</li>
+	<li>Equipo de comunicaci&oacute;n</li>
+</ul>
+
+<p>La comunicaci&oacute;n entre los miembros del equipo debe revisarse con el fin de garantizar que cualquier cambio en los planes de acci&oacute;n se comunique al personal apropiado, y tambi&eacute;n para que se conozcan los posibles impactos de retrasos en el cumplimiento de las etapas y fechas de finalizaci&oacute;n de las tareas. Esta evaluaci&oacute;n es especialmente &uacute;til cuando las etapas o tareas dependen del avance de otras etapas y tareas.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Verificar la eficacia del plan de acci&oacute;n)</p>
+
+<p>Como se discuti&oacute; en la tarea [task](Improvement Projects), los planes de acci&oacute;n para la gesti&oacute;n de energ&iacute;a se elaboran con el fin de definir las acciones que se adoptar&aacute;n para alcanzar los objetivos energ&eacute;ticos y las metas asociadas a las oportunidades energ&eacute;ticas que implementar&aacute;n (es decir, los proyectos). Los planes de acci&oacute;n se monitorean, miden y analizan para asegurar que los objetivos y las metas se cumplan efectivamente.</p>
+
+<p>El consumo energ&eacute;tico esperado, asociado a un proyecto dado, se compara con los resultados reales una vez finalizado el proyecto. Esta comparaci&oacute;n indica si el ahorro energ&eacute;tico previsto fue realmente alcanzado. Los m&eacute;todos utilizados para llevar a cabo esta verificaci&oacute;n se definieron en el plan de acci&oacute;n (cons&uacute;ltese la tarea [task](Improvement Projects)).</p>
+
+<p>Los proyectos exitosos se analizan con el fin de replicarlos en otros procesos. Los proyectos que no logran alcanzar los objetivos planteados se analizan para determinar la(s) raz&oacute;n(es) de sus deficiencias, as&iacute; como para planificar y ejecutar un monitoreo apropiado. El plan de acci&oacute;n puede analizarse durante o despu&eacute;s de su finalizaci&oacute;n. Los planes de acci&oacute;n que no generen los resultados esperados deben modificarse seg&uacute;n se necesite.</p>
+
+<p>[Learn More](Indicadores que establecen la ineficacia de los planes de acci&oacute;n)</p>
+
+<ul>
+	<li>No se alcanzan los objetivos energ&eacute;ticos</li>
+	<li>No se alcanzan las metas energ&eacute;ticas</li>
+	<li>Incapacidad de cumplir con las fechas de vencimiento</li>
+	<li>Personal indisponible</li>
+	<li>Presupuesto indisponible o insuficiente</li>
+	<li>Tecnolog&iacute;a inapropiada</li>
+	<li>Cambio de prioridades</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>A medida que se completan los planes de acci&oacute;n, las mejoras resultantes se incorporan a la evaluaci&oacute;n del sistema de gesti&oacute;n del desempe&ntilde;o energ&eacute;tico para garantizar que el ahorro energ&eacute;tico derivado del plan de acci&oacute;n se mantenga a lo largo del tiempo.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Monitorear las oportunidades de mejora energ&eacute;tica).</p>
+
+<p>Las oportunidades de mejora son otro resultado de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico. En la tarea [task](Improvement Opportunities) se identifican, eval&uacute;an y priorizan las oportunidades. Adicionalmente, su organizaci&oacute;n puede buscar m&aacute;s oportunidades apropiadas con el desarrollo de objetivos, metas y planes de acci&oacute;n energ&eacute;ticos, o bien puede retirarlas de la lista activa. Es posible que se requieran procesos adicionales de monitoreo o evaluaci&oacute;n para verificar la idoneidad de los procedimientos de instalaci&oacute;n, los criterios de funcionamiento, el control y el mantenimiento de las pr&aacute;cticas, o bien para evaluar el mejoramiento del desempe&ntilde;o energ&eacute;tico. Por lo general, estos elementos est&aacute;n definidos y tratados en el plan de acci&oacute;n (cons&uacute;ltese la tarea [task](Improvement Projects)).</p>
+
+<p>Se debe adem&aacute;s monitorear el proceso para identificar y priorizar las oportunidades de mejora, con el fin de asegurar que el proceso contin&uacute;e siendo eficaz, que la lista se mantenga actualizada y que las oportunidades se atiendan eficazmente para mejorar el desempe&ntilde;o energ&eacute;tico. Este proceso debe ser din&aacute;mico para garantizar la identificaci&oacute;n, evaluaci&oacute;n y aplicaci&oacute;n de nuevas oportunidades de mejora del desempe&ntilde;o energ&eacute;tico del SGEn.</p>
+
+<p>[Learn More](Ejemplos de actividades de monitoreo de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico)</p>
+
+<ul>
+	<li>Frecuencia de identificaci&oacute;n de nuevas oportunidades</li>
+	<li>Frecuencia de realizaci&oacute;n de la oportunidad</li>
+	<li>Eliminaci&oacute;n de la lista cuando ya no es apropiada</li>
+	<li>Evaluaci&oacute;n continua de la relevancia de los criterios de priorizaci&oacute;n</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Evaluar el consumo energ&eacute;tico real <em>versus</em> el previsto)</p>
+
+<p>La implementaci&oacute;n de las oportunidades energ&eacute;ticas se logra a trav&eacute;s de los planes de acci&oacute;n para la gesti&oacute;n de energ&iacute;a. Estos planes deben incluir estimaciones del mejoramiento del desempe&ntilde;o energ&eacute;tico esperado a partir de su puesta en marcha. Es preciso analizar las diferencias entre el plan de acci&oacute;n real y los resultados esperados, y evaluar esta informaci&oacute;n para identificar aquellos elementos que puedan mejorar el desempe&ntilde;o energ&eacute;tico o identificar problemas a resolver. Los resultados de este an&aacute;lisis han de registrarse a manera de retroalimentaci&oacute;n del proceso de acci&oacute;n correctiva para mejorar la futura aplicaci&oacute;n del plan de acci&oacute;n y las mejoras del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>El futuro uso y consumo energ&eacute;tico se calcul&oacute; ya para los USEn, como parte de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico (cons&uacute;ltese la tarea [task](Significant Energy Uses)). Su organizaci&oacute;n decide qu&eacute; periodo se considera &ldquo;futuro&rdquo; y monitorea la hip&oacute;tesis o los criterios utilizados para calcular el uso futuro de energ&iacute;a de los USEn. Es posible que usted ya haya comenzado o finalizado el recurso [resource](SEU_Future_Energy_Estimate_Worksheet), como parte de la tarea [task](Significant Energy Uses). Si es as&iacute;, aseg&uacute;rese de implementar un proceso de revisi&oacute;n y actualizaci&oacute;n de los c&aacute;lculos, seg&uacute;n proceda, de forma peri&oacute;dica y en respuesta a cambios importantes en instalaciones, equipos, sistemas y procesos.</p>
+
+<p>[Learn More](Uso de la herramienta EnPI Lite del DOE)</p>
+
+<p>Si utiliza el recurso [resource](EnPI_Lite), es recomendable mantener su archivo actual [resource](Energy_Footprint_Lite_Data_Uploader). Esto facilitar&aacute; el desarrollo de nuevos modelos energ&eacute;ticos a nivel de las instalaciones en el recurso [resource](EnPI_Lite) y el monitoreo continuo del mejoramiento del desempe&ntilde;o energ&eacute;tico a nivel de la instalaci&oacute;n y del consumo energ&eacute;tico.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Las organizaciones que han implementado las normas ISO 9001:2015 e ISO 14001:2015 pueden o no monitorear y medir los par&aacute;metros energ&eacute;ticos, pero deben poner en marcha procesos para planificar e implementar actividades clave de monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n. Estos procesos pueden aprovecharse para planificar e implementar el monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n de las actividades requeridas por la norma ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 2.4 y 4.1 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Es posible que su organizaci&oacute;n ya se encuentre realizando el monitoreo, la medici&oacute;n y el an&aacute;lisis del consumo energ&eacute;tico de todas las fuentes de energ&iacute;a, pero la orientaci&oacute;n de esta tarea puede ser &uacute;til para garantizar que se haga con el detalle y rigor apropiados para satisfacer los requisitos de la norma ISO 50001.</p>
+
+<p>El programa ENERGY STAR no requiere monitorear o medir los usos significativos de energ&iacute;a (USEn), lo cual s&iacute; es requerido por la norma ISO 50001.</p>
+
+<p>Igualmente, la aplicaci&oacute;n de la orientaci&oacute;n de los apartados 5.5, 6.1 y 6.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) para los planes de acci&oacute;n del SGEn y la evaluaci&oacute;n peri&oacute;dica de la eficacia, contribuir&aacute; a apoyar la aplicaci&oacute;n de los SGEn.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

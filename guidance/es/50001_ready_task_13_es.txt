@@ -1,0 +1,115 @@
+USDOE 50001 READY NAVIGATOR TASK 13
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Proyectos de mejora
+----------TITLE----------
+Tarea 13: Luego de un proceso documentado de selección de proyectos, hemos elaborado planes de acción e implementado proyectos de mejora energética
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice el recurso [resource](Energy_Management_Action_Plan_Template) a fin de elaborar planes de acci&oacute;n que satisfagan las metas y objetivos energ&eacute;ticos de su organizaci&oacute;n identificados en la tarea [task](Baselines, Objectives and Targets).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Una vez que haya seleccionado los proyectos energ&eacute;ticos que permitan a su organizaci&oacute;n cumplir con sus metas y objetivos energ&eacute;ticos, designe un l&iacute;der para cada proyecto. Si el campo de acci&oacute;n y la complejidad del proyecto requieren recursos adicionales, re&uacute;na un equipo de proyecto con ayuda del representante de la direcci&oacute;n. A continuaci&oacute;n, formule un plan de acci&oacute;n de gesti&oacute;n energ&eacute;tica para cada proyecto. Un buen plan toma en cuenta los recursos e incluye planeaci&oacute;n, implementaci&oacute;n, verificaci&oacute;n y comunicaci&oacute;n.</p>
+
+<p>Un plan de acci&oacute;n de gesti&oacute;n energ&eacute;tica elaborado con el fin de cumplir con los requisitos de la norma ISO 50001 establece, como m&iacute;nimo, lo siguiente:</p>
+
+<ul>
+	<li>actividades que deben completarse a fin de implementar el proyecto y alcanzar las metas energ&eacute;ticas;</li>
+	<li>recursos necesarios para completar las actividades;</li>
+	<li>plazo para cumplir las actividades;</li>
+	<li>persona(s) responsable(s) de completar las actividades;</li>
+	<li>descripci&oacute;n del m&eacute;todo de verificaci&oacute;n de los resultados del proyecto;</li>
+	<li>descripci&oacute;n del m&eacute;todo de verificaci&oacute;n de la mejora en el desempe&ntilde;o energ&eacute;tico.</li>
+</ul>
+
+<p>Los planes de acci&oacute;n de gesti&oacute;n energ&eacute;tica deben documentarse y mantenerse actualizados a intervalos definidos.</p>
+
+<p>Designar un l&iacute;der de proyecto con responsabilidad integral de implementarlo establece un punto de contacto entre la administraci&oacute;n y el equipo de proyecto. Esta persona dirige al equipo de proyecto con el fin de asegurar que la implementaci&oacute;n est&aacute; en conformidad con el plan de acci&oacute;n.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>determinar las acciones, plazos y partes responsables;</li>
+	<li>definir los m&eacute;todos de verificaci&oacute;n;</li>
+	<li>comunicar las expectativas;</li>
+	<li><a name="_Hlk499488378">documentar y actualizar el o los planes de acci&oacute;n</a>, y</li>
+	<li>tomar las acciones apropiadas.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.4.6 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determinar las acciones, plazos y partes responsables)</p>
+
+<p>Designe un l&iacute;der para cada proyecto. El l&iacute;der de proyecto reunir&aacute; un equipo de proyecto con los representantes de las funciones o las &aacute;reas apropiadas. El equipo de proyecto generar&aacute; una lista de las acciones que se requieren para la implementaci&oacute;n del proyecto; cada una de estas acciones precisa recursos. El equipo de proyecto documentar&aacute;, en un plan de acci&oacute;n de gesti&oacute;n energ&eacute;tica, las acciones y los recursos necesarios. El recurso [resource](Energy_Management_Action_Plan_Template) puede servir como un punto de partida &uacute;til.</p>
+
+<p>Al definir las acciones necesarias para la implementaci&oacute;n del proyecto, aseg&uacute;rese de examinar lo siguiente:</p>
+
+<ul>
+	<li>m&eacute;todo(s) utilizado(s) para verificar los resultados del plan de acci&oacute;n y el logro de la(s) mejora(s) del desempe&ntilde;o energ&eacute;tico;</li>
+	<li>cualquier cambio en el proceso o procedimiento solicitado por el proyecto;</li>
+	<li>capacitaci&oacute;n de los empleados o contratistas sobre los cambios implementados a causa del proyecto, como mejor convenga;</li>
+	<li>monitoreo y medici&oacute;n continuos de los par&aacute;metros del proyecto para asegurar la sustentabilidad de la mejora del desempe&ntilde;o energ&eacute;tico con el paso del tiempo, y</li>
+	<li>comunicaci&oacute;n de los beneficios a los sectores interesados.</li>
+</ul>
+
+<p>A fin de asegurar que el equipo comprenda lo que se necesita para implementar el proyecto, y que pueda transmitir de manera efectiva la informaci&oacute;n sobre los recursos requeridos a la administraci&oacute;n, puede apoyarse en una lista integral de acciones.</p>
+
+<p>Una vez que se han determinado los recursos necesarios y la lista de acciones, el equipo deliberar&aacute; los plazos de cumplimiento de las actividades, tomando en cuenta la disponibilidad de los recursos y los plazos indicados a fin de alcanzar las metas y los objetivos energ&eacute;ticos. Aseg&uacute;rese de que las fechas l&iacute;mite se incluyan en los planes de acci&oacute;n, y que &eacute;stos se eval&uacute;en y actualicen a intervalos regulares.</p>
+
+<p>Asigne responsabilidades a los individuos o equipos apropiados con objeto de asegurar la compleci&oacute;n de cada acci&oacute;n. Aseg&uacute;rese de que el plan de acci&oacute;n registre las partes responsables. El l&iacute;der de proyecto puede utilizar el plan de acci&oacute;n para dar seguimiento al avance de las actividades del proyecto.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir los m&eacute;todos de verificaci&oacute;n)</p>
+
+<p>Con la finalidad de evaluar los resultados del proyecto, el l&iacute;der o el equipo de proyecto necesitar&aacute;n identificar qui&eacute;n ser&aacute; el responsable de la verificaci&oacute;n. La persona o el equipo que se asigne debe contar con conocimiento pr&aacute;cticos sobre los sistemas involucrados, as&iacute; como con competencias en cuanto a la recopilaci&oacute;n de datos y el an&aacute;lisis necesarios.</p>
+
+<p>Para definir con claridad el m&eacute;todo de verificaci&oacute;n, responda a las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; ser&aacute; medido o evaluado a fin de identificar los impactos del proyecto?</li>
+	<li>&iquest;De qu&eacute; manera ser&aacute; medido o evaluado?</li>
+</ul>
+
+<p>Las respuestas a estas preguntas establecer&aacute;n las actividades de medici&oacute;n o evaluaci&oacute;n necesarias para la verificaci&oacute;n. Considere cualquier instrumento o equipo de medici&oacute;n que pueda incluirse en el campo de acci&oacute;n del proyecto a fin de incrementar la posibilidad de medir y evaluar el desempe&ntilde;o energ&eacute;tico del sistema y los resultados del proyecto.</p>
+
+<p>Una vez determinadas dichas actividades, el proceso de verificaci&oacute;n deber&aacute; establecer un nivel de referencia (&ldquo;l&iacute;nea de base&rdquo;) o la medici&oacute;n de las operaciones antes de iniciar el proyecto. Asimismo, el proceso de verificaci&oacute;n deber&aacute; evaluar o medir los resultados al cabo del proyecto. Luego, los resultados estimados o previstos pueden compararse con los datos reales que se obtuvieron de la verificaci&oacute;n del proyecto, para determinar la efectividad del plan de acci&oacute;n.</p>
+
+<p>El proyecto no se habr&aacute; concluido hasta haber terminado la verificaci&oacute;n de los resultados, y que el equipo de proyecto los haya revisado. Los m&eacute;todos de verificaci&oacute;n y los resultados deber&aacute;n registrarse en el plan de acci&oacute;n de gesti&oacute;n energ&eacute;tica.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comunicar las expectativas)</p>
+
+<p>El primer paso para comunicar las expectativas de los proyectos consiste en definirlas en forma detallada en el recurso [resource](Energy_Management_Action_Plan_Template).</p>
+
+<p>Todos los involucrados en los proyectos energ&eacute;ticos deben conocer su funci&oacute;n y sus responsabilidades. Dado que, de manera frecuente, los planes de acci&oacute;n pueden involucrar personal que no forma parte del equipo de gesti&oacute;n energ&eacute;tica, resulta cr&iacute;tico hacer de su conocimiento sus responsabilidades y las expectativas que se tienen de su participaci&oacute;n, para lo cual se recomienda valerse de los m&eacute;todos de comunicaci&oacute;n interna existentes. Una junta de &ldquo;inicio de proyecto&rdquo; que re&uacute;na a todo el personal involucrado puede ser una estrategia efectiva para comunicar las expectativas del proyecto, y puede ayudarles a comprender c&oacute;mo las tareas o acciones asignadas se ajustan a la iniciativa global.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Documentar y actualizar el(los) plan(es) de acci&oacute;n)</p>
+
+<p>La norma ISO 50001 exige que los planes de acci&oacute;n de gesti&oacute;n energ&eacute;tica se documenten, si bien su organizaci&oacute;n est&aacute; en libertad de determinar el formato preferido. Si su organizaci&oacute;n cuenta ya con un formato para planificar la administraci&oacute;n de proyectos, considere compararlo con los requisitos de la norma ISO 50001 en cuanto a planes de acci&oacute;n, y modifique o edite el formato donde sea necesario con objeto de satisfacer estas especificaciones. En caso de que a&uacute;n no cuenten con un formato, considere utilizar el recurso [resource](Energy_Management_Action_Plan_Template).</p>
+
+<p>El equipo de implementaci&oacute;n de proyecto realiza reuniones frecuentes a fin de evaluar el plan de acci&oacute;n, as&iacute; como para determinar el avance en relaci&oacute;n con el calendario. Durante las reuniones del equipo, haga uso del plan de acci&oacute;n para determinar si la implementaci&oacute;n est&aacute; avanzando como se prev&eacute;. Asimismo, aproveche las reuniones con el equipo para determinar si es menester obtener mayores recursos, o si es necesaria la inclusi&oacute;n de actividades adicionales en el plan de acci&oacute;n. Eval&uacute;e y actualice el plan de acci&oacute;n de gesti&oacute;n energ&eacute;tica en conformidad con el calendario, y empl&eacute;elo para comunicarse de manera regular con la administraci&oacute;n.</p>
+
+<p>El recurso [resource](Example_Energy_Management_Action_Plan) ilustra un plan de acci&oacute;n concluido, que incluye la verificaci&oacute;n del logro de un mejor desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Llevar a cabo las acciones apropiadas)</p>
+
+<p>Tomar las acciones apropiadas a fin de implementar un plan de acci&oacute;n implica que el personal correspondiente ejecute de manera eficiente y oportuna sus tareas asignadas. El personal involucrado debe notar cualquier repercusi&oacute;n real o potencial de una de las tareas en otra, de modo que se eviten &ldquo;efectos cascada&rdquo; imprevistos.</p>
+
+<p>Una buena administraci&oacute;n del proyecto ha de asegurar que los planes de acci&oacute;n se implementen de manera correcta. La comunicaci&oacute;n continua ─como el informe de los avances y las reuniones del equipo de proyecto, cuando sea apropiado─ contribuir&aacute; al &eacute;xito. Si requiere m&aacute;s informaci&oacute;n sobre administraci&oacute;n de proyectos, consulte el recurso [resource](Project_Management_for_EnMS_Implementation), que proporciona orientaci&oacute;n sobre las mejores pr&aacute;cticas que se pueden aplicar tanto para la implementaci&oacute;n del sistema de gesti&oacute;n energ&eacute;tica (SGEn) como para los proyectos energ&eacute;ticos que cuentan con planes de acci&oacute;n asociados.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Al momento de planificar el logro de objetivos, las normas ISO 14001:2015 e ISO 9001:2015 solicitan que la organizaci&oacute;n desarrolle informaci&oacute;n similar (mas no id&eacute;ntica) a la que debe incluirse en los planes de acci&oacute;n en conformidad con la norma ISO 50001:2011. Las tres normas se interesan en lo que va a realizarse, en qui&eacute;n ser&aacute; responsable, en los plazos de cumplimiento y en c&oacute;mo se evaluar&aacute;n los resultados. A este respecto, existe gran potencial de integraci&oacute;n de estas actividades de planificaci&oacute;n entre las tres normas. La diferencia principal entre ellas consiste en que la norma ISO 50001 utiliza la &ldquo;planificaci&oacute;n&rdquo; a fin de lograr tanto los objetivos como las metas, mientras que las normas ISO 14001 e ISO 9001 no emplean el concepto &ldquo;metas&rdquo;.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>El paso 3.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) proporciona algunas recomendaciones para estimar la mejora potencial, incluida la evaluaci&oacute;n de oportunidades para reducir el consumo energ&eacute;tico.</p>
+
+<p>Los pasos 4 y 5 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management) se relacionan completamente con la elaboraci&oacute;n e implementaci&oacute;n de planes de acci&oacute;n. El material de orientaci&oacute;n incluido en la presente tarea del Navegador 50001 Ready contiene lineamientos similares y recursos &uacute;tiles, como una plantilla para elaborar un plan de acci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

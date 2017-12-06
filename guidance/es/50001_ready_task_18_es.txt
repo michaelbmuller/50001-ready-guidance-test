@@ -1,0 +1,93 @@
+USDOE 50001 READY NAVIGATOR TASK 18
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Consideración de la energía en el diseño
+----------TITLE----------
+Tarea 18: Consideramos las oportunidades de desempeño energético al diseñar instalaciones, equipos, sistemas y procesos nuevos, modificados o renovados
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilice el recurso [resource](Energy_Considerations_Design_Worksheet) para identificar y evaluar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y de los controles operativos en las actividades relacionadas con el dise&ntilde;o.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>En la norma ISO 50001, los requisitos de dise&ntilde;o no est&aacute;n asociados con el dise&ntilde;o de productos o servicios, sino m&aacute;s bien se aplican al desarrollo de instalaciones, equipos, sistemas y procesos nuevos, modificados y renovados que puedan tener un impacto importante en el desempe&ntilde;o energ&eacute;tico. El <em>desempe&ntilde;o energ&eacute;tico</em> se define como los resultados cuantificables relacionados con la eficiencia energ&eacute;tica y el uso y consumo de energ&iacute;a. Los requisitos de dise&ntilde;o de la norma ISO 50001 incorporan las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y el control operativo como elementos a ser considerados en las actividades de dise&ntilde;o. Esto puede proporcionar las bases para lograr dise&ntilde;os m&aacute;s innovadores y de mayor eficiencia energ&eacute;tica.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado&hellip;</strong></p>
+
+<ul>
+	<li>identificar las instalaciones, equipos, sistemas y procesos que puedan tener un impacto significativo en el desempe&ntilde;o energ&eacute;tico;</li>
+	<li>incorporar consideraciones en cuanto a oportunidades energ&eacute;ticas y de control operativo en el dise&ntilde;o de proyectos;</li>
+	<li>incluir los resultados de la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico en las especificaciones, el dise&ntilde;o y las adquisiciones, y</li>
+	<li>registrar los resultados obtenidos de las actividades de dise&ntilde;o.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado 4.5.6 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identificar instalaciones, equipos, sistemas y procesos que puedan tener un impacto significativo en el desempe&ntilde;o energ&eacute;tico)</p>
+
+<p>Cualquier instalaci&oacute;n, equipo, sistema o proceso al alcance del SGEn, que pueda tener un impacto significativo en el desempe&ntilde;o energ&eacute;tico, debe considerarse entre los requisitos de dise&ntilde;o de la norma ISO 50001. Esto significa que, al dise&ntilde;ar, renovar o modificar nuevas instalaciones, equipos, sistemas y procesos que puedan tener un efecto importante en la eficiencia energ&eacute;tica y en el uso o consumo de energ&iacute;a, han de tomarse en consideraci&oacute;n las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y los controles operativos relacionados.</p>
+
+<p>Las instalaciones, equipos, sistemas y procesos que puedan afectar el desempe&ntilde;o energ&eacute;tico variar&aacute;n seg&uacute;n las especificaciones del proyecto. Como m&iacute;nimo, entre los elementos que pueden afectar significativamente el desempe&ntilde;o energ&eacute;tico se incluyen instalaciones, equipos, sistemas o procesos asociados con:</p>
+
+<ul>
+	<li>gesti&oacute;n y el funcionamiento de los usos significativos de energ&iacute;a;</li>
+	<li>alcance de los objetivos energ&eacute;ticos, metas y planes de acci&oacute;n, e</li>
+	<li>indicadores de desempe&ntilde;o energ&eacute;tico (IDEn).</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Incorporar la consideraci&oacute;n de las oportunidades energ&eacute;ticas y de control operativo en los proyectos de dise&ntilde;o).</p>
+
+<p>Al dise&ntilde;ar nuevas instalaciones, equipos, sistemas y procesos, o al renovar o modificar los existentes, piense en c&oacute;mo se afecta o afectar&aacute; el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Identifique las mejoras de desempe&ntilde;o energ&eacute;tico que pueden tomarse en cuenta en el dise&ntilde;o. Asimismo, identifique los controles operativos que puedan ser necesarios. Esto podr&iacute;a incluir los controles necesarios para lograr la mejora del desempe&ntilde;o energ&eacute;tico o, al menos, para minimizar (o gestionar apropiadamente) los impactos del dise&ntilde;o en el desempe&ntilde;o energ&eacute;tico en su empresa.</p>
+
+<p>Los siguientes son algunos ejemplos de dise&ntilde;o que mejoran el desempe&ntilde;o energ&eacute;tico:</p>
+
+<ul>
+	<li>Dise&ntilde;o de iluminaci&oacute;n para su ajuste autom&aacute;tico, seg&uacute;n la cantidad de luz natural presente (equipos).</li>
+	<li>Dise&ntilde;o de sistemas de climatizaci&oacute;n que utilicen un enfriador central refrigerado con agua en lugar de un sistema separado de enfriamiento con aire (sistema).</li>
+	<li>Dise&ntilde;o de un proceso de moldeado, de forma que las bombas hidr&aacute;ulicas bombeen s&oacute;lo el volumen necesario en lugar de operar a plena velocidad y con un m&aacute;ximo volumen de bombeo (procesos).</li>
+</ul>
+
+<p>Cuando dise&ntilde;e instalaciones, equipos, sistemas y procesos nuevos, modificados o renovados h&aacute;gase, entre otras, las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; caracter&iacute;sticas de este elemento tienen un impacto en el consumo de energ&iacute;a (pasado, actual o futuro)?</li>
+	<li>&iquest;D&oacute;nde y c&oacute;mo es posible reducir el consumo de energ&iacute;a?</li>
+</ul>
+
+<p>Al evaluar las posibilidades de mejora del desempe&ntilde;o energ&eacute;tico, considere los siguientes aspectos:</p>
+
+<ul>
+	<li>&iquest;C&oacute;mo se modificar&aacute;n las instalaciones, equipos, sistemas y procesos existentes?</li>
+	<li>&iquest;Qu&eacute; elementos espec&iacute;ficos pueden cambiarse para modificar la eficiencia energ&eacute;tica y reducir el consumo de energ&iacute;a con el tiempo?</li>
+	<li>&iquest;Cu&aacute;l es la fuente adecuada de energ&iacute;a?</li>
+	<li>&iquest;Cu&aacute;les son las opciones tecnol&oacute;gicas?</li>
+	<li>&iquest;Qu&eacute; controles operativos son necesarios para lograr y mantener el desempe&ntilde;o energ&eacute;tico proyectado en el dise&ntilde;o?</li>
+</ul>
+
+<p>Para que los dise&ntilde;os energ&eacute;ticamente eficaces alcancen su pleno potencial, el proceso de dise&ntilde;o debe combinarse con un adecuado control operativo. Dado que los controles de los equipos pueden omitirse o desactivarse, debe combinarse una estrategia de control operativo con un dise&ntilde;o eficiente con el fin de asegurar el logro del ahorro proyectado.</p>
+
+<p>El recurso [resource](Energy_Considerations_Design_Worksheet) puede ser de utilidad para identificar y evaluar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico y los controles operativos en el proceso de dise&ntilde;o.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Incluir los resultados de la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico en las especificaciones, el dise&ntilde;o y las adquisiciones)</p>
+
+<p>Una vez respondidas las preguntas precedentes, tome las medidas necesarias para mejorar el desempe&ntilde;o energ&eacute;tico. Los resultados de la evaluaci&oacute;n del desempe&ntilde;o energ&eacute;tico deben integrarse, seg&uacute;n proceda, a las especificaciones, al dise&ntilde;o y a las actividades de adquisici&oacute;n relacionadas con el proyecto. Esto deber&aacute; asegurar la implementaci&oacute;n de las decisiones sobre eficiencia energ&eacute;tica en relaci&oacute;n con el dise&ntilde;o. La incorporaci&oacute;n de los resultados a las especificaciones y actividades de adquisici&oacute;n asegurar&aacute; la informaci&oacute;n necesaria para realizar la funci&oacute;n de compras; garantizar&aacute; el conocimiento de los requisitos en materia de adquisiciones para apoyar la mejora del desempe&ntilde;o energ&eacute;tico, y proporcionar&aacute; la justificaci&oacute;n de cualquier costo adicional.</p>
+
+<p>Cuando dise&ntilde;e o mejore instalaciones, equipos, sistemas o procesos que puedan tener un impacto significativo en el desempe&ntilde;o energ&eacute;tico, preste atenci&oacute;n especial a c&oacute;mo se especifican, aplican y utilizan las nuevas tecnolog&iacute;as &ldquo;energ&eacute;tico-eficientes&rdquo;, con el fin de evitar una mala aplicaci&oacute;n. La instalaci&oacute;n de equipos eficientes en su consumo energ&eacute;tico no asegura una mayor eficiencia si las modificaciones no se especificaron correctamente. M&aacute;s a&uacute;n, ninguna tecnolog&iacute;a &ldquo;energ&eacute;tico-eficiente&rdquo; posibilitar&aacute; ahorros si se instala o programa incorrectamente. (V&eacute;ase el recurso [resource](Example_Misapplications_Energy_Efficient_Technologies).)</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Registrar los resultados de las actividades de dise&ntilde;o)</p>
+
+<p>Conserve un registro de los resultados de las actividades de dise&ntilde;o para demostrar que las consideraciones en materia de energ&iacute;a se trataron debidamente durante el proceso. Esto puede tomar una variedad de formas, tales como una lista de comprobaci&oacute;n completada, las actas de las reuniones, los gr&aacute;ficos de dise&ntilde;o, las especificaciones de compra, los registros del proyecto y mucho m&aacute;s.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Para aquellas organizaciones que cuentan con una certificaci&oacute;n ISO 9001:2015 del sistema de gesti&oacute;n de calidad, o ISO 14001:2015 del sistema de gesti&oacute;n ambiental, es muy importante tener en cuenta que los requisitos de dise&ntilde;o de la norma ISO 50001:2011 <em>no</em> incluyen el dise&ntilde;o de productos y servicios. Sin embargo, los procesos de la norma ISO 9001 para infraestructura, de medio ambiente para operaci&oacute;n, planificaci&oacute;n y control de cambios, y control de procesos, productos y servicios suministrados externamente, pueden aprovecharse (con algunas modificaciones) para ayudar a satisfacer los requisitos de dise&ntilde;o de la norma ISO 50001 <em>en relaci&oacute;n con instalaciones, equipos, sistemas y procesos nuevos, modificados y renovados</em>.<em> </em>Los procesos de la norma ISO 14001:2015 de control de cambios planificados, podr&iacute;an constituir un punto de partida para satisfacer los requisitos de dise&ntilde;o de la norma ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Cuando implemente un SGEn, puede resultar necesario revisar los detalles de sobre gesti&oacute;n de dise&ntilde;o contenidos en el apartado 4.2 del recurso [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Un SGEn ampl&iacute;a su metodolog&iacute;a en los requisitos de dise&ntilde;o para instalaciones, equipos, sistemas y procesos. Los registros de los resultados de las evaluaciones de desempe&ntilde;o energ&eacute;tico se vuelven necesarios tambi&eacute;n respecto de los dise&ntilde;os.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,625 @@
+USDOE 50001 READY NAVIGATOR TASK 19
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Documentación y registros
+----------TITLE----------
+Tarea 19: Hemos diseñado y puesto en operación procesos para controlar los registros y documentos del programa 50001 Ready
+----------GETTING IT DONE----------
+<ul>
+	<li>Entienda la diferencia entre documentos y registros.</li>
+	<li>Utilice el recurso [resource](EnMS_Document_Control_Index) a efecto de enlistar documentos del SGEn, nombrar a &ldquo;propietarios&rdquo; de documentos y a los responsables de su aprobaci&oacute;n, y definir los controles para su distribuci&oacute;n y las posteriores revisiones peri&oacute;dicas. Responsabilice a los propietarios de los documentos de ce&ntilde;irse a los controles establecidos y asegurarse de que los documentos sean legibles, identificables y rastreables.</li>
+	<li>Utilice el recurso [resource](EnMS_Records_Control_Index) a fin de enlistar los registros del SGEn, nombrar a propietarios de los registros, y definir, para los distintos tipos de registro, los tiempos de almacenamiento y recuperaci&oacute;n, as&iacute; como los m&iacute;nimos de retenci&oacute;n. Responsabilice a los propietarios de los registros de ce&ntilde;irse a los controles establecidos y asegurarse de que los registros sean legibles, identificables y rastreables.</li>
+	<li>Si su organizaci&oacute;n cuenta ya con un sistema de control de documentos, comp&aacute;relo con los elementos que se presentan en el recurso [resource](Checklist_Document_Control_Basics) y realice las adaptaciones necesarias para que su sistema efectivamente se ci&ntilde;a a la norma ISO 50001. Si su organizaci&oacute;n cuenta ya con una pol&iacute;tica de registros, aseg&uacute;rese de que los controles que se instrumenten para los registros del SGEn sean consistentes con los requisitos de dicha pol&iacute;tica.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La documentaci&oacute;n es un componente clave para todo SGEn, ya que no s&oacute;lo contribuye a la instrumentaci&oacute;n del mismo y a garantizar su adecuado funcionamiento a lo largo del tiempo, sino que resulta fundamental para dar cuenta de los resultados obtenidos. Existen dos tipos o categor&iacute;as b&aacute;sicas de documentaci&oacute;n: los <em>documentos,</em> que proporcionan informaci&oacute;n de utilidad para encauzar acciones o comunicar expectativas presentes (del d&iacute;a de hoy), y los <em>registros</em>, que brindan informaci&oacute;n sobre el pasado (&ldquo;instant&aacute;neas en el tiempo&rdquo;).</p>
+
+<p>En la norma ISO 50001, ciertos documentos y registros se requieren en forma expl&iacute;cita, en tanto que otros elementos de la documentaci&oacute;n dependen de lo que la propia organizaci&oacute;n determine o decida, con base en necesidades particulares. El recurso [resource](EnMS_Documentation_Guidance_Table) proporciona una lista completa de los documentos y registros que la norma ISO 50001 exige, as&iacute; como de aquellos sobre los que su organizaci&oacute;n debe tomar alguna decisi&oacute;n (marcado en el cuadro como &lsquo;Decisi&oacute;n requerida&rsquo;).</p>
+
+<p>Algunas de las tareas previas del programa 50001 Ready han proporcionado orientaci&oacute;n en detalle sobre la creaci&oacute;n o integraci&oacute;n del contenido de algunos de los documentos requeridos, tales como alcance y l&iacute;mites del SGEn ([task](Scope and Boundaries)), pol&iacute;tica energ&eacute;tica ([task](Energy Policy)), objetivos, metas y planes de acci&oacute;n energ&eacute;ticos ([task](Baselines, Objectives and Targets) y [task](Improvement Projects)), as&iacute; como procesos de auditor&iacute;a interna ([task](Internal Audit)).</p>
+
+<p>En un SGEn basado en la norma ISO 50001:2011 de mejora continua, la organizaci&oacute;n deber&aacute;: 1) decidir de qu&eacute; manera cumplir&aacute; con los requisitos del SGEn, de modo que logre una mejora continua tanto en el desempe&ntilde;o energ&eacute;tico como en el SGEn, y 2) llevar informaci&oacute;n que describa los elementos principales que constituyen el SGEn y la forma en que interact&uacute;an, lo cual puede lograrse mediante el dise&ntilde;o e instrumentaci&oacute;n de un manual sobre eficiencia energ&eacute;tica. Aunque el uso de semejante manual no es requisito, s&iacute; se recomienda ampliamente como m&eacute;todo para ordenar en un solo documento todos los elementos del SGEn de su organizaci&oacute;n. &nbsp;</p>
+
+<p>Tanto los documentos como los registros se controlan por separado bajo distintos conjuntos de requisitos de la norma ISO 50001:2011. Es recomendable mantener los controles simples, a fin de facilitar la instrumentaci&oacute;n reducir la cantidad de recursos necesarios para mantener los controles en el futuro. Los procesos deben estar en su lugar, de manera que se pueda mantener control sobre todos los documentos y registros del SGEn.</p>
+
+<p><strong>Una vez concluida esta tarea, se habr&aacute; logrado</strong><strong>&hellip;</strong></p>
+
+<ul>
+	<li>establecer qu&eacute; documentos del SGEn son necesarios;</li>
+	<li>determinar qu&eacute; registros del SGEn son necesarios;</li>
+	<li>dise&ntilde;ar un manual sobre eficiencia energ&eacute;tica (opcional);</li>
+	<li>definir e instrumentar los controles de documentos, y</li>
+	<li>definir e instrumentar los controles de registros.</li>
+</ul>
+
+<p><em>Estos lineamientos y orientaci&oacute;n se aplican a los apartados 4.1 c), 4.5.4.1, 4.5.4.2 y 4.6.5 de la norma ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Establecer los documentos del SGEn necesarios)</p>
+
+<p>Los documentos proporcionan informaci&oacute;n necesaria para orientar la acci&oacute;n y comunicar expectativas. Se utilizan para exponer e instrumentar las pol&iacute;ticas y compromisos en curso.</p>
+
+<p>[Learn More](Ejemplos de documentos gen&eacute;ricos)</p>
+
+<p><strong>Ejemplos de documentos gen&eacute;ricos</strong></p>
+
+<ul>
+	<li>Pol&iacute;ticas</li>
+	<li>Procedimientos del sistema</li>
+	<li>Procedimientos operativos</li>
+	<li>Instrucciones de trabajo</li>
+	<li>Manuales</li>
+	<li>Planes y programas</li>
+	<li>Dibujos y diagramas</li>
+	<li>Normas y especificaciones</li>
+	<li>Videos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Ejemplos de documentos de un SGEn)</p>
+
+<p><strong>Ejemplos de documentos de un SGEn</strong></p>
+
+<ul>
+	<li>Descripci&oacute;n de los elementos principales que integran el SGEn y la forma en que interact&uacute;an</li>
+	<li>Pol&iacute;tica energ&eacute;tica</li>
+	<li>Objetivos y metas energ&eacute;ticas</li>
+	<li>Planes de acci&oacute;n para la gesti&oacute;n energ&eacute;tica</li>
+	<li>Metodolog&iacute;a y criterios empleados para elaborar el diagn&oacute;stico energ&eacute;tico</li>
+	<li>Metodolog&iacute;a para establecer y actualizar los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn)</li>
+	<li>Otros documentos que se juzguen necesarios</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Los documentos expresan expectativas: gu&iacute;an nuestro comportamiento, nuestras actividades y operaciones; nos brindan informaci&oacute;n en torno al &ldquo;qu&eacute;&rdquo;, al &ldquo;cu&aacute;ndo&rdquo;, al &ldquo;qui&eacute;n&rdquo; y, a veces, al &ldquo;c&oacute;mo&rdquo;. Un repaso a las siguientes preguntas ayudar&aacute; a su organizaci&oacute;n a definir los documentos del SGEn necesarios.</p>
+
+<p>[Learn More](En qu&eacute; reside el valor de la documentaci&oacute;n?)</p>
+
+<p>La documentaci&oacute;n proporciona una serie de beneficios para una organizaci&oacute;n. Por ejemplo, los documentos brindan orientaci&oacute;n a empleados regulares o a quienes han asumido un nuevo papel dentro de la organizaci&oacute;n o se han hecho responsables de una nueva posici&oacute;n. Los documentos relevantes pueden orientar en los procesos, operaciones y actividades asociadas con funciones laborales espec&iacute;ficas. Asimismo, comunican expectativas respecto del desempe&ntilde;o de las responsabilidades del empleado, as&iacute; como de la labor de los otros miembros de un departamento o &aacute;rea de trabajo.</p>
+
+<p>A menudo, los documentos tienen como funci&oacute;n facilitar la labor de capacitaci&oacute;n, dado que por lo general proveen informaci&oacute;n que apoya y refuerza el aprendizaje y sensibilizaci&oacute;n que se va generando durante los ejercicios de capacitaci&oacute;n. Cuando se emplean de manera adecuada, los documentos contribuyen a que las actividades se lleven a cabo de forma consistente. Tambi&eacute;n son &uacute;tiles para definir y comunicar expectativas y requerimientos a los contratistas y proveedores.</p>
+
+<p>Los registros relativos a las actividades que se han llevado a cabo son &uacute;tiles como prueba de que las acciones que se realizaron fueron las apropiadas. Por otra parte, &nbsp;sirven tambi&eacute;n como referencia (&ldquo;l&iacute;nea de base&rdquo;) para la realizaci&oacute;n de an&aacute;lisis de datos, e incluso como medio de monitoreo del desempe&ntilde;o energ&eacute;tico, dado que se utilizan para tomar nota de los resultados obtenidos. Tambi&eacute;n pueden ser de ayuda a la organizaci&oacute;n al servir como memoria de sus actividades. Los registros de lo que se hizo en el pasado y de los logros obtenidos son de utilidad, por ejemplo, cuando con el tiempo hay rotaci&oacute;n de personal o abandono de puestos, y esa memoria institucional corre el riesgo de perderse.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;Cu&aacute;les son los factores generales que afectan el alcance de la documentaci&oacute;n dentro de una organizaci&oacute;n?)</p>
+
+<p>No es raro que se den percepciones equ&iacute;vocas sobre el nivel de documentaci&oacute;n que se requiere para un sistema de gesti&oacute;n basado en la mejora continua. Debe tenerse en cuenta que los sistemas de gesti&oacute;n basados en el modelo Planificar-Hacer-Verificar-Actuar (PHVA) de mejora continua &mdash;como los que se emplean en energ&iacute;a, calidad, medio ambiente, seguridad y salud, entre otras &aacute;reas&mdash; est&aacute;n pensados para servir como sistemas de gesti&oacute;n documentados y no como sistemas de documentos.</p>
+
+<p>Los factores generales que afectan el alcance de la documentaci&oacute;n dentro de una organizaci&oacute;n incluyen:</p>
+
+<ul>
+	<li>Tama&ntilde;o de la organizaci&oacute;n</li>
+	<li>Tipos de actividades (nivel de riesgo)</li>
+	<li>Complejidad de los procesos y sus interacciones</li>
+	<li>Competencias del personal</li>
+</ul>
+
+<p>El alcance de la documentaci&oacute;n de un sistema de gesti&oacute;n var&iacute;a de una organizaci&oacute;n a otra. Aquellas con un n&uacute;mero nutrido de personal tienden a hacer mayor uso de la documentaci&oacute;n que las organizaciones m&aacute;s peque&ntilde;as. Los tipos de activos, as&iacute; como la complejidad de los procesos y sus interacciones, tambi&eacute;n inciden en el alcance que puede tener la documentaci&oacute;n dentro de una organizaci&oacute;n. Los procesos complejos y las actividades de alto riesgo tienden a documentarse m&aacute;s exhaustivamente &mdash;tanto en t&eacute;rminos de documentos como de registros&mdash;, que los procesos simples y las actividades de bajo riesgo.</p>
+
+<p>Las competencias del personal tambi&eacute;n constituyen otro factor de influencia en la toma de decisiones respecto de la documentaci&oacute;n requerida. Por regla general, mientras m&aacute;s alto el nivel de competencias del personal menos ser&aacute;n los documentos que se necesiten. Una evaluaci&oacute;n de las competencias del personal a la hora de decidir si se requiere o no de documentos, deber&iacute;a tomar en consideraci&oacute;n la solidez del sistema de capacitaci&oacute;n continua de la organizaci&oacute;n. Para la mayor&iacute;a de las organizaciones, capacitaci&oacute;n y documentaci&oacute;n constituyen en s&iacute; un acto de equilibrio; es decir, que las organizaciones con sistemas de capacitaci&oacute;n s&oacute;lidos tienden a requerir menos documentos, en tanto que las organizaciones con menores recursos para capacitaci&oacute;n tal vez requerir&aacute;n de m&aacute;s documentaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;Cu&aacute;ndo se decide qu&eacute; documentaci&oacute;n adicional se requiere del SGEn?)</p>
+
+<p>La toma de decisiones sobre si es necesaria la documentaci&oacute;n constituye un proceso continuo durante la fase inicial de instrumentaci&oacute;n de un SGEn. Conforme se avanza en el desarrollo e instrumentaci&oacute;n del SGEn, se recomienda apoyarse en el equipo de gesti&oacute;n energ&eacute;tica para planificar c&oacute;mo se habr&aacute;n de abordar los puntos relativos a la documentaci&oacute;n y cu&aacute;ndo se tomar&aacute;n las decisiones pertinentes.</p>
+
+<p>Tambi&eacute;n tome en cuenta que, aunque son pocos los requerimientos espec&iacute;ficos de documentaci&oacute;n, muchos son los verbos de acci&oacute;n (por ejemplo, asignar, definir, identificar, etc.) que se asocian con los requisitos b&aacute;sicos de un SGEn basado en la norma ISO 50001, y &eacute;stos pueden verse como oportunidades para iniciar una conversaci&oacute;n entre los miembros del equipo de gesti&oacute;n energ&eacute;tica y los otros en torno a qu&eacute; documentaci&oacute;n podr&iacute;a hacer falta.</p>
+
+<p><strong>Verbos de acci&oacute;n relativos a la norma ISO 50001 que dan pie a puntos para la toma de decisiones conveniente para el SGEn:</strong></p>
+
+<ul>
+	<li>abordar</li>
+	<li>asignar</li>
+	<li>considerar</li>
+	<li>definir</li>
+	<li>determinar</li>
+	<li>establecer</li>
+	<li>evaluar</li>
+	<li>identificar</li>
+	<li>instrumentar</li>
+	<li>informar</li>
+	<li>planificar</li>
+	<li>revisar</li>
+</ul>
+
+<p>Con una adecuada asignaci&oacute;n de recursos adicionales destinados a capacitaci&oacute;n, sensibilizaci&oacute;n y comunicaci&oacute;n, una organizaci&oacute;n puede &ldquo;establecer&rdquo; e &ldquo;instrumentar&rdquo; los procesos y procedimientos que no han sido documentados. El recurso [resource](EnMS_Documentation_Guidance_Table)<strong><em> </em></strong>[cuadro de orientaci&oacute;n sobre documentaci&oacute;n] identifica la mayor parte de los elementos del SGEn basados en la acci&oacute;n como puntos respecto de los que se requiere una decisi&oacute;n sobre la necesidad &mdash;o no&mdash; de documentos que apoyen su instrumentaci&oacute;n.</p>
+
+<p>No est&aacute; de m&aacute;s repetir que las organizaciones que realizan inversiones fuertes en capacitaci&oacute;n continua de su personal logran mantenerse con un m&iacute;nimo de procedimientos documentados, instrucciones de trabajo u otros documentos similares. A la hora de decidir si debe o no documentarse un procedimiento o proceso que no requiere de documentaci&oacute;n, un factor clave a considerar es qu&eacute; recursos hay disponibles para capacitaci&oacute;n adicional si no se documenta un proceso. Ahora bien, aun si se completa una capacitaci&oacute;n adicional a fin de reducir el n&uacute;mero de documentos necesarios, se requerir&aacute; de cualquier manera de los correspondientes registros de la capacitaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;C&oacute;mo se decide qu&eacute; documentaci&oacute;n adicional relativa al SGEn se requiere?)</p>
+
+<p>Las decisiones respecto de la documentaci&oacute;n adicional necesaria por lo general se toman a efecto de asegurar una instrumentaci&oacute;n y mantenimiento efectivos del SGEn y proporcionar pruebas del mejoramiento continuo tanto del SGEn como del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Para ayudar a su organizaci&oacute;n a decidir qu&eacute; otros documentos (adem&aacute;s de los obligatorios) necesita su SGEn conforme a la norma ISO 50001, establezca ciertas &ldquo;reglas de oro&rdquo; y otros criterios. Ya se mencionaron algunos de los factores que influyen sobre las decisiones en torno al n&uacute;mero de documentos (v&eacute;ase arriba: &lsquo;&iquest;Cu&aacute;les son los factores generales que afectan el alcance de la documentaci&oacute;n dentro de una organizaci&oacute;n?&rsquo;). Otros factores relevantes incluyen requisitos legales, requisitos del cliente y previas no-conformidades. Algunos ejemplos sobre posibles factores o criterios para ayudar a su organizaci&oacute;n a decidir qu&eacute; documentos necesita, se encuentran en la lista de verificaci&oacute;n sobre toma de decisiones en torno a la documentaci&oacute;n relativa al SGEn (<em>Making Decisions on EnMS Documentation Checklist</em>).</p>
+
+<p>Por &uacute;ltimo, cuando se toman decisiones relacionadas con documentaci&oacute;n no debe pasarse por alto la posibilidad de aprovechar procedimientos ya en uso y otros documentos, y modificarlos a fin de incluir la gesti&oacute;n de energ&iacute;a. Este es un enfoque que aprovecha recursos para documentar informaci&oacute;n relativa al SGEn sin crear nuevos documentos que requieran gesti&oacute;n. Cuando se cuenta con un m&iacute;nimo de documentos, o si la integraci&oacute;n con lo que ya se tiene no es posible, entonces debe usarse lo que hay a la mano y adaptarlo al SGEn.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;Cu&aacute;les son los factores de &eacute;xito para la documentaci&oacute;n?)</p>
+
+<p>Entre los factores de &eacute;xito por cuanto a documentos de un SGEn destacan los siguientes:</p>
+
+<ul>
+	<li>Contar con documentos relativos a un SGEn que se requieren o se han juzgado necesarios</li>
+	<li>Evitar a toda costa la sobredocumentaci&oacute;n</li>
+	<li>Elaborar los documentos a partir del aporte de los usuarios</li>
+	<li>Valerse de formatos y medios de uso f&aacute;cil para los documentos del SGEn</li>
+	<li>Delimitar claramente responsabilidades y autoridades competentes</li>
+	<li>Actualizar los documentos seg&uacute;n se necesite</li>
+</ul>
+
+<p>Recuerde que, independientemente de qu&eacute; documentos &mdash;necesarios o no&mdash; integren su SGEn, es necesario tener control sobre ellos. Lo mismo que en otros procesos del SGEn, el control de los documentos supone un aporte continuo de recursos para, por ejemplo en este caso, garantizar que los controles sobre los documentos se apliquen correctamente y se mantengan. En el caso de un sistema sobredocumentado, los recursos pueden verse agotados o incluso desperdiciados cuando hay documentaci&oacute;n innecesaria.</p>
+
+<p>Para que una documentaci&oacute;n sea exitosa, deber&aacute;n atenderse las necesidades del usuario. Si se aprovecha la participaci&oacute;n de los usuarios en la elaboraci&oacute;n de los documentos, aumentar&aacute; la probabilidad de que tales documentos sean relevantes, acertados y est&eacute;n al d&iacute;a, y que sirvan de gu&iacute;a al personal apropiado. Recuerde que los documentos no necesariamente deben ser &ldquo;texto impreso&rdquo;. El medio o formato que mejor funcione ser&aacute; aceptable.</p>
+
+<p>Las responsabilidades claramente delimitadas y una autoridad competente contribuyen al &eacute;xito de la documentaci&oacute;n ya que garantizan la propiedad de la informaci&oacute;n y la aplicaci&oacute;n de los controles de los documentos delimitados. Es de esperarse que haya cambios, de modo que los documentos deben poder mantenerse al margen de todo plan, programa, procedimiento, pr&aacute;ctica o proceso en curso.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;Qu&eacute; documentos se requieren para el sistema de gesti&oacute;n de energ&iacute;a basado en la norma ISO 50001?)</p>
+
+<p>El SGEn basado en la norma ISO 50001 es poco exigente en el n&uacute;mero de documentos requeridos. Por ejemplo, no hay requerimientos expl&iacute;citos relativos a &ldquo;procedimientos documentados&rdquo; y para los &ldquo;procesos documentados&rdquo;, los requisitos son limitados. S&iacute; se requiere documentar los procesos de planificaci&oacute;n energ&eacute;tica y auditor&iacute;as internas, pero la mayor parte de las decisiones sobre la documentaci&oacute;n requerida se reservan a la organizaci&oacute;n, de manera que &eacute;sta goza de <em>flexibilidad y responsabilidad</em> para definir qu&eacute; documentos se necesitan para asegurar una instrumentaci&oacute;n y mantenimiento efectivos de su SGEn.</p>
+
+<p>La norma ISO 50001 s&iacute; exige que se documenten ciertas cosas; por ejemplo, la informaci&oacute;n que describe los elementos esenciales de un SGEn y la manera en que interact&uacute;an. Muchas organizaciones elaboran un manual de gesti&oacute;n de energ&iacute;a a fin de cumplir con este requisito, aun si contar con un manual de este tipo resulta totalmente opcional. Otros aspectos que deben documentarse incluyen pol&iacute;ticas, objetivos y metas energ&eacute;ticas, as&iacute; como planes de acci&oacute;n de gesti&oacute;n de energ&iacute;a. Este tipo de documentos y otros similares aparecen enlistados en el recurso [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir los registros del SGEn necesarios)</p>
+
+<p>Los registros sirven para dar cuenta de la historia pasada, al plasmar una acci&oacute;n o actividad que se realiz&oacute; o se defini&oacute; o logr&oacute; concretar (es decir, que dio resultados). Los registros garantizan que quedar&aacute;n pruebas claras de actividades o resultados, proporcionan una base para el an&aacute;lisis de datos y sirven como &ldquo;memoria organizacional&rdquo; para quienes luego vengan. Los registros pueden presentarse de diversas formas.</p>
+
+<p>[Learn More](Ejemplos de registros gen&eacute;ricos)</p>
+
+<ul>
+	<li>Informes</li>
+	<li>An&aacute;lisis de datos</li>
+	<li>Minutas de juntas de trabajo</li>
+	<li>Certificados de capacitaci&oacute;n</li>
+	<li>Formularios rellenados</li>
+	<li>Bases de datos</li>
+	<li>Hojas de c&aacute;lculo</li>
+</ul>
+
+<p>&nbsp;[Learn More End]</p>
+
+<p>[Learn More](Ejemplos de registros de un SGEn)</p>
+
+<ul>
+	<li>Diagn&oacute;stico energ&eacute;tico</li>
+	<li>L&iacute;nea de base energ&eacute;tica</li>
+	<li>Indicadores de desempe&ntilde;o energ&eacute;tico (IDE)</li>
+	<li>Registros de capacitaci&oacute;n</li>
+	<li>Decisi&oacute;n respecto de la comunicaci&oacute;n externa</li>
+	<li>Resultados de actividades de dise&ntilde;o</li>
+	<li>Resultados del monitoreo y medici&oacute;n</li>
+	<li>Resultados del desempe&ntilde;o energ&eacute;tico</li>
+	<li>Resultados de la auditor&iacute;a</li>
+	<li>Registros de la revisi&oacute;n gerencial</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Los registros relativos a las actividades que se han llevado a cabo son &uacute;tiles como prueba de que las acciones que se realizaron fueron las apropiadas. Asimismo, dado que los registros se utilizan para plasmar los resultados obtenidos, tambi&eacute;n proporcionan una excelente base para el an&aacute;lisis de datos, incluida la verificaci&oacute;n del desempe&ntilde;o energ&eacute;tico. Tambi&eacute;n pueden ser de ayuda a la organizaci&oacute;n al servir como memoria de sus actividades. Los registros de lo que se hizo en el pasado y de los logros obtenidos es de utilidad, por ejemplo, cuando con el tiempo hay rotaci&oacute;n de personal o abandono de puestos, y esa memoria institucional corre el riesgo de perderse.</p>
+
+<p>[Learn More]<strong> (&iquest;Qu&eacute; registros se requieren para el sistema de gesti&oacute;n de energ&iacute;a</strong>?)</p>
+
+<p>Aunque es necesario registrar una gran variedad de informaci&oacute;n dentro del SGEn, al igual que con los documentos, la organizaci&oacute;n ser&aacute; la responsable de definir qu&eacute; registros adicionales necesita a fin de demostrar conformidad con los requisitos del SGEn y los resultados del desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>Algunos aspectos que es necesario registrar son: l&iacute;nea de base energ&eacute;tica, resultados del monitoreo y la medici&oacute;n, resultados de auditor&iacute;as y revisi&oacute;n gerencial. &Eacute;stos y otros registros se enlistan en el recurso [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More](&iquest;Cu&aacute;les son los factores de &eacute;xito de un registro?)</p>
+
+<p>Los factores de &eacute;xito de un registro incluyen:</p>
+
+<ul>
+	<li>Cumplir con requisitos b&aacute;sicos del SGEn</li>
+	<li>Dar cuenta de lo que se hizo</li>
+	<li>Demostrar el logro de un desempe&ntilde;o energ&eacute;tico mejorado</li>
+	<li>Documentar qui&eacute;nes son los &ldquo;propietarios de registros&rdquo; asignados</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>El recurso [resource](EnMS_Records_Check_Use_Evidence) podr&aacute; ayudarle a entender de qu&eacute; manera los diferentes registros del SGEn demuestran o proporcionan pruebas de que se cumple con los requisitos del SGEn y con el logro de mejoras en el desempe&ntilde;o energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Elaborar un manual sobre eficiencia energ&eacute;tica (mejor pr&aacute;ctica))</p>
+
+<p>La norma ISO 50001 no exige la elaboraci&oacute;n de un manual sobre eficiencia energ&eacute;tica, aunque es muy recomendable hacerlo, ya que un manual comporta varios beneficios:</p>
+
+<ul>
+	<li>Como resumen o vista general documentada del SGEn aprobada por la alta direcci&oacute;n, el manual sobre eficiencia energ&eacute;tica sirve como herramienta para establecer y comunicar los compromisos de gesti&oacute;n de energ&iacute;a de la organizaci&oacute;n.</li>
+	<li>El manual sobre eficiencia energ&eacute;tica es de utilidad para la gerencia, los empleados y, potencialmente, para otros grupos de inter&eacute;s, al servir de &ldquo;mapa de ruta&rdquo; al SGEn con informaci&oacute;n sobre los componentes del sistema, la manera en que &eacute;stos interact&uacute;an, e indicaciones relativas a los procesos, procedimientos, papeles y responsabilidades asociados.</li>
+	<li>El manual sobre eficiencia energ&eacute;tica es un mecanismo pr&aacute;ctico para documentar informaci&oacute;n del SGEn que es necesario documentar, como la relativa a alcances y l&iacute;mites del SGEn, pol&iacute;tica energ&eacute;tica y otros muchos aspectos. Esto le permite a la organizaci&oacute;n evitar la generaci&oacute;n de documentos adicionales que obligar&iacute;an a un manejo por separado.</li>
+	<li>Para muchas organizaciones, el manual sobre eficiencia energ&eacute;tica hace las veces de &ldquo;ventanilla &uacute;nica&rdquo; o documento &ldquo;global&rdquo; que contiene toda la informaci&oacute;n actualizada del SGEn, incluidos v&iacute;nculos o referencias a otros documentos o registros que lo integren.</li>
+	<li>Para las organizaciones que instrumentan un SGEn basado en la norma ISO 50001, el manual sobre eficiencia energ&eacute;tica puede servir como documento que traduzca los requerimientos de la norma ISO 50001 a la terminolog&iacute;a propia de la organizaci&oacute;n.</li>
+</ul>
+
+<p><em>Sugerencia: &nbsp;Aunque es posible adaptar la terminolog&iacute;a empleada en la norma ISO 50001 a la propia de la organizaci&oacute;n, el sentido de esos t&eacute;rminos (es decir, las definiciones mismas) no puede modificarse. Por ejemplo, una organizaci&oacute;n puede hacer referencia al &ldquo;diagn&oacute;stico energ&eacute;tico&rdquo; requerido por la norma ISO 50001 como &ldquo;perfil energ&eacute;tico&rdquo;, pero la definici&oacute;n de lo que es un perfil energ&eacute;tico debe ser la misma que la empleada para definir un diagn&oacute;stico energ&eacute;tico. </em></p>
+
+<p>Las organizaciones que ya han instrumentado sistemas de gesti&oacute;n basados en la mejora continua (por ejemplo, ISO 14001, ISO 9001, OHSAS 18001) podr&iacute;an optar por integrar su manual sobre eficiencia energ&eacute;tica a un manual de sistema de gesti&oacute;n ambiental, de calidad o de otro tipo, ya en uso. Esta opci&oacute;n permite a la organizaci&oacute;n evitar tener que realizar labores de gesti&oacute;n o capacitaci&oacute;n con base en m&uacute;ltiples manuales, y facilita la integraci&oacute;n de sistemas de gesti&oacute;n para lograr la sustentabilidad o para otros fines empresariales.</p>
+
+<p>[Learn More](Formato, detalles y extensi&oacute;n de un manual sobre eficiencia energ&eacute;tica)</p>
+
+<p>No hay un requisito de formato para un manual sobre eficiencia energ&eacute;tica. En su realizaci&oacute;n es posible emplear distintos medios; por ejemplo:</p>
+
+<ul>
+	<li>un documento independiente, que se lleva aparte de los procedimientos del SGEn;</li>
+	<li>un documento &uacute;nico que incluye los procedimientos del SGEn de la organizaci&oacute;n;</li>
+	<li>un documento incorporado a otro manual de sistema de gesti&oacute;n o a otros documentos;</li>
+	<li>un &iacute;ndice jer&aacute;rquico de base electr&oacute;nica o alg&uacute;n otro formato electr&oacute;nico, por lo general mediante hiperv&iacute;nculos a documentos del SGEn, tales como planes, procedimientos, formularios en blanco, etc.; o</li>
+	<li>cualquier combinaci&oacute;n de los anteriores.</li>
+</ul>
+
+<p>El formato y grado de detalle del manual sobre eficiencia energ&eacute;tica variar&aacute;n de acuerdo con el tama&ntilde;o y complejidad de la organizaci&oacute;n, as&iacute; como con las necesidades y expectativas de la organizaci&oacute;n y sus partes interesadas.</p>
+
+<p><em>Sugerencia: Tal vez se requiera de menos detalle en algunas secciones del manual si ya se han proporcionado detalles en otros documentos del SGEn, tales como procedimientos documentados. Por otra parte, ser&iacute;an de utilidad algunos detalles suplementarios en secciones espec&iacute;ficas del manual a fin de evitar la elaboraci&oacute;n potencialmente innecesaria de documentos adicionales del SGEn.</em></p>
+
+<p>Como regla general, un manual sobre eficiencia energ&eacute;tica independiente tendr&aacute; de cinco a 15 p&aacute;ginas de extensi&oacute;n. El lenguaje y la terminolog&iacute;a empleados en dicho manual deber&aacute;n ser comprensibles para los usuarios, y no destinados a auditores.</p>
+
+<p>[Learn More End]</p>
+
+<p>Al igual que ocurre con otros documentos del SGEn, el manual sobre eficiencia energ&eacute;tica deber&aacute; someterse a cierto control de calidad. La alta direcci&oacute;n suele ser la indicada para dar el visto bueno a un manual de este tipo.</p>
+
+<p><em>Sugerencia: El manual sobre eficiencia energ&eacute;tica puede ser un medio id&oacute;neo para que la alta direcci&oacute;n comunique su aprobaci&oacute;n de la pol&iacute;tica energ&eacute;tica.</em></p>
+
+<p>[Learn More](Aspectos a incluir en un manual sobre eficiencia energ&eacute;tica)</p>
+
+<p>Los siguientes son aspectos que se podr&iacute;an incluir en un manual sobre eficiencia energ&eacute;tica:</p>
+
+<p><strong>1) Alcance y l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a de una organizaci&oacute;n</strong></p>
+
+<p>El alcance del sistema depende de las operaciones, actividades e instalaciones que se incluyen en el SGEn. La organizaci&oacute;n debe definir las fronteras y los l&iacute;mites f&iacute;sicos, de sitio u organizacionales de su SGEn. La declaraci&oacute;n sobre el alcance y los l&iacute;mites tendr&iacute;a como objeto los l&iacute;mites tanto operativos como geogr&aacute;ficos del sistema. Por ejemplo, &ldquo;el alcance y los l&iacute;mites del SGEn de la Compa&ntilde;&iacute;a XYZ son las operaciones de manufactura, almacenaje y distribuci&oacute;n, as&iacute; como las actividades que desempe&ntilde;a en el sitio de Rockmart Georgia, situado en 333 Railroad Drive, Rockmart, Georgia.&rdquo;</p>
+
+<p><strong>2) Descripci&oacute;n de los elementos esenciales del SGEn y su interacci&oacute;n</strong></p>
+
+<p>Uno de los enfoques m&aacute;s recurridos para describir los elementos esenciales del SGEn consiste en una descripci&oacute;n sucinta de cada uno de los procesos que integran el ciclo de mejora continua Planificar-Hacer-Verificar-Actuar (PHVA). Informaci&oacute;n m&aacute;s detallada sobre dichos procesos estar&iacute;a disponible en otros documentos (tales como planes, programas, procedimientos, instrucciones laborales y formularios, entre otros) o contenida en los programas de capacitaci&oacute;n y comunicaci&oacute;n de la organizaci&oacute;n.</p>
+
+<p>Las organizaciones que instrumentan un SGEn basado en la norma ISO 50001 a ser certificado por terceros deben evitar preparar un manual sobre eficiencia energ&eacute;tica que copie las cl&aacute;usulas de la norma ISO 50001 a manera de descripci&oacute;n de los elementos esenciales del SGEn.</p>
+
+<p>La descripci&oacute;n de la interacci&oacute;n entre los elementos esenciales del SGEn a menudo aparece representada gr&aacute;ficamente, en vez de por medio de texto. Es m&aacute;s com&uacute;n que se utilice una representaci&oacute;n gr&aacute;fica del ciclo PHVA de mejora continua para identificar los procesos espec&iacute;ficos de la organizaci&oacute;n relativos a planificaci&oacute;n energ&eacute;tica, instrumentaci&oacute;n y operaci&oacute;n, verificaci&oacute;n y revisi&oacute;n gerencial. Los medios gr&aacute;ficos tambi&eacute;n se emplean para plasmar la manera en que se aplica la energ&iacute;a dentro de los alcances y l&iacute;mites definidos por el SGEn de la organizaci&oacute;n. Este tipo de gr&aacute;ficas podr&iacute;an servir de mapa de procesos u otro tipo de representaci&oacute;n visual de las fuentes de energ&iacute;a.</p>
+
+<p><strong>3) Documentos clave del SGEn o referencia a ellos</strong></p>
+
+<p>Una organizaci&oacute;n m&aacute;s peque&ntilde;a podr&iacute;a decidir incluir sus documentos del SGEn (procedimientos, instrucciones laborales, formularios en blanco, entre otros) en el mismo manual sobre eficiencia energ&eacute;tica. Esto tiene la ventaja de servir de fuente &uacute;nica de documentos del SGEn de la organizaci&oacute;n, aunque puede presentar algunos desaf&iacute;os para el control de los documentos.*</p>
+
+<p><em>*</em><em> Si el manual sobre eficiencia energ&eacute;tica, con todos los documentos del SGEn incluidos, se controla como un solo documento, entonces toda adici&oacute;n, supresi&oacute;n o modificaci&oacute;n a cualquiera de los archivos que integran el manual requerir&aacute; aprobaci&oacute;n y actualizaci&oacute;n en el estatus de revisi&oacute;n del manual sobre eficiencia energ&eacute;tica &iacute;ntegro. Por otro lado, si cada secci&oacute;n del manual, con todos los procedimientos incluidos, se controla por separado, el estatus de revisi&oacute;n de cada secci&oacute;n puede variar, por lo que ser&aacute; necesaria una tabla maestra &mdash;o lista maestra&mdash; de contenidos para garantizar que se pueda determinar el estatus de revisi&oacute;n en curso para cada secci&oacute;n del manual. Asimismo, si cada secci&oacute;n del manual se controla de manera independiente, puede haber distintos responsables de la aprobaci&oacute;n de las distintas secciones. El sistema de control de documentos debe garantizar que se cuente con (y se registre) la aprobaci&oacute;n por parte del responsable designado para esa tarea.</em></p>
+
+<p>Muchas organizaciones deciden mantener y controlar el manual sobre eficiencia energ&eacute;tica como documento individual y s&oacute;lo incluir en &eacute;l referencias a documentos del SGEn relacionados. Estas referencias podr&iacute;an incluirse en cada secci&oacute;n, o enlistarse al final de cada secci&oacute;n o en un cuadro de referencia de documentos en la &uacute;ltima p&aacute;gina del manual. Una de las ventajas de utilizar un cuadro de referencia de documentos es que &eacute;ste se actualiza f&aacute;cilmente cuando es necesario y se evita la necesidad de revisar y localizar referencias a otros documentos del SGEn dentro de cada secci&oacute;n del manual.</p>
+
+<p>Por ejemplo:</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<p><strong>Cuadro de referencia de documentos relativos al SGEn</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Tema</strong></p>
+			</td>
+			<td>
+			<p><strong>Referencia de documento</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Planificaci&oacute;n energ&eacute;tica</p>
+			</td>
+			<td>
+			<p>EnP-01 Procedimiento de planificaci&oacute;n energ&eacute;tica</p>
+
+			<p>EnD-02 Cuadro de requisitos legales y de otro tipo relativos a energ&iacute;a</p>
+
+			<p>EnD-03 Objetivos y metas energ&eacute;ticas</p>
+
+			<p>EnD-03.x (serie) Planes de acci&oacute;n de gesti&oacute;n de energ&iacute;a</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Capacitaci&oacute;n y sensibilizaci&oacute;n en torno al uso de energ&iacute;a</p>
+			</td>
+			<td>
+			<p>EnP-02 Plan de capacitaci&oacute;n y sensibilizaci&oacute;n en torno al uso de energ&iacute;a</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir e instrumentar los controles de documentos)</p>
+
+<p>Es importante que el personal tenga acceso a los documentos necesarios para cumplir adecuadamente con las responsabilidades que tenga asignadas.</p>
+
+<p>Comience por definir la manera en que su organizaci&oacute;n maneja actualmente los documentos. Si ya hay un proceso en curso, tiene entonces sentido (y es probablemente necesario) seguir ese proceso y realizar las modificaciones que se juzgue necesarias para el SGEn.</p>
+
+<p>El sistema de control de documentos deber&aacute; definir lo siguiente:</p>
+
+<ul>
+	<li><strong>Identificaci&oacute;n</strong>: &iquest;C&oacute;mo se identifica un documento? (es decir, &iquest;c&oacute;mo se puede saber de qu&eacute; documento se trata y a qu&eacute; actividades se asocia?)</li>
+	<li><strong>Aprobaci&oacute;n</strong>: &iquest;Qui&eacute;n est&aacute; autorizado a aprobar un documento? &iquest;En qu&eacute; consiste un proceso de aprobaci&oacute;n? &iquest;Cu&aacute;l es el registro de dicha aprobaci&oacute;n?</li>
+	<li><strong>Proceso de actualizaci&oacute;n</strong>: &iquest;C&oacute;mo se revisan peri&oacute;dicamente los documentos y se mantienen al d&iacute;a? &iquest;C&oacute;mo se identifican los cambios y el estatus de revisi&oacute;n?</li>
+	<li><strong>Legibilidad</strong>: &iquest;C&oacute;mo se mantiene la legibilidad?</li>
+	<li><strong>Disponibilidad</strong>: &iquest;D&oacute;nde se encuentran disponibles los documentos y c&oacute;mo se controla su distribuci&oacute;n? &iquest;C&oacute;mo se eliminan o identifican los documentos obsoletos para evitar que se utilicen inadvertidamente?</li>
+</ul>
+
+<p>El recurso [resource](Checklist_Document_Control_Basics) (lista de verificaci&oacute;n para el control de documentos) le ayuda a evaluar si su actual sistema cumple con los requisitos de la norma ISO 50001 para el control de documentos. Si no cuenta con un sistema, esta lista de verificaci&oacute;n podr&aacute; utilizarse para identificar los elementos que tendr&aacute;n que tomarse en cuenta al momento de dise&ntilde;ar los procesos para el control de documentos del SGEn.</p>
+
+<p>Otra herramienta &uacute;til para el control de documentos del SGEn es el recurso [resource](EnMS_Document_Control_Index), el cual proporciona un sistema de &ldquo;ventanilla &uacute;nica&rdquo; para definir los controles asociados con los diferentes tipos de documento.</p>
+
+<p>Haga clic en los siguientes temas a fin de saber m&aacute;s sobre los controles que deben definirse e instrumentarse para gestionar documentos del SGEn.</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Asignaci&oacute;n de responsabilidades)</p>
+
+<p>Para cada documento del SGEn se designa un &ldquo;propietario&rdquo; y un responsable de su aprobaci&oacute;n. Asimismo, el nombramiento de un coordinador o gestor de documentos que se ocupe de controlar la documentaci&oacute;n del SGEn es una buena opci&oacute;n para asegurar que los documentos contengan los elementos que se requiere. Si &eacute;sta no es una opci&oacute;n viable, entonces corresponder&aacute; a los propietarios de documentos la responsabilidad adicional de garantizar que se apliquen los controles apropiados a los documentos. En algunos casos es el representante de la direcci&oacute;n quien se desempe&ntilde;a como eje de control y designa a propietarios de documentos y a los responsables de su aprobaci&oacute;n.</p>
+
+<p>Las responsabilidades son las siguientes:</p>
+
+<ul>
+	<li><strong>Propietario </strong>&ndash; Es el responsable del contenido del documento, lo que incluye las revisiones peri&oacute;dicas y las actualizaciones. <em>Nota: Se designan propietarios de documentos tanto para los documentos internos como los externos; en el segundo caso, el propietario es responsable de determinar la aplicabilidad de un documento en particular a su organizaci&oacute;n.</em></li>
+	<li><strong>Responsable de aprobaci&oacute;n</strong> &ndash; Es la persona autorizada para certificar o dar el visto bueno al contenido de un documento.</li>
+	<li><strong>Coordinador o gestor de documentos</strong> &ndash; Es el responsable de garantizar que se apliquen los controles adecuados a los documentos, lo que incluye la identificaci&oacute;n y eliminaci&oacute;n de documentos obsoletos.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Identificaci&oacute;n de documentos)</p>
+
+<p>Un siguiente paso, tras haber asignado responsabilidades en relaci&oacute;n con la documentaci&oacute;n, es decidir qu&eacute; elementos en particular se emplear&aacute;n para la identificaci&oacute;n de los distintos tipos de documentos del SGEn. No es necesario identificar de una misma manera todos los documentos. En el cuadro que aparece a continuaci&oacute;n se ejemplifica la forma en que una organizaci&oacute;n opt&oacute; por identificar <em>los distintos tipos de documentos de su SGEn</em>.</p>
+
+<p><em>En este caso, la Compa&ntilde;&iacute;a XYZ elabor&oacute; un cuadro en el que incluy&oacute; un manual sobre eficiencia energ&eacute;tica, procedimientos del SGEn, instrucciones laborales, formularios en blanco, planes y programas, documentos externos y videos de capacitaci&oacute;n. En seguida se identificaron los controles relevantes para cada tipo de documento. A todos los documentos se les a&ntilde;adi&oacute; un t&iacute;tulo y las fechas de expedici&oacute;n y revisi&oacute;n, en tanto que s&oacute;lo se aplic&oacute; un n&uacute;mero de documento al manual sobre eficiencia energ&eacute;tica, a los procedimientos y a las instrucciones laborales.</em></p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="4" style="width:468.8pt">
+			<p><strong>Compa&ntilde;&iacute;a XYZ &ndash; Controles de documentos del SGEn</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p><strong>Tipo de documento</strong></p>
+			</td>
+			<td style="width:92.1pt">
+			<p><strong>N&uacute;mero<br />
+			de documento</strong></p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>T&iacute;tulo</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>Fechas de expedici&oacute;n/revisi&oacute;n</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Manual sobre eficiencia energ&eacute;tica</p>
+			</td>
+			<td style="width:92.1pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Procedimientos</p>
+			</td>
+			<td style="width:92.1pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Instrucciones laborales</p>
+			</td>
+			<td style="width:92.1pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Formularios en blanco</p>
+			</td>
+			<td style="width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Planes y programas</p>
+			</td>
+			<td style="width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Documentos externos</p>
+			</td>
+			<td style="width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:135.1pt">
+			<p>Videos de capacitaci&oacute;n</p>
+			</td>
+			<td style="width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:128.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:112.8pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Aprobaci&oacute;n de documentos)</p>
+
+<p>Una vez definidos los controles para la identificaci&oacute;n de los documentos, es necesario determinar el proceso de aprobaci&oacute;n de los mismos. Lejos de concentrar la tarea de aprobar todos los documentos en un mismo puesto, lo recomendable es que &eacute;sta corra por parte de los responsables de las pol&iacute;ticas, decisiones o acciones descritas en el documento. Asimismo, es preferible evitar que intervengan demasiados niveles en el proceso de aprobaci&oacute;n, ya que esto complica el sistema de control de documentos y obstaculiza su eficacia.</p>
+
+<p>Si bien algunas organizaciones a&uacute;n utilizan la firma a mano como sello de aprobaci&oacute;n, lo cierto es que hoy d&iacute;a la mayor&iacute;a maneja su documentaci&oacute;n electr&oacute;nicamente. Un proceso t&iacute;pico consiste en subir el documento electr&oacute;nico a un flujo de trabajo que, a su vez, lo reenv&iacute;a a los responsables de su aprobaci&oacute;n. Al recibirlo, la persona responsable indica su aprobaci&oacute;n o rechazo. Si el documento es rechazado, el flujo de trabajo lo devuelve al propietario para que &eacute;ste resuelva el problema. Una vez aprobado, el documento se distribuye de manera autom&aacute;tica y v&iacute;a electr&oacute;nica a los lugares o destinatarios correspondientes.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Actualizaci&oacute;n de documentos)</p>
+
+<p>El siguiente paso consiste en definir el proceso para mantener actualizados los documentos. Las razones que obligan a la revisi&oacute;n o actualizaci&oacute;n de un documento son varias:</p>
+
+<ul>
+	<li>Cambios en las circunstancias, instalaciones, equipo, sistemas o procesos de la empresa</li>
+	<li>Una auditor&iacute;a interna o externa ([task](Internal Audit))</li>
+	<li>Medidas correctivas o preventivas ([task](Corrective Actions))</li>
+	<li>Revisi&oacute;n gerencial ([task](Management Review))</li>
+	<li>Revisiones peri&oacute;dicas para asegurar que la informaci&oacute;n sigue siendo precisa, adecuada y relevante</li>
+	<li>Revisi&oacute;n de un documento externo, incluidos requisitos legales y de otro tipo ([task](Legal Requirements))</li>
+</ul>
+
+<p>El propietario es responsable de asegurar que los documentos que le fueron asignados se mantengan al d&iacute;a. Para ello, ha de llevar a cabo revisiones peri&oacute;dicas de todos los documentos asignados, y volverlos a revisar siempre que sea necesario.</p>
+
+<p>Una parte del proceso de actualizaci&oacute;n de la documentaci&oacute;n incluye identificar para el usuario cualquier cambio que se haya hecho al documento en cuesti&oacute;n, y asegurar que el estatus de revisi&oacute;n se actualice. Muchas organizaciones utilizan un &ldquo;Historial de revisiones&rdquo; a manera de cuadro al final de un documento para se&ntilde;alar la fecha de la revisi&oacute;n y hacer el resumen de cualquier cambio realizado. Otros m&eacute;todos incluyen destacar o subrayar las revisiones, o la realizaci&oacute;n de sesiones de capacitaci&oacute;n a fin de identificar y examinar las modificaciones.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Legibilidad de los documentos)</p>
+
+<p>Un requisito que parece obvio, pero que a menudo se malentiende, es el de asegurar que los documentos sean legibles. Uno pensar&iacute;a que en nuestro mundo digital, en el que predominan las versiones electr&oacute;nicas y cada vez son menos los ejemplares en papel sujetos a deterioro, el problema de la legibilidad es cosa del pasado. Sin embargo, ocurre lo contrario: en nuestra era digital, el software o aplicaciones que utilizamos tienden a actualizarse con cada vez mayor frecuencia, de forma que a menudo ocurre que cambiamos de aplicaci&oacute;n y nuestros viejos archivos se vuelven imposibles de leer. Es responsabilidad del propietario de un documento asegurar que &eacute;ste se mantenga legible con el paso del tiempo.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Sistema de control de documentos &ndash; Disponibilidad de los documentos)</p>
+
+<p>Los documentos deben estar disponibles en los sitios en que se necesitan. Son cada vez m&aacute;s las organizaciones que utilizan documentos electr&oacute;nicos, pero si su organizaci&oacute;n utiliza copias en papel, &eacute;stas deben estar disponibles en los lugares en que habr&aacute;n de usarse, en tanto que las que ya son obsoletas deber&aacute;n ser eliminadas o de alguna forma identificadas para evitar que se utilicen de manera inadvertida.</p>
+
+<p>Para las organizaciones que utilizan documentos electr&oacute;nicos, asegurar que la informaci&oacute;n apropiada est&eacute; disponible donde se necesita depender&aacute; de que el personal de las &aacute;reas correspondientes tenga acceso a las computadoras que contienen la documentaci&oacute;n. Retirar documentos de los lugares de uso (por ejemplo, cuando los documentos se vuelven obsoletos) equivaldr&iacute;a a hacerlos no disponibles o inaccesibles por medio de la computadora.</p>
+
+<p>Las organizaciones que utilizan documentos impresos deber&aacute;n identificar y tener control sobre el n&uacute;mero espec&iacute;fico de copias de que se dispone, mismas que deber&aacute;n luego situarse f&iacute;sicamente en los lugares de uso correspondientes. Eliminar una copia impresa de un documento obsoleto supondr&iacute;a retirarla f&iacute;sicamente del &aacute;rea espec&iacute;fica en que se encuentra. En uno u otro caso, se requiere un adecuado control de la documentaci&oacute;n.</p>
+
+<p>El recurso [resource](Example_EnMS_Document_Control_Index) muestra la manera en que los controles pueden definirse para los distintos documentos del SGEn. Una vez definidos todos los controles y establecido el proceso para su aplicaci&oacute;n, deber&aacute; asegurarse su comunicaci&oacute;n al personal correspondiente. Si para la organizaci&oacute;n este nivel de control de documentos es nuevo, deber&aacute; considerarse la posibilidad de un ejercicio de capacitaci&oacute;n para complementar la comunicaci&oacute;n.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Definir e instrumentar el control de registros)</p>
+
+<p>Independientemente del m&eacute;todo que se elija, el hecho es que s&iacute; es necesario un control de registros para que &eacute;stos:</p>
+
+<ul>
+	<li>sean identificables;</li>
+	<li>puedan rastrearse hasta la actividad a la que aluden;</li>
+	<li>puedan conservarse por el tiempo necesario, y</li>
+	<li>sean recuperables y legibles.</li>
+</ul>
+
+<p>[Learn More](Controles de registros)</p>
+
+<p>Los controles son necesarios para que los registros:</p>
+
+<p><strong>Sean identificables y rastreables:</strong> Debe quedar claro a qu&eacute; corresponde el registro; es decir, a qu&eacute; actividades u operaciones se refiere. Por ejemplo, una manera muy com&uacute;n de identificar registros y ver que sean rastreables a la actividad a la que hacen referencia, es asegurar que est&eacute;n fechados y que su t&iacute;tulo corresponda al contenido.</p>
+
+<p><strong>Puedan conservarse por el tiempo necesario:</strong> Los registros deben conservarse por periodos espec&iacute;ficos, que variar&aacute;n en funci&oacute;n de cada tipo de registro. En todos los casos, defina un m&iacute;nimo de tiempo de conservaci&oacute;n, para lo cual deber&aacute;n tenerse en cuenta las pol&iacute;ticas organizativas o empresariales de conservaci&oacute;n de registros, los requisitos legales y las necesidades de la compa&ntilde;&iacute;a.</p>
+
+<p><strong>Sean recuperables y legibles:</strong> Los registros deben ser legibles y f&aacute;ciles de localizar. Si &eacute;stos son electr&oacute;nicos, debe contarse con un mecanismo para mantener el equipo, el sistema operativo y el software en buen estado, de manera que se asegure que los registros puedan leerse durante todo el tiempo que se conserven. Las copias impresas han de almacenarse de tal manera que el texto no se borre y que el papel no se deteriore al grado de no poder ya usarse.</p>
+
+<p>[Learn More End]</p>
+
+<p>Cabe hacer hincapi&eacute; en que un control de registros efectivo depender&aacute; de que una delimitaci&oacute;n clara y precisa de responsabilidades. Un recurso como el [resource](EnMS_Records_Control_Index) puede ser de utilidad para definir los controles de registros y asignar responsabilidades. Su llenado se ejemplifica en el recurso [resource](Example_EnMS_Records_Control_Index).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>La experiencia con las normas ISO 9001 o ISO 14001 podr&iacute;a ser de utilidad en relaci&oacute;n con los siguientes documentos y registros:</p>
+
+<ul>
+	<li><em>Alcance y l&iacute;mites del SGEn</em>. El alcance del sistema de gesti&oacute;n tambi&eacute;n se mantiene como informaci&oacute;n documentada en los sistemas ISO 14001:2015 e ISO 9001:2015. Si la organizaci&oacute;n est&aacute; integrando sus sistemas de gesti&oacute;n ambiental y de energ&iacute;a, tal vez haya una sola declaraci&oacute;n de su alcance que aplique y se mantenga como informaci&oacute;n documentada.</li>
+	<li><em>Pol&iacute;tica energ&eacute;tica</em>. Al igual que la ISO 50001:2011, las normas ISO 14001:2015 e ISO 9001:2015 exigen documentar las pol&iacute;ticas adoptadas. Si la organizaci&oacute;n ha integrado sus sistemas de gesti&oacute;n, tal vez haya una sola declaraci&oacute;n de la pol&iacute;tica documentada aplicable a todo el sistema de gesti&oacute;n.</li>
+	<li><em>Objetivos, metas y planes de acci&oacute;n energ&eacute;ticos</em>. Se mantiene informaci&oacute;n documentada sobre objetivos ambientales conforme a la norma ISO 14001:2015, y sobre objetivos relativos a calidad en t&eacute;rminos de la norma ISO 9001:2015.</li>
+	<li><em>Proceso de auditor&iacute;a interna</em>. Las auditor&iacute;as internas son un proceso documentado por definici&oacute;n en apego a las normas ISO 9001:2015, ISO 14001:2015 e ISO 50001:2011</li>
+</ul>
+
+<p><em>Documentos necesarios para el SGEn</em>. Una organizaci&oacute;n que tenga experiencia en documentaci&oacute;n de un sistema de gesti&oacute;n para las normas ISO 14001:2015 e ISO 9001:2015 podr&aacute; f&aacute;cilmente aplicar dicha experiencia a la identificaci&oacute;n y mantenimiento de la documentaci&oacute;n necesaria para un SGEn basado en la norma ISO 50001:2011. Las normas ISO 14001:2015 (ambiental), ISO 9001:2015 (de calidad) e ISO 50001:2011 (energ&eacute;tica) no exigen un manual. Sin embargo, muchas organizaciones que han instrumentado una o m&aacute;s de estas normas han elaborado y utilizan un manual de sistema de gesti&oacute;n a fin de proporcionar una vista general o &ldquo;mapa de ruta&rdquo; de los procesos del sistema de gesti&oacute;n y sus interacciones, y referir a documentos relacionados. Un procedimiento que suele tambi&eacute;n emplearse consiste en integrar en uno solo los manuales de sistemas de gesti&oacute;n relativos a energ&iacute;a, medio ambiente, salud y seguridad. Las nuevas ediciones (2015) de las normas ISO 9001 e ISO 14001 incorporan el texto com&uacute;n de la estructura de alto nivel (EAN) correspondiente a los requisitos aplicables a la informaci&oacute;n documentada. De manera similar a lo que ocurr&iacute;a con las versiones anteriores de las normas ISO 9001 e ISO 14001, la ISO 50001:2011 tiene conjuntos de requisitos independientes para el control de documentos y registros. Sin embargo, los procesos para controlar informaci&oacute;n documentada en los sistemas ISO 9001 e ISO 14001 bien podr&iacute;an aplicarse f&aacute;cilmente al control de documentos y registros del SGEn conforme a la ISO 50001, sin que resulte necesario utilizar recursos para desarrollar algo distinto a lo que ya se tiene, lo cual de ninguna manera ser&iacute;a eficiente o efectivo.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Al instrumentarse el programa del SGEn, el trabajo realizado y documentado como parte del programa Energy Star deber&aacute; incluirse entre los documentos y registros requeridos y necesarios para cumplir con los requisitos de la norma ISO 50001.</p>
+
+<p>Aun cuando el programa Energy Star no exige la elaboraci&oacute;n e instrumentaci&oacute;n de un manual sobre eficiencia energ&eacute;tica &mdash;tampoco la norma ISO 50001 lo exige&mdash;, lo cierto es que no deja de ser recomendable contar con semejante manual, por sus m&uacute;ltiples beneficios para la organizaci&oacute;n, seg&uacute;n se describe en la presente tarea.</p>
+
+<p>El programa Energy Star no requiere de procesos para controlar documentos y registros del SGEn, mientras que la norma ISO 50001 s&iacute; lo hace (tema que ya fue abordado en los lineamientos y orientaci&oacute;n de la presente tarea).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
