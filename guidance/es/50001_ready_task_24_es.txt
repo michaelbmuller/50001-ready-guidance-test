@@ -81,7 +81,7 @@ Tarea 24: Hemos decidido mejorar nuestro desempeño energético.
 
 <p>Si su organizaci&oacute;n usa un formulario de registro de desempe&ntilde;o energ&eacute;tico aprobado por un programa patrocinado por una empresa proveedora de energ&iacute;a o el Estado, p&oacute;ngase en contacto con el programa Ready 50001, a fin de consultar si se trata de un formulario aceptable para satisfacer los requisitos de registro.</p>
 
-<p>Al completar las tareas [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives y Targets) y [task](Monitoring), se logr&oacute; ya:</p>
+<p>Al completar las tareas [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) y [task](Monitoring), se logr&oacute; ya:</p>
 
 <ul>
 	<li>identificar y obtener el consumo energ&eacute;tico apropiado y la informaci&oacute;n variable pertinente;</li>
@@ -109,7 +109,7 @@ Tarea 24: Hemos decidido mejorar nuestro desempeño energético.
 
 <p>[Accordion](Seleccionar aquellos modelos v&aacute;lidos del consumo energ&eacute;tico de su organizaci&oacute;n que mejor describan c&oacute;mo usa la energ&iacute;a)</p>
 
-<p>Para conocer una descripci&oacute;n t&eacute;cnica detallada de los requisitos estad&iacute;sticos y del modelo que el recurso [resource](EnPI_Lite) usa para calcular la mejora en el desempe&ntilde;o energ&eacute;tico, refi&eacute;rase al recurso [resource](50001_Ready_Protocol). Asimismo, refi&eacute;rase a los lineamientos y orientaci&oacute;n contenidos en las tareas: [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives y Targets) y [task](Monitoring). En la siguiente tabla se muestra un resumen de los requisitos:</p>
+<p>Para conocer una descripci&oacute;n t&eacute;cnica detallada de los requisitos estad&iacute;sticos y del modelo que el recurso [resource](EnPI_Lite) usa para calcular la mejora en el desempe&ntilde;o energ&eacute;tico, refi&eacute;rase al recurso [resource](50001_Ready_Protocol). Asimismo, refi&eacute;rase a los lineamientos y orientaci&oacute;n contenidos en las tareas: [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) y [task](Monitoring). En la siguiente tabla se muestra un resumen de los requisitos:</p>
 
 <table cellspacing="0" style="width:346.0pt">
 	<tbody>
