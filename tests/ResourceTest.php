@@ -25,6 +25,9 @@ class ResourceTest extends TestCase
     public function test_load_resources()
     {
         $this->assertGreaterThan(0,count($this->guidance->resources));
+
+        $this->assertTrue(isset($this->guidance->resources['Business_Drivers_EnMS']));
+        $this->assertTrue(isset($this->guidance->resources['50001Ready_PortfolioManager']));
     }
 
     public function test_task_resources(){

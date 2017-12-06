@@ -53,6 +53,7 @@ class Resource
      *
      * @param string $language_requested
      * @return array
+     * @throws \Exception
      */
     static function load($language_requested = 'en')
     {
@@ -90,6 +91,8 @@ class Resource
                 }
             }
         }
+        //Add last resource
+        $resources[$resource->id] = $resource;
         uasort($resources,function($a, $b){ strcmp($a->name, $b->name); });
         return $resources;
     }
