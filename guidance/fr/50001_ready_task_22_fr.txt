@@ -1,0 +1,241 @@
+USDOE 50001 READY NAVIGATOR TASK 22
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Acquisitions
+----------TITLE----------
+Tâche 22: Nous avons établi des critères de rendement énergétique couvrant la durée de vie de l’équipement acheté qui a une incidence sur ce rendement, informé les fournisseurs que c’est un facteur pris en compte lors des acquisitions, et nous avons défini et utilisons actuellement des spécifications pour nos approvisionnements énergétiques
+----------GETTING IT DONE----------
+<ul>
+	<li>Pour les achats li&eacute;s aux usages &eacute;nerg&eacute;tiques significatifs (UES), les sp&eacute;cifications d&rsquo;acquisition devraient identifier clairement toute exigence li&eacute;e au rendement &eacute;nerg&eacute;tique. Communiquez ces exigences aux fournisseurs et/ou aux prestataires de services, et informez-les que le rendement &eacute;nerg&eacute;tique fait partie des crit&egrave;res d&rsquo;&eacute;valuation.</li>
+	<li>Utilisez la [resource](Procurement_Checklist) pour &eacute;valuer les actuels processus d&rsquo;acquisition de votre organisation pour les &eacute;l&eacute;ments susceptibles d&rsquo;avoir un fort impact sur le rendement &eacute;nerg&eacute;tique. D&eacute;terminez et prenez toutes les mesures n&eacute;cessaires pour adapter les actuels processus d&rsquo;acquisition aux exigences du SGE.</li>
+	<li>D&eacute;terminez si votre organisation a &eacute;tabli des crit&egrave;res li&eacute;s au cycle de vie pour certaines mesures d&rsquo;acquisition.
+	<ul style="list-style-type:circle">
+		<li>Si c&rsquo;est le cas, utilisez la formation et/ou la documentation pour vous assurer que ces crit&egrave;res sont appliqu&eacute;s lors de l&rsquo;acquisition de produits ou de services ayant un fort impact sur le rendement &eacute;nerg&eacute;tique de l&rsquo;organisation.</li>
+		<li>Si ce n&rsquo;est pas le cas, envisagez d&rsquo;utiliser la [resource](Life_Cycle_Cost_Assessment_Worksheet) pour les achats pouvant avoir un fort impact sur le rendement &eacute;nerg&eacute;tique.</li>
+	</ul>
+	</li>
+	<li>D&eacute;terminez si votre organisation a consign&eacute; les sp&eacute;cifications visant les approvisionnements &eacute;nerg&eacute;tiques. R&eacute;viser les sp&eacute;cifications existantes et comparez-les aux [resource](Energy_Purchasing_Specification_Worksheets), afin de d&eacute;terminer si d&rsquo;autres sp&eacute;cifications sont n&eacute;cessaires. En l&rsquo;absence de sp&eacute;cifications visant les approvisionnements &eacute;nerg&eacute;tiques, utilisez les [resource](Energy_Purchasing_Specification_Worksheets) pour d&eacute;terminer quelles sp&eacute;cifications pourraient s&rsquo;appliquer aux diff&eacute;rents types d&rsquo;&eacute;nergie qu&rsquo;utilise votre organisation.</li>
+	<li>Int&eacute;grez les sp&eacute;cifications pertinentes aux exigences li&eacute;es aux achats d&rsquo;&eacute;nergie.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>L&rsquo;achat de produits, d&rsquo;&eacute;quipements et de services qui consomment de l&rsquo;&eacute;nergie peut influer sur les UES et le rendement &eacute;nerg&eacute;tique de votre organisation. Votre organisation doit &eacute;tablir un processus d&rsquo;acquisition afin de garantir que vous tiendrez compte du rendement &eacute;nerg&eacute;tique quand l&rsquo;acquisition sera li&eacute;e aux UES de votre organisation, ou quand cette acquisition peut avoir un fort impact sur le rendement &eacute;nerg&eacute;tique. Vos activit&eacute;s d&rsquo;acquisition doivent appuyer une gestion efficace des UES et l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Dans un SGE ISO 50001, vous devez &eacute;valuer l&rsquo;usage et la consommation &eacute;nerg&eacute;tiques, ainsi que l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, pendant la dur&eacute;e de vie utile planifi&eacute;e ou escompt&eacute;e de tous les produits ou services achet&eacute;s dont on s&rsquo;attend &agrave; ce qu&rsquo;ils aient un fort impact sur le rendement &eacute;nerg&eacute;tique. Votre organisation doit d&eacute;terminer les crit&egrave;res d&rsquo;&eacute;valuation. Parce que ces crit&egrave;res vont au-del&agrave; de vos UES, ayez une vision plus globale de la fa&ccedil;on dont les acquisitions influent sur tout &eacute;l&eacute;ment qui a un impact sur le rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Dans un SGE, une partie importante des acquisitions consiste &agrave; se procurer une quantit&eacute; d&rsquo;&eacute;nergie ad&eacute;quate d&rsquo;une qualit&eacute; acceptable pour maintenir les op&eacute;rations. En &eacute;tablissant des sp&eacute;cifications pour l&rsquo;achat de sources d&rsquo;&eacute;nergie, on garantit la disponibilit&eacute; d&rsquo;une quantit&eacute; suffisante d&rsquo;&eacute;nergie d&rsquo;une qualit&eacute; acceptable, et &agrave; un prix raisonnable.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Inform&eacute; les fournisseurs que le rendement &eacute;nerg&eacute;tique est un facteur d&rsquo;&eacute;valuation des achats li&eacute;s aux UES</li>
+	<li>&Eacute;tabli des crit&egrave;res de rendement &eacute;nerg&eacute;tique pour toute la dur&eacute;e de vie utile des achats pouvant avoir un fort impact sur le rendement &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;tabli et consign&eacute; des sp&eacute;cifications pour les approvisionnements &eacute;nerg&eacute;tiques</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.5.7 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Informer les fournisseurs que le rendement &eacute;nerg&eacute;tique est un facteur d&rsquo;&eacute;valuation des achats li&eacute;s aux UES)</p>
+
+<p>Vous avez identifi&eacute; les UES afin de concentrer vos ressources dans les secteurs o&ugrave; vous pouvez g&eacute;n&eacute;rer le plus d&rsquo;avantages (voir [task](Relevant Variables)). Quand un usage &eacute;nerg&eacute;tique est jug&eacute; significatif, vous devez satisfaire &agrave; diverses exigences de la norme ISO 50001 qui s&rsquo;appliquent pr&eacute;cis&eacute;ment aux UES (voir [task](Relevant Variables)), incluant celles qui sont li&eacute;es aux acquisitions.</p>
+
+<p>[Learn More](Achats li&eacute;s aux UES)</p>
+
+<p>Les achats suivants peuvent &ecirc;tre li&eacute;s aux UES :</p>
+
+<ul>
+	<li>Pi&egrave;ces d&eacute;tach&eacute;es</li>
+	<li>&Eacute;quipement d&rsquo;appoint</li>
+	<li>Pi&egrave;ces/&eacute;quipement de rechange</li>
+	<li>Mat&eacute;riaux d&rsquo;entretien</li>
+	<li>Services de maintenance</li>
+	<li>Contr&ocirc;les op&eacute;rationnels/de maintenance</li>
+	<li>Fournitures</li>
+	<li>Produits de d&eacute;part</li>
+	<li>Services d&rsquo;op&eacute;rateurs</li>
+	<li>Services d&rsquo;ing&eacute;nierie</li>
+	<li>Consultants</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Pour les achats li&eacute;s &agrave; un UES, les sp&eacute;cifications d&rsquo;acquisition doivent clairement identifier toutes les exigences li&eacute;es au rendement &eacute;nerg&eacute;tique. Communiquez ces exigences aux fournisseurs et informez-les que le rendement &eacute;nerg&eacute;tique fait partie des crit&egrave;res d&rsquo;&eacute;valuation. Envisagez d&rsquo;utiliser vos processus existants pour communiquer cette information &agrave; vos fournisseurs.</p>
+
+<p>Vous devrez &eacute;tablir un processus d&rsquo;&eacute;valuation et de s&eacute;lection du produit, de l&rsquo;&eacute;quipement ou du service li&eacute; &agrave; l&rsquo;UES. Votre organisation d&eacute;termine quel r&ocirc;le le rendement &eacute;nerg&eacute;tique va jouer dans le processus de s&eacute;lection des acquisitions. Il n&rsquo;est pas obligatoire que le rendement &eacute;nerg&eacute;tique soit le seul crit&egrave;re ou celui qui a le plus d&rsquo;importance, mais c&rsquo;est un des facteurs dont vous tenez compte pour prendre la d&eacute;cision finale d&rsquo;achat. Vous pourriez int&eacute;grer le rendement &eacute;nerg&eacute;tique aux actuels processus de s&eacute;lection des acquisitions.</p>
+
+<p>Informez &eacute;galement les prestataires de services qui auront un impact sur les UES que le rendement &eacute;nerg&eacute;tique fait partie des crit&egrave;res d&rsquo;&eacute;valuation pour l&rsquo;acquisition de leurs services. Le principal crit&egrave;re d&rsquo;&eacute;valuation des prestataires de services est la comp&eacute;tence, mais vous pouvez prendre en compte d&rsquo;autres facteurs.</p>
+
+<p>[Learn More](Facteurs d&rsquo;&eacute;valuation applicables aux prestataires de services)</p>
+
+<p>Voici certains des facteurs d&rsquo;&eacute;valuation applicables aux prestataires de services :</p>
+
+<ul>
+	<li>Registres de formation</li>
+	<li>Certifications</li>
+	<li>Exp&eacute;rience d&rsquo;usages similaires</li>
+	<li>Comp&eacute;tences sp&eacute;cialis&eacute;es disponibles</li>
+	<li>M&eacute;thodes d&rsquo;acquisition des pi&egrave;ces/du mat&eacute;riel</li>
+	<li>Recommandations/critiques de clients</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir des crit&egrave;res de rendement &eacute;nerg&eacute;tique pour toute la dur&eacute;e de vie utile des achats pouvant avoir un fort impact sur le rendement &eacute;nerg&eacute;tique)</p>
+
+<p>Le rendement &eacute;nerg&eacute;tique est d&eacute;termin&eacute; par les caract&eacute;ristiques principales (<a href="https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#step_4-1">voir</a> [task](Measurement)). Il est important que votre organisation &eacute;tablisse le lien entre les acquisitions et leur impact sur le rendement &eacute;nerg&eacute;tique. Le rendement &eacute;nerg&eacute;tique de votre organisation est d&eacute;termin&eacute; au moins par les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Rendement &eacute;nerg&eacute;tique des UES</li>
+	<li>Variables pertinentes associ&eacute;es aux UES</li>
+	<li>Indicateurs de rendement &eacute;nerg&eacute;tique (IRE)</li>
+	<li>Efficacit&eacute; avec laquelle les plans d&rsquo;action permettent d&rsquo;atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques</li>
+	<li>&Eacute;valuation de la consommation &eacute;nerg&eacute;tique r&eacute;elle par rapport &agrave; la consommation pr&eacute;vue</li>
+</ul>
+
+<p>Si un achat peut influer sur une ou plusieurs de ces caract&eacute;ristiques principales, votre organisation doit &eacute;tablir des crit&egrave;res permettant de d&eacute;terminer si l&rsquo;impact sur le rendement &eacute;nerg&eacute;tique est important.</p>
+
+<p>[Learn More](Exemples de crit&egrave;res d&rsquo;&eacute;valuation)</p>
+
+<p>Voici certains exemples :</p>
+
+<ul>
+	<li><strong>Usage &eacute;nerg&eacute;tique significatif:</strong> Supposons que vous avez d&eacute;termin&eacute; que votre syst&egrave;me d&rsquo;&eacute;clairage est un UES. Vous pourriez consid&eacute;rer comme un impact important l&rsquo;achat de certains &eacute;clairages, le nombre d&rsquo;articles, leur co&ucirc;t ou tout achat li&eacute; &agrave; l&rsquo;&eacute;clairage.</li>
+	<li><strong>Variables pertinentes associ&eacute;es aux UES :</strong> Une des variables pertinentes li&eacute;es au syst&egrave;me d&rsquo;&eacute;clairage est la quantit&eacute; de lumi&egrave;re naturelle. Si votre organisation a des puits de lumi&egrave;re et que vous envisagez de cr&eacute;er un nouveau toit qui n&rsquo;en comporterait plus, la perte de lumi&egrave;re naturelle pourrait avoir un fort impact sur le fonctionnement du syst&egrave;me d&rsquo;&eacute;clairage et sur sa consommation &eacute;nerg&eacute;tique. Un impact important pourrait &ecirc;tre d&eacute;fini comme une certaine augmentation ou une possibilit&eacute; d&rsquo;augmentation de la consommation.</li>
+	<li><strong>Efficacit&eacute; avec laquelle les plans d&rsquo;action permettent d&rsquo;atteindre les objectifs et les cibles &eacute;nerg&eacute;tiques :</strong> L&rsquo;achat d&rsquo;un service ou d&rsquo;une pi&egrave;ce d&rsquo;&eacute;quipement pourrait d&eacute;terminer si la cible &eacute;nerg&eacute;tique est atteinte dans le cadre d&rsquo;un projet d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique. Le fait de ne pas atteindre cette cible pourrait avoir un fort impact sur le rendement &eacute;nerg&eacute;tique.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>R&eacute;fl&eacute;chissez aux autres facteurs pouvant avoir un fort impact sur le rendement &eacute;nerg&eacute;tique, comme les contr&ocirc;les visant les UES, les contr&ocirc;les destin&eacute;s &agrave; maintenir les am&eacute;liorations &eacute;nerg&eacute;tiques pass&eacute;es et les activit&eacute;s de maintenance des syst&egrave;mes &eacute;nerg&eacute;tiques.</p>
+
+<p>L&rsquo;impact important peut &ecirc;tre un obstacle ou une limite sp&eacute;cifique, ou une &eacute;valuation bas&eacute;e sur l&rsquo;exp&eacute;rience de votre organisation. Sachez que, si vous utilisez les co&ucirc;ts comme un obstacle au moment de d&eacute;terminer un impact important, cela peut &ecirc;tre trompeur. Par exemple, l&rsquo;achat fr&eacute;quent de quelques ampoules peut avoir un plus gros impact sur le rendement &eacute;nerg&eacute;tique que le remplacement d&rsquo;une grosse machine sur une longue p&eacute;riode.</p>
+
+<p>De la m&ecirc;me fa&ccedil;on, un impact important sur le rendement &eacute;nerg&eacute;tique n&rsquo;est pas n&eacute;cessairement li&eacute; &agrave; de gros articles ou &agrave; des services complexes. Il peut r&eacute;sulter d&rsquo;activit&eacute;s de maintenance relativement peu co&ucirc;teuses.</p>
+
+<p>[Learn More](Exemples d&rsquo;&eacute;l&eacute;ments des programmes de maintenance pouvant avoir un impact important sur le rendement &eacute;nerg&eacute;tique)</p>
+
+<p>Exemples d&rsquo;&eacute;l&eacute;ments des programmes de maintenance pouvant avoir un impact important sur le rendement &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li>Filtres &agrave; air &agrave; haute efficacit&eacute;</li>
+	<li>Lubrifiants synth&eacute;tiques</li>
+	<li>Courroies en V dent&eacute;es</li>
+	<li>Accouplements &agrave; faible taux de fuite</li>
+	<li>Soupapes &eacute;lectroniques de purge de condensat sur les syst&egrave;mes &agrave; air comprim&eacute;</li>
+</ul>
+
+<p>Par exemple :</p>
+
+<p>Les joints annulaires &agrave; d&eacute;branchement rapide d&rsquo;un compresseur d&rsquo;air peuvent co&ucirc;ter entre deux cents et un dollar. Les joints plus co&ucirc;teux am&eacute;liorent l&rsquo;efficacit&eacute; du syst&egrave;me. M&ecirc;me si cela co&ucirc;te plus cher au d&eacute;part, la meilleure efficacit&eacute; des joints annulaires de qualit&eacute; sup&eacute;rieure g&eacute;n&egrave;re des &eacute;conomies importantes durant leur cycle de vie. <a name="_msoanchor_1"></a><a href="https://guidance.nav.local/translation/en/22#_msocom_1">[CJW1]</a></p>
+
+<p>[Learn More End]</p>
+
+<p>Si un achat peut avoir un impact important sur le rendement &eacute;nerg&eacute;tique, votre organisation doit &eacute;valuer cet achat et son rendement &eacute;nerg&eacute;tique pendant la dur&eacute;e de vie utile pr&eacute;vue ou escompt&eacute;e du produit en question. On peut utiliser de nombreux outils pour calculer le co&ucirc;t du cycle de vie, et le plus efficace pour votre organisation d&eacute;pendra des articles achet&eacute;s et de leur utilisation, ainsi que de la complexit&eacute; de votre syst&egrave;me comptable. Le document [resource](<a name="_Hlk497895232">Life_Cycle_Cost_Assessment_Worksheet</a>) propose un outil comptable simple permettant de calculer le co&ucirc;t du cycle de vie. D&rsquo;autres m&eacute;thodes de calcul sont propos&eacute;es dans le document [resource](<a name="_Hlk497895301">Tool_Life_Cycle_Resources_List</a>).</p>
+
+<p>Pour garantir que les mesures d&rsquo;acquisition appuient le SGE, il est essentiel que le personnel affect&eacute; aux acquisitions soit tenu inform&eacute; des besoins du SGE, ce qui inclut les UES et les types de produits et de services susceptibles d&rsquo;avoir une incidence importante sur le rendement &eacute;nerg&eacute;tique de votre organisation. Cette information leur permet de prendre des d&eacute;cisions d&rsquo;acquisition appropri&eacute;e. Le personnel affect&eacute; aux acquisitions doit bien conna&icirc;tre les caract&eacute;ristiques principales des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique, et savoir que l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique et du cycle de vie peut influer sur la d&eacute;cision d&rsquo;acquisition. Une fois que les employ&eacute;s connaissent le SGE, c&rsquo;est &agrave; eux de faire les achats de mani&egrave;re &agrave; r&eacute;pondre aux besoins du SGE.</p>
+
+<p>[Learn More](Exemple d&rsquo;acquisition d&rsquo;&eacute;clairage &agrave; DEL)</p>
+
+<p>Votre responsable de la maintenance a &eacute;valu&eacute; la consommation &eacute;nerg&eacute;tique des ampoules &agrave; DEL et des ampoules &agrave; incandescence pour votre syst&egrave;me d&rsquo;&eacute;clairage pendant leur cycle de vie pr&eacute;vu ou escompt&eacute;. L&rsquo;analyse a montr&eacute; qu&rsquo;en rempla&ccedil;ant les ampoules &agrave; incandescence par des DEL, on am&eacute;liorerait consid&eacute;rablement le rendement &eacute;nerg&eacute;tique. Les &eacute;conomies proviennent de la baisse de la consommation &eacute;nerg&eacute;tique, mais aussi des co&ucirc;ts de maintenance, parce que les DEL ont une dur&eacute;e de vie plus longue, et doivent donc &ecirc;tre remplac&eacute;es moins souvent. L&rsquo;&eacute;clairage &agrave; DEL est plus co&ucirc;teux au d&eacute;part mais, au fil du temps, il utilise moins d&rsquo;&eacute;nergie. Les responsables des acquisitions essaient g&eacute;n&eacute;ralement de minimiser les co&ucirc;ts et, s&rsquo;ils ne sont pas au courant de l&rsquo;analyse du cycle de vie et ne connaissent pas les sp&eacute;cifications appropri&eacute;es, ils vont sans doute continuer &agrave; acheter les ampoules moins ch&egrave;res.</p>
+
+<p>[Learn More End]</p>
+
+<p>Le document [resource](Example_Life_Cycle_Cost_Assessment_Worksheet) utilise l&rsquo;exemple de l&rsquo;&eacute;clairage pour montrer comment calculer le co&ucirc;t du cycle de vie.</p>
+
+<p>Au sein de votre organisation, les acquisitions sont parfois g&eacute;r&eacute;es par un service situ&eacute; au si&egrave;ge social. Pour satisfaire aux exigences de la norme ISO 50001, vous devrez peut-&ecirc;tre travailler avec les responsables des acquisitions pour l&rsquo;ensemble de l&rsquo;entreprise, afin de mettre en place les processus d&rsquo;acquisition n&eacute;cessaires. Le document [resource](Establishing_Energy_Related_Procurement_Processes) sugg&egrave;re des fa&ccedil;ons d&rsquo;&eacute;tablir ces processus.</p>
+
+<p>La [resource](Procurement_Checklist) peut faciliter la mise en &oelig;uvre des exigences de la norme ISO 50001 en mati&egrave;re d&rsquo;acquisitions.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir et consigner des sp&eacute;cifications pour les approvisionnements &eacute;nerg&eacute;tiques)</p>
+
+<p>La norme ISO 50001 exige que votre organisation d&eacute;finisse et consigne les sp&eacute;cifications visant les approvisionnements &eacute;nerg&eacute;tiques. Les exigences &eacute;nerg&eacute;tiques de votre organisation peuvent &ecirc;tre satisfaites par les fournisseurs locaux, et il se peut que vous n&rsquo;ayez pas besoin de prendre en compte des &eacute;l&eacute;ments particuliers. Dans ce cas-ci, le fournisseur peut g&eacute;n&eacute;ralement transmettre les sp&eacute;cifications relatives &agrave; l&rsquo;&eacute;nergie qui vous est fournie, ou elles peuvent figurer dans votre contrat, avec les tarifs.</p>
+
+<p>Il se peut que votre organisation ait des besoins sp&eacute;ciaux, ou que vous teniez compte d&rsquo;autres &eacute;l&eacute;ments pour choisir et acheter l&rsquo;&eacute;nergie n&eacute;cessaire &agrave; vos installations. Si votre organisation a des exigences uniques en mati&egrave;re d&rsquo;approvisionnements &eacute;nerg&eacute;tiques, vous devrez peut-&ecirc;tre &eacute;tablir les sp&eacute;cifications adapt&eacute;es &agrave; vos besoins.</p>
+
+<p>[Learn More](Facteurs ayant un impact sur l&rsquo;&eacute;tablissement des sp&eacute;cifications relatives aux approvisionnements &eacute;nerg&eacute;tiques)</p>
+
+<p>L&rsquo;&eacute;tablissement des sp&eacute;cifications relatives aux approvisionnements &eacute;nerg&eacute;tiques peut d&eacute;pendre des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Exigences en mati&egrave;re d&rsquo;&eacute;quipement</li>
+	<li>Disponibilit&eacute; de l&rsquo;&eacute;nergie</li>
+	<li>Emplacement des installations</li>
+	<li>Exigences relatives aux proc&eacute;d&eacute;s de fabrication</li>
+	<li>R&eacute;glementation environnementale</li>
+	<li>Autres r&egrave;glements gouvernementaux</li>
+</ul>
+
+<p>Par exemple :</p>
+
+<p>R&eacute;glementation gouvernementale &ndash; Un r&egrave;glement stipule qu&rsquo;une nouvelle installation doit faire appel au fournisseur local d&rsquo;&eacute;lectricit&eacute; s&rsquo;il est pr&eacute;vu que sa charge connect&eacute;e sera inf&eacute;rieure &agrave; 900 kilovolts. Au-del&agrave; de 900 kilovolts, l&rsquo;organisation peut choisir son fournisseur par appel d&rsquo;offres concurrentiel. Le fournisseur local peut autoriser quelques variations dans les caract&eacute;ristiques ou les tarifs de l&rsquo;&eacute;nergie fournie. Si la charge est &eacute;lev&eacute;e, la concurrence pourrait offrir plus de marge de man&oelig;uvre pour ce qui est des sp&eacute;cifications &eacute;nerg&eacute;tiques.</p>
+
+<p>Exigences li&eacute;es au proc&eacute;d&eacute; de fabrication &ndash; Un fabricant de tapis utilise un s&eacute;choir &agrave; feu direct. Parce que les tapis entrent en contact direct avec les produits de combustion, on exige un combustible propre comme le gaz naturel ou le propane. Le mazout ou les combustibles solides sont exclus, parce que le contact entre eux et le produit fini pourrait cr&eacute;er une contamination par la suie ou les cendres.</p>
+
+<p>[Learn More End]</p>
+
+<p>Voici certaines des sp&eacute;cifications dont vous devrez peut-&ecirc;tre tenir compte pour vos approvisionnements &eacute;nerg&eacute;tiques : exigences en mati&egrave;re de qualit&eacute;, de quantit&eacute;, de fiabilit&eacute; et de co&ucirc;t.</p>
+
+<p>[Learn More](Facteurs ayant un impact sur les sp&eacute;cifications relatives aux approvisionnements &eacute;nerg&eacute;tiques)</p>
+
+<p>Exemples de chacun de ces facteurs (qualit&eacute;, quantit&eacute;, fiabilit&eacute; et co&ucirc;t) :</p>
+
+<ul>
+	<li>Qualit&eacute;
+	<ul style="list-style-type:circle">
+		<li>Teneur maximale en humidit&eacute; du charbon</li>
+		<li>Teneur maximale en soufre du mazout</li>
+		<li>Teneur minimale en BTU des combustibles</li>
+		<li>Variations de tension acceptables</li>
+		<li>Facteur de puissance minimal</li>
+	</ul>
+	</li>
+	<li>Quantit&eacute;
+	<ul style="list-style-type:circle">
+		<li>Nombre</li>
+		<li>Exigences en mati&egrave;re de livraison</li>
+	</ul>
+	</li>
+	<li>Fiabilit&eacute;
+	<ul style="list-style-type:circle">
+		<li>Variation de qualit&eacute; acceptable</li>
+		<li>Variation acceptable en mati&egrave;re de livraison</li>
+		<li>Temps d&rsquo;arr&ecirc;t acceptable</li>
+	</ul>
+	</li>
+	<li>Co&ucirc;t
+	<ul style="list-style-type:circle">
+		<li>Co&ucirc;t unitaire</li>
+		<li>Co&ucirc;t de la non-interruption</li>
+		<li>Co&ucirc;t de la demande</li>
+		<li>Co&ucirc;t de la livraison</li>
+	</ul>
+	</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>&Eacute;tablissez les sp&eacute;cifications d&rsquo;achat pour garantir l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique de vos activit&eacute;s. Cela signifie que votre profil &eacute;nerg&eacute;tique contribuera &agrave; maximiser le rendement &eacute;nerg&eacute;tique, tout en ayant un minimum de r&eacute;percussions n&eacute;gatives, voire aucune. Par exemple :</p>
+
+<p>Votre organisation utilise le mazout comme combustible pour ses proc&eacute;d&eacute;s de fabrication. Consid&eacute;rez que la teneur en soufre du mazout est un facteur li&eacute; &agrave; l&rsquo;usage efficace de ce combustible comme source d&rsquo;&eacute;nergie. Les &eacute;missions de dioxyde de soufre sont s&eacute;v&egrave;rement contr&ocirc;l&eacute;es dans de nombreuses r&eacute;gions. Les journ&eacute;es d&rsquo;alerte grave au smog peuvent influer sur la capacit&eacute; de votre organisation &agrave; utiliser le mazout si la teneur en soufre de celui-ci est trop &eacute;lev&eacute;e. La teneur en soufre aura donc une incidence sur l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique du mazout.</p>
+
+<p>&nbsp;</p>
+
+<p>Pour &eacute;tablir plus facilement les sp&eacute;cifications relatives aux approvisionnements &eacute;nerg&eacute;tiques, vous voudrez peut-&ecirc;tre utiliser le document [resource](Energy_Purchasing_Specification_Worksheets). Ces feuilles de travail vous aideront &agrave; identifier les param&egrave;tres importants des approvisionnements &eacute;nerg&eacute;tiques et &agrave; formuler des sp&eacute;cifications adapt&eacute;es. Parce que ces sp&eacute;cifications d&eacute;pendent de la source d&rsquo;&eacute;nergie, le document comprend des onglets distincts pour l&rsquo;&eacute;lectricit&eacute;, le gaz naturel, le mazout et les combustibles solides. &Eacute;tant donn&eacute; que l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique est une consid&eacute;ration importante lors de l&rsquo;achat, la feuille de travail contient une colonne permettant d&rsquo;indiquer si le facteur d&rsquo;achat a ou pas une incidence sur l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique.</p>
+
+<p>Consignez les sp&eacute;cifications relatives aux approvisionnements &eacute;nerg&eacute;tiques pour garantir que les fournisseurs potentiels connaissent les exigences relatives &agrave; la source d&rsquo;&eacute;nergie, &agrave; la livraison, au prix, &agrave; la facturation, au paiement et &agrave; l&rsquo;attribution de contrats, et que l&rsquo;achat s&eacute;lectif satisfait &agrave; ces exigences. Pour vous aider &agrave; pr&eacute;parer la documentation relative aux acquisitions, vous pouvez &eacute;tablir les sp&eacute;cifications des sources d&rsquo;&eacute;nergie &agrave; l&rsquo;aide du document [resource](Energy_Purchasing_Specification_Worksheets), et des suggestions du service des acquisitions et du service juridique. Demandez &agrave; vos sp&eacute;cialistes des acquisitions de l&rsquo;aide &agrave; propos des exigences li&eacute;es &agrave; la livraison, &agrave; la facturation et aux paiements, et &agrave; vos analystes juridiques, de l&rsquo;aide &agrave; propos des contrats. Consignez les sp&eacute;cifications relatives aux achats d&rsquo;&eacute;nergie afin de garantir que les approvisionnements &eacute;nerg&eacute;tiques initiaux et futurs satisferont &agrave; toutes les exigences. Vous pouvez utiliser le document [resource](Energy_Purchasing_Specification_Summary) pour structurer l&rsquo;information n&eacute;cessaire aux approvisionnements &eacute;nerg&eacute;tiques.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les organisations dot&eacute;es d&rsquo;un syst&egrave;me ISO 14001:2015 et/ou ISO 9001:2015 ont &eacute;tabli des processus leur permettant &agrave; la fois de d&eacute;terminer et de communiquer les exigences auxquelles elles doivent satisfaire lors de leurs acquisitions. Quand vous mettrez en &oelig;uvre la norme ISO 50001:2011, vous devriez &eacute;valuer les actuels processus d&rsquo;acquisition et les exploiter comme il se doit, comme point de d&eacute;part de la satisfaction des exigences li&eacute;es aux acquisitions &eacute;nonc&eacute;es dans cette norme.</p>
+
+<p>Du point de vue du cycle de vie, la d&eacute;termination des exigences environnementales associ&eacute;es &agrave; l&rsquo;acquisition de produits et services fait partie des syst&egrave;mes ISO 14001:2015. On pourrait exploiter ces processus de d&eacute;termination des exigences environnementales pour satisfaire plus facilement aux crit&egrave;res li&eacute;s au cycle de vie d&eacute;finis par la norme ISO 50001 pour les mesures d&rsquo;acquisition susceptibles d&rsquo;avoir un impact important sur le rendement &eacute;nerg&eacute;tique. Les syst&egrave;mes ISO 9001:2015 proposent des processus de contr&ocirc;le des produits et services provenant de l&rsquo;ext&eacute;rieur, qui pourraient &ecirc;tre un excellent point de d&eacute;part pour la mise en &oelig;uvre des exigences de la norme ISO 50001:2011 en mati&egrave;re d&rsquo;acquisitions.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Quand vous mettez en &oelig;uvre le SGE, vous devez parfois examiner les d&eacute;tails sur la gestion des approvisionnements figurant &agrave; la section 4.2 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. Les exigences du SGE en mati&egrave;re d&rsquo;acquisitions li&eacute;es aux UES s&rsquo;appliquent aussi aux fournisseurs.</p>
+
+<p>De plus, la section 4.2 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> mentionne bri&egrave;vement la d&eacute;termination des r&ocirc;les internes, notamment de ceux qui sont li&eacute;s &agrave; la gestion des approvisionnements. La norme ISO 50001 d&eacute;finit des exigences plus pr&eacute;cises en ce qui concerne les crit&egrave;res li&eacute;s au cycle de vie et les approvisionnements &eacute;nerg&eacute;tiques, et la pr&eacute;sente t&acirc;che donne des directives &agrave; cet &eacute;gard.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

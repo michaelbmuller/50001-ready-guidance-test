@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 15
 ----------MENU NAME----------
 Mesure
 ----------TITLE----------
-Tâche 15 : Nous avons établi un plan de mesure, révisé périodiquement, qui définit, organise et documente nos activités de surveillance et de mesure, et garantit qu’elles sont précises et reproductibles.
+Tâche 15: Nous avons établi un plan de mesure, révisé périodiquement, qui définit, organise et documente nos activités de surveillance et de mesure, et garantit qu’elles sont précises et reproductibles.
 ----------GETTING IT DONE----------
 <ul>
 	<li>Utilisez le document [resource](Energy_Measurement_Plan_Worksheet) pour d&eacute;terminer les donn&eacute;es ad&eacute;quates qu&rsquo;il faut recueillir en vue d&rsquo;&eacute;valuer le rendement &eacute;nerg&eacute;tique. Veillez &agrave; ce que toutes les caract&eacute;ristiques principales d&eacute;terminant le rendement &eacute;nerg&eacute;tique soient mentionn&eacute;es dans le plan de mesure.</li>

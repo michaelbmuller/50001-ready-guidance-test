@@ -1,0 +1,252 @@
+USDOE 50001 READY NAVIGATOR TASK 23
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Audit interne
+----------TITLE----------
+Tâche 23: Nous avons mené des audits internes du système 50001 Ready et présenté ces résultats et les mesures correctives/préventives correspondantes à la haute direction.
+----------GETTING IT DONE----------
+<ul>
+	<li>Nommez un gestionnaire du programme d&rsquo;audit interne du SGE.</li>
+	<li>&Eacute;laborez une proc&eacute;dure document&eacute;e qui porte sur la planification et l&rsquo;ex&eacute;cution des audits internes du SGE, puis sur la pr&eacute;sentation des r&eacute;sultats de ces audits.
+	<ul style="list-style-type:circle">
+		<li>Utilisez le document [resource](Internal_Audit_Schedule_Template) pour &eacute;tablir un calendrier d&rsquo;audit.</li>
+		<li>Utilisez le document [resource](Internal_Audit_Plan_Template) pour &eacute;laborer des plans d&rsquo;audit individuels.</li>
+	</ul>
+	</li>
+	<li>D&eacute;signez les employ&eacute;s qui seront les v&eacute;rificateurs internes et formez-les &agrave; propos des exigences li&eacute;es au SGE ISO 50001, aux syst&egrave;mes de gestion des audits internes et &agrave; votre proc&eacute;dure d&rsquo;audit interne.</li>
+	<li>Planifiez r&eacute;guli&egrave;rement les audits internes du SGE, afin de d&eacute;finir les secteurs qui r&eacute;ussissent et ceux qui n&eacute;cessitent des am&eacute;liorations.</li>
+	<li>Consignez les r&eacute;sultats des audits internes de votre organisation sur le [resource](Audit_Finding_Form). Vous pouvez aussi consigner les constatations n&eacute;gatives dans le document [resource](Corrective_Action_Preventive_Action_Request_Form) et &eacute;num&eacute;rer les constatations positives dans un rapport d&rsquo;audit ou un autre r&eacute;sum&eacute; des r&eacute;sultats d&rsquo;audit.</li>
+	<li>Attribuez la responsabilit&eacute; des audits au repr&eacute;sentant de la direction ou au gestionnaire du programme d&rsquo;audit interne du SGE, afin de garantir que les r&eacute;sultats de l&rsquo;audit interne seront transmis &agrave; la haute direction, g&eacute;n&eacute;ralement dans le cadre de la revue de direction (voir [task](Management Review)).</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Un audit interne vous permet de v&eacute;rifier votre rendement &eacute;nerg&eacute;tique, ainsi que la mise en &oelig;uvre et l&rsquo;efficacit&eacute; de votre SGE. C&rsquo;est un processus syst&eacute;matique et ind&eacute;pendant qu&rsquo;il faut documenter. Les v&eacute;rificateurs internes recueillent et &eacute;valuent objectivement des &eacute;l&eacute;ments probants, afin de d&eacute;terminer si votre organisation satisfait aux exigences de son SGE et de la norme ISO 50001.</p>
+
+<p>Les audits des syst&egrave;mes de gestion sont ax&eacute;s sur le syst&egrave;me; ils sont tr&egrave;s diff&eacute;rents des autres types d&rsquo;audits que vous connaissez peut-&ecirc;tre, comme les audits de conformit&eacute; aux lois environnementales ou les audits financiers. Il est donc essentiel de former les v&eacute;rificateurs internes aux audits des syst&egrave;mes de gestion. Il faudra se doter des ressources appropri&eacute;es pour garantir que cette formation sera offerte, soit &agrave; l&rsquo;interne, soit par un fournisseur externe.</p>
+
+<p>Le repr&eacute;sentant de la direction responsable de l&rsquo;&eacute;nergie est souvent le responsable du programme d&rsquo;audit interne. Mais certaines organisations d&eacute;signent un responsable distinct.</p>
+
+<p>Si votre organisation a &eacute;tabli un programme d&rsquo;audit interne pour un autre syst&egrave;me de gestion (par exemple, de la qualit&eacute; &ndash; ISO 9001, de l&rsquo;environnement &ndash; ISO 14001 et de la sant&eacute;/de la s&eacute;curit&eacute; au travail &ndash; OHSAS 18001), inspirez-vous de ce programme et exploitez l&rsquo;expertise de l&rsquo;organisation en mati&egrave;re d&rsquo;audit interne. Par contre, si vous n&rsquo;avez aucun programme d&rsquo;audit interne, il est fortement recommand&eacute; de consulter le document [resource](Introduction_Internal_Auditing_Concepts) du dossier <em>50001 Ready Navigator</em>, et de suivre la formation destin&eacute;e aux v&eacute;rificateurs internes ou aux v&eacute;rificateurs principaux sur la fa&ccedil;on de g&eacute;rer et de mener des audits internes.</p>
+
+<p>Les r&eacute;sultats des audits internes, positifs ou n&eacute;gatifs, doivent &ecirc;tre consign&eacute;s et communiqu&eacute;s &agrave; la haute direction. Ils sont souvent consign&eacute;s dans un formulaire de constatations d&rsquo;audit, un formulaire de mesures correctives et/ou un rapport d&rsquo;audit. Ils peuvent aussi faire l&rsquo;objet d&rsquo;une pr&eacute;sentation PowerPoint. Quels que soient le style et le format utilis&eacute;s, la communication des r&eacute;sultats devrait viser deux objectifs :</p>
+
+<ol>
+	<li>Fournir des &eacute;l&eacute;ments probants objectifs &agrave; propos de la mise en &oelig;uvre du processus d&rsquo;audit</li>
+	<li>Permettre la planification de mesures correctives et l&rsquo;&eacute;tablissement/la mise en application des exigences de suivi</li>
+</ol>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli une proc&eacute;dure document&eacute;e d&rsquo;audit interne</li>
+	<li>&Eacute;tabli le calendrier d&rsquo;audit</li>
+	<li>&Eacute;labor&eacute; le plan d&rsquo;audit</li>
+	<li>Choisi et form&eacute; les v&eacute;rificateurs internes</li>
+	<li>Men&eacute; les audits internes</li>
+	<li>Pr&eacute;sent&eacute; les r&eacute;sultats d&rsquo;audit interne &agrave; la haute direction</li>
+	<li>Consign&eacute; les r&eacute;sultats</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.6.3 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir une proc&eacute;dure document&eacute;e d&rsquo;audit interne)</p>
+
+<p>La norme ISO 50001 exige que vous documentiez votre processus d&rsquo;audit interne. Ce processus comprend g&eacute;n&eacute;ralement les volets suivants :</p>
+
+<ul>
+	<li>Objet de l&rsquo;audit</li>
+	<li>Planification de l&rsquo;audit et &eacute;tablissement d&rsquo;un calendrier</li>
+	<li>Formation des v&eacute;rificateurs</li>
+	<li>Ex&eacute;cution de l&rsquo;audit</li>
+	<li>Consignation des r&eacute;sultats de l&rsquo;audit</li>
+	<li>Communication des r&eacute;sultats &agrave; la direction</li>
+	<li>Tenue &agrave; jour des registres</li>
+</ul>
+
+<p>Tenez compte de l&rsquo;information fournie ici quand vous &eacute;laborez un processus d&rsquo;audit interne adapt&eacute; &agrave; votre organisation. Assurez-vous que la proc&eacute;dure d&eacute;finit clairement les r&ocirc;les et responsabilit&eacute;s du personnel concern&eacute;. En structurant la proc&eacute;dure en fonction de ce qui doit &ecirc;tre fait, du moment o&ugrave; &ccedil;a doit &ecirc;tre fait, des personnes qui doivent le faire et des registres &agrave; tenir, vous pourrez communiquer clairement les attentes relatives au syst&egrave;me d&rsquo;audit interne.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir le calendrier d&rsquo;audit)</p>
+
+<p>Les audits internes doivent &ecirc;tre men&eacute;s &agrave; des intervalles planifi&eacute;s; ce ne sont pas des activit&eacute;s &laquo; surprises &raquo;. Le gestionnaire du programme d&rsquo;audit (ou le repr&eacute;sentant de la direction) pr&eacute;pare un calendrier d&rsquo;audit interne du SGE, qui :</p>
+
+<ul>
+	<li>pr&eacute;voit l&rsquo;audit du rendement &eacute;nerg&eacute;tique et du syst&egrave;me de gestion;</li>
+	<li>tient compte de l&rsquo;&eacute;tat et de l&rsquo;importance des secteurs et des processus;</li>
+	<li>tient compte des r&eacute;sultats d&rsquo;audits pr&eacute;c&eacute;dents.</li>
+</ul>
+
+<p>Parce que la norme ISO 50001 exige que vous teniez compte de l&rsquo;&eacute;tat et de l&rsquo;importance des secteurs et des processus quand vous pr&eacute;parez le calendrier d&rsquo;audit, il faut g&eacute;n&eacute;ralement accorder une attention &agrave; ceux qui sont associ&eacute;s aux &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Usages &eacute;nerg&eacute;tiques significatifs (UES)</li>
+	<li>Objectifs &eacute;nerg&eacute;tiques</li>
+	<li>Cibles &eacute;nerg&eacute;tiques</li>
+	<li>Plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie</li>
+	<li>Contr&ocirc;les op&eacute;rationnels et de maintenance</li>
+	<li>Activit&eacute;s visant &agrave; maintenir les am&eacute;liorations &eacute;nerg&eacute;tiques au fil du temps</li>
+</ul>
+
+<p>Le calendrier d&rsquo;audit interne couvre g&eacute;n&eacute;ralement une ann&eacute;e, mais parfois une p&eacute;riode plus courte ou plus longue. Vous pouvez d&eacute;cider de mener un seul audit interne par an, qui couvrira l&rsquo;ensemble du SGE, ou de mener une s&eacute;rie d&rsquo;audits plus courts qui, combin&eacute;s, couvriront toutes les exigences li&eacute;es au SGE pour une p&eacute;riode d&eacute;finie. Certaines organisations d&eacute;cident de mener des audits internes du rendement &eacute;nerg&eacute;tique s&eacute;par&eacute;ment des audits internes du syst&egrave;me de gestion. Quelle que soit votre m&eacute;thode, planifiez les audits en fonction de l&rsquo;&eacute;tat et de l&rsquo;importance des secteurs et des processus.</p>
+
+<p>[Learn More](Importance du calendrier d&rsquo;audit)</p>
+
+<p>Voici un exemple mettant en lumi&egrave;re l&rsquo;importance du calendrier d&rsquo;audit :</p>
+
+<p>La Soci&eacute;t&eacute; ABC met en place un programme de purge de vapeur dans le cadre d&rsquo;un plan d&rsquo;action visant &agrave; r&eacute;duire les pertes &eacute;nerg&eacute;tiques. Le calendrier d&rsquo;audit interne indique que ce programme fera l&rsquo;objet de deux audits pendant la p&eacute;riode couverte par le calendrier. Le premier audit interne d&eacute;terminera si la mise en place initiale du programme de purge de vapeur est termin&eacute;e. Par la suite, on fera un nouvel audit de ce programme afin de veiller &agrave; ce que les inspections de routine des purgeurs de vapeur soient men&eacute;es comme pr&eacute;vu, et &agrave; ce que le programme permette bien de r&eacute;duire la vapeur.</p>
+
+<p>[Learn More End]</p>
+
+<p>Une fois que vous aurez men&eacute; les audits internes, vous devrez peut-&ecirc;tre modifier le calendrier d&rsquo;audit en fonction des r&eacute;sultats de ces audits.</p>
+
+<p>[Learn More](Modification d&rsquo;un calendrier d&rsquo;audit)</p>
+
+<p>Voici un exemple de modification de calendrier d&rsquo;audit :</p>
+
+<p>Dans ce cas-ci, le calendrier annuel d&rsquo;audit interne de l&rsquo;organisation pr&eacute;voit deux audits internes d&rsquo;un UES pr&eacute;cis (p. ex., &eacute;clairage int&eacute;rieur et ext&eacute;rieur de l&rsquo;ensemble du groupe d&rsquo;immeubles). Si l&rsquo;on identifie des cas de non-conformit&eacute; au moment de l&rsquo;audit de cet UES, l&rsquo;audit de l&rsquo;ann&eacute;e suivante pourrait &ecirc;tre modifi&eacute; pour n&rsquo;inclure qu&rsquo;un audit interne de cet UES pr&eacute;cis. Par ailleurs, si les audits internes r&eacute;v&egrave;lent un manque de conformit&eacute; syst&eacute;matique avec les exigences du SGE de l&rsquo;organisation pour cet UES, le calendrier d&rsquo;audit interne pour l&rsquo;ann&eacute;e en cours ou l&rsquo;ann&eacute;e suivante (ou pour les deux) pourrait &ecirc;tre r&eacute;vis&eacute; pour inclure d&rsquo;autres audits de cet UES.</p>
+
+<p>[Learn More End]</p>
+
+<p>Autres raisons possibles de modifier le calendrier d&rsquo;audit :</p>
+
+<ul>
+	<li>Nouvelles initiatives de la direction</li>
+	<li>Changements organisationnels</li>
+	<li>Probl&egrave;mes ou besoins des clients</li>
+	<li>Modification des proc&eacute;d&eacute;s</li>
+	<li>Objectifs de rendement &eacute;nerg&eacute;tique non atteints</li>
+	<li>Objectifs ou cibles &eacute;nerg&eacute;tiques nouveaux ou r&eacute;vis&eacute;s</li>
+</ul>
+
+<p>Le calendrier d&rsquo;audit interne peut &ecirc;tre pr&eacute;sent&eacute; dans le format qui r&eacute;pond aux besoins de votre organisation. Souvent, il indique les proc&eacute;d&eacute;s et les postes/secteurs devant faire l&rsquo;objet d&rsquo;un audit, ainsi que les dates pr&eacute;vues. Certains calendriers d&rsquo;audit indiquent seulement quels processus du SEG et quel rendement seront vis&eacute;s par l&rsquo;audit et &agrave; quel moment. Dans les deux cas, assurez-vous que :</p>
+
+<ul>
+	<li>le statut et l&rsquo;importance des postes et des secteurs sont pris en compte;</li>
+	<li>tous les processus du SGE et toutes les exigences de la norme ISO 50001 font l&rsquo;objet d&rsquo;un audit pour tous les postes ou secteurs pendant une p&eacute;riode d&eacute;finie.</li>
+</ul>
+
+<p>Vous avez acc&egrave;s &agrave; plusieurs exemples de calendriers d&rsquo;audit, et &agrave; un [resource](Internal_Audit_Schedule_Template), qui vous aideront &agrave; d&eacute;terminer le format convenant le mieux &agrave; votre organisation : [resource](Example_Internal_Audit_Schedule), [resource](Example_Format_Internal_Audit_ Schedule_Commercial_Building), [resource](Example_Format_Internal_Audit_ Schedule_Manufacturing).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;laborer le plan d&rsquo;audit)</p>
+
+<p>On pr&eacute;pare un plan d&rsquo;audit interne ou un &eacute;ch&eacute;ancier pour chaque audit interne. Habituellement, ce plan est pr&eacute;par&eacute; par le gestionnaire du programme d&rsquo;audit interne, par un v&eacute;rificateur principal ou par le chef de l&rsquo;&eacute;quipe d&rsquo;audit. Il inclut souvent l&rsquo;information de base suivante :</p>
+
+<ul>
+	<li>Date(s) de l&rsquo;audit</li>
+	<li>Objectifs de l&rsquo;audit</li>
+	<li>Processus et secteurs vis&eacute;s par l&rsquo;audit</li>
+	<li>V&eacute;rificateur(s) charg&eacute;s de l&rsquo;audit de chaque processus/secteur</li>
+	<li>Moment de l&rsquo;audit</li>
+	<li>Exigences (crit&egrave;res) et r&eacute;f&eacute;rences</li>
+</ul>
+
+<p>[Learn More](Exemples d&rsquo;objectifs courant des audits et de processus soumis &agrave; un audit)</p>
+
+<p>Exemples d&rsquo;objectifs courants des audits :</p>
+
+<ul>
+	<li>Conformit&eacute; avec les exigences de la norme ISO 50001 et du SGE</li>
+	<li>Conformit&eacute; avec les objectifs et les cibles &eacute;nerg&eacute;tiques &eacute;tablis</li>
+	<li>Mise en &oelig;uvre et efficacit&eacute; du SGE</li>
+	<li>Am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>Les processus &agrave; soumettre &agrave; un audit sont li&eacute;s aux &eacute;l&eacute;ments suivants (liste non exhaustive) :</p>
+
+<ul>
+	<li>Responsabilit&eacute;s en mati&egrave;re de gestion</li>
+	<li>Usages &eacute;nerg&eacute;tiques significatifs</li>
+	<li>Objectifs &eacute;nerg&eacute;tiques</li>
+	<li>Cibles &eacute;nerg&eacute;tiques et plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie</li>
+	<li>Communication et sensibilisation</li>
+	<li>Contr&ocirc;les op&eacute;rationnels et de maintenance</li>
+	<li>Contr&ocirc;le de la documentation</li>
+	<li>Audits internes</li>
+	<li>Mesures correctives et pr&eacute;ventives</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Les documents [resource](Example_Internal_Audit_Plan_Commercial), [resource](Example_Internal_Audit_Plan_Industrial) et [resource](Internal_Audit_Plan_Template) peuvent vous aider &agrave; &eacute;laborer un plan d&rsquo;audit.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Choisir et former les v&eacute;rificateurs internes)</p>
+
+<p>Les audits internes sont men&eacute;s par les employ&eacute;s qui ont &eacute;t&eacute; form&eacute;s pour effectuer des audits internes des syst&egrave;mes de gestion. Le bassin de v&eacute;rificateurs internes devrait comprendre des repr&eacute;sentants de diff&eacute;rentes divisions. L&rsquo;audit peut &ecirc;tre effectu&eacute; par un seul v&eacute;rificateur ou par une ou plusieurs &eacute;quipes. Dans les deux cas, les personnes effectuant l&rsquo;audit interne doivent &ecirc;tre objectives et impartiales, et ne peuvent faire l&rsquo;audit de leur propre travail. Les v&eacute;rificateurs internes sont g&eacute;n&eacute;ralement form&eacute;s par d&rsquo;autres v&eacute;rificateurs internes d&rsquo;exp&eacute;rience ou suivent des cours donn&eacute;s par un fournisseur externe.</p>
+
+<p>La formation des v&eacute;rificateurs porte g&eacute;n&eacute;ralement sur les volets suivants :</p>
+
+<ul>
+	<li>Exigences de la norme ISO 50001</li>
+	<li>Objectifs de l&rsquo;audit</li>
+	<li>Comment &eacute;tablir et utiliser une liste de contr&ocirc;le</li>
+	<li>Comment recueillir et &eacute;valuer des &eacute;l&eacute;ments probants objectifs</li>
+	<li>Comment documenter les constatations positives et n&eacute;gatives</li>
+	<li>Comment pr&eacute;parer un rapport des r&eacute;sultats</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mener des audits internes)</p>
+
+<p>Les audits internes d&eacute;finissent &agrave; la fois les secteurs qui r&eacute;ussissent et ceux qui n&eacute;cessitent des am&eacute;liorations. Lors de l&rsquo;audit, les v&eacute;rificateurs internes s&rsquo;efforcent de d&eacute;terminer si votre organisation :</p>
+
+<ul>
+	<li>fait ce qu&rsquo;elle a promis de faire;</li>
+	<li>atteint ses objectifs/cibles &eacute;nerg&eacute;tiques;</li>
+	<li>am&eacute;liore continuellement son SGE;</li>
+	<li>parvient &agrave; am&eacute;liorer son rendement &eacute;nerg&eacute;tique.</li>
+</ul>
+
+<p>Le choix des v&eacute;rificateurs et de la m&eacute;thode d&rsquo;audit doit d&eacute;montrer que le processus est objectif et impartial. On attend de chaque v&eacute;rificateur qu&rsquo;il s&rsquo;acquitte de ses responsabilit&eacute;s, &eacute;nonc&eacute;es dans le plan d&rsquo;audit.</p>
+
+<p>Durant l&rsquo;audit interne, les v&eacute;rificateurs recueillent des &eacute;l&eacute;ments probants objectifs :</p>
+
+<ul>
+	<li>en interviewant le personnel,</li>
+	<li>en observant les activit&eacute;s,</li>
+	<li>en examinant les documents et</li>
+	<li>en examinant les registres et les donn&eacute;es.</li>
+</ul>
+
+<p>On utilise souvent la liste de contr&ocirc;le d&rsquo;audit pour mieux organiser et documenter les &eacute;l&eacute;ments probants et les constatations d&rsquo;audit.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;senter les r&eacute;sultats de l&rsquo;audit interne &agrave; la haute direction)</p>
+
+<p>Certaines organisations consignent les constatations d&rsquo;audit interne dans un [resource](Audit_Finding_Form). D&rsquo;autres consignent les constatations n&eacute;gatives directement dans un [resource](Corrective_Action_Preventive_Action_Request_Form), et &eacute;num&egrave;rent les constatations positives dans un rapport d&rsquo;audit ou dans d&rsquo;autres r&eacute;sum&eacute;s des r&eacute;sultats d&rsquo;audit. C&rsquo;est &agrave; vous de d&eacute;cider du mode de consignation de vos r&eacute;sultats d&rsquo;audit.</p>
+
+<p>La pr&eacute;sentation des r&eacute;sultats d&rsquo;audit interne &agrave; la haute direction fait partie du processus de revue de direction (voir [task](Management Review)). Le niveau de d&eacute;tail de l&rsquo;information pr&eacute;sent&eacute;e doit r&eacute;pondre aux besoins de la haute direction. Il faut prendre au moment opportun les mesures correctives justifi&eacute;es par les constatations n&eacute;gatives.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner les r&eacute;sultats)</p>
+
+<p>La norme ISO 50001 exige que vous consigniez les r&eacute;sultats des audits internes, positifs et n&eacute;gatifs. Les registres contiennent g&eacute;n&eacute;ralement les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Calendrier d&rsquo;audit</li>
+	<li>Plan(s) d&rsquo;audit</li>
+	<li>Dossiers de formation des v&eacute;rificateurs</li>
+	<li>Rapports d&rsquo;audit de non-conformit&eacute; ou registre des mesures correctives mises en &oelig;uvre</li>
+	<li>Rapports des constatations d&rsquo;audit</li>
+</ul>
+
+<p>Des renseignements plus d&eacute;taill&eacute;s sont pr&eacute;sent&eacute;s dans le document [resource](Introduction_Internal_Auditing_Concepts). Si votre organisation utilise des syst&egrave;mes de gestion ISO pour la premi&egrave;re fois, nous vous recommandons fortement de lire l&rsquo;int&eacute;gralit&eacute; de ce document.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Il y a tr&egrave;s peu de diff&eacute;rences entre la structure et la gestion des programmes d&rsquo;audit interne conformes &agrave; la norme ISO 50001:2011 et ceux qu&rsquo;exigent les normes ISO 9001:2015 et ISO 14001:2015. Les normes ISO 9001 et ISO 14001 &eacute;noncent en fait quelques autres exigences visant pr&eacute;cis&eacute;ment les programmes (p. ex., d&eacute;finir les crit&egrave;res d&rsquo;audit et la port&eacute;e de chaque audit, tenir compte des changements touchant l&rsquo;organisation) qui sont incluses dans la norme ISO 50001. M&ecirc;me si une organisation choisit de ne pas mener d&rsquo;audits int&eacute;gr&eacute;s de ses syst&egrave;mes de gestion, elle peut utiliser les m&ecirc;mes proc&eacute;dures de planification, d&rsquo;ex&eacute;cution et de production de rapports pour l&rsquo;audit interne des syst&egrave;mes ISO 9001, ISO 14001 et ISO 50001. Ou, s&rsquo;il faut assurer une maintenance distincte de ces syst&egrave;mes, on peut facilement reproduire la structure et les exigences associ&eacute;es aux actuels processus d&rsquo;audit interne vis&eacute;s par la norme ISO 9001 ou ISO 14001 &ndash; proc&eacute;dures, m&eacute;thodes et responsabilit&eacute;s &ndash; et les adapter &agrave; un SGE ISO 50001.</p>
+
+<p>La principale diff&eacute;rence entre les exigences d&rsquo;audit interne d&eacute;finies par la norme ISO 50001 et les normes ISO 9001 et ISO 14001 porte sur l&rsquo;objet d&rsquo;un audit interne. En plus de garantir la conformit&eacute; et une mise en &oelig;uvre/une maintenance efficaces du syst&egrave;me de gestion, les audits internes ISO 50001 visent &agrave; garantir que le SGE <em>am&eacute;liorera</em> effectivement le rendement &eacute;nerg&eacute;tique. Un des volets pratiques de cette exigence de la norme ISO 50001 est la formation et les comp&eacute;tences des v&eacute;rificateurs internes. En vertu de la norme ISO 50001, le bassin de v&eacute;rificateurs internes doit inclure des employ&eacute;s qui sont &agrave; l&rsquo;aise avec l&rsquo;&eacute;valuation et l&rsquo;analyse des donn&eacute;es (et qui, id&eacute;alement, poss&egrave;dent de l&rsquo;exp&eacute;rience en la mati&egrave;re). Les actuels v&eacute;rificateurs internes poss&egrave;dent peut-&ecirc;tre d&eacute;j&agrave; ces habilet&eacute;s, par exemple s&rsquo;ils savent comment &eacute;valuer la qualit&eacute; des donn&eacute;es conform&eacute;ment &agrave; la norme ISO 9001. Dans le cadre des syst&egrave;mes ISO 14001, il faut aussi &eacute;valuer la performance environnementale; mais on ne peut le faire que par le biais des processus de surveillance, de mesure, d&rsquo;analyse et d&rsquo;&eacute;valuation, pas par le biais du processus d&rsquo;audit interne. Il faudra donc peut-&ecirc;tre adapter quelque peu les comp&eacute;tences des v&eacute;rificateurs internes, afin de faire un audit efficace du rendement &eacute;nerg&eacute;tique d&rsquo;un syst&egrave;me ISO 50001. Il est clair que les v&eacute;rificateurs internes existants qui sont charg&eacute;s des syst&egrave;mes de gestion de la qualit&eacute; et de l&rsquo;environnement auraient besoin d&rsquo;une formation &agrave; propos des exigences de la norme ISO 50001 et des volets &eacute;nerg&eacute;tiques de celle-ci pour pouvoir mener des audits internes du SGE.</p>
+
+<p>Comme les normes ISO 9001:2015 et ISO 14001:2015, la norme ISO 5001-2011 exige la pr&eacute;sentation des r&eacute;sultats d&rsquo;audit interne. Dans le cadre de la norme ISO 50001, ces r&eacute;sultats doivent &ecirc;tre pr&eacute;sent&eacute;s &agrave; la haute direction. Dans le cadre des normes ISO 9001 et 14001, ils sont pr&eacute;sent&eacute;s aux &laquo; gestionnaires pertinents &raquo;. D&rsquo;un point de vue pratique, il y a parfois tr&egrave;s peu de diff&eacute;rence entre les &laquo; destinataires &raquo; de ces r&eacute;sultats pour ces divers syst&egrave;mes de gestion. Par contre, pour int&eacute;grer la norme ISO 50001 &agrave; la norme ISO 9001 ou ISO 14001, il faudrait que les &laquo; gestionnaires pertinents &raquo; incluent les membres de la haute direction.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; aux sections 5.1, 5.2, 5.5, 6.1 et 6.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Vous pouvez utiliser et modifier des &eacute;l&eacute;ments de ces lignes directrices ENERGY STAR pour pr&eacute;parer un audit interne du SGE, mais il faudra ex&eacute;cuter d&rsquo;autres travaux pour satisfaire aux exigences de la norme ISO 50001 en mati&egrave;re d&rsquo;audits internes du SGE, bas&eacute;es sur les proc&eacute;dures, calendriers et plans d&rsquo;audit interne document&eacute;s. Les lignes directrices ENERGY STAR recommandent la cr&eacute;ation d&rsquo;un plan de communication et une meilleure sensibilisation &agrave; l&rsquo;&eacute;chelle des installations. La norme ISO 50001 exige express&eacute;ment la documentation et la consignation des r&eacute;sultats d&rsquo;audit interne, et leur communication &agrave; la haute direction dans le cadre de la revue de direction portant sur le rendement du SGE et sur le rendement &eacute;nerg&eacute;tique de l&rsquo;organisation.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

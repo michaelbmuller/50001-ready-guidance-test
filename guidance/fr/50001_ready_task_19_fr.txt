@@ -1,0 +1,624 @@
+USDOE 50001 READY NAVIGATOR TASK 19
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Documents et registres
+----------TITLE----------
+Tâche 19: Nous avons élaboré et mis en place des processus permettant de contrôler les documents et les registres relatifs aux systèmes 50001 Ready
+----------GETTING IT DONE----------
+<ul>
+	<li>Vous devez comprendre la diff&eacute;rence entre les documents et les registres.</li>
+	<li>Utilisez l&rsquo;[resource](EnMS_Document_Control_Index) pour dresser la liste des documents, d&eacute;signer les propri&eacute;taires des documents et ceux qui les approuvent, et d&eacute;finir les contr&ocirc;les visant la distribution et les examens p&eacute;riodiques. Veillez &agrave; ce que les propri&eacute;taires des documents soient responsables de la conformit&eacute; avec les contr&ocirc;les visant ces documents, et veillent notamment &agrave; ce que les documents demeurent lisibles, identifiables et tra&ccedil;ables.</li>
+	<li>Utilisez l&rsquo;[resource](EnMS_Records_Control_Index) pour dresser la liste de vos registres relatifs au SGE, d&eacute;signer les propri&eacute;taires des registres et d&eacute;finir les conditions de stockage, la facilit&eacute; de consultation et le d&eacute;lai de conservation minimal de chaque type de registre. Veillez &agrave; ce que les propri&eacute;taires des registres soient responsables de la conformit&eacute; avec les contr&ocirc;les visant ces registres, et veillent notamment &agrave; ce que les registres demeurent lisibles, identifiables et tra&ccedil;ables.</li>
+	<li>Si votre organisation s&rsquo;est dot&eacute;e d&rsquo;un syst&egrave;me de contr&ocirc;le des documents, comparez-le au [resource](Checklist_Document_Control_Basics) et personnalisez-le au besoin pour vous conformer &agrave; la norme ISO 50001. Si votre organisation a &eacute;tabli une politique relative aux registres, assurez-vous que les contr&ocirc;les instaur&eacute;s pour les registres du SGE respectent les exigences de cette politique.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La documentation constitue un &eacute;l&eacute;ment cl&eacute; du SGE. Elle facilite la mise en &oelig;uvre du SGE et garantit son bon fonctionnement au fil du temps, mais elle est &eacute;galement essentielle pour pr&eacute;senter les r&eacute;sultats obtenus. Il y a deux types ou deux cat&eacute;gories de base constituant la documentation : les <em>documents, </em>qui fournissent de l&rsquo;information destin&eacute;e &agrave; guider les mesures ou &agrave; communiquer les attentes dans le pr&eacute;sent (aujourd&rsquo;hui), et les <em>registres,</em> qui fournissent de l&rsquo;information &agrave; propos du pass&eacute; (aper&ccedil;us ponctuels).</p>
+
+<p>La norme ISO 50001 exige express&eacute;ment certains documents et certains registres. L&rsquo;organisation elle-m&ecirc;me d&eacute;termine s&rsquo;il lui faut d&rsquo;autre documentation en fonction de ses besoins. Le [resource](EnMS_Documentation_Guidance_Table) contient une liste compl&egrave;te des documents et registres exig&eacute;s par la norme ISO 50001, ainsi que de ceux &agrave; propos desquels votre organisation devra prendre une d&eacute;cision (le tableau les identifie comme tels).</p>
+
+<p>Les t&acirc;ches pr&eacute;c&eacute;dentes ont fourni des directives d&eacute;taill&eacute;es sur la cr&eacute;ation du contenu de certains des documents requis, comme ceux qui portent sur le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE ([t&acirc;che](Scope and Boundaries)), la politique &eacute;nerg&eacute;tique ([t&acirc;che](Energy Policy)), les objectifs et cibles &eacute;nerg&eacute;tiques et les plans d&rsquo;action connexes ([t&acirc;che](Baselines, Objectives and Targets) et les [t&acirc;che](Improvement Projects)), et les processus d&rsquo;audit interne ([t&acirc;che](Internal Audit)).</p>
+
+<p>Dans le cadre d&rsquo;un SGE ISO 50001:2011 qu&rsquo;on am&eacute;liore continuellement, l&rsquo;organisation doit : 1) d&eacute;terminer comment elle va satisfaire aux exigences du SGE, afin de parvenir &agrave; une am&eacute;lioration constante du rendement &eacute;nerg&eacute;tique et du SGE lui-m&ecirc;me; 2) tenir &agrave; jour l&rsquo;information d&eacute;crivant les &eacute;l&eacute;ments essentiels du SGE et leur interaction. Elle y parvient g&eacute;n&eacute;ralement gr&acirc;ce &agrave; l&rsquo;&eacute;laboration et &agrave; la mise en pratique d&rsquo;un manuel &eacute;nerg&eacute;tique. Un tel manuel n&rsquo;est pas obligatoire, m&ecirc;me s&rsquo;il est vivement recommand&eacute; pour structurer tous les &eacute;l&eacute;ments du SGE de votre organisation dans un document central.</p>
+
+<p>Les documents et les registres sont contr&ocirc;l&eacute;s s&eacute;par&eacute;ment en vertu de diff&eacute;rents groupes d&rsquo;exigences &eacute;nonc&eacute;es dans la norme ISO 50001:2011. En maintenant la simplicit&eacute; de ces contr&ocirc;les, on facilite la mise en &oelig;uvre, et cela peut r&eacute;duire la quantit&eacute; de ressources n&eacute;cessaires pour maintenir les contr&ocirc;les au fil du temps. Il faut que des processus soient en place pour contr&ocirc;ler tous les documents et registres li&eacute;s au SGE.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>D&eacute;termin&eacute; les documents n&eacute;cessaires au SGE</li>
+	<li>D&eacute;termin&eacute; les registres n&eacute;cessaires au SGE</li>
+	<li>&Eacute;labor&eacute; un manuel &eacute;nerg&eacute;tique (facultatif)</li>
+	<li>D&eacute;fini et mis en &oelig;uvre les contr&ocirc;les visant les documents</li>
+	<li>D&eacute;fini et mis en &oelig;uvre les contr&ocirc;les visant les registres</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.1 c), 4.5.4.1, 4.5.4.2 et 4.6.5 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](D&eacute;terminer les documents n&eacute;cessaires au SGE)</p>
+
+<p>Les documents fournissent une information qui guide les mesures &agrave; prendre ou explique les attentes. Ils servent &agrave; &eacute;noncer et &agrave; mettre en &oelig;uvre les politiques et les engagements actuels.</p>
+
+<p>[Learn More](Exemples de documents g&eacute;n&eacute;riques)</p>
+
+<p><strong>Exemples de documents g&eacute;n&eacute;riques</strong></p>
+
+<ul>
+	<li>Politiques</li>
+	<li>Proc&eacute;dures applicables aux syst&egrave;mes</li>
+	<li>Proc&eacute;dures op&eacute;rationnelles</li>
+	<li>Instructions de travail</li>
+	<li>Manuels</li>
+	<li>Plans et programmes</li>
+	<li>Dessins et sch&eacute;mas</li>
+	<li>Normes et sp&eacute;cifications</li>
+	<li>Vid&eacute;os</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Exemples de documents li&eacute;s au SGE)</p>
+
+<p><strong>Exemples de documents li&eacute;s au SGE</strong></p>
+
+<ul>
+	<li>Description des &eacute;l&eacute;ments cl&eacute;s du SGE et de leur interaction</li>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques</li>
+	<li>Plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie</li>
+	<li>M&eacute;thodologie et crit&egrave;res utilis&eacute;s pour &eacute;laborer la revue &eacute;nerg&eacute;tique</li>
+	<li>M&eacute;thodologie utilis&eacute;e pour d&eacute;terminer et mettre &agrave; jour les IRE</li>
+	<li>Autres documents jug&eacute;s n&eacute;cessaires</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Les documents d&eacute;finissent des attentes &mdash; ils guident notre comportement, nos activit&eacute;s et nos op&eacute;rations, expliquant habituellement &laquo; quoi &raquo;, &laquo; quand &raquo;, &laquo; qui &raquo; et parfois &laquo; comment &raquo;. La r&eacute;ponse aux questions suivantes aidera votre organisation &agrave; d&eacute;terminer quels documents sont n&eacute;cessaires au SGE.</p>
+
+<p>[Learn More](Quelle est la valeur de la documentation?)</p>
+
+<p>La documentation pr&eacute;sente un certain nombre d&rsquo;avantages pour une organisation. Par exemple, les documents peuvent donner des directives aux employ&eacute;s existants ou &agrave; ceux qui ont accept&eacute; ou assum&eacute; un nouveau r&ocirc;le ou un nouveau poste au sein de l&rsquo;organisation. Les documents pertinents peuvent les aiguiller vers les processus, les op&eacute;rations et les activit&eacute;s li&eacute;s &agrave; des fonctions professionnelles bien pr&eacute;cises. Les documents peuvent leur expliquer les attentes en ce qui concerne l&rsquo;ex&eacute;cution de leurs responsabilit&eacute;s, ainsi que celles d&rsquo;autres employ&eacute;s du m&ecirc;me service/secteur fonctionnel.</p>
+
+<p>Les documents servent souvent &agrave; faciliter la formation, car ils fournissent g&eacute;n&eacute;ralement de l&rsquo;information visant &agrave; appuyer et &agrave; renforcer l&rsquo;apprentissage et la sensibilisation durant la formation. Quand ils sont correctement utilis&eacute;s, les documents permettent d&rsquo;entreprendre les t&acirc;ches ou les activit&eacute;s de fa&ccedil;on syst&eacute;matique. Ils peuvent aussi aider &agrave; d&eacute;finir et &agrave; expliquer les attentes et les exigences aux sous-traitants et aux fournisseurs.</p>
+
+<p>Les registres li&eacute;s aux activit&eacute;s entreprises sont utiles, car ils t&eacute;moignent que des mesures appropri&eacute;es ont &eacute;t&eacute; prises. Par ailleurs, parce qu&rsquo;on les utilise pour consigner les r&eacute;sultats obtenus, ils constituent une excellente base pour l&rsquo;analyse des donn&eacute;es, et notamment un moyen de faire le suivi du rendement &eacute;nerg&eacute;tique. Ils peuvent aussi &ecirc;tre avantageux pour l&rsquo;organisation comme forme de m&eacute;moire organisationnelle. Les registres portant sur ce qui a &eacute;t&eacute; fait dans le pass&eacute; et sur les r&eacute;sultats obtenus peuvent &ecirc;tre tr&egrave;s utiles quand, par exemple, il y a un roulement de personnel ou une attrition au fil du temps, et qu&rsquo;on perd la m&eacute;moire institutionnelle.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Quels facteurs de nature g&eacute;n&eacute;rale influent sur l&rsquo;ampleur de la documentation au sein d&rsquo;une organisation?)</p>
+
+<p>Les perceptions erron&eacute;es &agrave; propos du niveau de documentation requis pour un syst&egrave;me de gestion bas&eacute; sur l&rsquo;am&eacute;lioration continue sont fr&eacute;quentes. N&rsquo;oubliez pas que les syst&egrave;mes de gestion bas&eacute;s sur la mod&egrave;le d&rsquo;am&eacute;lioration &laquo; Planifier-D&eacute;finir-Contr&ocirc;ler-Agir &raquo; &mdash; par exemple, ceux qui sont li&eacute;s &agrave; l&rsquo;&eacute;nergie, &agrave; la qualit&eacute;, &agrave; l&rsquo;environnement, &agrave; la s&eacute;curit&eacute; et &agrave; la sant&eacute; (entre autres) &mdash; se veulent des syst&egrave;mes de gestion document&eacute;s, pas des syst&egrave;mes de documents.</p>
+
+<p>Les facteurs de nature g&eacute;n&eacute;rale suivants influent sur l&rsquo;ampleur de la documentation au sein d&rsquo;une organisation :</p>
+
+<ul>
+	<li>Taille de l&rsquo;organisation</li>
+	<li>Types d&rsquo;activit&eacute;s (niveau de risque)</li>
+	<li>Complexit&eacute; des processus et de leurs interactions</li>
+	<li>Comp&eacute;tence du personnel</li>
+</ul>
+
+<p>L&rsquo;ampleur de la documentation relative au syst&egrave;me de gestion varie d&rsquo;une organisation &agrave; l&rsquo;autre. Les organisations qui ont de nombreux employ&eacute;s ont tendance &agrave; utiliser davantage de documentation que les plus petites organisations. Les types d&rsquo;activit&eacute;s, ainsi que la complexit&eacute; des processus et de leurs interactions, ont &eacute;galement une incidence sur l&rsquo;ampleur de la documentation au sein d&rsquo;une organisation. Les processus complexes et les activit&eacute;s &agrave; haut risque sont g&eacute;n&eacute;ralement document&eacute;s de fa&ccedil;on plus d&eacute;taill&eacute;e (documents et registres) que les processus simples ou les activit&eacute;s &agrave; faible risque.</p>
+
+<p>Les comp&eacute;tences du personnel sont un autre facteur qui influe sur les d&eacute;cisions relatives au volume de documentation n&eacute;cessaire. En g&eacute;n&eacute;ral, lorsque le personnel a davantage de comp&eacute;tences, cela signifie qu&rsquo;on a besoin d&rsquo;un moins grand nombre de documents. Quand on tient compte des comp&eacute;tences du personnel pour d&eacute;cider si l&rsquo;on a besoin de documents, il faut aussi prendre en compte l&rsquo;efficacit&eacute; des syst&egrave;mes de formation existants de l&rsquo;organisation. Dans la plupart des organisations, il faut trouver l&rsquo;&eacute;quilibre entre la formation et la documentation &mdash; cela signifie que les organisations dont les syst&egrave;mes de formation sont efficaces ont souvent besoin de moins de documents, tandis que celles dont les ressources de formation sont plus limit&eacute;es ont parfois besoin de plus de documentation.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Quand d&eacute;cidez-vous de quelle documentation additionnelle le SGE a besoin?)</p>
+
+<p>Tout au long de la mise en &oelig;uvre initiale du SGE, on d&eacute;cide si l&rsquo;on a besoin de documentation. Faites appel &agrave; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie pour pr&eacute;voir comment et quand les probl&egrave;mes de documentation seront r&eacute;gl&eacute;s, et vous prendrez des d&eacute;cisions &agrave; mesure que vous progresserez dans l&rsquo;&eacute;laboration et la mise en &oelig;uvre de votre SGE ISO 50001.</p>
+
+<p>Par ailleurs, tenez compte du fait que, m&ecirc;me si la documentation qu&rsquo;exige le SGE est limit&eacute;e, de nombreux verbes d&rsquo;action (p. ex., nommer, d&eacute;finir, identifier, etc.) sont associ&eacute;s aux exigences de base d&rsquo;un SGE ISO 50001. On peut y voir des possibilit&eacute;s de lancer des conversations entre les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie et d&rsquo;autres personnes &agrave; propos de l&rsquo;&eacute;ventuelle documentation n&eacute;cessaire.</p>
+
+<p><strong>Les verbes d&rsquo;action qu&rsquo;utilise la norme ISO 50001 offrent des points de d&eacute;cision &agrave; propos de la documentation relative au SGE</strong></p>
+
+<ul>
+	<li>r&eacute;gler</li>
+	<li>nommer</li>
+	<li>consid&eacute;rer</li>
+	<li>d&eacute;finir</li>
+	<li>d&eacute;terminer</li>
+	<li>&eacute;tablir</li>
+	<li>&eacute;valuer</li>
+	<li>identifier</li>
+	<li>mettre en &oelig;uvre</li>
+	<li>informer</li>
+	<li>planifier</li>
+	<li>examiner</li>
+</ul>
+
+<p>Quand elle alloue de fa&ccedil;on appropri&eacute;e davantage de ressources &agrave; la formation, &agrave; la sensibilisation et &agrave; la communication, une organisation peut &laquo; &eacute;tablir &raquo; et &laquo; mettre en &oelig;uvre &raquo; les processus et les proc&eacute;dures qui ne sont pas document&eacute;s. Le document [resource](EnMS_Documentation_Guidance_Table)<strong><em> </em></strong>identifie la plupart des &eacute;l&eacute;ments du SGE fond&eacute;s sur des mesures comme des points &laquo; n&eacute;cessitant une d&eacute;cision &raquo; en vue de d&eacute;terminer si l&rsquo;on a besoin de documents ou pas pour mettre en &oelig;uvre ces &eacute;l&eacute;ments du SGE.</p>
+
+<p>Il convient de r&eacute;p&eacute;ter que les organisations investissant lourdement dans la formation continue de leur effectif peuvent se contenter d&rsquo;un minimum de proc&eacute;dures, d&rsquo;instructions de travail ou d&rsquo;autres documents similaires. Pour d&eacute;cider s&rsquo;il faut documenter une proc&eacute;dure ou un processus qui n&rsquo;a pas &agrave; l&rsquo;&ecirc;tre obligatoirement, il faut notamment tenir compte d&rsquo;un facteur cl&eacute; : de quelles ressources dispose-t-on pour offrir plus de formation si la proc&eacute;dure n&rsquo;est pas document&eacute;e? On peut offrir plus de formation pour r&eacute;duire le nombre de documents n&eacute;cessaires, mais on aura besoin de registres de formation.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Comment d&eacute;cidez-vous de quelle documentation suppl&eacute;mentaire le SGE a besoin?)</p>
+
+<p>On d&eacute;cide g&eacute;n&eacute;ralement qu&rsquo;il faut plus de documentation pour garantir une mise en &oelig;uvre et une maintenance efficaces du SGE, et prouver l&rsquo;am&eacute;lioration continue du SGE et du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Pour aider votre organisation &agrave; d&eacute;terminer quels documents sont n&eacute;cessaires &agrave; son SGE ISO 50001 (au-del&agrave; de ceux qui sont exig&eacute;s), &eacute;tablissez des r&egrave;gles pratiques ou d&rsquo;autres crit&egrave;res. Certains des facteurs influant sur les d&eacute;cisions relatives au nombre de documents ont d&eacute;j&agrave; &eacute;t&eacute; expliqu&eacute;s (voir plus haut <em>Quels facteurs de nature g&eacute;n&eacute;rale influent sur l&rsquo;ampleur de la documentation au sein d&rsquo;une organisation?</em>). Il existe d&rsquo;autres facteurs pertinents : exigences l&eacute;gales, exigences des clients ou cas ant&eacute;rieurs de non-conformit&eacute;. La liste de v&eacute;rification pour la prise de d&eacute;cisions &agrave; propos de la documentation relative au SGE (<em>Making Decisions on SGE Documentation Checklist</em>) contient des exemples de facteurs ou de crit&egrave;res susceptibles d&rsquo;aider votre organisation &agrave; d&eacute;terminer quels documents sont n&eacute;cessaires<em>.</em></p>
+
+<p>Enfin, quand vous prenez des d&eacute;cisions relatives &agrave; la documentation, n&rsquo;oubliez pas la possibilit&eacute; d&rsquo;exploiter les proc&eacute;dures et autres documents existants, en les modifiant pour y inclure la gestion de l&rsquo;&eacute;nergie. C&rsquo;est une utilisation efficace des ressources pour documenter l&rsquo;information destin&eacute;e au SGE sans cr&eacute;er de nouveaux documents &agrave; g&eacute;rer. S&rsquo;il n&rsquo;y a qu&rsquo;une quantit&eacute; minimale de documents, ou si l&rsquo;int&eacute;gration &agrave; ce qui existe d&eacute;j&agrave; est impossible, utilisez alors ce qui existe et adaptez-le au SGE.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Quels sont les facteurs de r&eacute;ussite pour les documents?)</p>
+
+<p>Facteurs de r&eacute;ussite importants pour les documents relatifs au SGE :</p>
+
+<ul>
+	<li>Disposer de documents relatifs au SGE qui sont exig&eacute;s ou dont on sait qu&rsquo;ils sont n&eacute;cessaires</li>
+	<li>Pas de documentation inutile</li>
+	<li>Documents &eacute;labor&eacute;s avec l&rsquo;aide des utilisateurs</li>
+	<li>Formats et supports de documents faciles &agrave; utiliser</li>
+	<li>Responsabilit&eacute;s et pouvoirs d&rsquo;approbation clairement d&eacute;finis</li>
+	<li>Documents mis &agrave; jour au besoin</li>
+</ul>
+
+<p>N&rsquo;oubliez pas que, quels que soient les documents que vous int&eacute;grez &agrave; votre SGE, qu&rsquo;ils soient n&eacute;cessaires ou pas, ils doivent &ecirc;tre contr&ocirc;l&eacute;s. Comme c&rsquo;est le cas des autres processus du SGE, pour contr&ocirc;ler les documents, il faut y allouer constamment des ressources; dans ce cas-ci, on le fait pour garantir que le contr&ocirc;le des documents est correctement appliqu&eacute; et maintenu. Dans le cas d&rsquo;un syst&egrave;me utilisant un trop grand nombre de documents, ces ressources peuvent &ecirc;tre facilement d&eacute;bord&eacute;es, voire gaspill&eacute;es quand certains documents sont inutiles.</p>
+
+<p>Les documents constructifs doivent r&eacute;pondre aux besoins des utilisateurs. En faisant participer ceux-ci &agrave; l&rsquo;&eacute;laboration des documents, on augmente la probabilit&eacute; que ces documents soient pertinents, pr&eacute;cis, &agrave; jour et utilis&eacute;s par le personnel appropri&eacute;. N&rsquo;oubliez pas que les documents n&rsquo;ont pas besoin d&rsquo;&ecirc;tre sur papier. Le support ou le format fonctionnant le mieux est acceptable.</p>
+
+<p>Quand les responsabilit&eacute;s et les pouvoirs d&rsquo;approbation sont clairement d&eacute;finis, les documents sont utiles, parce qu&rsquo;on garantit que l&rsquo;information est entre bonnes mains et que les documents sont bien contr&ocirc;l&eacute;s. Parce que des changements vont survenir, les documents doivent rendre compte des versions les plus r&eacute;centes des plans, programmes, proc&eacute;dures, pratiques et processus.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](De quels documents a-t-on besoin pour le syst&egrave;me de gestion de l&rsquo;&eacute;nergie ISO 50001?)</p>
+
+<p>Le SGE ISO 50001 est tr&egrave;s &laquo; all&eacute;g&eacute; &raquo; en ce qui concerne le nombre de documents requis. Par exemple, la norme n&rsquo;exige pas express&eacute;ment de &laquo; proc&eacute;dures document&eacute;es &raquo;. Le nombre de &laquo; processus document&eacute;s &raquo; qui est exig&eacute; est limit&eacute;. La norme exige de tels processus pour la planification &eacute;nerg&eacute;tique et les audits internes. La plupart des d&eacute;cisions relatives aux documents n&eacute;cessaires incombent &agrave; l&rsquo;organisation. Cela permet &agrave; celle-ci d&rsquo;avoir &agrave; la fois <em>la marge de man&oelig;uvre et la responsabilit&eacute; </em>n&eacute;cessaires pour d&eacute;terminer de quels documents elle a besoin afin de garantir une mise en &oelig;uvre et une maintenance efficaces de son SGE.</p>
+
+<p>La norme ISO 50001 exige que certains &eacute;l&eacute;ments soient document&eacute;s. L&rsquo;un de ces &eacute;l&eacute;ments est l&rsquo;information d&eacute;crivant les &eacute;l&eacute;ments essentiels du SGE et leur interaction. De nombreuses organisations r&eacute;digent un manuel &eacute;nerg&eacute;tique qui r&eacute;pond &agrave; cette exigence; toutefois, la norme ISO 50001 n&rsquo;exige pas un tel manuel. Autres &eacute;l&eacute;ments qui doivent &ecirc;tre document&eacute;s : politique &eacute;nerg&eacute;tique, objectifs et cibles &eacute;nerg&eacute;tiques, et plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie. Ces documents (et d&rsquo;autres) sont &eacute;num&eacute;r&eacute;s dans le document [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;terminer les registres n&eacute;cessaires au SGE)</p>
+
+<p>Les registres refl&egrave;tent l&rsquo;historique des activit&eacute;s. On y consigne une mesure ou une activit&eacute; qui a &eacute;t&eacute; prise ou entreprise (les r&eacute;sultats). Les registres rendent compte clairement des activit&eacute;s et des r&eacute;sultats, servent de base &agrave; l&rsquo;analyse des donn&eacute;es et peuvent constituer la &laquo; m&eacute;moire organisationnelle &raquo; pour les employ&eacute;s futurs. Ils peuvent prendre de nombreuses formes.</p>
+
+<p>[Learn More](Exemples de registres g&eacute;n&eacute;riques)</p>
+
+<ul>
+	<li>Rapports</li>
+	<li>Analyses de donn&eacute;es</li>
+	<li>Proc&egrave;s-verbaux de r&eacute;unions</li>
+	<li>Certificats de formation</li>
+	<li>Formulaires remplis</li>
+	<li>Bases de donn&eacute;es</li>
+	<li>Tableurs</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Exemples de registres du SGE)</p>
+
+<ul>
+	<li>Revue &eacute;nerg&eacute;tique</li>
+	<li>Consommation de r&eacute;f&eacute;rence</li>
+	<li>Indicateurs de rendement &eacute;nerg&eacute;tique (IRE)</li>
+	<li>Registres de formation</li>
+	<li>D&eacute;cisions relatives aux communications externes</li>
+	<li>R&eacute;sultats des activit&eacute;s de conception</li>
+	<li>R&eacute;sultats des activit&eacute;s de surveillance et de mesure</li>
+	<li>R&eacute;sultats au chapitre du rendement &eacute;nerg&eacute;tique</li>
+	<li>R&eacute;sultats des audits</li>
+	<li>Registres des revues de direction</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Les registres li&eacute;s aux activit&eacute;s entreprises sont utiles, car ils t&eacute;moignent que des mesures appropri&eacute;es ont &eacute;t&eacute; prises. Par ailleurs, parce qu&rsquo;on les utilise pour consigner les r&eacute;sultats obtenus, ils constituent une excellente base pour l&rsquo;analyse des donn&eacute;es, et notamment un moyen de faire le suivi du rendement &eacute;nerg&eacute;tique. Ils peuvent aussi &ecirc;tre avantageux pour l&rsquo;organisation comme forme de m&eacute;moire organisationnelle. Les registres portant sur ce qui a &eacute;t&eacute; fait dans le pass&eacute; et sur les r&eacute;sultats obtenus peuvent &ecirc;tre tr&egrave;s utiles quand, par exemple, il y a un roulement de personnel ou une attrition au fil du temps, et qu&rsquo;on perd la m&eacute;moire institutionnelle.</p>
+
+<p>[Learn More](De quels registres a-t-on besoin pour le syst&egrave;mes de gestion de l&rsquo;&eacute;nergie)</p>
+
+<p>M&ecirc;me si divers renseignements figurant dans le SGE doivent &ecirc;tre consign&eacute;s, comme pour les documents, c&rsquo;est &agrave; votre organisation de d&eacute;terminer de quels registres suppl&eacute;mentaires elle a besoin pour d&eacute;montrer qu&rsquo;elle respecte les exigences du SGE et atteint les r&eacute;sultats vis&eacute;s en mati&egrave;re de rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Voici certains des &eacute;l&eacute;ments qui doivent &ecirc;tre consign&eacute;s : consommation de r&eacute;f&eacute;rence, r&eacute;sultats des activit&eacute;s de surveillance et de mesure, r&eacute;sultats d&rsquo;audits et revues de direction. Ces registres et d&rsquo;autres sont list&eacute;s dans le document [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More](Quels sont les facteurs de r&eacute;ussite pour les registres?)</p>
+
+<p>Facteurs de r&eacute;ussite pour les registres :</p>
+
+<ul>
+	<li>Respecter les exigences de base li&eacute;es au SGE.</li>
+	<li>Prouver que vous l&rsquo;avez fait.</li>
+	<li>D&eacute;montrer que vous avez r&eacute;ussi &agrave; am&eacute;liorer votre rendement &eacute;nerg&eacute;tique.</li>
+	<li>Documenter la d&eacute;signation des &laquo; propri&eacute;taires de registres &raquo;.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Le document [resource](EnMS_Records_Check_Use_Evidence) peut vous aider &agrave; comprendre comment les divers registres du SGE peuvent prouver la conformit&eacute; aux exigences li&eacute;es au SGE et l&rsquo;atteinte des objectifs d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;laborer un manuel &eacute;nerg&eacute;tique (pratique exemplaire))</p>
+
+<p>La norme ISO 50001 n&rsquo;exige pas de manuel &eacute;nerg&eacute;tique, mais il est fortement recommand&eacute;, car il peut g&eacute;n&eacute;rer les avantages suivants :</p>
+
+<ul>
+	<li>Parce qu&rsquo;il pr&eacute;sente un aper&ccedil;u ou un r&eacute;sum&eacute; document&eacute; du SGE qui est approuv&eacute; par la haute direction, il sert d&rsquo;outil pour &eacute;tablir et expliquer les engagements de l&rsquo;organisation en mati&egrave;re de gestion de l&rsquo;&eacute;nergie.</li>
+	<li>Il est utile &agrave; la direction et aux employ&eacute;s et, &eacute;ventuellement, &agrave; d&rsquo;autres intervenants, car c&rsquo;est la &laquo; feuille de route &raquo; du SGE, qui comprend de l&rsquo;information sur les &eacute;l&eacute;ments du syst&egrave;me, la fa&ccedil;on dont ils interagissent et les processus, proc&eacute;dures, r&ocirc;les et responsabilit&eacute;s connexes.</li>
+	<li>Il offre un m&eacute;canisme pratique pour pr&eacute;senter certains des renseignements relatifs au SGE qui doivent &ecirc;tre document&eacute;s, comme le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE, la politique &eacute;nerg&eacute;tique et bien d&rsquo;autres. Cela peut aider l&rsquo;organisation &agrave; &eacute;viter de cr&eacute;er davantage de documents, qu&rsquo;il faudrait ensuite g&eacute;rer individuellement.</li>
+	<li>Pour de nombreuses organisations, le manuel &eacute;nerg&eacute;tique peut constituer un &laquo; guichet unique &raquo; ou un document &laquo; cadre &raquo; contenant toute l&rsquo;information r&eacute;cente &agrave; propos du SGE, incluant des liens ou des r&eacute;f&eacute;rences vers d&rsquo;autres documents et registres.</li>
+	<li>Pour les organisations qui mettent en &oelig;uvre un SGE ISO 50001, le manuel &eacute;nerg&eacute;tique peut traduire les exigences de la norme ISO 50001 dans la terminologie propre &agrave; l&rsquo;organisation.</li>
+</ul>
+
+<p><em>Note : M&ecirc;me si les termes utilis&eacute;s dans la norme ISO 50001 peuvent &ecirc;tre modifi&eacute;s dans la terminologie adopt&eacute;e par l&rsquo;organisation, leur signification (c.-&agrave;-d. leur d&eacute;finition) ne peut pas &ecirc;tre modifi&eacute;e. Par exemple, une organisation peut mentionner la &laquo; revue &eacute;nerg&eacute;tique &raquo; exig&eacute;e par la norme ISO 50001 comme un &laquo; profil &eacute;nerg&eacute;tique &raquo;, mais la d&eacute;finition du profil &eacute;nerg&eacute;tique devrait &ecirc;tre la m&ecirc;me que celle de la revue &eacute;nerg&eacute;tique.</em></p>
+
+<p>Les organisations qui ont d&eacute;j&agrave; instaur&eacute; des syst&egrave;mes de gestion bas&eacute;s sur l&rsquo;am&eacute;lioration continue (p. ex, ISO 14001, ISO 9001, OHSAS 18001) peuvent choisir d&rsquo;int&eacute;grer leur manuel &eacute;nerg&eacute;tique &agrave; un autre manuel existant qui porte sur la gestion de l&rsquo;environnement, de la qualit&eacute; ou d&rsquo;un autre volet. Cette option permet &agrave; l&rsquo;organisation de ne pas avoir &agrave; g&eacute;rer de nombreux manuels sur les syst&egrave;mes de gestion et &agrave; offrir une formation connexe, et peut faciliter l&rsquo;int&eacute;gration de syst&egrave;mes de gestion &agrave; des fins de durabilit&eacute; ou pour d&rsquo;autres raisons op&eacute;rationnelles.</p>
+
+<p>[Learn More](Format, niveau de d&eacute;tail et longueur d&rsquo;un manuel &eacute;nerg&eacute;tique)</p>
+
+<p>Il n&rsquo;existe aucun format impos&eacute; pour le manuel &eacute;nerg&eacute;tique. Il peut &ecirc;tre pr&eacute;sent&eacute; sur n&rsquo;importe quel support :</p>
+
+<ul>
+	<li>document ind&eacute;pendant tenu &agrave; jour s&eacute;par&eacute;ment des proc&eacute;dures relatives au SGE;</li>
+	<li>document unique qui inclut les proc&eacute;dures relatives au SGE de l&rsquo;organisation;</li>
+	<li>document int&eacute;gr&eacute; au manuel relatif &agrave; un autre syst&egrave;me de gestion ou &agrave; d&rsquo;autres documents;</li>
+	<li>index hi&eacute;rarchique &eacute;lectronique ou document dans un autre format &eacute;lectronique, contenant g&eacute;n&eacute;ralement des hyperliens vers les documents du SGE (comme les plans, proc&eacute;dures, formulaires vierges, etc.);</li>
+	<li>toute combinaison de ce qui pr&eacute;c&egrave;de.</li>
+</ul>
+
+<p>Le format et le niveau de d&eacute;tail du manuel &eacute;nerg&eacute;tique varieront selon la taille et la complexit&eacute; de l&rsquo;organisation, et des besoins et attentes de celle-ci et de ses partenaires.</p>
+
+<p><em>Note : On aura peut-&ecirc;tre besoin de moins de d&eacute;tails dans certaines sections du manuel si d&rsquo;autres documents relatifs au SGE (p. ex., les proc&eacute;dures) donnent des d&eacute;tails. Par ailleurs, l&rsquo;ajout de d&eacute;tails &agrave; certaines sections du manuel peut &eacute;viter d&rsquo;avoir &agrave; pr&eacute;parer d&rsquo;autres documents potentiellement inutiles &agrave; propos du SGE.</em></p>
+
+<p>En r&egrave;gle g&eacute;n&eacute;rale, un manuel &eacute;nerg&eacute;tique ind&eacute;pendant compte 5 &agrave; 15 pages. Le langage et la terminologie qu&rsquo;on y trouve devraient &ecirc;tre faciles &agrave; comprendre pour les utilisateurs, et pas destin&eacute;s aux v&eacute;rificateurs.</p>
+
+<p>[Learn More End]</p>
+
+<p>Comme les autres documents relatifs au SGE, le manuel &eacute;nerg&eacute;tique doit &ecirc;tre contr&ocirc;l&eacute;. C&rsquo;est habituellement la haute direction qui est d&eacute;sign&eacute;e pour approuver ce manuel.</p>
+
+<p><em>Note : Le manuel &eacute;nerg&eacute;tique peut aider &agrave; d&eacute;montrer que la politique &eacute;nerg&eacute;tique a &eacute;t&eacute; approuv&eacute;e par la haute direction.</em></p>
+
+<p>[Learn More](&Eacute;l&eacute;ments &agrave; inclure dans un manuel &eacute;nerg&eacute;tique)</p>
+
+<p>Les &eacute;l&eacute;ments suivants peuvent &ecirc;tre inclus dans le manuel &eacute;nerg&eacute;tique :</p>
+
+<p><strong>1) Domaine d&rsquo;application et p&eacute;rim&egrave;tre du syst&egrave;me de gestion de l&rsquo;&eacute;nergie de l&rsquo;organisation</strong></p>
+
+<p>Le domaine d&rsquo;application du syst&egrave;me est d&eacute;fini par les op&eacute;rations, les activit&eacute;s et les installations qui font partie du SGE. L&rsquo;organisation doit d&eacute;finir le p&eacute;rim&egrave;tre ou les limites physiques, du site ou de l&rsquo;organisation pour son SGE. L&rsquo;&eacute;nonc&eacute; de domaine d&rsquo;application et de p&eacute;rim&egrave;tre d&eacute;finirait &agrave; la fois les p&eacute;rim&egrave;tres op&eacute;rationnel et g&eacute;ographique du syst&egrave;me. Par exemple : le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE de la Soci&eacute;t&eacute; ABC sont les op&eacute;rations de fabrication, d&rsquo;entreposage et de distribution, et les activit&eacute;s du site sont entreprises au 333 Railroad Drive, &agrave; Rockmart (G&eacute;orgie).</p>
+
+<p><strong>2) Description des &eacute;l&eacute;ments essentiels du SGE et de leur interaction</strong></p>
+
+<p>Pour d&eacute;crire les &eacute;l&eacute;ments essentiels du SGE, la m&eacute;thode courante consiste &agrave; d&eacute;crire bri&egrave;vement chacun des processus du cycle d&rsquo;am&eacute;lioration continue PDCA (<em>Plan-Do-Check-Act</em>/Planifier-Faire-V&eacute;rifier-Agir). On trouvera des renseignements plus d&eacute;taill&eacute;s sur ces processus dans d&rsquo;autres documents (comme les plans, programmes, proc&eacute;dures, instructions de travail, formulaires et autres), ou ils seront expliqu&eacute;s dans le cadre des activit&eacute;s de formation et dans les communications de l&rsquo;organisation.</p>
+
+<p>Les organisations qui mettent en &oelig;uvre un SGE ISO 50001 en vue d&rsquo;une certification par des tiers devraient &eacute;viter de pr&eacute;parer un manuel &eacute;nerg&eacute;tique qui reproduit les clauses de la norme ISO 50001 pour d&eacute;crire les &eacute;l&eacute;ments essentiels du SGE.</p>
+
+<p>La description de l&rsquo;interaction entre les &eacute;l&eacute;ments essentiels du SGE est souvent repr&eacute;sent&eacute;e dans un graphique plut&ocirc;t que dans un texte. Le plus souvent, on utilise la repr&eacute;sentation graphique du cycle PDCA, qui identifie les processus pr&eacute;cis utilis&eacute;s par l&rsquo;organisation pour sa planification &eacute;nerg&eacute;tique, la mise en &oelig;uvre et l&rsquo;exploitation de ses syst&egrave;mes &eacute;nerg&eacute;tiques, le contr&ocirc;le et la revue de direction. On utilise aussi des graphiques pour repr&eacute;senter la fa&ccedil;on dont l&rsquo;&eacute;nergie s&rsquo;int&egrave;gre au domaine d&rsquo;application et au p&eacute;rim&egrave;tre du SGE de l&rsquo;organisation. Ces graphiques peuvent &ecirc;tre un diagramme de processus ou une autre repr&eacute;sentation visuelle des sources d&rsquo;&eacute;nergie.</p>
+
+<p><strong>3) Principaux documents relatifs au SGE ou r&eacute;f&eacute;rence &agrave; ces documents</strong></p>
+
+<p>Une petite organisation peut d&eacute;cider d&rsquo;inclure les documents relatifs &agrave; son SGE (comme les proc&eacute;dures, plans, instructions de travail, formulaires vierges et autres) dans le manuel &eacute;nerg&eacute;tique. Cela cr&eacute;e une source unique pour l&rsquo;ensemble des documents relatifs au SGE de l&rsquo;organisation, m&ecirc;me si certains probl&egrave;mes de contr&ocirc;le des documents peuvent survenir.</p>
+
+<p><em>*Si le manuel &eacute;nerg&eacute;tique comprenant tous les documents relatifs au SGE est contr&ocirc;l&eacute; comme un seul et unique document, l&rsquo;ajout, la suppression ou la modification de n&rsquo;importe lequel de ces documents devra &ecirc;tre approuv&eacute;(e)/r&eacute;approuv&eacute;(e), et il faudra changer le statut de l&rsquo;ensemble du manuel &eacute;nerg&eacute;tique pour ce qui est de la r&eacute;vision. Par ailleurs, si chaque section du manuel o&ugrave; sont incluses toutes les proc&eacute;dures est contr&ocirc;l&eacute;e s&eacute;par&eacute;ment, le statut de chacune pour ce qui est de la r&eacute;vision pourrait varier, et on aura peut-&ecirc;tre besoin d&rsquo;une table des mati&egrave;res ou d&rsquo;une liste ma&icirc;tresse, afin de garantir qu&rsquo;on pourra d&eacute;terminer le niveau de r&eacute;vision actuel de chaque section du manuel. De plus, si chaque section du manuel est contr&ocirc;l&eacute;e s&eacute;par&eacute;ment, il se peut que des personnes diff&eacute;rentes approuvent chaque section. Le syst&egrave;me de contr&ocirc;le des documents doit garantir qu&rsquo;on aura la preuve de l&rsquo;approbation par la personne d&eacute;sign&eacute;e qui convient.</em></p>
+
+<p>De nombreuses organisations d&eacute;cident de tenir &agrave; jour et de contr&ocirc;ler le manuel &eacute;nerg&eacute;tique comme un seul et m&ecirc;me document, et y int&egrave;grent seulement des r&eacute;f&eacute;rences aux documents connexes portant sur le SGE. Ces r&eacute;f&eacute;rences sont parfois incluses dans chaque section, list&eacute;es &agrave; la fin de chaque section ou list&eacute;es dans un tableau de r&eacute;f&eacute;rence sur les documents figurant &agrave; la derni&egrave;re page du manuel. Un des avantages de l&rsquo;utilisation d&rsquo;un tel tableau est le fait qu&rsquo;on peut facilement le mettre &agrave; jour, et qu&rsquo;on n&rsquo;a pas besoin de passer en revue et de trouver les r&eacute;f&eacute;rences aux autres documents relatifs au SGE dans chaque section du manuel.</p>
+
+<p>Par exemple :</p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2">
+			<p><strong>Tableau de r&eacute;f&eacute;rence sur les documents relatifs au SGE</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Sujet</strong></p>
+			</td>
+			<td>
+			<p><strong>R&eacute;f&eacute;rence du document</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Planification &eacute;nerg&eacute;tique</p>
+			</td>
+			<td>
+			<p>EnP-01 Proc&eacute;dure de planification &eacute;nerg&eacute;tique</p>
+
+			<p>EnD-02 Tableau des exigences l&eacute;gales et autres sur le plan &eacute;nerg&eacute;tique</p>
+
+			<p>EnD-03 Objectifs et cibles &eacute;nerg&eacute;tiques</p>
+
+			<p>EnD-03.x (s&eacute;rie) Plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Formation et sensibilisation en mati&egrave;re d&rsquo;&eacute;nergie</p>
+			</td>
+			<td>
+			<p>EnP-02 Plan de sensibilisation et de formation en mati&egrave;re d&rsquo;&eacute;nergie</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>&hellip;</p>
+			</td>
+			<td>
+			<p>&hellip;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir et mettre en &oelig;uvre les contr&ocirc;les visant les documents)</p>
+
+<p>Il est important que les employ&eacute;s disposent des documents qui leur permettront d&rsquo;assumer leurs responsabilit&eacute;s de fa&ccedil;on ad&eacute;quate.</p>
+
+<p>Commencez par d&eacute;terminer comment votre organisation g&egrave;re actuellement les documents. S&rsquo;il existe d&eacute;j&agrave; un processus officiel, il est logique (et sans doute n&eacute;cessaire) de le respecter, en apportant des modifications au SGE, au besoin.</p>
+
+<p>Le syst&egrave;me de contr&ocirc;le des documents doit d&eacute;finir les volets suivants :</p>
+
+<ul>
+	<li><strong>Identification &ndash; </strong>Comment les documents sont-ils identifi&eacute;s? (p. ex., comment pouvez-vous conna&icirc;tre la nature de chaque document et les activit&eacute;s auxquelles il est li&eacute;?)</li>
+	<li><strong>Approbation &ndash; </strong>Qui est autoris&eacute; &agrave; approuver les documents? Quel est le processus d&rsquo;approbation? Comment consigne-t-on les approbations?</li>
+	<li><strong>Processus de mise &agrave; jour &ndash; </strong>Comment les documents sont-ils r&eacute;vis&eacute;s p&eacute;riodiquement et tenus &agrave; jour? Comment identifie-t-on les changements et le statut de la r&eacute;vision?</li>
+	<li><strong>Lisibilit&eacute; &ndash;</strong> Comment maintient-on la lisibilit&eacute;?</li>
+	<li><strong>Disponibilit&eacute; &ndash; </strong>O&ugrave; peut-on trouver les documents et comment contr&ocirc;le-t-on leur distribution? Comment supprime-t-on les documents obsol&egrave;tes ou comment les identifie-t-on pour &eacute;viter une utilisation involontaire?</li>
+</ul>
+
+<p>Le document [resource](Checklist_Document_Control_Basics) vous aide &agrave; d&eacute;terminer si votre actuel syst&egrave;me de contr&ocirc;le des documents satisfait aux exigences de la norme ISO 50001 relatives au contr&ocirc;le des documents. Si vous ne disposez pas d&rsquo;un tel syst&egrave;me, cette liste de v&eacute;rification peut servir &agrave; identifier les caract&eacute;ristiques dont il faudra tenir compte pour &eacute;laborer vos processus de contr&ocirc;le des documents relatifs au SGE.</p>
+
+<p>Pour d&eacute;finir les contr&ocirc;les visant les documents relatifs au SGE, l&rsquo; [resource](EnMS_Document_Control_Index) est un outil utile. Il offre un &laquo; guichet unique &raquo; permettant de d&eacute;finir les contr&ocirc;les associ&eacute;s &agrave; chaque type de document.</p>
+
+<p>Cliquez sur les sujets suivants pour en savoir plus &agrave; propos des contr&ocirc;les qu&rsquo;il faut d&eacute;finir et mettre en place pour g&eacute;rer les documents relatifs au SGE.</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Attribution des responsabilit&eacute;s)</p>
+
+<p>On d&eacute;signe souvent un coordonnateur/gestionnaire des documents servant de point de contr&ocirc;le central des documents relatifs au SGE, pour garantir que les documents contiennent les &eacute;l&eacute;ments requis. Ensuite, pour chaque document se trouvant dans le SGE, on d&eacute;signe un propri&eacute;taire du document et un approbateur du document. Si l&rsquo;on ne peut pas d&eacute;signer de coordonnateur/gestionnaire des documents, les propri&eacute;taires des documents doivent alors &eacute;galement veiller &agrave; ce que les contr&ocirc;les appropri&eacute;s visent les documents. Dans certains cas, c&rsquo;est le repr&eacute;sentant de la direction qui assure ce contr&ocirc;le et d&eacute;signe les propri&eacute;taires et les approbateurs des documents.</p>
+
+<p>Responsabilit&eacute;s des divers intervenants :</p>
+
+<ul>
+	<li><strong>Propri&eacute;taire du document</strong> &ndash; Il est responsable du contenu du document, ce qui inclut une r&eacute;vision et une mise &agrave; jour p&eacute;riodiques. <em>Notez qu&rsquo;on d&eacute;signe un propri&eacute;taire pour les documents internes et externes. Le propri&eacute;taire d&rsquo;un document externe doit d&eacute;terminer l&rsquo;applicabilit&eacute; de ce document &agrave; votre organisation.</em></li>
+	<li><strong>Approbateur du document</strong> &ndash; Personne autoris&eacute;e &agrave; approuver le contenu du document.</li>
+	<li><strong>Coordonnateur/gestionnaire des documents</strong> &ndash; Il doit s&rsquo;assurer qu&rsquo;on applique les contr&ocirc;les appropri&eacute;s aux documents, ce qui inclut la suppression/l&rsquo;identification des documents obsol&egrave;tes.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Identification des documents)</p>
+
+<p>Ensuite, d&eacute;cidez quels &eacute;l&eacute;ments serviront &agrave; identifier les diff&eacute;rents types de documents relatifs au SGE. Les documents n&rsquo;ont pas tous besoin d&rsquo;&ecirc;tre identifi&eacute;s de la m&ecirc;me fa&ccedil;on. Le tableau ci-dessous donne un exemple de la fa&ccedil;on dont une organisation a choisi d&rsquo;identifier ses documents.</p>
+
+<p><em>Dans cet exemple, la Soci&eacute;t&eacute; ABC a cr&eacute;&eacute; un tableau afin d&rsquo;identifier les diff&eacute;rents types de documents dans son SGE. Il s&rsquo;agissait d&rsquo;un manuel &eacute;nerg&eacute;tique, des proc&eacute;dures relatives au SGE, des instructions de travail, des formulaires vierges, des plans et des programmes, de documents externes et de vid&eacute;os de formation. Ensuite, pour chaque type de document, on a identifi&eacute; les contr&ocirc;les pertinents. On a attribu&eacute; un titre et une date de publication/r&eacute;vision &agrave; tous les types de documents, tandis qu&rsquo;on a attribu&eacute; un num&eacute;ro de document uniquement au manuel &eacute;nerg&eacute;tique, aux proc&eacute;dures et aux instructions de travail.</em></p>
+
+<table cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="4">
+			<p><strong>Soci&eacute;t&eacute; ABC &ndash; Contr&ocirc;les visant les documents du SGE</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>Type de document</strong></p>
+			</td>
+			<td>
+			<p><strong>Num&eacute;ro de document</strong></p>
+			</td>
+			<td>
+			<p><strong>Titre</strong></p>
+			</td>
+			<td>
+			<p><strong>Date de publication/r&eacute;vision</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Manuel &eacute;nerg&eacute;tique</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Proc&eacute;dures</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Instructions de travail</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Formulaires vierges</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Plans et programmes</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Documents externes</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Vid&eacute;os de formation</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td>
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Approbation des documents)</p>
+
+<p>Une fois qu&rsquo;on a d&eacute;fini les contr&ocirc;les en vue de l&rsquo;identification des documents, il faut &eacute;tablir un processus d&rsquo;approbation des documents. Les documents n&rsquo;ont pas &agrave; &ecirc;tre approuv&eacute;s par le titulaire du m&ecirc;me poste. Ils devraient &ecirc;tre approuv&eacute;s par les personnes responsables des politiques, des d&eacute;cisions ou des mesures d&eacute;crites dans le document. &Eacute;vitez un trop grand nombre de niveaux d&rsquo;approbation, car cela peut compliquer le syst&egrave;me de contr&ocirc;le des documents et en perturbe l&rsquo;efficacit&eacute;.</p>
+
+<p>Certaines organisations utilisent encore les signatures manuscrites comme preuve d&rsquo;approbation, mais de nombreuses autres g&egrave;rent maintenant leur documentation par voie &eacute;lectronique. Habituellement, on t&eacute;l&eacute;verse un document &eacute;lectronique dans un flux de travaux qui envoie le document vers chaque personne responsable de l&rsquo;approbation. Quand elle re&ccedil;oit le document, la personne indique si elle l&rsquo;approuve ou le rejette. S&rsquo;il est rejet&eacute;, le flux de travaux renvoie le document &agrave; son propri&eacute;taire pour que celui-ci r&eacute;solve le probl&egrave;me. S&rsquo;il est approuv&eacute;, le document est distribu&eacute; par voie &eacute;lectronique aux endroits appropri&eacute;s.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Mise &agrave; jour des documents)</p>
+
+<p>Ensuite, il faut d&eacute;finir le processus permettant de tenir les documents &agrave; jour. Le besoin de r&eacute;viser ou de mettre &agrave; jour un document peut &ecirc;tre justifi&eacute; par diverses raisons :</p>
+
+<ul>
+	<li>Changements touchant l&rsquo;environnement commercial, les installations, les &eacute;quipements, les syst&egrave;mes ou les proc&eacute;d&eacute;s</li>
+	<li>Audits internes ou externes ([t&acirc;che](Internal Audit))</li>
+	<li>Mesures correctives ou pr&eacute;ventives ([t&acirc;che](Corrective Actions))</li>
+	<li>Revue de direction ([t&acirc;che](Management Review))</li>
+	<li>Revues p&eacute;riodiques visant &agrave; garantir que l&rsquo;information demeure exacte, ad&eacute;quate et pertinente</li>
+	<li>R&eacute;vision d&rsquo;un document externe, incluant les exigences l&eacute;gales et autres ([t&acirc;che](Legal Requirements))</li>
+</ul>
+
+<p>Le propri&eacute;taire des documents doit s&rsquo;assurer que les documents qui lui ont &eacute;t&eacute; attribu&eacute;s sont tenus &agrave; jour. Il doit aussi proc&eacute;der &agrave; un examen p&eacute;riodique de chacun de ces documents et veiller &agrave; ce qu&rsquo;il soit r&eacute;vis&eacute; au besoin.</p>
+
+<p>Une partie de la mise &agrave; jour des documents consiste &agrave; identifier pour l&rsquo;utilisateur tous les changements qui ont &eacute;t&eacute; apport&eacute;s, et &agrave; veiller &agrave; ce que le statut de r&eacute;vision soit mis &agrave; jour. Un grand nombre d&rsquo;organisations utilisent un tableau d&rsquo;historique des r&eacute;visions &agrave; la fin du document, afin d&rsquo;indiquer une date de r&eacute;vision et de r&eacute;sumer les changements apport&eacute;s. On peut aussi mettre en surbrillance ou souligner les r&eacute;visions, ou utiliser la formation pour identifier et passer en revue les modifications.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Lisibilit&eacute; des documents)</p>
+
+<p>Une exigence semble &eacute;vidente, mais est souvent mal comprise : il faut veiller &agrave; ce que les documents soient lisibles. On pourrait croire que, dans notre univers &eacute;lectronique, dans lequel peu de documents papier peuvent se d&eacute;t&eacute;riorer, la lisibilit&eacute; est un probl&egrave;me qui est en train de dispara&icirc;tre. Par contre, l&rsquo;inverse est vrai. Dans notre univers &eacute;lectronique, nous sommes plus souvent appel&eacute;s &agrave; stocker des documents en format &eacute;lectronique et, dans quelques ann&eacute;es, nous aurons &agrave; changer de logiciels, ce qui rendra la lecture des fichiers impossible. Il incombe au propri&eacute;taire des documents de s&rsquo;assurer que ceux-ci demeurent lisibles au fil du temps.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Syst&egrave;me de contr&ocirc;le des documents &ndash; Disponibilit&eacute; des documents)</p>
+
+<p>Les documents doivent &ecirc;tre accessibles aux endroits o&ugrave; l&rsquo;on en a besoin. De plus en plus d&rsquo;organisations utilisent des documents &eacute;lectroniques, mais si votre organisation utilise des copies papier, celles-ci doivent &ecirc;tre accessibles aux points d&rsquo;utilisation, et les documents obsol&egrave;tes doivent &ecirc;tre supprim&eacute;s ou identifi&eacute;s afin de pr&eacute;venir toute utilisation involontaire.</p>
+
+<p>Pour les organisations utilisant des documents &eacute;lectroniques, pour garantir que la bonne information est accessible l&agrave; o&ugrave; l&rsquo;on en a besoin, il faut habituellement veiller &agrave; ce que le personnel appropri&eacute; y ait acc&egrave;s sur ordinateur. Quand on &eacute;limine un document des points d&rsquo;utilisation (p. ex., parce qu&rsquo;il est obsol&egrave;te), il faudra qu&rsquo;il soit inaccessible par ordinateur.</p>
+
+<p>Les organisations utilisant des documents imprim&eacute;s doivent identifier et contr&ocirc;ler un nombre pr&eacute;cis de copies, qu&rsquo;on place ensuite physiquement aux points d&rsquo;utilisation appropri&eacute;s. Pour &eacute;liminer les documents imprim&eacute;s obsol&egrave;tes des points d&rsquo;utilisation, il faudrait les retirer physiquement des endroits pr&eacute;cis o&ugrave; ils se trouvent. Dans l&rsquo;un ou l&rsquo;autre cas, il faut instaurer des contr&ocirc;les pour garantir que l&rsquo;on saura o&ugrave; se trouvent les documents.</p>
+
+<p>L&rsquo;[resource](Example_EnMS_Document_Control_Index) illustre la fa&ccedil;on dont les contr&ocirc;les peuvent &ecirc;tre d&eacute;finis pour les divers documents dans le SGE. Une fois que les contr&ocirc;les visant les documents sont d&eacute;finis et qu&rsquo;on a &eacute;labor&eacute; le processus d&rsquo;application de ces contr&ocirc;les, veillez &agrave; qu&rsquo;ils soient communiqu&eacute;s au personnel appropri&eacute;. Si ce niveau de contr&ocirc;le des documents est nouveau pour l&rsquo;organisation, envisagez d&rsquo;offrir une formation pour compl&eacute;ter la communication.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir et mettre en &oelig;uvre les contr&ocirc;les visant les registres)</p>
+
+<p>Peu importe leur forme, il faut mettre en place des contr&ocirc;les garantissant que les registres :</p>
+
+<ul>
+	<li>demeurent identifiables,</li>
+	<li>peuvent &ecirc;tre associ&eacute;s &agrave; l&rsquo;activit&eacute; entreprise,</li>
+	<li>sont conserv&eacute;s pendant la p&eacute;riode n&eacute;cessaire, et</li>
+	<li>sont r&eacute;cup&eacute;rables et lisibles.</li>
+</ul>
+
+<p>[Learn More](Contr&ocirc;les visant les registres)</p>
+
+<p>Il faut mettre en place des contr&ocirc;les garantissant que les registres sont :</p>
+
+<p><strong>Identifiables et tra&ccedil;ables :</strong> Il faut que la nature du registre soit claire, et qu&rsquo;on sache &agrave; quelles activit&eacute;s ou &agrave; quelles op&eacute;rations il est li&eacute;. Par exemple, pour identifier les registres et les associer &agrave; l&rsquo;activit&eacute; concern&eacute;e, on veille habituellement &agrave; ce qu&rsquo;ils soient dat&eacute;s et aient un titre ou un sujet clair correspondant &agrave; leur contenu.</p>
+
+<p><strong>Conserv&eacute;s pendant la p&eacute;riode n&eacute;cessaire :</strong> Les registres doivent &ecirc;tre conserv&eacute;s pendant une p&eacute;riode donn&eacute;e. Pour chaque type de registre, d&eacute;finissez une p&eacute;riode minimale de conservation. Cette p&eacute;riode peut &ecirc;tre diff&eacute;rente pour les diff&eacute;rents types de registres. Quand on &eacute;tablit cette p&eacute;riode, il faut tenir compte des politiques de l&rsquo;organisation ou de l&rsquo;entreprise sur la conservation des registres, de ses exigences l&eacute;gales et de ses besoins op&eacute;rationnels.</p>
+
+<p><strong>Lisibles et r&eacute;cup&eacute;rables :</strong> Les registres doivent demeurer lisibles et il faut qu&rsquo;on sache o&ugrave; ils se trouvent. S&rsquo;ils sont &eacute;lectroniques, il faut &eacute;tablir un processus permettant de tenir &agrave; jour l&rsquo;&eacute;quipement, le syst&egrave;me d&rsquo;exploitation et les logiciels, afin de garantir que le registre pourra &ecirc;tre lu durant la p&eacute;riode de conservation. Les documents papier devraient &ecirc;tre stock&eacute;s de mani&egrave;re &agrave; ce que texte ne s&rsquo;efface pas et &agrave; ce que le papier ne se d&eacute;t&eacute;riore pas &agrave; un point o&ugrave; il sera inutilisable.</p>
+
+<p>[Learn More End]</p>
+
+<p>Une forme d&rsquo;[resource](EnMS_Records_Control_Index) peut aider &agrave; d&eacute;finir les contr&ocirc;les visant les registres et &agrave; attribuer les responsabilit&eacute;s. Il est essentiel de d&eacute;finir clairement les responsabilit&eacute;s pour contr&ocirc;ler efficacement les registres. Un [resource](Example_EnMS_Records_Control_Index) illustre la fa&ccedil;on dont le formulaire peut &ecirc;tre rempli.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Une exp&eacute;rience de la norme ISO 9001 et/ou de la norme ISO 14001 peut &ecirc;tre utile pour g&eacute;rer les documents et les registres suivants :</p>
+
+<ul>
+	<li>Domaine d&rsquo;application et p&eacute;rim&egrave;tre du SGE. Le domaine d&rsquo;application du syst&egrave;me de gestion est g&eacute;r&eacute; comme l&rsquo;information document&eacute;e dans les syst&egrave;mes conformes aux normes ISO 14001:2015 et ISO 9001:2015. Si l&rsquo;organisation int&egrave;gre ses syst&egrave;mes de gestion de l&rsquo;environnement et de l&rsquo;&eacute;nergie, il se peut qu&rsquo;un seul &eacute;nonc&eacute; de domaine d&rsquo;application soit pertinent et soit tenu &agrave; jour comme une information document&eacute;e.</li>
+	<li>Politique &eacute;nerg&eacute;tique. Comme la norme ISO 50001:2011, les normes ISO 14001:2015 et ISO 9001:2015 exigent que la politique soit tenue &agrave; jour comme une information document&eacute;e. Si l&rsquo;organisation a int&eacute;gr&eacute; ses syst&egrave;mes de gestion, il se peut qu&rsquo;un seul &eacute;nonc&eacute; de politique document&eacute; s&rsquo;applique &agrave; l&rsquo;ensemble du syst&egrave;me de gestion.</li>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques et plans d&rsquo;action connexes. On tient &agrave; jour l&rsquo;information document&eacute;e relative aux objectifs environnementaux en vertu de la norme ISO 14001:2015 et aux objectifs de qualit&eacute; en vertu de la norme ISO 9001:2015.</li>
+	<li>Processus d&rsquo;audit interne. Les audits internes constituent un processus document&eacute; en vertu de la d&eacute;finition, et cette d&eacute;finition s&rsquo;applique aux normes ISO 9001:2015, ISO 14001:2015 et ISO 50001:2011</li>
+</ul>
+
+<p>Documents que l&rsquo;organisation juge n&eacute;cessaires pour le SGE. Une organisation qui conna&icirc;t bien la documentation relative aux syst&egrave;mes de gestion dans le cadre de la norme ISO 14001:2015 et/ou de la norme ISO 9001:2015 peut facilement appliquer cette exp&eacute;rience &agrave; l&rsquo;identification et &agrave; la tenue &agrave; jour de la documentation n&eacute;cessaire &agrave; un SGE ISO 50001:2011. Les normes ISO 14001:2015 (gestion de l&rsquo;environnement), ISO 9001:2015 (gestion de la qualit&eacute;) et ISO 50001:2011 (gestion de l&rsquo;&eacute;nergie) n&rsquo;exigent pas l&rsquo;utilisation d&rsquo;un manuel. Par contre, de nombreuses organisations qui ont mis en &oelig;uvre une ou plusieurs de ces normes ont &eacute;labor&eacute; et utilisent un manuel sur les syst&egrave;mes de gestion, afin de donner un aper&ccedil;u ou de pr&eacute;senter une &laquo; feuille de route &raquo; des processus du syst&egrave;me de gestion et de leurs interactions, et de d&eacute;signer la documentation connexe. Une m&eacute;thode courante consiste &agrave; int&eacute;grer les manuels des syst&egrave;mes de gestion de l&rsquo;&eacute;nergie, de l&rsquo;environnement et de la sant&eacute; et de la s&eacute;curit&eacute;. Les nouvelles &eacute;ditions (2015) des normes ISO 9001 et ISO 14001 ont int&eacute;gr&eacute; les dispositions de la structure de haut niveau des normes ISO sur les syst&egrave;mes de gestion en ce qui concerne les exigences relatives &agrave; l&rsquo;information document&eacute;e. Comme les versions pr&eacute;c&eacute;dentes des normes ISO 9001 et ISO 14001, la norme ISO 50001:2011 &eacute;tablit des ensembles distincts d&rsquo;exigences pour le contr&ocirc;le des documents et des registres. Par contre, il n&rsquo;y a aucune raison pour laquelle on ne pourrait pas facilement appliquer les processus de contr&ocirc;le de l&rsquo;information document&eacute;e dans les syst&egrave;mes ISO 9001 et ISO 14001 au contr&ocirc;le des documents et des registres relatifs au SGE. C&rsquo;est un autre domaine dans lequel on n&rsquo;utilise pas les ressources de fa&ccedil;on efficace ou efficiente pour &eacute;laborer quelque chose de diff&eacute;rent pour la norme ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Quand on met en &oelig;uvre un SGE, il faut int&eacute;grer le travail ex&eacute;cut&eacute; et document&eacute; dans le cadre du programme ENERGY STAR aux documents et aux registres exig&eacute;s et n&eacute;cessaires pour satisfaire aux exigences de la norme ISO 50001.</p>
+
+<p>Le programme ENERGY STAR n&rsquo;exige pas l&rsquo;&eacute;laboration et la mise en &oelig;uvre d&rsquo;un manuel &eacute;nerg&eacute;tique. M&ecirc;me si la norme ISO 50001 ne l&rsquo;exige pas non plus, c&rsquo;est recommand&eacute;. Les avantages de l&rsquo;&eacute;laboration d&rsquo;un manuel &eacute;nerg&eacute;tique pour votre organisation sont d&eacute;crits dans le cadre de la pr&eacute;sente t&acirc;che.</p>
+
+<p>Le programme ENERGY STAR n&rsquo;exige pas qu&rsquo;on &eacute;tablisse des processus visant &agrave; contr&ocirc;ler les documents et les registres du SGE, ce que n&rsquo;exige pas la norme ISO 50001, et qui est couvert par la pr&eacute;sente t&acirc;che.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,93 @@
+USDOE 50001 READY NAVIGATOR TASK 18
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Prise en compte de l’énergie lors de la conception
+----------TITLE----------
+Tâche 18: Nous tenons compte des possibilités d’amélioration du rendement énergétique quand nous concevons, modifions ou rénovons des installations, des équipements, des systèmes et des procédés.
+----------GETTING IT DONE----------
+<ul>
+	<li>Utilisez la [resource](Energy_Considerations_Design_Worksheet) pour identifier et &eacute;valuer les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et les contr&ocirc;les op&eacute;rationnels des activit&eacute;s de conception.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Dans le cadre de la norme ISO 50001, les exigences de conception ne sont pas associ&eacute;es &agrave; la cr&eacute;ation de produits et de services; elles s&rsquo;appliquent &agrave; l&rsquo;&eacute;laboration, &agrave; la modification et &agrave; la r&eacute;novation d&rsquo;installations, d&rsquo;&eacute;quipements, de syst&egrave;mes et de proc&eacute;d&eacute;s qui peuvent avoir un impact marquant sur le rendement &eacute;nerg&eacute;tique. Le <em>rendement &eacute;nerg&eacute;tique </em>est d&eacute;fini comme les r&eacute;sultats mesurables en mati&egrave;re d&rsquo;efficacit&eacute;, d&rsquo;usage et de consommation &eacute;nerg&eacute;tiques. Les exigences de conception de la norme ISO 50001 int&egrave;grent aux activit&eacute;s de conception les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et les contr&ocirc;les op&eacute;rationnels. Cela peut servir de base &agrave; des conceptions plus innovatrices et plus &eacute;co&eacute;nerg&eacute;tiques.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Identifi&eacute; les installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s qui peuvent avoir un impact important sur le rendement &eacute;nerg&eacute;tique</li>
+	<li>Int&eacute;gr&eacute; la prise en compte des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique et des contr&ocirc;les op&eacute;rationnels aux projets de conception</li>
+	<li>Inclus les r&eacute;sultats de l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique aux sp&eacute;cifications, &agrave; la conception et aux approvisionnements</li>
+	<li>Consign&eacute; les r&eacute;sultats des activit&eacute;s de conception</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.5.6 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identifier les installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s qui peuvent avoir un impact important sur le rendement &eacute;nerg&eacute;tique)</p>
+
+<p>L&rsquo;ensemble des installations, des &eacute;quipements, des syst&egrave;mes ou des proc&eacute;d&eacute;s relevant de la port&eacute;e du SGE qui peuvent ou vont avoir un impact important sur le rendement &eacute;nerg&eacute;tique sont vis&eacute;s par les exigences de conception de la norme ISO 50001. Cela signifie que vous devez tenir compte des possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et des contr&ocirc;les op&eacute;rationnels quand vous concevez, r&eacute;novez ou modifiez des installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s susceptibles d&rsquo;avoir un impact majeur sur votre efficacit&eacute; &eacute;nerg&eacute;tique et sur vos usages et votre consommation &eacute;nerg&eacute;tiques.</p>
+
+<p>Les installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s susceptibles d&rsquo;influer sur le rendement &eacute;nerg&eacute;tique varient selon la nature du projet. Au minimum, les &eacute;l&eacute;ments susceptibles d&rsquo;avoir un impact majeur sur le rendement &eacute;nerg&eacute;tique sont les installations, &eacute;quipements, syst&egrave;mes ou proc&eacute;d&eacute;s associ&eacute;s :</p>
+
+<ul>
+	<li>&Agrave; la gestion et au fonctionnement des usages &eacute;nerg&eacute;tiques significatifs (UES)</li>
+	<li>&Agrave; l&rsquo;atteinte des objectifs et des cibles &eacute;nerg&eacute;tiques et aux plans d&rsquo;action</li>
+	<li>Aux indicateurs de rendement &eacute;nerg&eacute;tique (IRE)</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Int&eacute;grer la prise en compte des possibilit&eacute;s d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique et des contr&ocirc;les op&eacute;rationnels aux projets de conception)</p>
+
+<p>Quand vous concevez des installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s, ou quand vous r&eacute;novez ou modifiez ceux qui existent d&eacute;j&agrave;, pensez &agrave; la fa&ccedil;on dont ils peuvent ou vont influer sur le rendement &eacute;nerg&eacute;tique de votre organisation. Identifiez les am&eacute;liorations potentielles du rendement &eacute;nerg&eacute;tique dont on peut tenir compte lors de la conception. Par ailleurs, identifiez tous les contr&ocirc;les op&eacute;rationnels qui pourraient &ecirc;tre n&eacute;cessaires. Cela inclurait les contr&ocirc;les permettant d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique, ou tout au moins de minimiser (ou de bien g&eacute;rer) les impacts de la conception sur le rendement &eacute;nerg&eacute;tique de votre organisation.</p>
+
+<p>Exemples de conception favorisant l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li>Concevoir l&rsquo;&eacute;clairage pour qu&rsquo;il s&rsquo;adapte automatiquement &agrave; la quantit&eacute; de lumi&egrave;re naturelle pr&eacute;sente (&eacute;quipement).</li>
+	<li>Concevoir les syst&egrave;mes de climatisation pour qu&rsquo;ils utilisent un refroidisseur d&rsquo;eau central au lieu d&rsquo;un syst&egrave;me bibloc refroidi &agrave; l&rsquo;air (syst&egrave;me).</li>
+	<li>Concevoir le processus de moulage de sorte que les pompes hydrauliques pompent uniquement le volume n&eacute;cessaire au lieu de fonctionner &agrave; pleine vitesse et de pomper un volume maximal (proc&eacute;d&eacute;).</li>
+</ul>
+
+<p>Voici certaines questions &agrave; se poser quand on con&ccedil;oit, modifie ou r&eacute;nove des installations, des &eacute;quipements, des syst&egrave;mes et des proc&eacute;d&eacute;s :</p>
+
+<ul>
+	<li>Quelles caract&eacute;ristiques de cet &eacute;l&eacute;ment ont un impact sur la consommation d&rsquo;&eacute;nergie (pass&eacute;e, actuelle ou future)?</li>
+	<li>O&ugrave; et comment peut-on r&eacute;duire la consommation d&rsquo;&eacute;nergie?</li>
+</ul>
+
+<p>Quand vous &eacute;valuez les possibilit&eacute;s d&rsquo;am&eacute;liorer le rendement &eacute;nerg&eacute;tique, tenez compte des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Comment les installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s existants vont-ils &ecirc;tre modifi&eacute;s?</li>
+	<li>Quels &eacute;l&eacute;ments pr&eacute;cis peut-on modifier pour am&eacute;liorer l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et r&eacute;duire la consommation d&rsquo;&eacute;nergie au fil du temps?</li>
+	<li>Quelle est la bonne source d&rsquo;&eacute;nergie?</li>
+	<li>Quelles sont les options technologiques?</li>
+	<li>De quels contr&ocirc;les op&eacute;rationnels a-t-on besoin pour atteindre et maintenir le rendement &eacute;nerg&eacute;tique vis&eacute; lors de la conception?</li>
+</ul>
+
+<p>Pour qu&rsquo;un projet &eacute;co&eacute;nerg&eacute;tique atteigne son plein potentiel, il faut que le processus de conception soit combin&eacute; au contr&ocirc;le op&eacute;rationnel appropri&eacute;. Parce qu&rsquo;il est possible de contourner les contr&ocirc;les de l&rsquo;&eacute;quipement ou de les d&eacute;sactiver, il faut combiner une strat&eacute;gie de contr&ocirc;le op&eacute;rationnel &agrave; une conception &eacute;co&eacute;nerg&eacute;tique, pour garantir que les &eacute;conomies anticip&eacute;es seront r&eacute;alis&eacute;es.</p>
+
+<p>La [resource](Energy_Considerations_Design_Worksheet) peut vous aider &agrave; identifier et &agrave; &eacute;valuer les possibilit&eacute;s d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et les contr&ocirc;les op&eacute;rationnels lors des activit&eacute;s de conception.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Inclure les r&eacute;sultats de l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique aux sp&eacute;cifications, &agrave; la conception et aux approvisionnements)</p>
+
+<p>Une fois que vous aurez r&eacute;pondu aux questions ci-dessus, faites ce qu&rsquo;il faut pour am&eacute;liorer le rendement &eacute;nerg&eacute;tique. Les r&eacute;sultats de l&rsquo;&eacute;valuation du rendement &eacute;nerg&eacute;tique doivent &ecirc;tre int&eacute;gr&eacute;s, s&rsquo;il y a lieu, aux activit&eacute;s de sp&eacute;cification, de conception et d&rsquo;approvisionnement li&eacute;es au projet. Cela devrait garantir que les d&eacute;cisions relatives &agrave; l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique prises lors de la conception seront mises en pratique. L&rsquo;int&eacute;gration des r&eacute;sultats aux activit&eacute;s de sp&eacute;cification des approvisionnements permet de rester au fait des acquisitions, et garantit qu&rsquo;on conna&icirc;t les exigences en mati&egrave;re d&rsquo;approvisionnements qui appuieront l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et de justifier tout co&ucirc;t additionnel.</p>
+
+<p>Quand vous concevez ou modernisez des installations, &eacute;quipements, syst&egrave;mes ou proc&eacute;d&eacute;s susceptibles d&rsquo;avoir un impact important sur le rendement &eacute;nerg&eacute;tique, faites tr&egrave;s attention &agrave; la fa&ccedil;on dont les nouvelles technologies &eacute;co&eacute;nerg&eacute;tiques sont d&eacute;crites, appliqu&eacute;es et utilis&eacute;es, afin d&rsquo;&eacute;viter toute mauvaise utilisation. L&rsquo;installation d&rsquo;&eacute;quipement &eacute;co&eacute;nerg&eacute;tique ne garantit pas une am&eacute;lioration de l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique si la modernisation n&rsquo;est pas ad&eacute;quatement expliqu&eacute;e. En outre, aucune technologie &eacute;co&eacute;nerg&eacute;tique ne permet de r&eacute;aliser des &eacute;conomies quand elle est mal install&eacute;e ou mal programm&eacute;e. (Voir [resource](Example_Misapplications_Energy_Efficient_Technologies))</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner les r&eacute;sultats des activit&eacute;s de conception)</p>
+
+<p>Consignez les r&eacute;sultats des activit&eacute;s de conception afin de montrer que les consid&eacute;rations &eacute;nerg&eacute;tiques ont &eacute;t&eacute; correctement int&eacute;gr&eacute;es au processus. Cela peut prendre diverses formes, par exemple : liste de v&eacute;rification remplie, proc&egrave;s-verbaux de r&eacute;unions, dessins de conception, sp&eacute;cification d&rsquo;achat, dossiers de projet, etc.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Dans le cas des organisations dot&eacute;es d&rsquo;un syst&egrave;me de gestion de la qualit&eacute; ISO 9001:2015 et/ou d&rsquo;un syst&egrave;me de gestion de l&rsquo;environnement ISO 14001:2015, il est tr&egrave;s important de noter que les exigences de conception &eacute;nonc&eacute;es dans la norme ISO 50001:2011 <em>ne visent pas </em>la conception des produits et des services. Par contre, on pourrait s&rsquo;inspirer des r&egrave;gles de la norme ISO 9001 applicables aux infrastructures, &agrave; l&rsquo;environnement d&rsquo;exploitation, &agrave; la planification et au contr&ocirc;le des changements et au contr&ocirc;le des processus, produits et services provenant de l&rsquo;ext&eacute;rieur (avec certaines modifications), pour respecter plus facilement les exigences de conception de la norme ISO 50001 <em>qui visent les installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s nouveaux, modifi&eacute;s ou r&eacute;nov&eacute;s.</em> Le processus de contr&ocirc;le des changements planifi&eacute;s d&eacute;fini dans la norme ISO 14001:2015 pourrait servir de point de d&eacute;part au respect des exigences de conception de la norme ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Quand vous mettez en &oelig;uvre un SGE, vous avez parfois besoin de passer en revue les d&eacute;tails de la gestion de la conception, d&eacute;crits &agrave; la section 4.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). La m&eacute;thodologie associ&eacute;e &agrave; la cr&eacute;ation d&rsquo;un SGE englobe les exigences de conception pour les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s. Il faut &eacute;galement consigner les r&eacute;sultats des &eacute;valuations du rendement &eacute;nerg&eacute;tique dans les registres de conception.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

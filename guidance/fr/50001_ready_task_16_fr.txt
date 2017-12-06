@@ -1,0 +1,208 @@
+USDOE 50001 READY NAVIGATOR TASK 16
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Contrôles opérationnels
+----------TITLE----------
+Tâche 16: Nous avons établi les critères opérationnels et de maintenance pour nos UES, nous les utilisons en conséquence et nous expliquons ces contrôles au personnel concerné
+----------GETTING IT DONE----------
+<ul>
+	<li>Remplissez la [resource](Significant_Energy_Use_Operating_Criteria_Worksheet) et la [resource](Operational_Controls_Checklist) afin de d&eacute;terminer et d&rsquo;&eacute;tablir les crit&egrave;res et les contr&ocirc;les n&eacute;cessaires pour chaque usage &eacute;nerg&eacute;tique significatif (UES). Veillez &agrave; ce que les facteurs critiques influant sur le rendement &eacute;nerg&eacute;tique soient connus, communiqu&eacute;s au personnel responsable et utilis&eacute;s.</li>
+	<li>Assurez le fonctionnement et la maintenance des installations, de l&rsquo;&eacute;quipement, des syst&egrave;mes ou des proc&eacute;d&eacute;s associ&eacute;s &agrave; vos UES afin de respecter les crit&egrave;res d&eacute;termin&eacute;s.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Les contr&ocirc;les op&eacute;rationnels et de maintenance garantissent qu&rsquo;on assure le fonctionnement et la maintenance de l&rsquo;&eacute;quipement, des syst&egrave;mes, des proc&eacute;d&eacute;s et des installations critiques afin d&rsquo;obtenir les r&eacute;sultats requis et un rendement efficace. Des contr&ocirc;les ad&eacute;quatement d&eacute;finis favorisent un fonctionnement efficace et ininterrompu de l&rsquo;&eacute;quipement critique.</p>
+
+<p>Pour d&eacute;terminer les contr&ocirc;les op&eacute;rationnels et de maintenance, il faut identifier et planifier les activit&eacute;s afin de s&rsquo;assurer que les facteurs critiques influant sur le rendement &eacute;nerg&eacute;tique sont connus, utilis&eacute;s et communiqu&eacute;s au personnel responsable. Les contr&ocirc;les op&eacute;rationnels et de maintenance doivent &ecirc;tre identifi&eacute;s et planifi&eacute;s pour tous les UES.</p>
+
+<p>Ils peuvent prendre diverses formes. Ils peuvent inclure, par exemple, des proc&eacute;dures et des instructions de travail, des contr&ocirc;les physiques, l&rsquo;utilisation d&rsquo;employ&eacute;s titulaires d&rsquo;une licence ou d&rsquo;autres employ&eacute;s qualifi&eacute;s, ou une combinaison de ces &eacute;l&eacute;ments.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli les crit&egrave;res op&eacute;rationnels et de maintenance</li>
+	<li>Veill&eacute; &agrave; ce qu&rsquo;on assure le fonctionnement et la maintenance de l&rsquo;&eacute;quipement, des syst&egrave;mes, des installations et des proc&eacute;d&eacute;s principaux, conform&eacute;ment aux crit&egrave;res &eacute;tablis</li>
+	<li>Expliquer les contr&ocirc;les au personnel</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.5.5 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir les crit&egrave;res op&eacute;rationnels et de maintenance)</p>
+
+<p>Votre organisation devrait &eacute;tablir des crit&egrave;res op&eacute;rationnels et de maintenance efficaces pour l&rsquo;ensemble de ses installations, &eacute;quipements, syst&egrave;mes et proc&eacute;d&eacute;s principaux. Pour vos principaux syst&egrave;mes et vos UES, les conditions de fonctionnement et les pratiques de maintenance sont optimales, ce qui maximise leur efficacit&eacute; op&eacute;rationnelle et leur permet de demeurer fonctionnels durant toute leur vie utile.</p>
+
+<p>Les crit&egrave;res op&eacute;rationnels sont les points &eacute;tablis auxquels vos UES devraient fonctionner pour satisfaire le mieux possible aux conditions exig&eacute;es par un proc&eacute;d&eacute;.</p>
+
+<p>[Learn More](Exemples de crit&egrave;res op&eacute;rationnels)</p>
+
+<p>Voici des exemples de crit&egrave;res op&eacute;rationnels :</p>
+
+<ul>
+	<li>Param&egrave;tres des horodateurs</li>
+	<li>R&eacute;glages de temp&eacute;rature des syst&egrave;mes de CVCA</li>
+	<li>Pression de service des compresseurs d&rsquo;air</li>
+	<li>Point de consigne de la temp&eacute;rature des chaudi&egrave;res et des fours</li>
+	<li>Pression de la chaudi&egrave;re &agrave; vapeur</li>
+	<li>Point de consigne de la temp&eacute;rature des cong&eacute;lateurs et des refroidisseurs</li>
+	<li>Temp&eacute;rature de l&rsquo;eau g&eacute;n&eacute;r&eacute;e par les refroidisseurs</li>
+	<li>Vitesse des cha&icirc;nes</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>On met en &oelig;uvre les crit&egrave;res op&eacute;rationnels gr&acirc;ce aux contr&ocirc;les op&eacute;rationnels destin&eacute;s &agrave; garantir que les UES respectent les crit&egrave;res &eacute;tablis. Voici certains exemples de contr&ocirc;les op&eacute;rationnels :</p>
+
+<ul>
+	<li>Limites physiques</li>
+	<li>Contr&ocirc;leurs &eacute;lectriques et m&eacute;caniques</li>
+	<li>&Eacute;quipement de mesure et indicateurs</li>
+	<li>&Eacute;tiquetage et signalisation</li>
+	<li>Proc&eacute;dures document&eacute;es</li>
+	<li>Comp&eacute;tence et formation des utilisateurs</li>
+</ul>
+
+<p>Votre organisation doit aussi appliquer les crit&egrave;res de maintenance et les contr&ocirc;les connexes. Exemples de pratiques de maintenance pertinentes :</p>
+
+<ul>
+	<li>Remplacement des filtres</li>
+	<li>Lubrification</li>
+	<li>R&eacute;glage de la tension</li>
+	<li>R&eacute;paration de fuites</li>
+	<li>Nettoyage</li>
+	<li>Niveaux des liquides</li>
+	<li>Analyse des vibrations</li>
+	<li>Mise au point</li>
+</ul>
+
+<p>De nombreuses organisations utilisent un syst&egrave;me de maintenance pr&eacute;ventive (SMP) qui peut faire partie des crit&egrave;res de maintenance et des contr&ocirc;les d&rsquo;un SGE. Un SMP s&rsquo;appuie sur un processus structur&eacute; de maintenance des UES gr&acirc;ce &agrave; une inspection syst&eacute;matique qui vise &agrave; d&eacute;tecter et &agrave; corriger les anomalies, afin de pr&eacute;venir les pannes et/ou de maintenir un &eacute;tat de fonctionnement optimal. Les crit&egrave;res op&eacute;rationnels et de maintenance et les contr&ocirc;les connexes ont une incidence sur le rendement et sur l&rsquo;efficacit&eacute; de l&rsquo;&eacute;quipement qui consomme de l&rsquo;&eacute;nergie.</p>
+
+<p>La norme ISO 50001 exige que vous &eacute;tablissiez un crit&egrave;re op&eacute;rationnel et de maintenance pour vos UES, car l&rsquo;absence d&rsquo;un tel crit&egrave;re pourrait cr&eacute;er un &eacute;cart important par rapport &agrave; ce qu&rsquo;on consid&egrave;re comme un bon rendement &eacute;nerg&eacute;tique. Les &eacute;carts importants sont abord&eacute;s en d&eacute;tail dans le cadre de la t&acirc;che [task](Corrective Actions), en ce qui a trait &agrave; la surveillance et &agrave; la mesure des principales caract&eacute;ristiques des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique. Consultez cette section pour en savoir plus &agrave; propos des &eacute;carts importants. Votre organisation doit d&eacute;terminer quels contr&ocirc;les sont essentiels pour &eacute;viter un &eacute;cart important li&eacute; aux crit&egrave;res op&eacute;rationnels et de maintenance des UES. Voici des exemples de tels &eacute;carts, qui pourraient &ecirc;tre dus, du moins en partie, &agrave; des probl&egrave;mes de contr&ocirc;le des op&eacute;rations et de la maintenance :</p>
+
+<ul>
+	<li>En dehors des limites de contr&ocirc;le</li>
+	<li>Variation de la consommation &eacute;nerg&eacute;tique</li>
+	<li>Changement touchant l&rsquo;efficacit&eacute;</li>
+	<li>Exigences accrues en mati&egrave;re de maintenance</li>
+	<li>P&eacute;riodes d&rsquo;arr&ecirc;t plus fr&eacute;quentes</li>
+	<li>Exigences additionnelles visant l&rsquo;&eacute;quipement</li>
+	<li>Dur&eacute;es d&rsquo;ex&eacute;cution plus longues</li>
+	<li>N&eacute;cessit&eacute; de changer les param&egrave;tres</li>
+	<li>Changements touchant les produits (p. ex., aliments trop ou pas assez cuits)</li>
+</ul>
+
+<p>[Learn More](Sources permettant d&rsquo;&eacute;tablir les crit&egrave;res op&eacute;rationnels et de maintenance)</p>
+
+<p>Diverses sources peuvent vous aider &agrave; &eacute;tablir les crit&egrave;res op&eacute;rationnels et de maintenance pour vos UES et d&rsquo;autres proc&eacute;d&eacute;s susceptibles d&rsquo;avoir une incidence sur le rendement &eacute;nerg&eacute;tique :</p>
+
+<ul>
+	<li>Recommandation du fabricant</li>
+	<li>Personnel affect&eacute; aux syst&egrave;mes qui mesure le rendement</li>
+	<li>Exigences minimales visant les proc&eacute;d&eacute;s ou les syst&egrave;mes</li>
+	<li>Param&egrave;tres de fonctionnement et intervalles de maintenance sugg&eacute;r&eacute;s par le personnel de service</li>
+	<li>Contr&ocirc;le des processus statistiques</li>
+	<li>Analyse comparative du rendement d&rsquo;&eacute;quipements similaires</li>
+	<li>Normes industrielles</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>N&rsquo;oubliez pas que votre organisation a sans doute d&eacute;j&agrave; &eacute;tabli certains crit&egrave;res op&eacute;rationnels et de maintenance, surtout li&eacute;s au fonctionnement efficace de l&rsquo;&eacute;quipement. C&rsquo;est certainement le cas d&rsquo;organisations qui ont adopt&eacute; un syst&egrave;me de gestion de la qualit&eacute; ISO 9001 ou un syst&egrave;me de gestion de l&rsquo;environnement ISO 14001. Une partie de la d&eacute;termination des contr&ocirc;les op&eacute;rationnels et de maintenance consiste &agrave; examiner ce qui existe d&eacute;j&agrave; et &agrave; l&rsquo;int&eacute;grer &agrave; votre SGE pour ce qui a trait au rendement &eacute;nerg&eacute;tique. Vous devriez d&eacute;terminer ce qui existe d&eacute;j&agrave; et les autres &eacute;l&eacute;ments dont vous avez besoin pour contr&ocirc;ler les activit&eacute;s op&eacute;rationnelles et de maintenance li&eacute;es aux UES. La [resource](Significant_Energy_Use_Operating_Criteria_Worksheet) est un exemple de la fa&ccedil;on dont vous pouvez organiser et consigner l&rsquo;information relative aux crit&egrave;res op&eacute;rationnels et de maintenance.</p>
+
+<p>Vous voudrez peut-&ecirc;tre &eacute;tablir d&rsquo;autres crit&egrave;res op&eacute;rationnels et de maintenance afin de les appliquer &agrave; d&rsquo;autres facteurs li&eacute;s au rendement &eacute;nerg&eacute;tique, comme l&rsquo;efficacit&eacute; avec laquelle vos plans d&rsquo;action atteignent les objectifs et les cibles &eacute;nerg&eacute;tiques, les contr&ocirc;les n&eacute;cessaires pour maintenir les am&eacute;liorations apport&eacute;es au rendement &eacute;nerg&eacute;tique et la maintenance des syst&egrave;mes &eacute;nerg&eacute;tiques qui ne sont pas des UES.</p>
+
+<p>Les contr&ocirc;les op&eacute;rationnels et de maintenance peuvent aussi &ecirc;tre des appareils physiques (p. ex., les syst&egrave;mes d&rsquo;automatisation d&rsquo;un immeuble, les capteurs d&rsquo;occupation pour l&rsquo;&eacute;clairage ou les contr&ocirc;leurs de s&eacute;quence des compresseurs d&rsquo;air), et l&rsquo;utilisation de personnel certifi&eacute; ou d&rsquo;autres employ&eacute;s qualifi&eacute;s (p. ex., &eacute;lectricien ou op&eacute;rateur de chaudi&egrave;re ou d&rsquo;une usine de traitement des d&eacute;chets titulaire d&rsquo;une licence).</p>
+
+<p>[Learn More](&Eacute;valuation des crit&egrave;res op&eacute;rationnels et de maintenance)</p>
+
+<p>Pour &eacute;valuer les crit&egrave;res op&eacute;rationnels et de maintenance, vous devrez peut-&ecirc;tre r&eacute;unir les employ&eacute;s appropri&eacute;s et compiler l&rsquo;information d&eacute;crits ci-dessus, et r&eacute;pondre aux questions suivantes :</p>
+
+<ul>
+	<li>Quels crit&egrave;res op&eacute;rationnels et de maintenance ont &eacute;t&eacute; &eacute;tablis pour les UES?</li>
+	<li>De quels contr&ocirc;les a-t-on besoin pour assurer le fonctionnement et la maintenance des UES selon les crit&egrave;res appropri&eacute;s?</li>
+	<li>Quels sont les crit&egrave;res op&eacute;rationnels et de maintenance qui indiqueraient un &eacute;cart important?</li>
+	<li>Existe-t-il d&eacute;j&agrave; des contr&ocirc;les op&eacute;rationnels et de maintenance?</li>
+	<li>Est-ce que les contr&ocirc;les op&eacute;rationnels et de maintenance permettent de maintenir le rendement selon les crit&egrave;res &eacute;tablis?</li>
+	<li>A-t-on besoin d&rsquo;autres contr&ocirc;les pour maintenir l&rsquo;UES selon les crit&egrave;res op&eacute;rationnels et de maintenance &eacute;tablis?</li>
+	<li>A-t-on besoin d&rsquo;autres contr&ocirc;les pour d&eacute;tecter ou &eacute;viter un &eacute;cart important?</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Utilisez la [resource](Operational_Controls_Checklist) pour d&eacute;terminer plus facilement les crit&egrave;res et les contr&ocirc;les requis.</p>
+
+<p>Une fois que les crit&egrave;res op&eacute;rationnels et de maintenance appropri&eacute;s ont &eacute;t&eacute; d&eacute;termin&eacute;s, appliquez-les comme la cible en mati&egrave;re de fonctionnement et de maintenance.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Veiller &agrave; ce qu&rsquo;on assure le fonctionnement et la maintenance de l&rsquo;&eacute;quipement, des syst&egrave;mes, des installations et des proc&eacute;d&eacute;s principaux conform&eacute;ment aux crit&egrave;res &eacute;tablis)</p>
+
+<p>Une fois que les contr&ocirc;les op&eacute;rationnels et de maintenance et les crit&egrave;res appropri&eacute;s ont &eacute;t&eacute; d&eacute;termin&eacute;s, vous devez assurer le fonctionnement et la maintenance des installations, de l&rsquo;&eacute;quipement, des syst&egrave;mes ou des proc&eacute;d&eacute;s associ&eacute;s &agrave; vos UES, de sorte qu&rsquo;ils respectent les crit&egrave;res. Si les crit&egrave;res et les contr&ocirc;les sont nouveaux ou ont chang&eacute;, vous devrez communiquer cette information au personnel appropri&eacute;. Si les contr&ocirc;les ne fonctionnent pas ou sont contourn&eacute;s, vous devez lancer les inspections afin de confirmer que les contr&ocirc;les op&eacute;rationnels et de maintenance sont mis en &oelig;uvre et tenus &agrave; jour, et qu&rsquo;on satisfait aux crit&egrave;res.</p>
+
+<p>[Learn More](Exemple d&rsquo;&eacute;quipement qu&rsquo;on n&rsquo;utilise pas conform&eacute;ment aux crit&egrave;res)</p>
+
+<p>Par exemple, si l&rsquo;on d&eacute;sactive le contr&ocirc;le de vitesse du variateur de fr&eacute;quence standard (VFS) d&rsquo;un ventilateur, cela permettra au ventilateur de fonctionner tout le temps &agrave; pleine vitesse. Le VFS ne pourra pas r&eacute;duire la vitesse du moteur et, du fait m&ecirc;me, la consommation, durant les p&eacute;riodes o&ugrave; le ventilateur a une faible charge et ne permettrait pas l&rsquo;am&eacute;lioration pr&eacute;vue du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Learn More End]</p>
+
+<p>On peut utiliser la [resource](SEU_Control_Chart), pr&eacute;sent&eacute;e la premi&egrave;re fois dans le cadre des t&acirc;ches [task](Significant Energy Uses) et [task](Performance Indicators), pour documenter les r&eacute;f&eacute;rences aux contr&ocirc;les op&eacute;rationnels, en les entrant dans la colonne 4 du tableau. Un [resource](Example_UES_Control_Chart) avec la colonne 4 (contr&ocirc;les op&eacute;rationnels) remplie est inclus; cela montre comment on peut utiliser ce formulaire. Notez que l&rsquo;exemple de tableau de contr&ocirc;le des UES inclut des renseignements sur les documents associ&eacute;s &agrave; certains contr&ocirc;les op&eacute;rationnels (voir la colonne 8).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Expliquer les contr&ocirc;les au personnel)</p>
+
+<p>Pour les installations, l&rsquo;&eacute;quipement, les syst&egrave;mes et les proc&eacute;d&eacute;s associ&eacute;s &agrave; vos UES dont il faudra assurer le fonctionnement et la maintenance &agrave; l&rsquo;aide des contr&ocirc;les &eacute;tablis, vous devez vous assurer que ces contr&ocirc;les sont expliqu&eacute;s au personnel appropri&eacute;, ce qui inclut les sous-traitants ou les fournisseurs pr&eacute;sents sur place qui ex&eacute;cutent des travaux associ&eacute;s &agrave; vos UES. Des processus efficaces de communication des contr&ocirc;les requis garantissent que le personnel appropri&eacute; conna&icirc;tra et comprendra les attentes relatives &agrave; l&rsquo;ex&eacute;cution et au respect de ces contr&ocirc;les. Vous pouvez fournir l&rsquo;information relative aux contr&ocirc;les et aux crit&egrave;res gr&acirc;ce &agrave; la formation, &agrave; la documentation ou &agrave; d&rsquo;autres modes de communication, s&rsquo;il y a lieu, par exemple :</p>
+
+<ul>
+	<li>D&eacute;monstrations</li>
+	<li>Courriels</li>
+	<li>R&eacute;unions du personnel</li>
+	<li>Marquage de l&rsquo;&eacute;quipement</li>
+	<li>R&eacute;unions avec les fournisseurs</li>
+	<li>R&eacute;unions d&rsquo;information pour les sous-traitants</li>
+</ul>
+
+<p>Dans le cas des proc&eacute;d&eacute;s complexes, vous pouvez avoir besoin d&rsquo;une formation appuy&eacute;e par la documentation appropri&eacute;e. Cette formation devrait viser les employ&eacute;s qui sont nouveaux dans l&rsquo;organisation, ou porter sur les proc&eacute;d&eacute;s n&eacute;cessitant un op&eacute;rateur ou un technicien de maintenance certifi&eacute;. La formation peut aussi &ecirc;tre un moyen pratique de former un grand nombre d&rsquo;employ&eacute;s &agrave; propos des op&eacute;rations et de la maintenance. Elle peut comprendre :</p>
+
+<ul>
+	<li>Une formation en cours d&rsquo;emploi</li>
+	<li>Une formation par quarts</li>
+	<li>Une formation en classe</li>
+	<li>Une formation des fournisseurs</li>
+	<li>L&rsquo;encadrement par des pairs</li>
+	<li>Une formation en ligne</li>
+	<li>Une formation offerte par des organismes certifi&eacute;s</li>
+	<li>Une formation technique</li>
+</ul>
+
+<p>[Learn More](Documenter vos contr&ocirc;les op&eacute;rationnels et de maintenance)</p>
+
+<p>La norme ISO 50001 n&rsquo;exige pas express&eacute;ment que vous documentiez vos contr&ocirc;les op&eacute;rationnels et de maintenance, mais il s&rsquo;agit d&rsquo;une pratique exemplaire, parce que les documents peuvent &ecirc;tre constituer un moyen de communication ou un rappel efficace. Vous pouvez facilement contr&ocirc;ler les documents et les mettre &agrave; jour au besoin, pour vous assurer que l&rsquo;information est pertinente et exacte. Il pourrait s&rsquo;agir des documents suivants :</p>
+
+<ul>
+	<li>Instructions de travail</li>
+	<li>Livrets de l&rsquo;&eacute;quipement</li>
+	<li>Proc&eacute;dures de fonctionnement de l&rsquo;&eacute;quipement</li>
+	<li>Manuels des sous-traitants/fournisseurs</li>
+	<li>Feuilles d&rsquo;instructions</li>
+	<li>Listes de v&eacute;rification</li>
+	<li>Affichages sur les lieux de travail</li>
+	<li>Babillards</li>
+	<li>Terminaux d&rsquo;ordinateurs</li>
+	<li>Brochures</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Utilisez la ou les m&eacute;thodes de communication la(les) plus efficace(s) pour votre organisation. Ce qui est important, c&rsquo;est que les crit&egrave;res op&eacute;rationnels et de maintenance soient clairs et pr&eacute;cis, et que vous les fassiez conna&icirc;tre aux employ&eacute;s et aux sous-traitants appropri&eacute;s.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 14001:2015 et ISO 9001:2015 exigent elles aussi la planification et le contr&ocirc;le des op&eacute;rations, m&ecirc;me si elles sont parfois ax&eacute;es sur des usages &eacute;nerg&eacute;tiques bien pr&eacute;cis. En mettant en &oelig;uvre les contr&ocirc;les op&eacute;rationnels et de maintenance pour les UES dans le cadre de la norme ISO 50001:2011, il arrive que les organisations constatent que certains des contr&ocirc;les op&eacute;rationnels d&eacute;j&agrave; en place pour un syst&egrave;me de gestion de l&rsquo;environnement ou de la qualit&eacute; s&rsquo;appliquent aux UES identifi&eacute;s. Dans pareil cas, il sera peut-&ecirc;tre appropri&eacute; d&rsquo;exploiter les contr&ocirc;les existants. C&rsquo;est particuli&egrave;rement pertinent lorsque ces contr&ocirc;les sont &eacute;nonc&eacute;s dans des proc&eacute;dures, des instructions de travail et d&rsquo;autres documents dont il faut s&rsquo;inspirer pour mettre en &oelig;uvre un proc&eacute;d&eacute; pr&eacute;cis.</p>
+
+<p>Les organisations dot&eacute;es de syst&egrave;mes conformes &agrave; la norme ISO 14001:2015 et/ou &agrave; la norme ISO 9001:2015 ont d&eacute;j&agrave; adopt&eacute; des processus de communication internes et externes, qui comprennent la communication des exigences pertinentes au personnel interne et aux fournisseurs externes. On peut utiliser ces m&ecirc;mes processus pour expliquer les contr&ocirc;les op&eacute;rationnels aux employ&eacute;s internes et externes concern&eacute;s en vertu de la norme ISO 50001:2011.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; aux sections 3.1, 3.3, 4.1, 4.2 et 5.3 du document <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. Dans le cadre de votre programme de SGE, les op&eacute;rations et les activit&eacute;s de maintenance sont identifi&eacute;es et planifi&eacute;es pour vos UES. Cela garantit que ces op&eacute;rations et ces activit&eacute;s sont entreprises de fa&ccedil;on syst&eacute;matique. Il est probable que votre organisation ait d&eacute;j&agrave; &eacute;tabli des contr&ocirc;les op&eacute;rationnels et de maintenance qui sont conformes &agrave; ces exigences de la norme ISO 50001.</p>
+
+<p>En outre, quand vous mettez en &oelig;uvre votre SGE, les contr&ocirc;les op&eacute;rationnels et de maintenance visant vos UES doivent &ecirc;tre communiqu&eacute;s aux employ&eacute;s et aux sous-traitants dont le travail est li&eacute; &agrave; ces UES. Vous pouvez vous appuyer sur la formation et sur les processus de communication existants &agrave; cette fin.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

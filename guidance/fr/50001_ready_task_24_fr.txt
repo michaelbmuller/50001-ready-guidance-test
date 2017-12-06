@@ -1,0 +1,294 @@
+USDOE 50001 READY NAVIGATOR TASK 24
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Calcul des économies d’énergie
+----------TITLE----------
+Tâche 24: Nous avons déterminé l’amélioration de notre rendement énergétique.
+----------GETTING IT DONE----------
+<ul>
+	<li>D&eacute;montrez qu&rsquo;il y a eu am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans vos installations, en utilisant l&rsquo;outil [resource](IRE_Lite) du DOE, ou un autre outil de calcul du rendement &eacute;nerg&eacute;tique des installations.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La mise en &oelig;uvre d&rsquo;un SGE ISO 50001 vise &agrave; r&eacute;aliser et &agrave; maintenir des &eacute;conomies d&rsquo;&eacute;nergie et une r&eacute;duction des co&ucirc;ts &eacute;nerg&eacute;tiques. Il existe plusieurs fa&ccedil;ons de calculer les &eacute;conomies d&rsquo;&eacute;nergie et de faire le suivi des am&eacute;liorations. La norme ISO 50001 et le programme <em>50001 Ready</em> offrent divers moyens de d&eacute;finir les indicateurs de rendement &eacute;nerg&eacute;tique appropri&eacute;s et les m&eacute;thodes de suivi pour vos installations et leur UES.</p>
+
+<p>On recommande IRE Lite (mais on ne l&rsquo;exige pas) pour satisfaire aux exigences en mati&egrave;re de rapports &eacute;nerg&eacute;tiques <em>50001 Ready</em>. Pour votre d&eacute;signation <em>50001 Ready</em> initiale, les recommandations et les exigences sont les suivantes :</p>
+
+<div>
+<table cellspacing="0" style="width:641.25pt">
+	<tbody>
+		<tr>
+			<td>
+			<p>1. On recommande &agrave; tous les participants de pr&eacute;senter un fichier baptis&eacute; <strong>IRE Lite Output File</strong>, en utilisant les lignes directrices sur l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence et l&rsquo;ann&eacute;e de production de rapports d&eacute;crites dans le dossier Navigator.</p>
+			</td>
+			<td>
+			<p>IRE Lite accepte les donn&eacute;es g&eacute;n&eacute;r&eacute;es par l&rsquo;outil [resource](Energy_Footprint_Tool) et par le [resource](Portfolio_Manager) de l&rsquo;EPA pour cr&eacute;er un mod&egrave;le bas&eacute; sur une analyse de r&eacute;gression.</p>
+
+			<p>Vous trouverez sur le site [resource](IRE_Lite) des instructions d&eacute;taill&eacute;es sur la fa&ccedil;on d&rsquo;utiliser l&rsquo;outil.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>2. Si vous &ecirc;tes un partenaire de Better Plants, la prochaine action recommand&eacute;e consiste &agrave; soumettre votre <strong>rapport annuel Better Plants</strong> le plus r&eacute;cent contenant les donn&eacute;es d&eacute;clar&eacute;es par les installations.</p>
+			</td>
+			<td>
+			<p>Si vous n&rsquo;avez pas acc&egrave;s &agrave; votre rapport annuel Better Plants le plus r&eacute;cent pour les installations, remplissez le mod&egrave;le de rapports de base <em>50001 Ready</em>.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>3. Si vous &ecirc;tes un partenaire de Better Buildings Challenge, la prochaine action recommand&eacute;e consiste &agrave; soumettre votre <strong>rapport annuel Better Buildings Challenge</strong> le plus r&eacute;cent contenant les donn&eacute;es d&eacute;clar&eacute;es par les installations.</p>
+			</td>
+			<td>
+			<p>Si vous n&rsquo;avez pas acc&egrave;s &agrave; votre rapport annuel Better Buildings Challenge le plus r&eacute;cent pour les installations, il est recommand&eacute; d&rsquo;utiliser ensuite Portfolio Manager.</p>
+
+			<p>Si vous n&rsquo;utilisez pas Portfolio Manager, remplissez le rapport de base sur la consommation &eacute;nerg&eacute;tique <em>50001 Ready.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>4. Si vous utilisez Portfolio Manager, utilisez le mod&egrave;le de rapport <strong>50001 Ready Energy Report for Portfolio Manager.</strong></p>
+			</td>
+			<td>
+			<p>T&eacute;l&eacute;chargez le document [resource](50001Ready_PortfolioManager) directement dans votre compte Portfolio Manager.</p>
+
+			<p>Les participants devront produire un rapport couvrant une ann&eacute;e compl&egrave;te de donn&eacute;es, la date de d&eacute;but ne devant pas pr&eacute;c&eacute;der de plus de 23 mois la date de pr&eacute;sentation du rapport. Il est recommand&eacute; (mais pas obligatoire) que les donn&eacute;es couvrent les douze mois pr&eacute;c&eacute;dant la date de mise en &oelig;uvre du SGE.<br />
+			<br />
+			On peut aussi pr&eacute;senter des rapports sur les IRE &eacute;tablis par le programme ENERGY STAR.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>5. Tous les participants sont autoris&eacute;s &agrave; utiliser le<strong> 50001 Ready Energy Consumption Baseline Report.</strong></p>
+			</td>
+			<td>
+			<p>T&eacute;l&eacute;chargez le [resource](50001Ready_Energy_Consumption_Baseline_Report).</p>
+
+			<p>La p&eacute;riode couverte doit &ecirc;tre d&rsquo;une ann&eacute;e compl&egrave;te, dont la date de d&eacute;but ne doit pas pr&eacute;c&eacute;der de plus de 23 mois la date de pr&eacute;sentation du rapport. Il est recommand&eacute; (mais pas obligatoire) que la p&eacute;riode couverte corresponde aux douze mois pr&eacute;c&eacute;dant la date de mise en &oelig;uvre du SGE.</p>
+
+			<p>Ce formulaire est valide uniquement pour la reconnaissance initiale <em>50001 Ready</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<p>Pour tous les rapports, il faudrait cr&eacute;er un formulaire distinct pour chaque installation sollicitant la reconnaissance <em>50001 Ready</em>, ou indiquer clairement dans le document les donn&eacute;es pertinentes relatives &agrave; l&rsquo;installation. Si plusieurs installations sont mentionn&eacute;es dans un m&ecirc;me document et ne sont pas clairement identifi&eacute;es, on supposera qu&rsquo;elles sont couvertes par le m&ecirc;me champ d&rsquo;application pour une seule d&eacute;signation <em>50001 Ready</em>.</p>
+
+<p>Pour le renouvellement subs&eacute;quent des d&eacute;signations <em>50001 Ready</em>, les participants devront d&eacute;montrer qu&rsquo;il y a eu am&eacute;lioration du rendement &eacute;nerg&eacute;tique.</p>
+
+<p>Si vos installations utilisent un formulaire de production de rapports sur l&rsquo;&eacute;nergie approuv&eacute; par le programme d&rsquo;une soci&eacute;t&eacute; de services publics ou d&rsquo;un &Eacute;tat/d&rsquo;une province, veuillez nous contacter pour savoir si c&rsquo;est un format qui r&eacute;pond aux exigences en mati&egrave;re de production de rapports.</p>
+
+<p>Apr&egrave;s avoir ex&eacute;cut&eacute; les t&acirc;ches [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) et [task](Monitoring), vous :</p>
+
+<ul>
+	<li>Avez identifi&eacute; et recueilli l&rsquo;information appropri&eacute;e sur la consommation &eacute;nerg&eacute;tique et les variables pertinentes</li>
+	<li>Avez choisi votre p&eacute;riode de r&eacute;f&eacute;rence et de production de rapports</li>
+	<li>Vous &ecirc;tes familiaris&eacute;s avec l&rsquo;analyse de r&eacute;gression</li>
+</ul>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Utilis&eacute; IRE Lite ou votre m&eacute;thode de pr&eacute;f&eacute;rence pour calculer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+	<li>Si vous &ecirc;tes un utilisateur d&rsquo;IRE Lite ou de l&rsquo;analyse de r&eacute;gression, choisi, pour la consommation &eacute;nerg&eacute;tique de vos installations, les mod&egrave;les valides d&eacute;crivant le mieux les usages &eacute;nerg&eacute;tiques de celles-ci</li>
+	<li>D&eacute;termin&eacute; l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans l&rsquo;ensemble de vos installations</li>
+</ul>
+
+<p>Le reste des directives li&eacute;es &agrave; la pr&eacute;sente t&acirc;che portera sur l&rsquo;utilisation d&rsquo;IRE Lite pour d&eacute;terminer l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique.</p>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.6.1 de la norme ISO 50001:2011</em>.</p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Utiliser l&rsquo;outil IRE Lite)</p>
+
+<p>En suivant les instructions &agrave; la page d&rsquo;accueil du site [resource](IRE_Lite), t&eacute;l&eacute;versez votre fichier [resource](Energy_Footprint_Lite_Data_Uploader) dans IRE Lite et visualisez l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Choisir, pour la consommation &eacute;nerg&eacute;tique de vos installations, les mod&egrave;les valides d&eacute;crivant le mieux les usages &eacute;nerg&eacute;tiques de celles-ci)</p>
+
+<p>Vous trouverez une description technique d&eacute;taill&eacute;e du mod&egrave;le et des exigences statistiques qu&rsquo;utilise [resource](IRE_Lite) pour calculer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans le document [resource](50001_Ready_Protocol). Reportez-vous aussi aux directives li&eacute;es aux t&acirc;ches suivantes : [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) et [task](Monitoring). Le tableau ci-dessous r&eacute;sume les exigences.</p>
+
+<table cellspacing="0" style="width:346.0pt">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:201.0pt">
+			<p><strong>Param&egrave;tre</strong></p>
+			</td>
+			<td rowspan="2" style="width:145.0pt">
+			<p><strong>Exigence</strong></p>
+			</td>
+			<td style="height:23.95pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:22.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>P&eacute;riode de production de rapports</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Cette p&eacute;riode doit s&rsquo;&ecirc;tre termin&eacute;e au cours des 11 derniers mois</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>P&eacute;riode de r&eacute;f&eacute;rence</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>P&eacute;riode de 12 mois pr&eacute;c&eacute;dant le premier mois de la p&eacute;riode de production de rapports</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Sources d&rsquo;&eacute;nergie</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Toute l&rsquo;&eacute;nergie alimentant les installations (voir [resource](50001_Ready_Protocol) pour l&rsquo;exception de 5 %)</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Variables pertinentes potentielles</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Il faut tenir compte de la production et de la m&eacute;t&eacute;o</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Fr&eacute;quence de la collecte de donn&eacute;e</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Une fois par mois</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Type de mod&egrave;le</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Analyse pr&eacute;visionnelle par r&eacute;gression lin&eacute;aire, analyse r&eacute;trospective par r&eacute;gression lin&eacute;aire</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Valeur R<sup>2</sup><sup> </sup>minimale</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>0,5</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Statistique F</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Sup&eacute;rieure &agrave; la valeur critique pour une valeur-p inf&eacute;rieure &agrave; 0,1</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Valeur-p maximale pour toute variable pertinente</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>0,2</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Au moins une variable doit afficher la valeur-p</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>&lt; 0,1</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Exigences de validit&eacute; du mod&egrave;le num&eacute;rique quand on applique le mod&egrave;le</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>3 types de donn&eacute;es mod&eacute;lis&eacute;es</p>
+
+			<p>La moyenne des donn&eacute;es s&rsquo;inscrit dans la plage de donn&eacute;es min./max. utilis&eacute;e avec ce mod&egrave;le</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Site ou &eacute;nergie primaire?</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Primaire</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:201.0pt">
+			<p>Multiplicateurs de sources d&rsquo;&eacute;nergie primaire</p>
+			</td>
+			<td style="width:145.0pt">
+			<p>Voir [resource](50001_Ready_Protocol)</p>
+			</td>
+			<td>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>[resource](IRE_Lite) peut produire plusieurs mod&egrave;les de valeurs pour chaque source d&rsquo;&eacute;nergie. Faites preuve de jugement sur le plan technique pour choisir le ou les mod&egrave;les qui d&eacute;crivent le mieux l&rsquo;usage &eacute;nerg&eacute;tique de vos installations. Par exemple, si vous utilisez de la vapeur tout au long de la fabrication d&rsquo;un produit, le mod&egrave;le de la source d&rsquo;&eacute;nergie utilis&eacute;e pour g&eacute;n&eacute;rer la vapeur devrait inclure une variable de production. Autre exemple : si vous utilisez principalement l&rsquo;&eacute;lectricit&eacute; pour chauffer et climatiser vos installations, les degr&eacute;s-jours de chauffage et de refroidissement devraient figurer dans votre mod&egrave;le d&rsquo;&eacute;lectricit&eacute;.</p>
+
+<p>Les r&eacute;sultats, y compris ceux qui portent sur l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique, se trouvent sur le site [resource](IRE_Lite). Vous pouvez visualiser ces r&eacute;sultats sans &eacute;laborer de mod&egrave;le valide, et ils doivent vous permettre de mieux comprendre l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique de vos installations.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;terminer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans l&rsquo;ensemble de vos installations)</p>
+
+<p>Une fois que vous aurez choisi vos mod&egrave;les de consommation &eacute;nerg&eacute;tique, [resource](IRE_Lite) affichera l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Elle est exprim&eacute;e en pourcentage. Reportez-vous &agrave; la t&acirc;che [task](Performance Indicators) pour savoir comment interpr&eacute;ter le pourcentage d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique de vos installations. Un SGE <em>50001 Ready</em> exige que vos installations affichent une am&eacute;lioration positive du rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Vous pouvez utiliser l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique pour expliquer les avantages du SGE au sein de vos installations et aux membres de votre haute direction (T&acirc;che 25, [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Le calcul de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique n&rsquo;est pas exig&eacute; par la norme ISO 9001:2015 ou ISO 14001:2015.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Gr&acirc;ce aux programmes ENERGY STAR, comme <em>Challenge for Industry</em>, vous assurez peut-&ecirc;tre d&eacute;j&agrave; le suivi de l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique. Pour ex&eacute;cuter la pr&eacute;sente t&acirc;che, vous pouvez par exemple &eacute;tablir un lien entre les rapports ENERGY STAR et votre SGE <em>50001 Ready</em>.</p>
+
+<p>Si vous pr&eacute;f&eacute;rez utiliser IRE Lite, vous pouvez facilement utiliser les donn&eacute;es d&rsquo;ENERGY STAR Portfolio Manager comme donn&eacute;es d&rsquo;acc&egrave;s &agrave; l&rsquo;outil. Vous trouverez les instructions sur l&rsquo;utilisation d&rsquo;IRE Lite &agrave; la page d&rsquo;accueil du site IRE Lite.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

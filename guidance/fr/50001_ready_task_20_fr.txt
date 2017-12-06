@@ -1,0 +1,270 @@
+USDOE 50001 READY NAVIGATOR TASK 20
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Communications
+----------TITLE----------
+Tâche 20: Tous les employés de l’organisation ont été informés à propos de notre politique énergétique, ainsi que de leur rôles et responsabilités, et on a sollicité leurs suggestions. Nous avons établi la politique et la méthode (éventuelle) de communication avec l’extérieur à propos de notre politique/notre rendement énergétiques.
+----------GETTING IT DONE----------
+<ul>
+	<li>Demandez &agrave; la haute direction d&rsquo;expliquer l&rsquo;importance de la gestion de l&rsquo;&eacute;nergie dans l&rsquo;ensemble de l&rsquo;organisation. Assurez-vous de parler de la politique &eacute;nerg&eacute;tique de votre organisation dans cette communication.</li>
+	<li>Utilisez le [resource](EnMS_Awareness_Requirements_Form) pour inscrire les d&eacute;tails de la formation de sensibilisation au SGE destin&eacute;e &agrave; certains employ&eacute;s ou &agrave; certains services.</li>
+	<li>Utilisez le document [resource](EnMS_Training_Needs_Planning_Matrix) pour planifier et mettre en place la formation de sensibilisation.</li>
+	<li>Offrez la formation de sensibilisation et conservez des dossiers de formation.</li>
+	<li>Utilisez la [resource](Internal_EnMS_Communications_Planning_Worksheet) pour planifier et mettre en &oelig;uvre le processus de communication interne du SGE, en proposant aux employ&eacute;s de faire des suggestions.</li>
+	<li>&Eacute;tablissez la politique et le processus de communication externe du SGE de votre organisation. Consignez cette d&eacute;cision, ainsi que toutes les communications externes.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Il est important de sensibiliser les employ&eacute;s de l&rsquo;organisation &agrave; propos de l&rsquo;&eacute;nergie afin qu&rsquo;ils appuient votre SGE. Il incombe &agrave; la haute direction d&rsquo;expliquer l&rsquo;importance de la gestion de l&rsquo;&eacute;nergie et d&rsquo;encourager les employ&eacute;s &agrave; y participer. La haute direction fait les premiers pas en faisant passer ce message, qui est ensuite &eacute;tay&eacute; par des communications internes r&eacute;guli&egrave;res.</p>
+
+<p>Il faut &eacute;galement que les employ&eacute;s connaissent leurs responsabilit&eacute;s relatives au SGE de l&rsquo;organisation. La sensibilisation des employ&eacute;s en mati&egrave;re d&rsquo;&eacute;nergie est la premi&egrave;re &eacute;tape de l&rsquo;int&eacute;gration de la gestion de l&rsquo;&eacute;nergie aux op&eacute;rations quotidiennes et d&rsquo;un soutien efficace au fonctionnement du SGE. Ces employ&eacute;s sont toutes les personnes qui travaillent pour l&rsquo;organisation &ndash; <a name="_Hlk497672035">salari&eacute;s, employ&eacute;s pay&eacute;s &agrave; l&rsquo;heure, employ&eacute;s &agrave; temps partiel et employ&eacute;s temporaires, mais aussi sous-traitants, fournisseurs et consultants pr&eacute;sents sur place</a>.</p>
+
+<p>Les communications internes et externes sont des volets importants du SGE. Pour mettre en &oelig;uvre un SGE, il faut instaurer un changement organisationnel et un changement de culture, et la communication interne est un &eacute;l&eacute;ment essentiel au succ&egrave;s de la gestion de ce changement.</p>
+
+<p>Votre organisation doit d&eacute;cider si elle va communiquer avec des parties externes &agrave; propos de sa politique &eacute;nerg&eacute;tique, de son syst&egrave;me de gestion de l&rsquo;&eacute;nergie et du rendement &eacute;nerg&eacute;tique. Consignez cette d&eacute;cision et &eacute;tablissez une m&eacute;thode de gestion de ces communications. Pour planifier les communications externes (que ce soit de fa&ccedil;on proactive ou r&eacute;active), il faut attribuer les responsabilit&eacute;s et les pouvoirs en ce qui concerne la r&eacute;ponse aux communications provenant de certains types d&rsquo;intervenants ou de parties int&eacute;ress&eacute;es.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli et mis en &oelig;uvre le plan initial de communication de la haute direction &agrave; propos du SGE</li>
+	<li>Veill&eacute; &agrave; la sensibilisation du personnel concern&eacute;</li>
+	<li>&Eacute;tabli un processus de communication interne</li>
+	<li>Pris des d&eacute;cisions en mati&egrave;re de communications externes</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.2.1 e), 4.3 g), 4.5.2 et 4.5.3 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir et mettre en &oelig;uvre le plan initial de communication de la haute direction &agrave; propos du SGE)</p>
+
+<p>Durant les &eacute;tapes pr&eacute;liminaires de la mise en &oelig;uvre du SGE, les employ&eacute;s charg&eacute;s des communications initiales &agrave; propos du SGE doivent :</p>
+
+<ul>
+	<li>annoncer l&rsquo;engagement pris par votre organisation en mati&egrave;re d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique;</li>
+	<li>annoncer le d&eacute;but de la mise en &oelig;uvre du SGE;</li>
+	<li>communiquer la politique &eacute;nerg&eacute;tique &agrave; l&rsquo;ensemble de l&rsquo;organisation;</li>
+	<li>encourager les employ&eacute;s &agrave; participer activement et &agrave; faire des suggestions;</li>
+	<li>jeter les bases d&rsquo;une communication r&eacute;guli&egrave;re &agrave; propos de l&rsquo;&eacute;nergie.</li>
+</ul>
+
+<p>[Learn More](Communication initiale &agrave; propos du SGE)</p>
+
+<p>L&rsquo;information suivante peut vous aider &agrave; faire passer votre message efficacement :</p>
+
+<ul>
+	<li>Que faisons-nous? (mise en &oelig;uvre d&rsquo;un SGE)</li>
+	<li>Pourquoi le faisons-nous? (facteurs op&eacute;rationnels)</li>
+	<li>Comment le SGE peut-il nous aider? (avantages)</li>
+	<li>Qui supervise l&rsquo;initiative? (repr&eacute;sentant de la direction, &eacute;quipe responsable de l&rsquo;&eacute;nergie)</li>
+	<li>Qui d&rsquo;autre est concern&eacute;? (tout le monde!)</li>
+	<li>Quels engagements avons-nous pris en mati&egrave;re d&rsquo;&eacute;nergie? (politique &eacute;nerg&eacute;tique)</li>
+	<li>Pourquoi les mesures que vous prenez sont-elles importantes? (impacts des comportements &eacute;co&eacute;nerg&eacute;tiques)</li>
+	<li>Quelles sont les prochaines &eacute;tapes? (attentes)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Ce sont g&eacute;n&eacute;ralement le repr&eacute;sentant de la direction et l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie qui d&eacute;finissent le contenu de cette communication initiale, avec l&rsquo;aide de la haute direction.</p>
+
+<p>Une fois que ce contenu est pr&ecirc;t, il faut d&eacute;cider de la fa&ccedil;on dont l&rsquo;information sera format&eacute;e et pr&eacute;sent&eacute;e aux employ&eacute;s. Quelle que soit la m&eacute;thode utilis&eacute;e, il est essentiel que la haute direction fasse passer ce message initial. Celle-ci d&eacute;finit les orientations strat&eacute;giques de votre organisation et fournit les ressources n&eacute;cessaires aux initiatives organisationnelles; elle doit donc accorder la priorit&eacute; &agrave; l&rsquo;&eacute;nergie au sein de l&rsquo;organisation. De plus, sa participation active et sa visibilit&eacute; donnent l&rsquo;exemple aux employ&eacute;s.</p>
+
+<p>M&eacute;thodes courantes de formatage et de pr&eacute;sentation du message : pr&eacute;sentations de diapositives, vid&eacute;os, bulletins, brochures, courriels group&eacute;s, annonces sur l&rsquo;intranet de l&rsquo;entreprise et encarts avec les ch&egrave;ques de paie.</p>
+
+<p>Si vous utilisez des communications imprim&eacute;es, vous devez vous assurer qu&rsquo;elles sont claires et que le message vient de la haute direction. Les activit&eacute;s organis&eacute;es avec les employ&eacute;s par la haute direction, comme les activit&eacute;s de lancement, les d&icirc;ners ou les r&eacute;unions de l&rsquo;ensemble du personnel sont g&eacute;n&eacute;ralement plus efficaces que des approches passives pour faire passer le message et susciter l&rsquo;attention/le soutien des employ&eacute;s.</p>
+
+<p>Les documents [resource](Example_Initial_EnMS_Awareness_Presentation) et [resource](Initial_EnMS_Awareness_Presentation_Template), qui peuvent &ecirc;tre personnalis&eacute;s pour votre organisation, sont fournis.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Veiller &agrave; la sensibilisation du personnel concern&eacute;)</p>
+
+<p>Contrairement aux exigences en mati&egrave;re de comp&eacute;tences &eacute;nonc&eacute;es dans la norme ISO 50001, la sensibilisation &agrave; l&rsquo;&eacute;nergie ne se limite pas aux personnes ex&eacute;cutant des t&acirc;ches li&eacute;es aux usages &eacute;nerg&eacute;tiques significatifs (UES). La sensibilisation g&eacute;n&eacute;rale en mati&egrave;re d&rsquo;&eacute;nergie vise le personnel de l&rsquo;ensemble de l&rsquo;organisation, mais aussi nos sous-traitants, fournisseurs, consultants ou autres partenaires pr&eacute;sents sur place. Pour qu&rsquo;elle soit efficace, il faut que tous les employ&eacute;s vis&eacute;s par le domaine d&rsquo;application et le p&eacute;rim&egrave;tre du SGE sachent comment le SGE influe sur leur travail quotidien et connaissent leurs responsabilit&eacute;s.</p>
+
+<p>Il est essentiel de sensibiliser les employ&eacute;s de fa&ccedil;on constante en mati&egrave;re d&rsquo;&eacute;nergie, pour int&eacute;grer la gestion de l&rsquo;&eacute;nergie aux op&eacute;rations quotidiennes de l&rsquo;organisation et favoriser un fonctionnement efficace du SGE.</p>
+
+<p>Volets de la sensibilisation visant l&rsquo;ensemble du personnel :</p>
+
+<ul>
+	<li><strong>Conformit&eacute; avec la politique &eacute;nerg&eacute;tique</strong> &ndash; On attend des employ&eacute;s qu&rsquo;ils sachent comment l&rsquo;&eacute;nergie est li&eacute;e &agrave; leurs activit&eacute;s professionnelles et comment leur travail t&eacute;moigne des engagements pris dans la politique &eacute;nerg&eacute;tique, notamment en ce qui concerne le rendement &eacute;nerg&eacute;tique et le respect des exigences l&eacute;gales et autres.</li>
+	<li><strong>Importance du respect des proc&eacute;dures et des exigences li&eacute;es au SGE</strong> &ndash; On attend des employ&eacute;s qu&rsquo;ils respectent les proc&eacute;dures relatives &agrave; leurs responsabilit&eacute;s professionnelles et se conforment aux exigences du syst&egrave;me.</li>
+	<li><strong>R&ocirc;les, responsabilit&eacute;s et pouvoirs</strong> &ndash; Les employ&eacute;s devraient conna&icirc;tre &agrave; la fois leurs propres responsabilit&eacute;s et celles des personnes cl&eacute;s associ&eacute;es au SGE, ce qui inclut le responsable de la gestion de l&rsquo;&eacute;nergie et les membres de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie.</li>
+	<li><strong>Avantages de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique</strong> &ndash; Il faut que les employ&eacute;s connaissent les avantages de l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique. Exemples d&rsquo;avantages potentiels : r&eacute;duction des co&ucirc;ts, marge de profit plus &eacute;lev&eacute;e, fonctionnement plus &eacute;co&eacute;nerg&eacute;tique, moins de maintenance, impact r&eacute;duit sur l&rsquo;environnement, dur&eacute;e de vie de l&rsquo;&eacute;quipement prolong&eacute;e et plus de confort.</li>
+	<li><strong>Impact des activit&eacute;s sur la consommation &eacute;nerg&eacute;tique</strong> &ndash; Il faut que les employ&eacute;s connaissent l&rsquo;impact r&eacute;el et potentiel de leurs activit&eacute;s sur l&rsquo;utilisation et la consommation &eacute;nerg&eacute;tique.</li>
+	<li><strong>Impact des activit&eacute;s des employ&eacute;s sur les objectifs et les cibles</strong> &ndash; Il faut que les employ&eacute;s comprennent en quoi leurs activit&eacute;s et leur comportement contribuent &agrave; l&rsquo;atteinte des objectifs et des cibles &eacute;nerg&eacute;tiques.</li>
+	<li><strong>Cons&eacute;quences du non-respect des proc&eacute;dures</strong> &ndash; La politique &eacute;nerg&eacute;tique sert de cadre &agrave; l&rsquo;&eacute;laboration de proc&eacute;dures pertinentes qui guident les activit&eacute;s visant &agrave; maximiser l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique et &agrave; r&eacute;duire la consommation. Il faut que les employ&eacute;s connaissent les cons&eacute;quences du non-respect de ces proc&eacute;dures et son impact potentiel sur l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique, et sur les usages et la consommation &eacute;nerg&eacute;tiques.</li>
+</ul>
+
+<p>Le [resource](EnMS_Awareness_Requirements_Form) peut vous aider &agrave; d&eacute;finir et &agrave; documenter les exigences propres &agrave; la sensibilisation visant chaque personne, poste ou service.</p>
+
+<p>Une fois ces exigences d&eacute;finies, vous pourrez utiliser le document [resource](EnMS_Training_Needs_Planning_Matrix) pour illustrer les besoins en formation de sensibilisation &agrave; l&rsquo;&eacute;chelle de l&rsquo;organisation et &eacute;laborer un plan en vue de r&eacute;pondre &agrave; ces besoins. Le plan de formation r&eacute;pond aux questions &laquo; qui, quoi, quand, o&ugrave; et comment &raquo;, et peut servir de registre de formation. Vous trouverez d&rsquo;autres exemples dans le document [resource](Example_EnMS_Training_Needs_Planning_Matrix).</p>
+
+<p>La plupart des organisations &eacute;laborent un genre de formation de sensibilisation g&eacute;n&eacute;rale aux SGE, qu&rsquo;on peut utiliser comme introduction au SGE pour les employ&eacute;s, les sous-traitants, les fournisseurs et d&rsquo;autres personnes travaillant sur place.</p>
+
+<p>[Learn More](Pr&eacute;sentation de sensibilisation au SGE)</p>
+
+<p>Cette formation de sensibilisation g&eacute;n&eacute;rale dure habituellement entre 5 et 30 minutes, et peut comprendre des aides &agrave; la formation et &agrave; la communication comme les vid&eacute;os, les diapositives, les brochures, les feuilles d&rsquo;information ou des affichages. Une des approches consiste &agrave; utiliser la pr&eacute;sentation pr&eacute;par&eacute;e pour la t&acirc;che pr&eacute;c&eacute;dente (Pr&eacute;sentation initiale de sensibilisation au SGE) et &agrave; y ajouter des diapositives portant sp&eacute;cifiquement sur les UES, les objectifs et les cibles &eacute;nerg&eacute;tiques, et d&rsquo;autres informations n&eacute;cessaires. Voir le document [resource](General_EnMS_Awareness_Presentation). Un mod&egrave;le vierge de [resource](Template_General_EnMS_Awareness_Presentation) suit la description de l&rsquo;exemple de pr&eacute;sentation; il peut &ecirc;tre personnalis&eacute; pour votre organisation.</p>
+
+<p>[Learn More End]</p>
+
+<p>Quelle que soit l&rsquo;approche utilis&eacute;e, consignez l&rsquo;information relative &agrave; la formation de sensibilisation et assurez-vous qu&rsquo;elle est facilement accessible. Vous pouvez le faire de diff&eacute;rentes fa&ccedil;ons. Voici quelques exemples :</p>
+
+<ul>
+	<li><a href="http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%203_4_1%20Tool%20Competency%20Requirements%20and%20Record%20Form.doc" target="_blank">Formulaire de consignation des exigences en mati&egrave;re de comp&eacute;tences</a></li>
+	<li>Certificats de formation plac&eacute;s dans les dossiers des employ&eacute;s ou dans une base de donn&eacute;es sur la formation</li>
+	<li>Feuilles de pr&eacute;sence conserv&eacute;es par le service, le bureau des ressources humaines ou &agrave; un autre emplacement central</li>
+	<li>Formulaires distincts permettant de consigner les donn&eacute;es sur la formation de sensibilisation</li>
+</ul>
+
+<p>Si un sous-traitant ou un fournisseur doit offrir la formation de sensibilisation appropri&eacute;e au SGE, il doit conserver les documents relatifs &agrave; cette formation dans ses locaux, mais votre organisation doit pouvoir y acc&eacute;der au besoin.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;tablir un processus de communication interne)</p>
+
+<p>Maintenant, &eacute;tablissez un processus qui garantira la r&eacute;gularit&eacute; de communications internes relatives au rendement &eacute;nerg&eacute;tique et au SGE.</p>
+
+<p>Voici les sujets &agrave; propos desquels il faut communiquer &agrave; l&rsquo;interne :</p>
+
+<ul>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Importance de la gestion de l&rsquo;&eacute;nergie</li>
+	<li>Responsabilit&eacute;s et pouvoirs en mati&egrave;re de gestion de l&rsquo;&eacute;nergie</li>
+	<li>Objectifs &eacute;nerg&eacute;tiques</li>
+	<li>Rendement &eacute;nerg&eacute;tique de l&rsquo;organisation</li>
+	<li>Autre information relative au SGE, s&rsquo;il y a lieu</li>
+</ul>
+
+<p>[Learn More](M&eacute;thodes de communication interne)</p>
+
+<p>On peut utiliser diverses m&eacute;thodes pour les communications internes :</p>
+
+<ul>
+	<li>Affichages</li>
+	<li>Bulletins internes</li>
+	<li>Sites intranet</li>
+	<li>&Eacute;conomiseurs d&rsquo;&eacute;cran</li>
+	<li>Courriels</li>
+	<li>R&eacute;unions</li>
+	<li>Formation</li>
+	<li>Syst&egrave;mes de suggestions ou d&rsquo;incitation</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>On peut utiliser diverses m&eacute;thodes pour communiquer &agrave; diff&eacute;rents publics &agrave; propos des diff&eacute;rents aspects du SGE. Utilisez les processus existants de communication interne, dans la mesure du possible.</p>
+
+<p>[Learn More](Cl&eacute;s de l&rsquo;efficacit&eacute; du processus de communication interne sur le SGE)</p>
+
+<p>Premi&egrave;rement, la communication doit vraiment &ecirc;tre constante. La haute direction doit expliquer l&rsquo;importance de la gestion de l&rsquo;&eacute;nergie dans l&rsquo;ensemble de l&rsquo;organisation (voir [task](Energy Policy)). Le repr&eacute;sentant de la direction doit communiquer &agrave; propos des responsabilit&eacute;s en mati&egrave;re de gestion de l&rsquo;&eacute;nergie et promouvoir la sensibilisation au sujet de la politique &eacute;nerg&eacute;tique et des objectifs &eacute;nerg&eacute;tiques &agrave; tous les niveaux de l&rsquo;organisation. G&eacute;n&eacute;ralement, c&rsquo;est le repr&eacute;sentant de la direction qui veille &agrave; ce que les communications internes (y compris celles de la haute direction) visent tous les niveaux et tous les services de l&rsquo;organisation.</p>
+
+<p>Deuxi&egrave;mement, les employ&eacute;s n&rsquo;ont pas tous besoin de la m&ecirc;me information. Envisagez des strat&eacute;gies de communication et un contenu adapt&eacute; &agrave; votre public cible. Par exemple, la haute direction pourrait communiquer des donn&eacute;es d&eacute;taill&eacute;es sur le rendement &eacute;nerg&eacute;tique lors d&rsquo;une r&eacute;union de revue de direction (voir [task](Management Review)), alors qu&rsquo;on ne transmet que des renseignements sommaires (g&eacute;n&eacute;ralement sous forme de graphiques, comme des courbes de tendance, des diagrammes &agrave; secteurs, des graphiques &agrave; barres, etc.) aux employ&eacute;s sur les babillards r&eacute;partis dans l&rsquo;ensemble des installations. Utilisez la [resource](Internal_EnMS_Communications_Planning_Worksheet) pour mieux planifier et mettre en &oelig;uvre le processus de communication interne relative au SGE.</p>
+
+<p>Troisi&egrave;mement, les modes de communication efficaces sont multidirectionnels. Les communications sur le SGE doivent inclure des m&eacute;canismes permettant aux employ&eacute;s de communiquer avec les niveaux hi&eacute;rarchiques sup&eacute;rieurs de l&rsquo;organisation (communication ascendante), mais aussi lat&eacute;ralement.</p>
+
+<p>Quatri&egrave;mement, pour communiquer &agrave; l&rsquo;interne &agrave; propos du SGE, il faut solliciter des commentaires et des suggestions, afin de s&rsquo;assurer que les employ&eacute;s et les autres personnes travaillant pour le compte de l&rsquo;organisation (comme les sous-traitants et les fournisseurs) puissent proposer des am&eacute;liorations &agrave; apporter au SGE. Un syst&egrave;me de suggestions efficace garantira qu&rsquo;il y aura une forme de r&eacute;troaction &agrave; la suite des suggestions et des commentaires formul&eacute;s, m&ecirc;me si certaines id&eacute;es sont jug&eacute;es irr&eacute;alistes. On peut utiliser le [resource](EnMS_Suggestion_Form) pour &eacute;laborer un syst&egrave;me de suggestions et de commentaires. Par ailleurs, certaines organisations s&rsquo;inspirent des activit&eacute;s en cours de leurs &eacute;quipes charg&eacute;es de l&rsquo;am&eacute;lioration continue pour solliciter des suggestions et des commentaires aupr&egrave;s de leurs effectifs.</p>
+
+<p>Il se peut que certaines organisations soient r&eacute;ticentes &agrave; adopter un syst&egrave;me de suggestions. Dans les grandes organisations qui comptent des centaines d&rsquo;employ&eacute;s, ces syst&egrave;mes peuvent &ecirc;tre rapidement d&eacute;bord&eacute;s. C&rsquo;est particuli&egrave;rement vrai quand il existe des programmes d&rsquo;incitation ou de partage des gains &agrave; l&rsquo;appui du processus de suggestions. Pour g&eacute;rer le volume de suggestions tout en les prenant en compte de fa&ccedil;on appropri&eacute;e, on peut notamment alterner entre l&rsquo;ouverture et la fermeture du processus de suggestions selon un calendrier pr&eacute;&eacute;tabli. Cette approche peut &eacute;galement &ecirc;tre utile dans de plus petites organisations ayant moins de personnel pour g&eacute;rer les suggestions et les commentaires.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Pratiques exemplaires de communication interne)</p>
+
+<p>Certaines organisations cr&eacute;ent des incitatifs pour la participation aux syst&egrave;mes de commentaires ou de suggestions. Habituellement, les suggestions qui ont &eacute;t&eacute; mises en pratique et ont g&eacute;n&eacute;r&eacute; le plus d&rsquo;&eacute;conomies ou des am&eacute;liorations optimales du rendement &eacute;nerg&eacute;tique sont mises de l&rsquo;avant, ainsi que les personnes qui ont propos&eacute; l&rsquo;id&eacute;e. Voici certains exemples d&rsquo;incitatifs ou de r&eacute;compenses :</p>
+
+<ul>
+	<li>Articles de fond dans le bulletin interne de l&rsquo;organisation</li>
+	<li>Cartes-cadeaux</li>
+	<li>Billets de cin&eacute;ma</li>
+	<li>D&icirc;ners pr&eacute;par&eacute;s par un traiteur, servis par les superviseurs et les gestionnaires</li>
+	<li>Remise de produits de marketing (t-shirts, tasses, casquettes, etc.)</li>
+	<li>Espace de stationnement r&eacute;serv&eacute; pour le mois</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Prendre des d&eacute;cisions en mati&egrave;re de communications externes)</p>
+
+<p>Durant la mise en &oelig;uvre du SGE, vous devez d&eacute;cider si votre organisation va communiquer avec des parties externes (et comment elle va le faire) &agrave; propos :</p>
+
+<ul>
+	<li>De sa politique &eacute;nerg&eacute;tique</li>
+	<li>De son SGE</li>
+	<li>De son rendement &eacute;nerg&eacute;tique</li>
+</ul>
+
+<p>&Eacute;tant donn&eacute; qu&rsquo;un nombre croissant de membres du public, de clients et d&rsquo;autres intervenants s&rsquo;int&eacute;ressent &agrave; la durabilit&eacute; et que de nombreuses organisations souhaitent afficher un leadership dans ce domaine, certaines organisations d&eacute;cident de communiquer de fa&ccedil;on proactive &agrave; propos de leurs politiques &eacute;nerg&eacute;tiques et environnementales, et de leurs objectifs et r&eacute;alisations en la mati&egrave;re. D&rsquo;autres organisations optent pour des communications r&eacute;actives, r&eacute;pondant aux demandes de renseignements au cas par cas.</p>
+
+<p>Quelle que soit l&rsquo;approche adopt&eacute;e, les orientations en mati&egrave;re de communication externe doivent &ecirc;tre consign&eacute;es, et il faut &eacute;tablir une m&eacute;thode de gestion de ces communications.</p>
+
+<p>Pour &eacute;laborer une m&eacute;thode (ou un plan) de communications externes proactives, vous devez d&eacute;finir les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Les publics cibles</li>
+	<li>Les objectifs de votre communication</li>
+	<li>L&rsquo;information &agrave; communiquer</li>
+	<li>Les personnes qui la communiqueront</li>
+	<li>Les m&eacute;canismes ou les supports qu&rsquo;on utilisera</li>
+	<li>La fr&eacute;quence des communications</li>
+	<li>La date de d&eacute;but des communications</li>
+</ul>
+
+<p>La [resource](External_Communications_Planning_Worksheet) peut faciliter le processus de planification des communications.</p>
+
+<p>[Learn More](Communications externes)</p>
+
+<p>Si votre organisation d&eacute;cide d&rsquo;&ecirc;tre proactive dans ses communications externes en mati&egrave;re d&rsquo;&eacute;nergie, envisagez de communiquer l&rsquo;information relative aux &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques</li>
+	<li>Projets de conservation d&rsquo;&eacute;nergie ou d&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique</li>
+	<li>Am&eacute;lioration du rendement &eacute;nerg&eacute;tique</li>
+	<li>&Eacute;conomies sur le co&ucirc;t de l&rsquo;&eacute;nergie</li>
+	<li>Utilisation d&rsquo;&eacute;nergies renouvelables</li>
+	<li>Participation &agrave; des programmes volontaires ax&eacute;s sur l&rsquo;&eacute;nergie ou l&rsquo;environnement</li>
+</ul>
+
+<p>Exemples de m&eacute;canismes de communication externe :</p>
+
+<ul>
+	<li>Sites Web</li>
+	<li>Communiqu&eacute;s de presse</li>
+	<li>Rapports annuels</li>
+	<li>Rapports sur la durabilit&eacute;</li>
+	<li>Courriels</li>
+	<li>Bulletins sur papier ou &eacute;lectroniques</li>
+	<li>R&eacute;unions virtuelles/webinaires</li>
+	<li>R&eacute;unions communautaires</li>
+	<li>Visites d&rsquo;installations ou journ&eacute;es &laquo; portes ouvertes &raquo;</li>
+	<li>Possibilit&eacute;s de commandite</li>
+	<li>Annonces &agrave; la radio/&agrave; la t&eacute;l&eacute;vision</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Quand vous planifiez des communications externes, que ce soit de fa&ccedil;on proactive ou r&eacute;active, vous devez attribuer les responsabilit&eacute;s et les pouvoirs en ce qui concerne la r&eacute;ponse aux communications provenant de certains types d&rsquo;intervenants ou de parties int&eacute;ress&eacute;es. Par exemple, c&rsquo;est le plus souvent le responsable de la conformit&eacute; &agrave; la r&eacute;glementation qui est autoris&eacute; &agrave; r&eacute;pondre aux demandes de renseignements ou de visite du site par des responsables gouvernementaux de la r&eacute;glementation. Le repr&eacute;sentant de la direction est g&eacute;n&eacute;ralement autoris&eacute; &agrave; interagir avec les entreprises de services publics et &agrave; r&eacute;pondre aux demandes de renseignements &agrave; propos de la politique &eacute;nerg&eacute;tique ou des UES de l&rsquo;organisation.</p>
+
+<p>Le document [resource](Example_External_Communications_Responsibility_Authority_Matrix_Energy_Related) est fourni pour illustrer la fa&ccedil;on dont on peut d&eacute;finir les responsabilit&eacute;s et les pouvoirs en mati&egrave;re de communication externe, et les documenter. Certaines organisations se dotent d&rsquo;une proc&eacute;dure document&eacute;e qui d&eacute;finit le processus de gestion des communications externes.</p>
+
+<p>Les documents servant &agrave; consigner les communications peuvent &ecirc;tre, par exemple, un [resource](EnMS_External_Communications_Log) ou un [resource](EnMS_External_Communications_Record).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Comme la norme ISO 50001:2011, les normes ISO 14001:2015 et ISO 9001:2015 exigent que la haute direction &eacute;tablisse, mette en &oelig;uvre et tienne &agrave; jour une politique qui doit &ecirc;tre communiqu&eacute;e au sein de l&rsquo;organisation. Selon ces trois normes, la haute direction doit aussi expliquer l&rsquo;importance d&rsquo;une gestion efficace [de l&rsquo;&eacute;nergie/de l&rsquo;environnement/de la qualit&eacute;]. Le processus de communication en place dans un syst&egrave;me de gestion pour atteindre ces objectifs peut &ecirc;tre utilis&eacute; aux m&ecirc;mes fins dans les autres syst&egrave;mes de gestion.</p>
+
+<p>Les processus de formation et de sensibilisation utilis&eacute;s dans le cadre des syst&egrave;mes de gestion conformes aux normes ISO 14001:2015 et ISO 9001:2015, pour assurer la sensibilisation n&eacute;cessaire du personnel, conviennent sans doute bien aux syst&egrave;mes de gestion de l&rsquo;&eacute;nergie conformes &agrave; la norme ISO 50001:2011. M&ecirc;me si le contenu de la formation de sensibilisation et des communications varie selon la norme concern&eacute;e, le processus sous-jacent utilis&eacute; pour parvenir &agrave; la sensibilisation requise peut &ecirc;tre le m&ecirc;me pour les syst&egrave;mes de gestion de l&rsquo;environnement, de l&rsquo;&eacute;nergie et/ou de la qualit&eacute;.</p>
+
+<p>Les organisations qui se conforment &agrave; la norme ISO 14001:2015 devraient d&eacute;j&agrave; avoir adopt&eacute; le processus n&eacute;cessaire pour satisfaire aux exigences de communication interne de la norme ISO 50001. Les processus utilis&eacute;s pour communiquer des renseignements environnementaux en vertu de la norme ISO 14001 peuvent servir &eacute;galement &agrave; diffuser de l&rsquo;information sur la politique &eacute;nerg&eacute;tique et le SGE, et des renseignements de nature purement &eacute;nerg&eacute;tique. Le processus de commentaires/suggestions pr&eacute;vu par la norme ISO 50001 est un processus de communication qui autorise des contributions &agrave; l&rsquo;am&eacute;lioration continue, ce qui est &eacute;galement une exigence de la norme ISO 14001.</p>
+
+<p>Les organisations qui se conforment &agrave; la norme ISO 9001:2015 ont &eacute;tabli divers processus de communication interne, qu&rsquo;elles peuvent exploiter pour le syst&egrave;me ISO 50001. Il s&rsquo;agit par exemple du processus pr&eacute;vu par la norme ISO 9001 utilis&eacute; pour communiquer &agrave; l&rsquo;interne &agrave; propos des politiques, des objectifs, des r&ocirc;les et responsabilit&eacute;s et des pouvoirs.</p>
+
+<p>Dans le cadre des syst&egrave;mes conformes aux normes ISO 9001:2015 et ISO 14001-2015, certaines d&eacute;cisions relatives aux communications externes ont d&eacute;j&agrave; &eacute;t&eacute; prises. La norme ISO 14001 exige la communication externe d&rsquo;information relative aux syst&egrave;mes de gestion et aux obligations en mati&egrave;re de conformit&eacute;. La norme ISO 9001:2015 exige que la politique en mati&egrave;re de qualit&eacute; soit accessible aux parties int&eacute;ress&eacute;es pertinentes. Ces deux normes exigent un processus de communication avec les fournisseurs externes. Ainsi, une organisation qui se conforme d&eacute;j&agrave; &agrave; la norme ISO 9001 ou ISO 14001 et met en &oelig;uvre la norme ISO 50001 d&eacute;terminera g&eacute;n&eacute;ralement si ces m&ecirc;mes d&eacute;cisions seraient appropri&eacute;es pour le SGE. Ou elles pourraient simplement &ecirc;tre accept&eacute;es comme des d&eacute;cisions effectives &agrave; propos des communications externes visant la mise en &oelig;uvre de la norme ISO 50001.</p>
+
+<p>Les organisations qui se conforment &agrave; la norme ISO 9001 ou ISO 14001 ont d&eacute;j&agrave; adopt&eacute; un processus de communication externe qui r&eacute;pond aux questions &laquo; quoi, quand, avec qui et comment &raquo; &agrave; propos des communications (de la m&eacute;thode). Les m&ecirc;mes processus de communication externe peuvent &ecirc;tre utilis&eacute;s en lien avec le SGE.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 1.3 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) sugg&egrave;re qu&rsquo;on communique la politique &eacute;nerg&eacute;tique &agrave; tous les employ&eacute;s afin de les encourager &agrave; faire leur part. La norme ISO 50001 <strong><em>exige </em></strong>que la politique &eacute;nerg&eacute;tique soit communiqu&eacute;e &agrave; tous les niveaux de votre organisation.</p>
+
+<p>Les utilisateurs du programme ENERGY STAR communiquent avec des intervenants de l&rsquo;ext&eacute;rieur; la d&eacute;cision relative &agrave; la n&eacute;cessit&eacute; des communications externes a donc d&eacute;j&agrave; &eacute;t&eacute; prise et mentionn&eacute;e dans votre plan de communication. Quand vous mettrez en &oelig;uvre votre SGE, la ou les m&eacute;thodes de communication externe seront donc mentionn&eacute;es dans le plan de communication.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

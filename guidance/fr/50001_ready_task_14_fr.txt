@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 14
 ----------MENU NAME----------
 Surveillance
 ----------TITLE----------
-Tâche 14 : Nous surveillons et analysons constamment notre consommation énergétique, nos UES, nos variables pertinentes et la progression et l’efficacité de nos plans d’action
+Tâche 14: Nous surveillons et analysons constamment notre consommation énergétique, nos UES, nos variables pertinentes et la progression et l’efficacité de nos plans d’action
 ----------GETTING IT DONE----------
 <ul>
 	<li>Utilisez le document [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) et/ou [resource](Energy_Measurement_Plan_Worksheet) pour d&eacute;terminer comment et &agrave; quelle fr&eacute;quence votre organisation surveillera, mesurera et analysera les principales caract&eacute;ristiques qui d&eacute;terminent votre rendement &eacute;nerg&eacute;tique. Il s&rsquo;agit des caract&eacute;ristiques suivantes :

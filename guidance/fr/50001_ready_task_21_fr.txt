@@ -1,0 +1,84 @@
+USDOE 50001 READY NAVIGATOR TASK 21
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Formation
+----------TITLE----------
+Tâche 21: Les besoins en formation du système 50001 Ready et les UES ont été identifiés, et l’on a formé les employés et les sous-traitants, au besoin, afin qu’ils soient qualifiés en matière de gestion de l’énergie
+----------GETTING IT DONE----------
+<ul>
+	<li>Remplissez le document [resource](SGE_Training_Needs_Planning_Matrix).</li>
+	<li>Comblez les lacunes en mati&egrave;re de formation qui ont &eacute;t&eacute; d&eacute;finies.</li>
+	<li>Consignez les besoins en mati&egrave;re de formation, les offres de formation et les r&eacute;sultats.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Les employ&eacute;s effectuant un travail li&eacute; aux usages &eacute;nerg&eacute;tiques significatifs (UES) de votre organisation doivent &ecirc;tre aptes &agrave; ex&eacute;cuter ces t&acirc;ches afin de minimiser tout impact n&eacute;gatif sur le rendement &eacute;nerg&eacute;tique de l&rsquo;organisation. S&rsquo;il y a une carence en mati&egrave;re de comp&eacute;tences parmi le personnel concern&eacute;, il faut d&eacute;finir cette carence et prendre des mesures pour garantir que ces comp&eacute;tences sont &eacute;lev&eacute;es au niveau n&eacute;cessaire.</p>
+
+<p>En plus de d&eacute;finir les besoins en formation et les autres mesures n&eacute;cessaires pour combler les lacunes en mati&egrave;re de comp&eacute;tences du personnel dont le travail est associ&eacute; aux UES, votre organisation doit identifier les besoins en formation li&eacute;s aux autres &eacute;l&eacute;ments du SGE. Habituellement, ces besoins sont identifi&eacute;s, r&eacute;vis&eacute;s et mis &agrave; jour chaque ann&eacute;e par le repr&eacute;sentant de la direction, avec l&rsquo;aide de l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie et, &eacute;ventuellement, les employ&eacute;s responsables de l&rsquo;environnement ou de la sant&eacute; et de la s&eacute;curit&eacute;.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Veill&eacute; &agrave; ce que le personnel poss&egrave;de les comp&eacute;tences requises</li>
+	<li>Identifi&eacute; les besoins en formation li&eacute;s aux UES et r&eacute;pondu &agrave; ces besoins</li>
+	<li>Identifi&eacute; les besoins en formation li&eacute;s au SGE et r&eacute;pondu &agrave; ces besoins</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; &agrave; la section 4.5.2 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Veiller &agrave; ce que le personnel poss&egrave;de les comp&eacute;tences requises)</p>
+
+<p>Les employ&eacute;s travaillant au nom de l&rsquo;organisation qui ex&eacute;cutent des t&acirc;ches li&eacute;es &agrave; ses UES doivent poss&eacute;der les comp&eacute;tences requises. Ces employ&eacute;s sont des salari&eacute;s, employ&eacute;s pay&eacute;s &agrave; l&rsquo;heure, employ&eacute;s &agrave; temps partiel et employ&eacute;s temporaires, mais aussi des sous-traitants, des fournisseurs et des consultants pr&eacute;sents sur place. Votre liste initiale du personnel qui ex&eacute;cute des t&acirc;ches li&eacute;es aux UES a &eacute;t&eacute; document&eacute;e dans le [resource](SEU_Control_Chart), pr&eacute;sent&eacute; pour la premi&egrave;re fois dans le cadre des t&acirc;ches [task](Significant Energy Uses) et [task](Performance Indicators). (Un [resource](Example_SEU_Control_Chart) a &eacute;galement &eacute;t&eacute; fourni dans le cadre des t&acirc;ches [task](Significant Energy Uses) et [task](Performance Indicators).) Commencez par cette information, et d&eacute;signez tous les autres employ&eacute;s qu&rsquo;il faudrait peut-&ecirc;tre inclure pour satisfaire aux exigences de la section 4.5.2 de la norme ISO 50001 en mati&egrave;re de comp&eacute;tences.</p>
+
+<p>Tel que les d&eacute;finit la norme ISO 50001, les comp&eacute;tences d&eacute;signent les qualifications ou les aptitudes dont a besoin une personne pour s&rsquo;acquitter efficacement de ses responsabilit&eacute;s professionnelles. Ces comp&eacute;tences peuvent varier pour chaque poste et sont bas&eacute;es sur un ou plusieurs des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li><strong>&Eacute;tudes</strong> &ndash; Connaissances g&eacute;n&eacute;ralement acquises gr&acirc;ce &agrave; un programme d&rsquo;&eacute;tudes officiel, offert par exemple par une &eacute;cole, un institut technique ou une universit&eacute;.</li>
+	<li><strong>Formation</strong> &ndash; Connaissances g&eacute;n&eacute;ralement acquises gr&acirc;ce l&rsquo;apprentissage d&rsquo;habilet&eacute;s professionnelles ou pratiques, et connaissances li&eacute;es &agrave; des capacit&eacute;s bien pr&eacute;cises. Exemples : utilisation d&rsquo;une chaudi&egrave;re, maintenance d&rsquo;un syst&egrave;me &eacute;lectrique ou traitement des eaux us&eacute;es.</li>
+	<li><strong>Habilet&eacute;</strong> &ndash; Talent ou aptitude qu&rsquo;on peut apprendre ou d&eacute;velopper, puis mettre en pratique. Exemples : soudage, peinture ou conception de logiciels.</li>
+	<li><strong>Exp&eacute;rience</strong> &ndash; Accumulation de connaissances ou d&rsquo;habilet&eacute;s qui r&eacute;sultent de la participation directe &agrave; des &eacute;v&eacute;nements, des activit&eacute;s ou des t&acirc;ches.</li>
+</ul>
+
+<p>Dans le cadre d&rsquo;un SGE ISO 50001, les postes associ&eacute;s aux UES sont assortis de comp&eacute;tences bien d&eacute;finies. Par exemple, si une chaudi&egrave;re est d&eacute;sign&eacute;e comme un UES, les emplois associ&eacute;s au fonctionnement et &agrave; l&rsquo;entretien de cette chaudi&egrave;re doivent s&rsquo;accompagner d&rsquo;exigences pr&eacute;cises en mati&egrave;re d&rsquo;&eacute;tudes, de formation, d&rsquo;habilet&eacute;s et/ou d&rsquo;exp&eacute;rience &mdash; ou une combinaison de ces &eacute;l&eacute;ments. On peut utiliser le [resource](Competency_Requirements_Record_Form) afin de d&eacute;finir les exigences en mati&egrave;re de comp&eacute;tences pour chaque poste. Vous trouverez un exemple de la fa&ccedil;on dont on peut remplir ce formulaire dans le document [resource](Example_Competency_Requirements_Records_Form) pour un &eacute;lectricien de maintenance.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identifier les besoins de formation li&eacute;s aux UES et y r&eacute;pondre)</p>
+
+<p>Quand les employ&eacute;s et les sous-traitants ex&eacute;cutent un travail li&eacute; aux UES, ils doivent aussi conna&icirc;tre les &eacute;l&eacute;ments suivants li&eacute;s &agrave; leurs responsabilit&eacute;s professionnelles :</p>
+
+<ul>
+	<li>Contr&ocirc;les op&eacute;rationnels associ&eacute;s aux UES (voir [task](Operational Controls))</li>
+	<li>Exigences en mati&egrave;re de surveillance, de mesure et d&rsquo;analyse (voir [task](Monitoring), [task](Measurement) et [task](Significant Energy Uses))</li>
+	<li>&Eacute;valuation du rendement &eacute;nerg&eacute;tique des produits, des services et de l&rsquo;&eacute;quipement provenant de fournisseurs (voir [task](Procurement))</li>
+</ul>
+
+<p>On &eacute;value les employ&eacute;s qui ex&eacute;cutent un travail li&eacute; aux UES pour le compte de l&rsquo;organisation en fonction des exigences en mati&egrave;re de comp&eacute;tences. Toute lacune en la mati&egrave;re est identifi&eacute;e, et l&rsquo;on d&eacute;termine les besoins pr&eacute;cis en formation et les autres mesures &agrave; prendre. Une fois que les besoins ont &eacute;t&eacute; d&eacute;finis, on s&rsquo;en inspire pour &eacute;laborer un plan visant &agrave; permettre &agrave; l&rsquo;employ&eacute; d&rsquo;atteindre le niveau de comp&eacute;tence souhait&eacute;.</p>
+
+<p>On peut utiliser le [resource](Competency_Requirements_Record_Form) pour consigner l&rsquo;&eacute;valuation du niveau d&rsquo;&eacute;tudes, la formation, les habilet&eacute;s ou l&rsquo;exp&eacute;rience par rapport aux comp&eacute;tences exig&eacute;es, et identifier les &eacute;carts.</p>
+
+<p>On peut utiliser la page 2 du [resource](Competency_Requirements_Record_Form) pour consigner le plan de formation, ainsi que le degr&eacute; d&rsquo;ach&egrave;vement. Une fois que ce plan est &eacute;labor&eacute;, l&rsquo;employ&eacute;, le superviseur et/ou le coordonnateur de la formation le parcourent pour s&rsquo;assurer qu&rsquo;il r&eacute;pond aux besoins de formation identifi&eacute;s. On trouve un exemple de plan de formation &agrave; la page 2 du document [resource](Example_Competency_Requirements_Records_Form).</p>
+
+<p>Pour les organisations qui envisagent d&rsquo;offrir une formation sur les syst&egrave;mes de gestion de l&rsquo;&eacute;nergie, l&rsquo;<em>Advanced Manufacturing Office</em> (AMO, Bureau des techniques de fabrication avanc&eacute;es) de l&rsquo;U.S. Department of Energy (DOE) a cr&eacute;&eacute; des programmes de formation ax&eacute;s sur les pratiques exemplaires de gestion de l&rsquo;&eacute;nergie et les logiciels qu&rsquo;il a lui-m&ecirc;me d&eacute;velopp&eacute;s. Les cours qu&rsquo;offre l&rsquo;AMO sont donn&eacute;s par un instructeur en classe et lors d&rsquo;ateliers, ainsi qu&rsquo;en ligne, au rythme des participants. Pour en savoir plus, reportez-vous au site Web [resource](AMO_Training) du DOE.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identifier les besoins de formation li&eacute;s au SGE et y r&eacute;pondre)</p>
+
+<p>Un grand nombre de grandes organisations ont d&eacute;j&agrave; adopt&eacute; un processus qui leur permet d&rsquo;identifier les besoins en formation de l&rsquo;ensemble de leur personnel et d&rsquo;y r&eacute;pondre. Le plus souvent, ce processus est g&eacute;r&eacute; par le service des ressources humaines ou celui qui est responsable de l&rsquo;environnement, de la sant&eacute; et de la s&eacute;curit&eacute; (ESS), qui doit s&rsquo;assurer d&rsquo;offrir chaque ann&eacute;e un cours de recyclage ou une autre formation portant sur les r&egrave;glements en mati&egrave;re d&rsquo;ESS. Quand on &eacute;tablit ces processus pour le SGE, il faut s&rsquo;inspirer des processus de formation existants et des ressources connexes.</p>
+
+<p>Le tableau de planification des besoins en formation li&eacute;s au SGE (voyez aussi l&rsquo;exemple de tableau des besoins en formation) peut vous aider &agrave; identifier et &agrave; planifier la formation relative au SGE, par exemple la formation sur la norme ISO 50001 pour le repr&eacute;sentant de la direction ([task](Energy Team)) et l&rsquo;&eacute;quipe responsable de la direction ([task](Energy Team)), la formation de sensibilisation g&eacute;n&eacute;rale en mati&egrave;re d&rsquo;&eacute;nergie pour tous les employ&eacute;s (incluant les nouveaux et les sous-traitants pr&eacute;sents sur place) ([task](Communications)), et la formation destin&eacute;e au v&eacute;rificateur interne et au v&eacute;rificateur principal ([task](Internal Audit)).</p>
+
+<p>Une fois que les besoins en formation relative au SGE ont &eacute;t&eacute; identifi&eacute;s, vous devez faire un suivi en offrant cette formation ou en prenant les mesures n&eacute;cessaires. Conservez des registres de formation. Passez en revue les besoins en formation relative au SGE au moins une fois par an et mettez-les &agrave; jour au besoin. Certaines organisations int&egrave;grent la formation sur le SGE &agrave; leur formation en mati&egrave;re d&rsquo;ESS.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Les normes ISO 50001:2011, ISO 14001:2015 et ISO 9001:2015 contiennent toutes des exigences portant sur les comp&eacute;tences du personnel &ndash; niveau d&rsquo;&eacute;tudes, formation ou exp&eacute;rience appropri&eacute;(e). Un syst&egrave;me de gestion de l&rsquo;environnement ISO 14001:2015 met l&rsquo;accent sur les comp&eacute;tences du personnel ayant une incidence sur la performance environnementale de l&rsquo;organisation et ses obligations en mati&egrave;re de conformit&eacute; aux lois de l&rsquo;environnement. Un syst&egrave;me ISO 9001:2015 met l&rsquo;accent sur le personnel ayant une incidence sur le rendement et l&rsquo;efficacit&eacute; du syst&egrave;me de gestion de la qualit&eacute;. Le SGE ISO 50001:2011 est plus cibl&eacute;; il vise le personnel dont le travail est li&eacute; aux UES identifi&eacute;s par l&rsquo;organisation. Toutefois, les processus qu&rsquo;utilise l&rsquo;organisation pour garantir les comp&eacute;tences de son personnel sont parfois les m&ecirc;mes pour ces trois syst&egrave;mes de gestion, m&ecirc;me si les employ&eacute;s concern&eacute;s sont diff&eacute;rents dans chaque cas. Quand vous mettez en &oelig;uvre la norme ISO 50001, il est recommand&eacute; d&rsquo;appliquer au SGE les processus impos&eacute;s par la norme ISO 14001 ou ISO 9001 pour r&eacute;pondre aux exigences en mati&egrave;re de comp&eacute;tences. Par ailleurs, les types de dossiers sur les comp&eacute;tences conserv&eacute;s pour les syst&egrave;mes de gestion de la qualit&eacute; et de l&rsquo;environnement seraient similaires &agrave; ceux dont on a besoin pour le SGE.</p>
+
+<p>Afin d&rsquo;identifier les besoins en formation li&eacute;s au contr&ocirc;le des UES et au fonctionnement du SGE ISO 50001:2011, on pourrait appliquer les processus qu&rsquo;on utilise avec un syst&egrave;me ISO 14001:2015 pour d&eacute;terminer les besoins en formation li&eacute;s aux aspects environnementaux et au syst&egrave;me de gestion de l&rsquo;environnement et y r&eacute;pondre. C&rsquo;est un domaine dans lequel on int&egrave;gre souvent les besoins en formation li&eacute;s &agrave; l&rsquo;&eacute;nergie, l&rsquo;environnement, la sant&eacute; et la s&eacute;curit&eacute;, de mani&egrave;re &agrave; utiliser un seul processus pour offrir une formation portant sur les trois syst&egrave;mes de gestion.</p>
+
+<p>On peut adapter les processus utilis&eacute;s pour d&eacute;terminer les comp&eacute;tences n&eacute;cessaires dans le cadre d&rsquo;un syst&egrave;me de gestion de la qualit&eacute; ISO 9001:2015 afin de les utiliser pour le SGE, m&ecirc;me si le personnel concern&eacute; est parfois diff&eacute;rent.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>La section 5.3 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management) traite du renforcement des capacit&eacute;s gr&acirc;ce &agrave; la formation du personnel. Le pr&eacute;sent document du dossier 50001 Ready Navigator, qui porte sur les qualifications et la formation du personnel li&eacute;es au fonctionnement du SGE ISO 50001 et des UES identifi&eacute;s, pourrait vous aider &agrave; offrir davantage de formation.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -1,0 +1,157 @@
+USDOE 50001 READY NAVIGATOR TASK 25
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Revue de direction
+----------TITLE----------
+Tâche 25: La haute direction révise périodiquement le système de gestion de l’énergie 50001 Ready et le rendement énergétique de notre organisation.
+----------GETTING IT DONE----------
+<ul>
+	<li>D&eacute;finissez les intervalles auxquels la haute direction r&eacute;visera le rendement &eacute;nerg&eacute;tique et le SGE.</li>
+	<li>Identifiez les personnes qui doivent participer aux revues de direction.</li>
+	<li>Compilez l&rsquo;information et les r&eacute;sultats en vue de la revue de direction.</li>
+	<li>Menez des revues de direction qui portent sur l&rsquo;ensemble des intrants et des extrants.</li>
+	<li>Mettez en &oelig;uvre les extrants (d&eacute;cisions et actions) des revues de direction.</li>
+	<li>D&eacute;terminez si le SGE est adapt&eacute;, ad&eacute;quat et efficace.</li>
+	<li>Utilisez le [resource](Management_Review_Record_Form) pour tenir un registre des revues de direction.</li>
+	<li>Facultatif : remplissez le [resource](50001_Ready_Self-Attestation_Form) pour confirmer &agrave; l&rsquo;U.S. Department of Energy que votre installation a bien mis en &oelig;uvre un SGE <em>50001 Ready</em>.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>La direction doit p&eacute;riodiquement &eacute;valuer la pertinence, le caract&egrave;re ad&eacute;quat et l&rsquo;efficacit&eacute; du SGE. &Eacute;tant donn&eacute; que le SGE ISO 50001 vise &agrave; am&eacute;liorer la gestion de l&rsquo;&eacute;nergie et du rendement &eacute;nerg&eacute;tique, la revue de direction doit inclure les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Analyser les donn&eacute;es relatives au SGE et au rendement &eacute;nerg&eacute;tique</li>
+	<li>D&eacute;terminer si des mesures appropri&eacute;es sont prises</li>
+	<li>Prendre des d&eacute;cisions &agrave; propos des changements n&eacute;cessaires et des possibilit&eacute;s d&rsquo;am&eacute;lioration</li>
+</ul>
+
+<p>Cette r&eacute;vision et cette &eacute;valuation, qui rel&egrave;vent de la responsabilit&eacute; de la haute direction, sont men&eacute;es sous la forme d&rsquo;une revue de direction. Si celle-ci est efficace, cela garantit :</p>
+
+<ul>
+	<li>Qu&rsquo;on recueille l&rsquo;information appropri&eacute;e</li>
+	<li>Que l&rsquo;information est pr&eacute;sent&eacute;e de fa&ccedil;on &agrave; &ecirc;tre utile &agrave; la direction, et &agrave; aider celle-ci &agrave; prendre des d&eacute;cisions</li>
+	<li>Que la direction prend des d&eacute;cisions li&eacute;es &agrave; l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique et du SGE</li>
+	<li>Que les mesures vis&eacute;es par les d&eacute;cisions sont mises en &oelig;uvre</li>
+</ul>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>Planifi&eacute; la revue de direction</li>
+	<li>Recueilli l&rsquo;information</li>
+	<li>Pr&eacute;par&eacute; l&rsquo;information aux fins de pr&eacute;sentation</li>
+	<li>Men&eacute; la revue de direction</li>
+	<li>Tenu des registres</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.7, 4.7.1, 4.7.2 et 4.7.3 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Planifier la revue de direction)</p>
+
+<p><strong>Fr&eacute;quence &ndash; </strong>Les revues de direction doivent &ecirc;tre men&eacute;es &agrave; des intervalles planifi&eacute;s; par contre, leur fr&eacute;quence d&eacute;pendra de votre organisation. Si des changements sont apport&eacute;s au profil &eacute;nerg&eacute;tique de votre organisation, ou si un grand nombre de plans d&rsquo;action ou de projets d&rsquo;immobilisation sont en cours en lien avec le SGE, d&rsquo;autres revues de direction pourraient &ecirc;tre n&eacute;cessaires. Des revues de direction plus fr&eacute;quentes permettent de g&eacute;rer plus rapidement les probl&egrave;mes et les possibilit&eacute;s, tandis qu&rsquo;une revue annuelle permet de faire le point de l&rsquo;ann&eacute;e &eacute;coul&eacute;e. Aucune fr&eacute;quence n&rsquo;est exig&eacute;e, &agrave; condition que la revue soit efficace. Par ailleurs, il n&rsquo;est pas obligatoire que la revue de direction se traduise par un seul exercice; il peut s&rsquo;agir d&rsquo;une s&eacute;rie de revues partielles. Mais les revues partielles devraient se solder par une revue compl&egrave;te de l&rsquo;ensemble du SGE sur une p&eacute;riode donn&eacute;e. On r&eacute;vise habituellement l&rsquo;ensemble du syst&egrave;me de gestion sur une p&eacute;riode de douze mois.</p>
+
+<p><strong>Moyens &ndash; </strong>C&rsquo;est votre organisation qui d&eacute;termine les moyens d&rsquo;effectuer une revue de direction, et ils d&eacute;pendent de ses besoins. Par exemple, les revues de direction pourraient &ecirc;tre men&eacute;es lors d&rsquo;une rencontre en personne ou dans le cadre de t&eacute;l&eacute;conf&eacute;rences, par des &eacute;changes de courriels, lors de r&eacute;unions virtuelles ou sous d&rsquo;autres formes d&rsquo;examen &eacute;lectronique. Il est important que les renseignements cl&eacute;s soient communiqu&eacute;s &agrave; la haute direction, afin qu&rsquo;elle puisse les utiliser pour prendre des d&eacute;cisions et d&eacute;terminer les mesures n&eacute;cessaires &agrave; l&rsquo;am&eacute;lioration continue du rendement &eacute;nerg&eacute;tique et du SGE.</p>
+
+<p><strong>Participants &ndash; </strong>Ce sont au moins les membres de la haute direction de votre organisation et le repr&eacute;sentant de la direction qui doivent participer &agrave; la revue de direction. D&rsquo;autres intervenants peuvent &ecirc;tre invit&eacute;s &agrave; y participer selon les personnes :</p>
+
+<ul>
+	<li>qui ont besoin d&rsquo;information,</li>
+	<li>qui peuvent prendre des mesures et</li>
+	<li>qui peuvent fournir les ressources n&eacute;cessaires pour prendre les mesures en question.</li>
+</ul>
+
+<p>Voici une suggestion de pratique exemplaire : certaines organisations pourraient &eacute;tablir un quorum n&eacute;cessaire pour que puisse &ecirc;tre men&eacute;e une revue de direction, ou pr&eacute;ciser un nombre minimal de repr&eacute;sentants de certains postes ou de certaines divisions. Si l&rsquo;on ne peut obtenir de quorum ou si les postes requis ne sont pas repr&eacute;sent&eacute;s, la revue est reprogramm&eacute;e ou men&eacute;e d&rsquo;une autre fa&ccedil;on.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Recueillir l&rsquo;information)</p>
+
+<p>La revue de direction repose sur des d&eacute;cisions li&eacute;es &agrave; l&rsquo;am&eacute;lioration du SGE et du rendement &eacute;nerg&eacute;tique de l&rsquo;organisation. On met en &oelig;uvre ces d&eacute;cisions en analysant des renseignements pr&eacute;cis (les intrants) &agrave; propos du syst&egrave;me et de son rendement.</p>
+
+<p><strong>Responsabilit&eacute; &ndash; </strong>Le repr&eacute;sentant de la direction doit pr&eacute;senter des rapports &agrave; la haute direction sur le rendement et le SGE. C&rsquo;est donc &agrave; lui de s&rsquo;assurer que l&rsquo;information pertinente est recueillie et soumise &agrave; l&rsquo;examen de la haute direction. Il peut faire appel &agrave; l&rsquo;&eacute;quipe responsable de l&rsquo;&eacute;nergie ou &agrave; d&rsquo;autres personnes qui se sont vu confier la responsabilit&eacute; de certaines donn&eacute;es, afin qu&rsquo;elles l&rsquo;aident &agrave; compiler l&rsquo;information n&eacute;cessaire &agrave; la revue. On peut utiliser le document [resource](Management_Review_Data_Assignment_Sheet) &agrave; cette fin. Assurez-vous que les employ&eacute;s savent que c&rsquo;est &agrave; eux de fournir l&rsquo;information dans le format demand&eacute; par le repr&eacute;sentant de la direction, et qu&rsquo;ils acceptent de le faire au plus tard &agrave; la date limite.</p>
+
+<p><strong>Information &agrave; recueillir &ndash;</strong> L&rsquo;ampleur de la revue de direction (qui sera compl&egrave;te ou partielle) d&eacute;terminera les donn&eacute;es et autres informations &agrave; recueillir. Les extrants de la pr&eacute;c&eacute;dente revue de direction et les activit&eacute;s entreprises depuis sont pass&eacute;s en revue &agrave; l&rsquo;occasion de chaque revue de direction.</p>
+
+<p>Pour d&eacute;terminer l&rsquo;information dont vous avez besoin, vous pouvez commencer par d&eacute;finir votre objectif. Cela signifie que vous devez examiner les types de d&eacute;cisions et de mesures qui r&eacute;sulteront de la revue de direction. Voici les questions auxquelles on essaie habituellement de r&eacute;pondre :</p>
+
+<ul>
+	<li>Quel est l&rsquo;&eacute;tat du SGE? Est-il performant?</li>
+	<li>Quels changements strat&eacute;giques (p. ex., touchant la politique) sont n&eacute;cessaires, le cas &eacute;ch&eacute;ant?</li>
+	<li>Quels changements faut-il apporter au rendement &eacute;nerg&eacute;tique?</li>
+	<li>Est-ce que les mesures actuelles (p. ex, les IRE) fournissent la bonne information?</li>
+	<li>Faut-il modifier, ajouter ou supprimer certains objectifs ou certaines cibles en mati&egrave;re d&rsquo;am&eacute;lioration?</li>
+	<li>De quelles ressources a-t-on besoin pour le SGE?</li>
+	<li>Le SGE est-il adapt&eacute; et efficace, et permet-il une am&eacute;lioration continue de l&rsquo;organisation?</li>
+</ul>
+
+<p>Une fois que vous aurez compris les sujets pertinents et les types de d&eacute;cisions &agrave; prendre, examinez l&rsquo;information g&eacute;n&eacute;r&eacute;e par le syst&egrave;me et d&eacute;terminez quelles donn&eacute;es aideront la direction &agrave; prendre ces d&eacute;cisions et ces mesures. En d&rsquo;autres termes, l&rsquo;information n&eacute;cessaire &agrave; la revue de direction est g&eacute;n&eacute;r&eacute;e par les syst&egrave;mes et les processus du SGE.</p>
+
+<p>La norme ISO 50001 exige qu&rsquo;on passe en revue au moins les intrants suivants :</p>
+
+<ul>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques, plans d&rsquo;action de gestion de l&rsquo;&eacute;nergie et leur &eacute;tat d&rsquo;avancement</li>
+	<li>IRE et donn&eacute;es sur le rendement &eacute;nerg&eacute;tique pass&eacute;, actuel et &agrave; venir, incluant les UES</li>
+	<li>R&eacute;sultats des &eacute;valuations de la conformit&eacute; aux exigences l&eacute;gales</li>
+	<li>R&eacute;sultats des &eacute;valuations de la conformit&eacute; aux autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie que l&rsquo;organisation s&rsquo;est engag&eacute;e &agrave; respecter</li>
+	<li>Changement touchant les exigences l&eacute;gales ou les autres exigences li&eacute;es &agrave; l&rsquo;&eacute;nergie que l&rsquo;organisation s&rsquo;est engag&eacute;e &agrave; respecter</li>
+	<li>R&eacute;sultats de l&rsquo;audit du SGE</li>
+	<li>&Eacute;tat d&rsquo;avancement des mesures correctives et pr&eacute;ventives</li>
+	<li>Recommandations et possibilit&eacute;s d&rsquo;am&eacute;lioration</li>
+	<li>Mesures de suivi issues des pr&eacute;c&eacute;dentes revues de direction</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Pr&eacute;parer l&rsquo;information aux fins de pr&eacute;sentation)</p>
+
+<p>En g&eacute;n&eacute;ral, ce sont les employ&eacute;s responsables qui devraient fournir au repr&eacute;sentant de la direction des donn&eacute;es d&eacute;taill&eacute;es sur les sources d&rsquo;&eacute;nergie, ainsi qu&rsquo;un r&eacute;sum&eacute; concis et pr&eacute;sent&eacute; sous forme de graphique, dans la mesure du possible. Cela aide la direction &agrave; examiner et &agrave; comprendre l&rsquo;information. Cette information devrait brosser un tableau d&rsquo;ensemble, mais &ecirc;tre assez d&eacute;taill&eacute;e pour permettre &agrave; la direction de prendre des d&eacute;cisions &eacute;clair&eacute;es (voir [resource](Example_Management_Review_Presentation)). Le repr&eacute;sentant de la direction peut avoir acc&egrave;s aux donn&eacute;es d&eacute;taill&eacute;es sur les sources au cas o&ugrave; il en aurait besoin pour r&eacute;pondre aux questions durant la revue (voir [resource](Example_Management_Review_Preparation_Information)).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mener la revue de direction)</p>
+
+<p>La revue de direction est la partie &laquo; l&eacute;gale &raquo; du cycle d&rsquo;am&eacute;lioration continue d&eacute;crit dans le document [resource](PDCA_Components_ISO_50001). C&rsquo;est une des responsabilit&eacute;s cl&eacute;s de la haute direction, et elle se veut une activit&eacute; dynamique ax&eacute;e sur l&rsquo;examen et l&rsquo;action. N&rsquo;oubliez pas que la revue de direction vise &agrave; garantir que le SGE demeurera adapt&eacute;, ad&eacute;quat et efficace en ce qui concerne le respect des exigences et l&rsquo;obtention des r&eacute;sultats escompt&eacute;s. En fonction de son examen de l&rsquo;&eacute;tat du SGE et du rendement &eacute;nerg&eacute;tique obtenu, la haute direction d&eacute;cide des mesures &agrave; prendre pour garantir l&rsquo;am&eacute;lioration continue du SGE et du rendement &eacute;nerg&eacute;tique de votre organisation.</p>
+
+<p>La revue de direction comprend les volets suivants :</p>
+
+<ul>
+	<li>Analyser les donn&eacute;es li&eacute;es au SGE et au rendement &eacute;nerg&eacute;tique</li>
+	<li>D&eacute;terminer si des mesures appropri&eacute;es sont prises</li>
+	<li>Prendre des d&eacute;cisions &agrave; propos des changements n&eacute;cessaires et des possibilit&eacute;s d&rsquo;am&eacute;lioration</li>
+</ul>
+
+<p>La norme ISO 50001 exige que la revue de direction g&eacute;n&egrave;re des d&eacute;cisions et des mesures li&eacute;es au minimum &agrave; la modification des &eacute;l&eacute;ments suivants du SGE :</p>
+
+<ul>
+	<li>Rendement &eacute;nerg&eacute;tique</li>
+	<li>Politique &eacute;nerg&eacute;tique</li>
+	<li>IRE</li>
+	<li>Objectifs &eacute;nerg&eacute;tiques</li>
+	<li>Cibles &eacute;nerg&eacute;tiques</li>
+	<li>Ressources</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Tenir des registres)</p>
+
+<p>Il faut tenir des registres des revues de direction. Le format de ces registres n&rsquo;est pas impos&eacute;, mais ils doivent mentionner les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Date de la revue de direction</li>
+	<li>Nom et poste des participants</li>
+	<li>Sujets couverts et information pr&eacute;sent&eacute;e</li>
+	<li>Toutes les d&eacute;cisions ou toutes les mesures &agrave; prendre</li>
+	<li>Toutes les affectations effectu&eacute;es durant la r&eacute;union</li>
+</ul>
+
+<p>On peut utiliser un [resource](Management_Review_Record_Form) et un [resource](50001_Ready_Self-Attestation_Form) remplis comme registres de la revue de direction.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>On peut utiliser le processus de revue de direction mis en &oelig;uvre dans le cadre de la norme ISO 9001:2015 ou ISO 14001:2015 pour la norme ISO 50001:2011, soit comme un processus ind&eacute;pendant, soit comme un processus int&eacute;gr&eacute;. La haute direction doit au moins soumettre ces trois syst&egrave;mes de gestion &agrave; une revue de direction, afin de garantir qu&rsquo;ils demeurent adapt&eacute;s, ad&eacute;quats et efficaces. L&rsquo;information requise (intrants) est recueillie, collig&eacute;e et pr&eacute;par&eacute;e aux fins de cette revue, m&ecirc;me s&rsquo;il y a quelques diff&eacute;rences entre les normes pour ce qui est de l&rsquo;information exacte dont on a besoin. Le processus de collecte et de pr&eacute;paration de l&rsquo;information peut &ecirc;tre le m&ecirc;me pour la norme ISO 50001 que pour la norme ISO 9001 ou ISO 14001, m&ecirc;me si des employ&eacute;s diff&eacute;rents sont concern&eacute;s, selon le syst&egrave;me de gestion &agrave; l&rsquo;&eacute;tude. Pour les trois syst&egrave;mes, les r&eacute;sultats de la revue de direction sont des d&eacute;cisions et des mesures, m&ecirc;me si l&rsquo;on observe certaines diff&eacute;rences dans les sujets vis&eacute;s par ces d&eacute;cisions/ces mesures.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; aux sections 5.2, 5.5, 6.0, 6.1 et 6.2 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Une revue de direction du SGE s&rsquo;appuie sur une structure formelle, dans le cadre de laquelle la haute direction doit s&rsquo;assurer que le SGE est adapt&eacute;, ad&eacute;quat et efficace, et qu&rsquo;on am&eacute;liore continuellement le rendement &eacute;nerg&eacute;tique. On peut s&rsquo;inspirer des strat&eacute;gies ENERGY STAR pour obtenir le soutien de la direction (section 5.2 des lignes directrices ENERGY STAR), mener des revues p&eacute;riodiques (section 5.5 de ces lignes directrices), identifier et prendre les mesures correctives issues de la revue (section 5.5 de ces lignes directrices) et &eacute;valuer les progr&egrave;s r&eacute;alis&eacute;s et les r&eacute;sultats obtenus gr&acirc;ce aux revues formelles (section 6.0 de ces lignes directrices).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

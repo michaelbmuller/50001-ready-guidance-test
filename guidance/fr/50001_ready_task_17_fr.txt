@@ -1,0 +1,264 @@
+USDOE 50001 READY NAVIGATOR TASK 17
+----------TASK VERSION----------
+1.0 [content_update.format_update]
+----------MENU NAME----------
+Mesures correctives
+----------TITLE----------
+Tâche 17: Nous examinons les écarts importants de rendement énergétique et les problèmes potentiels touchant le système 50001 Ready, et prenons les mesures correctives et préventives nécessaires
+----------GETTING IT DONE----------
+<ul>
+	<li>Pour chaque mesure du rendement du plan de mesure &eacute;nerg&eacute;tique, d&eacute;finissez les crit&egrave;res ou les param&egrave;tres d&rsquo;un &eacute;cart important de rendement &eacute;nerg&eacute;tique.</li>
+	<li>&Eacute;tablissez un processus d&rsquo;examen et de gestion de ces &eacute;carts, et de consignation des r&eacute;sultats.</li>
+	<li>Formez le personnel appropri&eacute; sur la fa&ccedil;on d&rsquo;identifier et de g&eacute;rer les &eacute;carts importants de rendement &eacute;nerg&eacute;tique.</li>
+	<li>Utilisez le [resource](Corrective_Action_Preventive_Action_Request_Form) et le [resource](CAR_PAR_Tracking_Log) pour &eacute;laborer et mettre en &oelig;uvre des mesures correctives et pr&eacute;ventives dans votre organisation.</li>
+	<li>D&eacute;finissez les r&ocirc;les, les responsabilit&eacute;s et les pouvoirs relatifs aux diverses &eacute;tapes des mesures correctives et pr&eacute;ventives.</li>
+	<li>Formez les employ&eacute;s &agrave; propos des divers probl&egrave;mes/cas de non-conformit&eacute; r&eacute;els ou potentiels qu&rsquo;on peut r&eacute;gler &agrave; l&rsquo;aide de mesures correctives ou pr&eacute;ventives.</li>
+</ul>
+----------TASK OVERVIEW----------
+<p>Les &eacute;carts importants de rendement &eacute;nerg&eacute;tique sont d&eacute;finis par votre organisation. Quand un &eacute;cart important est observ&eacute;, votre organisation doit enqu&ecirc;ter et r&eacute;agir en cons&eacute;quence, et consigner les r&eacute;sultats obtenus. Les donn&eacute;es que vous recueillez gr&acirc;ce &agrave; la surveillance et &agrave; la mesure des principales caract&eacute;ristiques des op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique sont utilis&eacute;es pour identifier les &eacute;carts importants. Votre organisation d&eacute;termine ce qui sera consid&eacute;r&eacute; comme un &eacute;cart important mais, en g&eacute;n&eacute;ral, il s&rsquo;agit d&rsquo;un &eacute;cart par rapport &agrave; un niveau de rendement &eacute;nerg&eacute;tique acceptable, d&eacute;fini ou escompt&eacute;.</p>
+
+<p>La norme ISO 50001:2011 exige que vous adoptiez des processus d&rsquo;identification et d&rsquo;examen des probl&egrave;mes et des cas de non-conformit&eacute; existants ou potentiels. Un cas de non-conformit&eacute; existant est un cas o&ugrave; une exigence n&rsquo;est pas satisfaite. Un cas de non-conformit&eacute; potentiel est un cas o&ugrave; la non-conformit&eacute; pourrait survenir &agrave; l&rsquo;avenir si l&rsquo;on ne prend pas de mesures appropri&eacute;es.</p>
+
+<p>Dans les cas de non-conformit&eacute;, on a g&eacute;n&eacute;ralement la preuve que :</p>
+
+<ul>
+	<li>une exigence ou l&rsquo;esprit de la norme ISO 50001 ou de votre SGWE n&rsquo;a pas &eacute;t&eacute; respect&eacute;(e);</li>
+	<li>votre organisation ne fait pas ce qu&rsquo;elle avait promis;</li>
+	<li>les processus en place ne sont pas efficaces;</li>
+	<li>on n&rsquo;a pas obtenu l&rsquo;am&eacute;lioration pr&eacute;vue du rendement &eacute;nerg&eacute;tique.</li>
+</ul>
+
+<p>Les processus en question sont la correction, les mesures correctives et les mesures pr&eacute;ventives. La <em>correction</em> se traduit par une mesure prise en vue d&rsquo;&eacute;liminer le cas de non-conformit&eacute; observ&eacute;. Une <em>mesure corrective </em>est une mesure visant &agrave; &eacute;liminer la cause d&rsquo;un cas de non-conformit&eacute; observ&eacute;. Une <em>mesure pr&eacute;ventive </em>vise &agrave; identifier et &agrave; &eacute;liminer la cause d&rsquo;un cas de non-conformit&eacute; potentiel avant que celui-ci ne survienne.</p>
+
+<p><strong>Au terme de cette t&acirc;che, vous aurez&hellip;</strong></p>
+
+<ul>
+	<li>&Eacute;tabli et mis en place les crit&egrave;res applicables aux &eacute;carts importants</li>
+	<li>&Eacute;labor&eacute; et mis en &oelig;uvre un processus d&rsquo;enqu&ecirc;te</li>
+	<li>Consign&eacute; les r&eacute;sultats</li>
+	<li>&Eacute;labor&eacute; le processus li&eacute; aux mesures correctives et pr&eacute;ventives</li>
+	<li>D&eacute;fini les r&ocirc;les et les responsabilit&eacute;s</li>
+	<li>Mis en &oelig;uvre le processus li&eacute; aux mesures correctives et pr&eacute;ventives</li>
+</ul>
+
+<p><em>Le pr&eacute;sent document est li&eacute; aux sections 4.5.5, 4.6.1 et 4.6.4 de la norme ISO 50001:2011.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](&Eacute;tablir et mettre en place les crit&egrave;res applicables aux &eacute;carts importants)</p>
+
+<p>Un &eacute;cart peut &ecirc;tre observ&eacute; &agrave; la suite d&rsquo;un degr&eacute; de variation bien pr&eacute;cis ou peut &ecirc;tre &eacute;valu&eacute; par le personnel comp&eacute;tent; on d&eacute;terminera ainsi s&rsquo;il est important et s&rsquo;il faut prendre des mesures. Exemples de m&eacute;thodes permettant de mettre en lumi&egrave;re des &eacute;carts importants :</p>
+
+<ul>
+	<li>Valeurs en dehors des limites de contr&ocirc;le</li>
+	<li>Variation de la valeur en pourcentage</li>
+	<li>Tendances d&eacute;finies</li>
+	<li>Variation pr&eacute;cise des IRE</li>
+	<li>Variation pr&eacute;cise du rendement des UES</li>
+	<li>Niveau de variation entre le rendement escompt&eacute; et le rendement r&eacute;el</li>
+	<li>Changement touchant l&rsquo;efficacit&eacute; &eacute;nerg&eacute;tique de l&rsquo;&eacute;quipement</li>
+	<li>Variation du rendement de certaines variables pertinentes</li>
+	<li>Impossibilit&eacute; d&rsquo;atteindre les objectifs et les cibles</li>
+	<li>Impossibilit&eacute; d&rsquo;atteindre un niveau de rendement pr&eacute;cis</li>
+</ul>
+
+<p>Une fois que vous aurez d&eacute;termin&eacute; la ou les m&eacute;thodes d&rsquo;identification d&rsquo;un &eacute;cart important, vous devez &eacute;tablir les crit&egrave;res que vous utiliserez pour d&eacute;terminer l&rsquo;existence d&rsquo;un tel &eacute;cart. Votre organisation d&eacute;termine la m&eacute;thode et les crit&egrave;res selon ce que vous jugez acceptable ou inacceptable en ce qui concerne l&rsquo;impact sur le rendement &eacute;nerg&eacute;tique. Un &eacute;cart important peut &ecirc;tre une am&eacute;lioration ou un d&eacute;clin du rendement &eacute;nerg&eacute;tique. Une am&eacute;lioration du rendement &eacute;nerg&eacute;tique est un &eacute;cart (g&eacute;n&eacute;ralement souhait&eacute;, par contre), et vous devez v&eacute;rifier s&rsquo;il est jug&eacute; important.</p>
+
+<p>[Learn More](Exemple d&rsquo;&eacute;cart important)</p>
+
+<p>Votre organisation peut d&eacute;cider que, si la consommation d&rsquo;&eacute;lectricit&eacute; pour le mois en cours augmente de plus de 10 % par rapport au mois pr&eacute;c&eacute;dent, ce sera consid&eacute;r&eacute; comme un &eacute;cart important. Pour &ecirc;tre plus proactifs en mati&egrave;re d&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique, vous pourriez d&eacute;cider que c&rsquo;est une augmentation de 5 % ou plus qui constitue un &eacute;cart important.</p>
+
+<p>Le crit&egrave;re pourrait &eacute;galement &ecirc;tre : <strong><em>tout changement </em></strong>de consommation de 5 % ou plus entre le mois en cours et le mois pr&eacute;c&eacute;dent sera consid&eacute;r&eacute; comme un &eacute;cart important. Dans ce cas, pour parvenir &agrave; une am&eacute;lioration de 5 % ou plus, il faudrait que votre entreprise &eacute;tudie l&rsquo;&eacute;cart et le g&egrave;re.</p>
+
+<p>[Learn More End]</p>
+
+<p>Envisagez de documenter les crit&egrave;res applicables aux &eacute;carts importants dans le plan de mesure &eacute;nerg&eacute;tique (voir [task](Measurement)).</p>
+
+<p>Les &eacute;carts importants sont &eacute;galement li&eacute;s aux contr&ocirc;les op&eacute;rationnels et de maintenance, dont on a parl&eacute; dans le cadre de la t&acirc;che [task](Operational Controls). Les m&eacute;thodes d&rsquo;identification des &eacute;carts importants relatifs aux contr&ocirc;les op&eacute;rationnels et de maintenance seraient identiques au processus visant les caract&eacute;ristiques principales expliqu&eacute;es dans le pr&eacute;sent document. Les crit&egrave;res op&eacute;rationnels et de maintenance pourraient &ecirc;tre un facteur d&eacute;terminant les &eacute;carts importants, et le document relatif &agrave; la t&acirc;che [task](Operational Controls) &eacute;num&egrave;re les &eacute;carts importants qui pourraient r&eacute;sulter de probl&egrave;mes li&eacute;s aux op&eacute;rations ou &agrave; la maintenance.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;laborer et mettre en &oelig;uvre un processus d&rsquo;enqu&ecirc;te)</p>
+
+<p>Une fois que vous aurez &eacute;tabli les crit&egrave;res d&eacute;terminant un &eacute;cart important pour chacune des principales caract&eacute;ristiques mesur&eacute;es et surveill&eacute;es, vous devrez enqu&ecirc;ter et r&eacute;agir en cas d&rsquo;&eacute;cart. De nombreuses organisations recourent &agrave; des mesures correctives pour g&eacute;rer les &eacute;carts importants, ce qui constitue une pratique exemplaire (mais pas une exigence).</p>
+
+<p>Lorsque les mesures correctives sont bien pens&eacute;es et correctement mises en &oelig;uvre, il s&rsquo;agit d&rsquo;un outil efficace pour comprendre les &eacute;carts importants. Par contre, la norme ISO 50001 exige uniquement que vous enqu&ecirc;tiez &agrave; propos des &eacute;carts importants et r&eacute;agissiez en cons&eacute;quence. Elle n&rsquo;exige pas que ces &eacute;carts soient g&eacute;r&eacute;s &agrave; l&rsquo;aide de mesures correctives. Vous pourriez d&eacute;cider d&rsquo;enqu&ecirc;ter &agrave; propos des &eacute;carts importants sans prendre de mesures correctives. Il n&rsquo;est pas n&eacute;cessaire de lancer une enqu&ecirc;te officielle; toutefois, vous pouvez recourir aux mesures correctives d&eacute;crites ci-apr&egrave;s, car c&rsquo;est une pratique exemplaire.</p>
+
+<p>L&rsquo;enqu&ecirc;te porte sur le fonctionnement normal, mais aussi fait une &eacute;valuation de l&rsquo;utilisation et de la consommation d&rsquo;&eacute;nergie escompt&eacute;es &agrave; la suite de la modification du processus ou de la mise en &oelig;uvre de possibilit&eacute;s d&rsquo;am&eacute;lioration.</p>
+
+<p>[Learn More](Exemple d&rsquo;enqu&ecirc;te)</p>
+
+<p>Par exemple :</p>
+
+<p>Vous pouvez d&eacute;cider que les am&eacute;liorations obtenues gr&acirc;ce aux activit&eacute;s planifi&eacute;es ne seront pas consid&eacute;r&eacute;es comme des &eacute;carts importants si les r&eacute;sultats effectifs sont conformes &agrave; ce qu&rsquo;on estimait avant le projet. Par ailleurs, s&rsquo;il y a une diff&eacute;rence de 5 % ou plus entre les r&eacute;sultats r&eacute;els et les r&eacute;sultats escompt&eacute;s, vous pourriez d&eacute;cider qu&rsquo;il s&rsquo;agit d&rsquo;un &eacute;cart important. Si le r&eacute;sultat est meilleur que 5 % ou plus, cela n&eacute;cessitera une enqu&ecirc;te, afin d&rsquo;&eacute;tablir la raison de ce bon r&eacute;sultat.</p>
+
+<p>On peut analyser les &eacute;carts importants qui g&eacute;n&egrave;rent un meilleur rendement &eacute;nerg&eacute;tique afin de d&eacute;terminer quelles mesures pourraient &ecirc;tre appliqu&eacute;es &agrave; d&rsquo;autres syst&egrave;mes &eacute;nerg&eacute;tiques.</p>
+
+<p>[Learn More End]</p>
+
+<p>Vous devez r&eacute;agir au terme de l&rsquo;enqu&ecirc;te. Votre r&eacute;action sera sans doute une mesure n&eacute;cessaire pour att&eacute;nuer un &eacute;cart important qui a fait baisser le rendement &eacute;nerg&eacute;tique ou reproduire les conditions dans d&rsquo;autres secteurs si le rendement s&rsquo;est am&eacute;lior&eacute;. Notez cependant que la d&eacute;cision de ne pas r&eacute;agir est &eacute;galement l&eacute;gitime. Cela peut se produire si l&rsquo;&eacute;cart important satisfait aux crit&egrave;res suivants :</p>
+
+<ul>
+	<li>Il est observ&eacute; une seule fois.</li>
+	<li>Il r&eacute;sulte d&rsquo;une am&eacute;lioration qui va persister.</li>
+	<li>Il r&eacute;sulte de changements apport&eacute;s aux proc&eacute;d&eacute;s.</li>
+	<li>Il co&ucirc;te trop cher &agrave; corriger.</li>
+	<li>Il n&eacute;cessite une technologie qui n&rsquo;est actuellement pas disponible.</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Consigner les r&eacute;sultats)</p>
+
+<p>Vous devez consigner les r&eacute;sultats de l&rsquo;enqu&ecirc;te, ainsi que les mesures prises par la suite. Si vous avez recouru &agrave; des mesures correctives pour enqu&ecirc;ter sur les &eacute;carts importants, vous avez alors d&eacute;j&agrave; satisfait aux exigences de consignation (la norme ISO 50001 exige la consignation des mesures correctives). Dans le cas contraire, envisagez un processus de consignation conforme aux exigences de la norme ISO 50001 en la mati&egrave;re (voir [task](Documentation and Records)).</p>
+
+<p>[Learn More](&Eacute;l&eacute;ments qu&rsquo;on peut envisager de consigner)</p>
+
+<p>Il n&rsquo;y a pas d&rsquo;exigences pr&eacute;cises en ce qui concerne la consignation des enqu&ecirc;tes sur les &eacute;carts importants, au-del&agrave; de la consignation des r&eacute;sultats de l&rsquo;enqu&ecirc;te et des mesures prises; par contre, on pourrait prendre en compte les &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Responsabilit&eacute;s</li>
+	<li>&Eacute;ch&eacute;anciers</li>
+	<li>Activit&eacute;s entreprises</li>
+	<li>Ressources consult&eacute;es</li>
+	<li>&Eacute;quipement/compteurs utilis&eacute;s</li>
+	<li>Analyse effectu&eacute;e et r&eacute;sultats</li>
+	<li>R&eacute;action</li>
+	<li>Efficacit&eacute; de la r&eacute;action</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](&Eacute;laborer les mesures correctives et pr&eacute;ventives)</p>
+
+<p>Parce que la plupart des &eacute;tapes associ&eacute;es aux mesures correctives et aux mesures pr&eacute;ventives sont les m&ecirc;mes, la plupart des organisations mettent en &oelig;uvre un seul processus qui englobe les deux. Ce processus comprend les volets suivants :</p>
+
+<ol>
+	<li>Corriger imm&eacute;diatement la situation</li>
+	<li>&Eacute;valuer l&rsquo;ampleur et l&rsquo;impact de la non-conformit&eacute;</li>
+	<li>D&eacute;terminer la cause des cas r&eacute;els ou potentiels de non-conformit&eacute;</li>
+	<li>Prendre des mesures pour en &eacute;liminer la cause</li>
+	<li>Examiner l&rsquo;efficacit&eacute; des mesures prises</li>
+	<li>Consigner l&rsquo;information</li>
+</ol>
+
+<p>Les mesures correctives et pr&eacute;ventives que vous mettez en place pour votre organisation doivent tenir compte de tous ces &eacute;l&eacute;ments. La plupart des organisations utilisent un formulaire de mesures correctives/pr&eacute;ventives (g&eacute;n&eacute;ralement en format &eacute;lectronique) pour &eacute;noncer les &eacute;tapes du processus et saisir l&rsquo;information n&eacute;cessaire. Vous en trouverez un exemple dans le [resource](Corrective_Action_Preventive_Action_Request_Form).</p>
+
+<p>Si votre organisation s&rsquo;est dot&eacute;e d&rsquo;un syst&egrave;me de gestion int&eacute;gr&eacute;e, envisagez d&rsquo;utiliser les processus d&eacute;j&agrave; en place (ou, tout au moins, de vous en inspirer). Par exemple, votre organisation a peut-&ecirc;tre d&eacute;j&agrave; pr&eacute;vu des mesures correctives et pr&eacute;ventives dans le cadre d&rsquo;un autre syst&egrave;me de gestion, comme un syst&egrave;me de gestion de la qualit&eacute; ISO 9001 ou un syst&egrave;me de gestion de l&rsquo;environnement ISO 14001.</p>
+
+<p>[Learn More](Mesures correctives et pr&eacute;ventives)</p>
+
+<p><strong>1. Corriger la situation actuelle</strong></p>
+
+<p>Quand on d&eacute;tecte un cas de non-conformit&eacute; existant, la premi&egrave;re &eacute;tape consiste &agrave; prendre les mesures appropri&eacute;es pour r&eacute;soudre imm&eacute;diatement la situation. Par exemple :</p>
+
+<p>Une installation poss&egrave;de un syst&egrave;me &agrave; air comprim&eacute; qui consomme beaucoup d&rsquo;&eacute;nergie. La proc&eacute;dure visant cette installation stipule que le point de consigne de la pression de service du syst&egrave;me &agrave; air comprim&eacute; sera de 105 psi. On a constat&eacute; que l&rsquo;installation utilisait son syst&egrave;me &agrave; air comprim&eacute; &agrave; 115 psi. Pour corriger la situation actuelle, on peut par exemple ramener la pression de service &agrave; 105 psi, mais il faut tenir compte des effets sur la production avant de supposer que la proc&eacute;dure est correcte. On pourrait par exemple changer la proc&eacute;dure pour qu&rsquo;elle indique 115 psi.</p>
+
+<p>&nbsp;</p>
+
+<p>C&rsquo;est ce qu&rsquo;on appelle la <em>correction. </em>Une correction est n&eacute;cessaire pour les cas de non-conformit&eacute; existants et ne s&rsquo;applique pas aux cas de non-conformit&eacute; potentiels.</p>
+
+<p><strong>2. &Eacute;valuer l&rsquo;ampleur et l&rsquo;impact de la non-conformit&eacute;</strong></p>
+
+<p>La prochaine &eacute;tape consiste &agrave; d&eacute;terminer l&rsquo;ampleur de la non-conformit&eacute; et son impact sur le rendement &eacute;nerg&eacute;tique. Il faut tenir compte de la non-conformit&eacute; et de ses effets r&eacute;els et potentiels sur un ou plusieurs des &eacute;l&eacute;ments suivants :</p>
+
+<ul>
+	<li>Objectifs et cibles &eacute;nerg&eacute;tiques et plans d&rsquo;action</li>
+	<li>Usages &eacute;nerg&eacute;tiques significatifs</li>
+	<li>Efficacit&eacute; &eacute;nerg&eacute;tique des installations, de l&rsquo;&eacute;quipement, des syst&egrave;mes et des proc&eacute;d&eacute;s</li>
+	<li>Contr&ocirc;les op&eacute;rationnels et de maintenance existants ou pr&eacute;vus</li>
+	<li>Autres sources d&rsquo;&eacute;nergie ou autres usages &eacute;nerg&eacute;tiques au sein de l&rsquo;organisation</li>
+</ul>
+
+<p>En fonction de cette information, on d&eacute;cide si le cas de non-conformit&eacute; r&eacute;el ou potentiel devrait &ecirc;tre examin&eacute; plus en d&eacute;tail et faire l&rsquo;objet d&rsquo;une enqu&ecirc;te afin d&rsquo;&eacute;viter que la situation ne se reproduise (mesures correctives) ou d&rsquo;&eacute;viter qu&rsquo;elle se produise &agrave; l&rsquo;avenir (mesures pr&eacute;ventives). Si c&rsquo;est le cas, le cas de non-conformit&eacute; est saisi dans le syst&egrave;me de mesures correctives et pr&eacute;ventives de l&rsquo;organisation.</p>
+
+<p><strong>3. D&eacute;terminer la cause des cas r&eacute;els ou potentiels de non-conformit&eacute;</strong></p>
+
+<p>Une fois qu&rsquo;il a &eacute;t&eacute; saisi dans le syst&egrave;me (vous trouverez un exemple dans le [resource](Corrective_Action_Preventive_Action_Request_Form)), on examine le cas de non-conformit&eacute; pour en d&eacute;terminer la cause. Par exemple :</p>
+
+<p>Dans l&rsquo;exemple de syst&egrave;me &agrave; air comprim&eacute; ci-dessus, pour d&eacute;terminer la cause, on d&eacute;termine comment et pourquoi la pression de service a chang&eacute;. M&ecirc;me si l&rsquo;on peut utiliser n&rsquo;importe quel processus de r&eacute;solution de probl&egrave;mes, il peut &ecirc;tre utile de r&eacute;pondre aux cinq questions commen&ccedil;ant par &laquo; Pourquoi &raquo; pour d&eacute;terminer la cause d&rsquo;un cas r&eacute;el ou potentiel de non-conformit&eacute;. Dans ce cas-ci, vous pourriez vous poser les questions suivantes :</p>
+
+<p>Question : Pourquoi la pression de service a-t-elle &eacute;t&eacute; modifi&eacute;e?</p>
+
+<p>R&eacute;ponse : Parce que l&rsquo;op&eacute;rateur croyait ce c&rsquo;est ce qu&rsquo;il fallait faire.</p>
+
+<p>Question : Pourquoi l&rsquo;op&eacute;rateur pensait-il qu&rsquo;il fallait la modifier?</p>
+
+<p>R&eacute;ponse : Parce qu&rsquo;il avait des probl&egrave;mes avec une pression de 105 psi qui ne se manifestaient pas &agrave; 115 psi.</p>
+
+<p>Question : Quel probl&egrave;me l&rsquo;op&eacute;rateur avait-il?</p>
+
+<p>R&eacute;ponse : La pression ne suffisait pas &agrave; mettre en marche la presse.</p>
+
+<p>Question : Quelle &eacute;tait la cause du probl&egrave;me?</p>
+
+<p>R&eacute;ponse : Le manom&egrave;tre n&rsquo;&eacute;tait plus &eacute;talonn&eacute; et indiquait une pression incorrecte.</p>
+
+<p>Question : Pourquoi le manom&egrave;tre n&rsquo;&eacute;tait-il plus &eacute;talonn&eacute;?</p>
+
+<p>R&eacute;ponse : La fr&eacute;quence d&rsquo;&eacute;talonnage &eacute;tait annuelle. L&rsquo;historique d&rsquo;&eacute;talonnage montre que le manom&egrave;tre &eacute;tait mal &eacute;talonn&eacute; lors de chaque &eacute;talonnage des deux derni&egrave;res ann&eacute;es.</p>
+
+<p><strong>4. Prendre des mesures pour &eacute;liminer la cause</strong></p>
+
+<p>Ensuite, vous d&eacute;cidez de la marche &agrave; suivre et vous entreprenez d&rsquo;&eacute;liminer la cause de la non-conformit&eacute; r&eacute;elle ou potentielle.</p>
+
+<p>Les mesures prises pour r&eacute;gler un probl&egrave;me n&eacute;cessitent parfois d&rsquo;autres changements &agrave; apporter au SGE. Par exemple, si les contr&ocirc;les op&eacute;rationnels existants ont &eacute;t&eacute; modifi&eacute;s dans le cadre des mesures correctives, il faudra peut-&ecirc;tre alors modifier la documentation connexe du SGE. Les mesures prises doivent &ecirc;tre &agrave; la mesure du probl&egrave;me et son impact sur le rendement &eacute;nerg&eacute;tique. Par exemple :</p>
+
+<p>Dans l&rsquo;exemple du syst&egrave;me &agrave; air comprim&eacute;, une mesure visant &agrave; &eacute;liminer la cause serait l&rsquo;augmentation de la fr&eacute;quence d&rsquo;&eacute;talonnage des manom&egrave;tres.</p>
+
+<p>&nbsp;</p>
+
+<p>Une fois la cause identifi&eacute;e, la pratique exemplaire de nombreuses organisations consiste &agrave; d&eacute;terminer si les m&ecirc;mes mesures correctives ou pr&eacute;ventives sont n&eacute;cessaires ailleurs, peut-&ecirc;tre dans le cadre d&rsquo;un autre processus, dans un autre secteur ou une autre installation. Une telle approche de l&rsquo;identification et de la r&eacute;solution des probl&egrave;mes &agrave; l&rsquo;&eacute;chelle des syst&egrave;mes favorise l&rsquo;instauration d&rsquo;une culture proactive d&rsquo;am&eacute;lioration continue. Pour la plupart des organisations, avec le temps, cette approche g&eacute;n&egrave;re une baisse du nombre de cas de non-conformit&eacute; et de constatations d&rsquo;audit n&eacute;gatives. Par exemple :</p>
+
+<p>Dans l&rsquo;exemple ci-dessus, vous pourriez d&eacute;cider qu&rsquo;il est appropri&eacute; d&rsquo;examiner la fr&eacute;quence d&rsquo;&eacute;talonnage de tous les manom&egrave;tres.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>5. Examiner l&rsquo;efficacit&eacute; des mesures prises</strong></p>
+
+<p>Une fois que les mesures appropri&eacute;es ont &eacute;t&eacute; prises, on les examine afin de d&eacute;terminer si elles ont &eacute;t&eacute; efficaces. En d&rsquo;autres termes, est-ce que les mesures prises ont &eacute;limin&eacute; la cause et fait en sorte que la non-conformit&eacute; ne s&rsquo;est pas produite ou reproduite? Dans certaines situations, il peut &ecirc;tre n&eacute;cessaire de laisser s&rsquo;&eacute;couler une p&eacute;riode raisonnable apr&egrave;s qu&rsquo;on a mis en &oelig;uvre la solution avant d&rsquo;en d&eacute;terminer l&rsquo;efficacit&eacute;. Parfois, il faut du temps pour qu&rsquo;une solution fonctionne et pour qu&rsquo;on puisse &eacute;valuer pleinement son efficacit&eacute;. Revenons &agrave; l&rsquo;exemple du syst&egrave;me &agrave; air comprim&eacute; :</p>
+
+<p>Pour examiner l&rsquo;efficacit&eacute;, on pourrait s&rsquo;assurer que la fr&eacute;quence d&rsquo;&eacute;talonnage a &eacute;t&eacute; modifi&eacute;e dans le syst&egrave;me d&rsquo;&eacute;talonnage, puis que la pression de service r&eacute;elle est la m&ecirc;me que ce que pr&eacute;voit la proc&eacute;dure.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>6. Consigner l&rsquo;information</strong></p>
+
+<p>On utilise couramment un [resource](Corrective_Action_Preventive_Action_Request_Form) et un [resource](CAR_PAR_Tracking_Log) pour consigner l&rsquo;&eacute;volution des mesures correctives et pr&eacute;ventives et en faire le suivi. Le document [resource](Example_CAR_PAR_Tracking_Log) illustre la fa&ccedil;on dont on peut utiliser une feuille de contr&ocirc;le pour faire le suivi des mesures jusqu&rsquo;&agrave; leur terme. De telles feuilles peuvent &ecirc;tre particuli&egrave;rement utiles quand il est temps de compiler des donn&eacute;es et d&rsquo;autres informations &agrave; propos de l&rsquo;&eacute;volution des mesures correctives et pr&eacute;ventives en vue de la revue de direction (voir [task](Management Review)).</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](D&eacute;finir les r&ocirc;les et les responsabilit&eacute;s)</p>
+
+<p>C&rsquo;est habituellement le repr&eacute;sentant de la direction qui est charg&eacute; de g&eacute;rer le syst&egrave;me de mesures correctives et pr&eacute;ventives. Par contre, les responsabilit&eacute;s relatives aux enqu&ecirc;tes et &agrave; l&rsquo;analyse des causes, ainsi qu&rsquo;aux mesures &agrave; prendre, peuvent &ecirc;tre d&eacute;l&eacute;gu&eacute;es, &agrave; condition que la personne responsable s&rsquo;assure que toutes les &eacute;tapes requises seront ex&eacute;cut&eacute;es et qu&rsquo;on tiendra &agrave; jour les documents appropri&eacute;s.</p>
+
+<p>Le plus souvent, tous les employ&eacute;s sont charg&eacute;s d&rsquo;identifier les cas r&eacute;els et potentiels de non-conformit&eacute; dans leur secteur de travail, et d&rsquo;informer les superviseurs concern&eacute;s ou d&rsquo;apporter une correction imm&eacute;diate.</p>
+
+<p>Les mesures correctives et pr&eacute;ventives sont g&eacute;n&eacute;ralement assign&eacute;es au gestionnaire du service ou du secteur o&ugrave; le probl&egrave;me se manifeste ou pourrait se manifester. Ce gestionnaire pourrait attribuer &agrave; une personne en particulier les mesures correctives ou pr&eacute;ventives associ&eacute;es &agrave; l&rsquo;enqu&ecirc;te ou l&rsquo;&eacute;laboration des mesures propos&eacute;es, ou mettre sur pied une &eacute;quipe charg&eacute;e de s&rsquo;attaquer au probl&egrave;me. Le suivi permettant d&rsquo;&eacute;valuer l&rsquo;efficacit&eacute; des mesures prises devrait &ecirc;tre confi&eacute; &agrave; des employ&eacute;s ind&eacute;pendants du secteur o&ugrave; l&rsquo;on a &eacute;labor&eacute; et mis en &oelig;uvre les mesures correctives ou pr&eacute;ventives.</p>
+
+<p>En g&eacute;n&eacute;ral, on &eacute;tablit des &eacute;ch&eacute;anciers pour l&rsquo;ex&eacute;cution de l&rsquo;enqu&ecirc;te et l&rsquo;&eacute;laboration des mesures propos&eacute;es, et pour la mise en &oelig;uvre de mesures et le suivi de leur efficacit&eacute; &ndash; tr&egrave;s souvent, sur une p&eacute;riode de 30 jours. Par contre, ce peut &ecirc;tre une bonne id&eacute;e de pr&eacute;voir des prolongations de d&eacute;lai quand on peut les justifier de fa&ccedil;on appropri&eacute;e. Par exemple, une solution n&eacute;cessitant un investissement dans un nouvel &eacute;quipement peut prendre plus de temps &agrave; mettre pleinement en &oelig;uvre.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Mettre en &oelig;uvre les mesures correctives et pr&eacute;ventives)</p>
+
+<p>Comme les autres processus du SGE, la mise en &oelig;uvre des mesures correctives et pr&eacute;ventives n&eacute;cessite une mise en pratique de ce processus au sein de votre organisation; il faut aussi s&rsquo;assurer que la formation appropri&eacute;e est offerte. Pour respecter les exigences du syst&egrave;me de mesures correctives et pr&eacute;ventives, on passe en revue les &eacute;tapes &agrave; ex&eacute;cuter, on explique comment utiliser les &eacute;ventuels formulaires requis et on explique clairement les r&ocirc;les, les responsabilit&eacute;s et les attentes &agrave; tous les employ&eacute;s.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+
+<p>Il y a tr&egrave;s peu de diff&eacute;rences entre les exigences li&eacute;es &agrave; la correction et aux mesures correctives &eacute;nonc&eacute;es dans les normes ISO 50001:2011, ISO 9001:2015 et ISO 14001:2015. Un ensemble de mesures correctives pleinement fonctionnelles utilis&eacute; dans le cadre des normes ISO 9001 et ISO 14001 sera adapt&eacute; &agrave; la norme ISO 50001, avec des modifications minimales. Pour ces trois syst&egrave;mes de gestion, les mesures correctives doivent &ecirc;tre adapt&eacute;es aux effets des cas de non-conformit&eacute;. Dans le cas de la norme ISO 50001, les mesures correctives doivent aussi &ecirc;tre adapt&eacute;es aux r&eacute;percussions observ&eacute;es sur le rendement &eacute;nerg&eacute;tique. La norme ISO 14001 exige que les mesures correctives soient adapt&eacute;es &agrave; l&rsquo;importance des effets, notamment des impacts sur l&rsquo;environnement.</p>
+
+<p>Les registres qu&rsquo;on tient &agrave; propos des mesures correctives et de leurs r&eacute;sultats seraient les m&ecirc;mes pour la norme ISO 50001 que pour les normes ISO 9001 et ISO 14001. M&ecirc;me si la norme ISO 50001 n&rsquo;exige pas express&eacute;ment qu&rsquo;on documente l&rsquo;information sur les mesures correctives, la tenue de registres sur les cas de non-conformit&eacute; et les mesures correctives connexes est implicite dans les exigences sur le contr&ocirc;le des documents de la norme ISO 50001.</p>
+
+<p>Dans ce domaine, la vraie diff&eacute;rence entre la norme ISO 5000:2011 et les normes ISO 9001:2015 et ISO 14001-2015 tient &agrave; l&rsquo;adoption d&rsquo;une structure de haut niveau (SHN) et &agrave; son application aux normes ISO sur les syst&egrave;mes de gestion. Les nouvelles versions d&rsquo;ISO 9001 et d&rsquo;ISO 14001 ont &eacute;t&eacute; publi&eacute;es dans le cadre de la SHN, ce qui supprime les &laquo; mesures pr&eacute;ventives &raquo; du syst&egrave;me de gestion. En vertu de la SHN, ces mesures pr&eacute;ventives sont inh&eacute;rentes aux mesures qu&rsquo;on prend pour g&eacute;rer les exigences des normes ISO 9001 et ISO 14001 sur le plan des risques et des possibilit&eacute;s. &Eacute;tant donn&eacute; que la norme ISO 50001 n&rsquo;a pas encore &eacute;t&eacute; r&eacute;vis&eacute;e et publi&eacute;e dans le cadre de la SHN, les mesures pr&eacute;ventives demeurent un &eacute;l&eacute;ment des fonctions de &laquo; contr&ocirc;le &raquo; d&rsquo;un SGE ISO 50001.</p>
+
+<p>Si l&rsquo;on int&eacute;grait le syst&egrave;me ISO 50001 &agrave; un syst&egrave;me de gestion ISO 9001 ou ISO 14001, les exigences de la norme ISO 50001 en mati&egrave;re de mesures pr&eacute;ventives devraient sans doute &ecirc;tre int&eacute;gr&eacute;es aux processus qu&rsquo;utilisent les normes ISO 9001 et ISO 14001 pour d&eacute;terminer les risques et les possibilit&eacute;s dont doit tenir compte le syst&egrave;me de gestion. S&rsquo;il faut assurer une maintenance distincte du SGE ISO 50001, les mesures pr&eacute;ventives appliqu&eacute;es aux anciennes versions des normes ISO 9001 (2008) et ISO 14001 (2004) pourraient s&rsquo;appliquer &agrave; la norme ISO 50001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Le pr&eacute;sent document est li&eacute; &agrave; la section 5.5 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management). Pour mettre en &oelig;uvre le SGE, int&eacute;grez aux syst&egrave;mes de suivi d&eacute;crits dans cette section 5.5 l&rsquo;identification et la gestion des &eacute;carts importants de rendement &eacute;nerg&eacute;tique. Vous pouvez y parvenir en surveillant et en mesurant les principales caract&eacute;ristiques de vos op&eacute;rations qui d&eacute;terminent le rendement &eacute;nerg&eacute;tique, et en &eacute;laborant un processus d&rsquo;enqu&ecirc;te &agrave; propos des principaux &eacute;carts, qui consiste &agrave; consigner les r&eacute;sultats de ces enqu&ecirc;tes.</p>
+
+<p>La norme ISO 50001 exige que les organisations g&egrave;rent les cas r&eacute;els ou potentiels de non-conformit&eacute; (y compris ceux que mettent en lumi&egrave;re les audits internes du SGE), en prenant les mesures correctives et pr&eacute;ventives appropri&eacute;es. Si votre organisation a &eacute;labor&eacute; le syst&egrave;me de suivi d&eacute;crit &agrave; la section 5.5 du document [resource](ENERGY_STAR_Guidelines_for_Energy_Management), ce syst&egrave;me est un bon point de d&eacute;part pour &eacute;laborer et mettre en &oelig;uvre ce qui permettra de respecter ces exigences de la norme ISO 50001.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
