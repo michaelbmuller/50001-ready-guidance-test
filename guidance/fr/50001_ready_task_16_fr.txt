@@ -144,7 +144,7 @@ Tâche 16: Nous avons établi les critères opérationnels et de maintenance pou
 
 <p>[Learn More End]</p>
 
-<p>On peut utiliser la [resource](SEU_Control_Chart), pr&eacute;sent&eacute;e la premi&egrave;re fois dans le cadre des t&acirc;ches [task](Significant Energy Uses) et [task](Performance Indicators), pour documenter les r&eacute;f&eacute;rences aux contr&ocirc;les op&eacute;rationnels, en les entrant dans la colonne 4 du tableau. Un [resource](Example_UES_Control_Chart) avec la colonne 4 (contr&ocirc;les op&eacute;rationnels) remplie est inclus; cela montre comment on peut utiliser ce formulaire. Notez que l&rsquo;exemple de tableau de contr&ocirc;le des UES inclut des renseignements sur les documents associ&eacute;s &agrave; certains contr&ocirc;les op&eacute;rationnels (voir la colonne 8).</p>
+<p>On peut utiliser la [resource](SEU_Control_Chart), pr&eacute;sent&eacute;e la premi&egrave;re fois dans le cadre des t&acirc;ches [task](Significant Energy Uses) et [task](Performance Indicators), pour documenter les r&eacute;f&eacute;rences aux contr&ocirc;les op&eacute;rationnels, en les entrant dans la colonne 4 du tableau. Un [resource](Example_SEU_Control_Chart) avec la colonne 4 (contr&ocirc;les op&eacute;rationnels) remplie est inclus; cela montre comment on peut utiliser ce formulaire. Notez que l&rsquo;exemple de tableau de contr&ocirc;le des UES inclut des renseignements sur les documents associ&eacute;s &agrave; certains contr&ocirc;les op&eacute;rationnels (voir la colonne 8).</p>
 
 <p>[Accordion End]</p>
 

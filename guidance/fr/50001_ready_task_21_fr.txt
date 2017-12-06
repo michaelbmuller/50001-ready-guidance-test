@@ -7,7 +7,7 @@ Formation
 Tâche 21: Les besoins en formation du système 50001 Ready et les UES ont été identifiés, et l’on a formé les employés et les sous-traitants, au besoin, afin qu’ils soient qualifiés en matière de gestion de l’énergie
 ----------GETTING IT DONE----------
 <ul>
-	<li>Remplissez le document [resource](SGE_Training_Needs_Planning_Matrix).</li>
+	<li>Remplissez le document [resource](EnMS_Training_Needs_Planning_Matrix).</li>
 	<li>Comblez les lacunes en mati&egrave;re de formation qui ont &eacute;t&eacute; d&eacute;finies.</li>
 	<li>Consignez les besoins en mati&egrave;re de formation, les offres de formation et les r&eacute;sultats.</li>
 </ul>

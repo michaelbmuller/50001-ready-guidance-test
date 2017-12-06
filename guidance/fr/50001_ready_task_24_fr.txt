@@ -7,7 +7,7 @@ Calcul des économies d’énergie
 Tâche 24: Nous avons déterminé l’amélioration de notre rendement énergétique.
 ----------GETTING IT DONE----------
 <ul>
-	<li>D&eacute;montrez qu&rsquo;il y a eu am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans vos installations, en utilisant l&rsquo;outil [resource](IRE_Lite) du DOE, ou un autre outil de calcul du rendement &eacute;nerg&eacute;tique des installations.</li>
+	<li>D&eacute;montrez qu&rsquo;il y a eu am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans vos installations, en utilisant l&rsquo;outil [resource](EnPI_Lite) du DOE, ou un autre outil de calcul du rendement &eacute;nerg&eacute;tique des installations.</li>
 </ul>
 ----------TASK OVERVIEW----------
 <p>La mise en &oelig;uvre d&rsquo;un SGE ISO 50001 vise &agrave; r&eacute;aliser et &agrave; maintenir des &eacute;conomies d&rsquo;&eacute;nergie et une r&eacute;duction des co&ucirc;ts &eacute;nerg&eacute;tiques. Il existe plusieurs fa&ccedil;ons de calculer les &eacute;conomies d&rsquo;&eacute;nergie et de faire le suivi des am&eacute;liorations. La norme ISO 50001 et le programme <em>50001 Ready</em> offrent divers moyens de d&eacute;finir les indicateurs de rendement &eacute;nerg&eacute;tique appropri&eacute;s et les m&eacute;thodes de suivi pour vos installations et leur UES.</p>
@@ -24,7 +24,7 @@ Tâche 24: Nous avons déterminé l’amélioration de notre rendement énergét
 			<td>
 			<p>IRE Lite accepte les donn&eacute;es g&eacute;n&eacute;r&eacute;es par l&rsquo;outil [resource](Energy_Footprint_Tool) et par le [resource](Portfolio_Manager) de l&rsquo;EPA pour cr&eacute;er un mod&egrave;le bas&eacute; sur une analyse de r&eacute;gression.</p>
 
-			<p>Vous trouverez sur le site [resource](IRE_Lite) des instructions d&eacute;taill&eacute;es sur la fa&ccedil;on d&rsquo;utiliser l&rsquo;outil.</p>
+			<p>Vous trouverez sur le site [resource](EnPI_Lite) des instructions d&eacute;taill&eacute;es sur la fa&ccedil;on d&rsquo;utiliser l&rsquo;outil.</p>
 			</td>
 		</tr>
 		<tr>
@@ -103,13 +103,13 @@ Tâche 24: Nous avons déterminé l’amélioration de notre rendement énergét
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Utiliser l&rsquo;outil IRE Lite)</p>
 
-<p>En suivant les instructions &agrave; la page d&rsquo;accueil du site [resource](IRE_Lite), t&eacute;l&eacute;versez votre fichier [resource](Energy_Footprint_Lite_Data_Uploader) dans IRE Lite et visualisez l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique.</p>
+<p>En suivant les instructions &agrave; la page d&rsquo;accueil du site [resource](EnPI_Lite), t&eacute;l&eacute;versez votre fichier [resource](Energy_Footprint_Lite_Data_Uploader) dans IRE Lite et visualisez l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique.</p>
 
 <p>[Accordion End]</p>
 
 <p>[Accordion](Choisir, pour la consommation &eacute;nerg&eacute;tique de vos installations, les mod&egrave;les valides d&eacute;crivant le mieux les usages &eacute;nerg&eacute;tiques de celles-ci)</p>
 
-<p>Vous trouverez une description technique d&eacute;taill&eacute;e du mod&egrave;le et des exigences statistiques qu&rsquo;utilise [resource](IRE_Lite) pour calculer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans le document [resource](50001_Ready_Protocol). Reportez-vous aussi aux directives li&eacute;es aux t&acirc;ches suivantes : [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) et [task](Monitoring). Le tableau ci-dessous r&eacute;sume les exigences.</p>
+<p>Vous trouverez une description technique d&eacute;taill&eacute;e du mod&egrave;le et des exigences statistiques qu&rsquo;utilise [resource](EnPI_Lite) pour calculer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans le document [resource](50001_Ready_Protocol). Reportez-vous aussi aux directives li&eacute;es aux t&acirc;ches suivantes : [task](Data Collection), [task](Data Analysis), [task](Relevant Variables), [task](Performance Indicators), [task](Baselines, Objectives and Targets) et [task](Monitoring). Le tableau ci-dessous r&eacute;sume les exigences.</p>
 
 <table cellspacing="0" style="width:346.0pt">
 	<tbody>
@@ -273,15 +273,15 @@ Tâche 24: Nous avons déterminé l’amélioration de notre rendement énergét
 	</tbody>
 </table>
 
-<p>[resource](IRE_Lite) peut produire plusieurs mod&egrave;les de valeurs pour chaque source d&rsquo;&eacute;nergie. Faites preuve de jugement sur le plan technique pour choisir le ou les mod&egrave;les qui d&eacute;crivent le mieux l&rsquo;usage &eacute;nerg&eacute;tique de vos installations. Par exemple, si vous utilisez de la vapeur tout au long de la fabrication d&rsquo;un produit, le mod&egrave;le de la source d&rsquo;&eacute;nergie utilis&eacute;e pour g&eacute;n&eacute;rer la vapeur devrait inclure une variable de production. Autre exemple : si vous utilisez principalement l&rsquo;&eacute;lectricit&eacute; pour chauffer et climatiser vos installations, les degr&eacute;s-jours de chauffage et de refroidissement devraient figurer dans votre mod&egrave;le d&rsquo;&eacute;lectricit&eacute;.</p>
+<p>[resource](EnPI_Lite) peut produire plusieurs mod&egrave;les de valeurs pour chaque source d&rsquo;&eacute;nergie. Faites preuve de jugement sur le plan technique pour choisir le ou les mod&egrave;les qui d&eacute;crivent le mieux l&rsquo;usage &eacute;nerg&eacute;tique de vos installations. Par exemple, si vous utilisez de la vapeur tout au long de la fabrication d&rsquo;un produit, le mod&egrave;le de la source d&rsquo;&eacute;nergie utilis&eacute;e pour g&eacute;n&eacute;rer la vapeur devrait inclure une variable de production. Autre exemple : si vous utilisez principalement l&rsquo;&eacute;lectricit&eacute; pour chauffer et climatiser vos installations, les degr&eacute;s-jours de chauffage et de refroidissement devraient figurer dans votre mod&egrave;le d&rsquo;&eacute;lectricit&eacute;.</p>
 
-<p>Les r&eacute;sultats, y compris ceux qui portent sur l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique, se trouvent sur le site [resource](IRE_Lite). Vous pouvez visualiser ces r&eacute;sultats sans &eacute;laborer de mod&egrave;le valide, et ils doivent vous permettre de mieux comprendre l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique de vos installations.</p>
+<p>Les r&eacute;sultats, y compris ceux qui portent sur l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique, se trouvent sur le site [resource](EnPI_Lite). Vous pouvez visualiser ces r&eacute;sultats sans &eacute;laborer de mod&egrave;le valide, et ils doivent vous permettre de mieux comprendre l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique de vos installations.</p>
 
 <p>[Accordion End]</p>
 
 <p>[Accordion](D&eacute;terminer l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique dans l&rsquo;ensemble de vos installations)</p>
 
-<p>Une fois que vous aurez choisi vos mod&egrave;les de consommation &eacute;nerg&eacute;tique, [resource](IRE_Lite) affichera l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Elle est exprim&eacute;e en pourcentage. Reportez-vous &agrave; la t&acirc;che [task](Performance Indicators) pour savoir comment interpr&eacute;ter le pourcentage d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique de vos installations. Un SGE <em>50001 Ready</em> exige que vos installations affichent une am&eacute;lioration positive du rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Vous pouvez utiliser l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique pour expliquer les avantages du SGE au sein de vos installations et aux membres de votre haute direction (T&acirc;che 25, [task](Management Review)).</p>
+<p>Une fois que vous aurez choisi vos mod&egrave;les de consommation &eacute;nerg&eacute;tique, [resource](EnPI_Lite) affichera l&rsquo;am&eacute;lioration de votre rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Elle est exprim&eacute;e en pourcentage. Reportez-vous &agrave; la t&acirc;che [task](Performance Indicators) pour savoir comment interpr&eacute;ter le pourcentage d&rsquo;am&eacute;lioration &eacute;nerg&eacute;tique de vos installations. Un SGE <em>50001 Ready</em> exige que vos installations affichent une am&eacute;lioration positive du rendement &eacute;nerg&eacute;tique par rapport &agrave; l&rsquo;ann&eacute;e de r&eacute;f&eacute;rence. Vous pouvez utiliser l&rsquo;am&eacute;lioration du rendement &eacute;nerg&eacute;tique pour expliquer les avantages du SGE au sein de vos installations et aux membres de votre haute direction (T&acirc;che 25, [task](Management Review)).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------

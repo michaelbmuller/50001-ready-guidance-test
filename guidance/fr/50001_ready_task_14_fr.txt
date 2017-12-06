@@ -167,7 +167,7 @@ Tâche 14: Nous surveillons et analysons constamment notre consommation énergé
 	<li>registres.</li>
 </ul>
 
-<p>Dans le cadre des t&acirc;ches [task](Variables pertinentes) et [task](Data Analysis), on a expliqu&eacute; comment remplir les colonnes 1 &agrave; 5 du tableau de contr&ocirc;le des UES. Dans le cadre de la pr&eacute;sente t&acirc;che, vous pouvez remplir la colonne 6 afin d&rsquo;ajouter des r&eacute;f&eacute;rences &agrave; (ou des descriptions de) la surveillance et des mesures mises en &oelig;uvre pour suivre et analyser le rendement de chaque UES. Par ailleurs, vous pouvez ajouter des &eacute;l&eacute;ments &agrave; la colonne 8 en listant les registres de surveillance et de mesure qui seront tenus &agrave; jour en lien avec les UES. (Voir l&rsquo;exemple rempli de [resource](Example_SEU_Control_Chart)). Vous pouvez remplir la colonne 7 dans le cadre de la t&acirc;che [task](Measurement).</p>
+<p>Dans le cadre des t&acirc;ches [task](Relevant Variables) et [task](Data Analysis), on a expliqu&eacute; comment remplir les colonnes 1 &agrave; 5 du tableau de contr&ocirc;le des UES. Dans le cadre de la pr&eacute;sente t&acirc;che, vous pouvez remplir la colonne 6 afin d&rsquo;ajouter des r&eacute;f&eacute;rences &agrave; (ou des descriptions de) la surveillance et des mesures mises en &oelig;uvre pour suivre et analyser le rendement de chaque UES. Par ailleurs, vous pouvez ajouter des &eacute;l&eacute;ments &agrave; la colonne 8 en listant les registres de surveillance et de mesure qui seront tenus &agrave; jour en lien avec les UES. (Voir l&rsquo;exemple rempli de [resource](Example_SEU_Control_Chart)). Vous pouvez remplir la colonne 7 dans le cadre de la t&acirc;che [task](Measurement).</p>
 
 <p>[Accordion End]</p>
 
