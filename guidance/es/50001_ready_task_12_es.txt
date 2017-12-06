@@ -170,7 +170,7 @@ Tarea 12: Hemos identificado y priorizado las oportunidades de mejora del desemp
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Seleccione oportunidades [proyectos] para su implementaci&oacute;n).</p>
+<p>[Accordion](Seleccione oportunidades [proyectos] para su implementaci&oacute;n)</p>
 
 <p>Despu&eacute;s de identificar y priorizar las oportunidades de mejora del desempe&ntilde;o energ&eacute;tico, su organizaci&oacute;n necesitar&aacute; seleccionar los proyectos que le permitan alcanzar los objetivos y metas de desempe&ntilde;o energ&eacute;tico espec&iacute;ficos establecidos en la tarea [task](Baselines, Objectives and Targets). Sin embargo, es improbable que la administraci&oacute;n pueda proporcionar recursos para todos los proyectos potenciales que se encuentren en su lista de oportunidades de mejora del desempe&ntilde;o energ&eacute;tico.</p>
 

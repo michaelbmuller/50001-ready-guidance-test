@@ -27,7 +27,7 @@ Tarea 16: Hemos establecido criterios operativos y de mantenimiento para nuestro
 
 <p><em>Estos lineamientos y orientaci&oacute;n se aplican al apartado</em><em> 4.5.5 de la norma ISO 50001:2011.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Establecer criterios operativos y de mantenimiento).</p>
+<p>[Accordion](Establecer criterios operativos y de mantenimiento)</p>
 
 <p>La organizaci&oacute;n debe dotarse de criterios operativos y de mantenimiento eficaces para sus principales instalaciones, equipos, sistemas y procesos. Sus principales sistemas y los usos significativos de energ&iacute;a (USEn) funcionan bajo &oacute;ptimas condiciones y pr&aacute;cticas de mantenimiento que maximizan su eficiencia operativa y les permiten alcanzar su vida &uacute;til de dise&ntilde;o.</p>
 
@@ -92,7 +92,7 @@ Tarea 16: Hemos establecido criterios operativos y de mantenimiento para nuestro
 	<li>Cambios de producto (por ejemplo, exceso o defecto de cocci&oacute;n de alimentos)</li>
 </ul>
 
-<p>[Learn More](Fuentes para ayudar a identificar los criterios operativos y de mantenimiento).</p>
+<p>[Learn More](Fuentes para ayudar a identificar los criterios operativos y de mantenimiento)</p>
 
 <p>Diversas fuentes pueden ser de utilidad para identificar criterios operativos y de mantenimiento para su USEn, as&iacute; como otros procesos que puedan afectar al desempe&ntilde;o energ&eacute;tico. Entre ellas:</p>
 
@@ -114,7 +114,7 @@ Tarea 16: Hemos establecido criterios operativos y de mantenimiento para nuestro
 
 <p>Los controles operativos y de mantenimiento tambi&eacute;n pueden ser dispositivos f&iacute;sicos (por ejemplo, sistemas de automatizaci&oacute;n de edificios, sensores de movimiento para luces, controladores de secuencia para compresores de aire), o bien recaer en personal certificado o especializado (electricista certificado, operador de calderas certificado, operador para tratamiento de residuos certificado, etc&eacute;tera).</p>
 
-<p>[Learn More](Evaluaci&oacute;n de criterios operativos y de mantenimiento).</p>
+<p>[Learn More](Evaluaci&oacute;n de criterios operativos y de mantenimiento)</p>
 
 <p>Con el fin de evaluar los criterios operativos y de mantenimiento que usted pudiera necesitar, re&uacute;na el personal pertinente y, teniendo en cuenta la informaci&oacute;n descrita anteriormente, discutan acerca los siguientes puntos:</p>
 

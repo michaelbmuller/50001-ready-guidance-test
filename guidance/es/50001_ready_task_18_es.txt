@@ -37,7 +37,7 @@ Tarea 18: Consideramos las oportunidades de desempeño energético al diseñar i
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Incorporar la consideraci&oacute;n de las oportunidades energ&eacute;ticas y de control operativo en los proyectos de dise&ntilde;o).</p>
+<p>[Accordion](Incorporar la consideraci&oacute;n de las oportunidades energ&eacute;ticas y de control operativo en los proyectos de dise&ntilde;o)</p>
 
 <p>Al dise&ntilde;ar nuevas instalaciones, equipos, sistemas y procesos, o al renovar o modificar los existentes, piense en c&oacute;mo se afecta o afectar&aacute; el desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n. Identifique las mejoras de desempe&ntilde;o energ&eacute;tico que pueden tomarse en cuenta en el dise&ntilde;o. Asimismo, identifique los controles operativos que puedan ser necesarios. Esto podr&iacute;a incluir los controles necesarios para lograr la mejora del desempe&ntilde;o energ&eacute;tico o, al menos, para minimizar (o gestionar apropiadamente) los impactos del dise&ntilde;o en el desempe&ntilde;o energ&eacute;tico en su empresa.</p>
 

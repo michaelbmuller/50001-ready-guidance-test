@@ -87,7 +87,7 @@ Tarea 14: Hemos realizado el monitoreo y análisis continuos de nuestro consumo 
 	<li>reflejar la coherencia de los factores que puedan afectar el desempe&ntilde;o energ&eacute;tico, tales como el clima, la ocupaci&oacute;n, la producci&oacute;n o las horas de funcionamiento.</li>
 </ul>
 
-<p>[Learn More](Monitoreo y an&aacute;lisis del consumo de todas las fuentes de energ&iacute;a).</p>
+<p>[Learn More](Monitoreo y an&aacute;lisis del consumo de todas las fuentes de energ&iacute;a)</p>
 
 <p><strong>Ejemplo de fuentes de datos.</strong> La medici&oacute;n del consumo energ&eacute;tico a partir de la fuente implica generalmente tener medidores de electricidad y de gas natural ubicados en la propiedad o instalaciones de la organizaci&oacute;n. Estos datos est&aacute;n al alcance y f&aacute;cilmente disponibles en las facturas de las empresas proveedoras de energ&iacute;a, pero tambi&eacute;n pueden leerse los contadores y su informaci&oacute;n registrarse regularmente como parte del programa de monitoreo regular de la organizaci&oacute;n. Los m&eacute;todos de medici&oacute;n pueden variar para otras fuentes de energ&iacute;a: la madera o el carb&oacute;n pueden requerir balanzas, ya sea <em>in situ</em> o ser medidos por el proveedor; el propano y el fueloil pueden medirse desde un cami&oacute;n de distribuci&oacute;n o su medici&oacute;n ser proporciona por un tanque, y las energ&iacute;as renovables, por su parte, requieren de una medici&oacute;n adecuada seg&uacute;n la forma de entrega.</p>
 
@@ -171,7 +171,7 @@ Tarea 14: Hemos realizado el monitoreo y análisis continuos de nuestro consumo 
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Verificar el avance del plan de acci&oacute;n).</p>
+<p>[Accordion](Verificar el avance del plan de acci&oacute;n)</p>
 
 <p>El monitoreo peri&oacute;dico de los planes de acci&oacute;n asegura que los proyectos de mejora del desempe&ntilde;o energ&eacute;tico conserven su rumbo y que los planes de acci&oacute;n se mantengan actualizados.</p>
 
@@ -216,7 +216,7 @@ Tarea 14: Hemos realizado el monitoreo y análisis continuos de nuestro consumo 
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Monitorear las oportunidades de mejora energ&eacute;tica).</p>
+<p>[Accordion](Monitorear las oportunidades de mejora energ&eacute;tica)</p>
 
 <p>Las oportunidades de mejora son otro resultado de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico. En la tarea [task](Improvement Opportunities) se identifican, eval&uacute;an y priorizan las oportunidades. Adicionalmente, su organizaci&oacute;n puede buscar m&aacute;s oportunidades apropiadas con el desarrollo de objetivos, metas y planes de acci&oacute;n energ&eacute;ticos, o bien puede retirarlas de la lista activa. Es posible que se requieran procesos adicionales de monitoreo o evaluaci&oacute;n para verificar la idoneidad de los procedimientos de instalaci&oacute;n, los criterios de funcionamiento, el control y el mantenimiento de las pr&aacute;cticas, o bien para evaluar el mejoramiento del desempe&ntilde;o energ&eacute;tico. Por lo general, estos elementos est&aacute;n definidos y tratados en el plan de acci&oacute;n (cons&uacute;ltese la tarea [task](Improvement Projects)).</p>
 
