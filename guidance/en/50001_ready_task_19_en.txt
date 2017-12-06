@@ -211,7 +211,7 @@ Task 19: We have developed and have processes in place to control the 50001 Read
 
 <p>Records related to activities performed are useful as evidence that the appropriate actions were taken. Also, since records are used to capture results achieved, they provide an excellent basis for data analysis, including energy performance tracking. They can also benefit an organization as a form of memory for the organization. Records of what was done in the past and the results achieved can be very useful when, for example, there is workforce turnover or attrition over time and that institutional memory is lost.</p>
 
-<p><strong>[Learn More]</strong><strong>(What records are required for the energy management system</strong>?)</p>
+<p>[Learn More](What records are required for the energy management system?)</p>
 
 <p>Although a variety of information within the EnMS must be recorded, just as with documents, your organization is responsible for determining what additional records it needs in order to demonstrate conformance with the requirements of the EnMS and the energy performance results achieved.</p>
 

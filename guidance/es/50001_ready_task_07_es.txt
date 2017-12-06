@@ -146,7 +146,7 @@ Tarea 7: Hemos analizado el consumo energético a escala del sistema o equipo
 
 <p><strong>Necesidad de obtener resultados:</strong> Cuando se requiere un an&aacute;lisis preciso para que alguien de su organizaci&oacute;n desempe&ntilde;e su trabajo, esa persona estar&aacute; interesada en garantizar que los datos sean fidedignos y el an&aacute;lisis correcto. Un elemento con intereses particulares resultar&aacute; un buen candidato para asignarle la responsabilidad del an&aacute;lisis de datos.</p>
 
-<p>&nbsp;[Learn More End]</p>
+<p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
@@ -254,7 +254,7 @@ Tarea 7: Hemos analizado el consumo energético a escala del sistema o equipo
 
 <p>Esas preguntas le ayudar&aacute;n a evaluar la identificaci&oacute;n inicial de sus usos de energ&iacute;a. Puede ser necesario que reval&uacute;e y modifique la designaci&oacute;n original de sus usos de energ&iacute;a con base en los datos disponibles, as&iacute; como las interacciones de los equipos, sistemas o procesos. Los usos de energ&iacute;a deben elegirse de manera que consideren la mayor parte de las interacciones que puedan afectar el desempe&ntilde;o energ&eacute;tico de su organizaci&oacute;n.</p>
 
-<p>&nbsp;[Learn More End]</p>
+<p>[Learn More End]</p>
 
 <p>Los usos de energ&iacute;a identificados en la lista tambi&eacute;n pueden depender de la informaci&oacute;n con la que se cuenta para determinar la cantidad de energ&iacute;a que consumen, ya sea a trav&eacute;s de datos del medidor, de las placas t&eacute;cnicas o de los c&aacute;lculos de ingenier&iacute;a. Tome en cuenta que los usos energ&eacute;ticos pueden clasificarse ampliamente: desde un equipo hasta una edificaci&oacute;n entera; por lo que, si el consumo de energ&iacute;a es significativo, quiz&aacute;s sea conveniente inscribir algunos equipos de manera independiente. Una vez que se encuentre satisfecho con la lista de los equipos y sistemas, ejecute un balance energ&eacute;tico con objeto de verificar el consumo total de todos los balances de usos de energ&iacute;a con el consumo total de la instalaci&oacute;n. Este paso no es obligatorio; sin embargo, se le recomienda a fin de asegurar que ning&uacute;n componente significativo del consumo energ&eacute;tico se haya omitido o contado incorrectamente.</p>
 

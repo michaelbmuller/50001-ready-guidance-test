@@ -79,7 +79,7 @@ class MarkupTest extends TestCase
 
     public function test_task_markups_es()
     {
-        $guidance = new Guidance('fr');
+        $guidance = new Guidance('es');
         foreach ($guidance->getTasks() as $task) {
             /** @var Task $task */
             $task->getGettingItDone();

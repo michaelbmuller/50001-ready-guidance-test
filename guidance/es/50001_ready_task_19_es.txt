@@ -190,7 +190,7 @@ Tarea 19: Hemos diseñado y puesto en operación procesos para controlar los reg
 	<li>Hojas de c&aacute;lculo</li>
 </ul>
 
-<p>&nbsp;[Learn More End]</p>
+<p>[Learn More End]</p>
 
 <p>[Learn More](Ejemplos de registros de un SGEn)</p>
 
@@ -211,11 +211,13 @@ Tarea 19: Hemos diseñado y puesto en operación procesos para controlar los reg
 
 <p>Los registros relativos a las actividades que se han llevado a cabo son &uacute;tiles como prueba de que las acciones que se realizaron fueron las apropiadas. Asimismo, dado que los registros se utilizan para plasmar los resultados obtenidos, tambi&eacute;n proporcionan una excelente base para el an&aacute;lisis de datos, incluida la verificaci&oacute;n del desempe&ntilde;o energ&eacute;tico. Tambi&eacute;n pueden ser de ayuda a la organizaci&oacute;n al servir como memoria de sus actividades. Los registros de lo que se hizo en el pasado y de los logros obtenidos es de utilidad, por ejemplo, cuando con el tiempo hay rotaci&oacute;n de personal o abandono de puestos, y esa memoria institucional corre el riesgo de perderse.</p>
 
-<p>[Learn More]<strong> (&iquest;Qu&eacute; registros se requieren para el sistema de gesti&oacute;n de energ&iacute;a</strong>?)</p>
+<p>[Learn More](&iquest;Qu&eacute; registros se requieren para el sistema de gesti&oacute;n de energ&iacute;a?)</p>
 
 <p>Aunque es necesario registrar una gran variedad de informaci&oacute;n dentro del SGEn, al igual que con los documentos, la organizaci&oacute;n ser&aacute; la responsable de definir qu&eacute; registros adicionales necesita a fin de demostrar conformidad con los requisitos del SGEn y los resultados del desempe&ntilde;o energ&eacute;tico.</p>
 
 <p>Algunos aspectos que es necesario registrar son: l&iacute;nea de base energ&eacute;tica, resultados del monitoreo y la medici&oacute;n, resultados de auditor&iacute;as y revisi&oacute;n gerencial. &Eacute;stos y otros registros se enlistan en el recurso [resource](EnMS_Documentation_Guidance_Table).</p>
+
+<p>[Learn More End]</p>
 
 <p>[Learn More](&iquest;Cu&aacute;les son los factores de &eacute;xito de un registro?)</p>
 

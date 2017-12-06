@@ -71,7 +71,7 @@ Tarea 3: Nuestra alta dirección ha expresado su compromiso con el sistema 50001
 
 <p>[Learn More End]</p>
 
-<p>[AccordionEnd]</p>
+<p>[Accordion End]</p>
 
 <p>[Accordion](Preparar un informe para la alta direcci&oacute;n)</p>
 
