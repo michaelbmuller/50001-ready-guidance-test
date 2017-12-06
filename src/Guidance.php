@@ -55,6 +55,10 @@ class Guidance
      */
     protected $tasksBySection = [];
     /**
+     * @var array
+     */
+    protected $task_id_names_to_ids = [];
+    /**
      * @var bool
      */
     public $custom_tips_added = false;
@@ -67,6 +71,7 @@ class Guidance
      * Guidance constructor.
      * @param string $language
      * @param string $markupProcessor
+     * @throws \Exception
      */
     public function __construct($language = 'en', $markupProcessor = DefaultMarkupProcessor::class)
     {
@@ -122,6 +127,9 @@ class Guidance
                 $this->tasks[$currentTask]->sectionCode = $currentSectionCode;
                 $this->tasks[$currentTask]->section = $this->sections_name[$currentSectionCode];
             }
+            if ($items[0] == 'ID Name') {
+                $this->task_id_names_to_ids[trim($items[1])] = $currentTask;
+            }
             if ($items[0] == 'Prerequisite Tasks') {
                 $prerequisites = [];
                 if ($items[1]) $prerequisites = array_map('trim', explode(',', trim($items[1])));
@@ -130,7 +138,6 @@ class Guidance
                     if ($prerequisite < 1 or $prerequisite > 25) throw new \Exception('Prerequisite Task ID not valid ' . $prerequisite, 404);
                     $this->tasks[$prerequisite]->leadsTo[$currentTask] = $currentTask;
                 }
-
             }
             if ($items[0] == 'Level of Effort') $this->tasks[$currentTask]->effort = trim($items[1]);
             if ($items[0] == 'Related ISO Sections') $this->tasks[$currentTask]->relatedIsoSections = array_map('trim', explode(',', $items[1]));
@@ -269,13 +276,13 @@ class Guidance
     /**
      * Return first Task with Matching Menu Name
      *
-     * @param $menuName string
+     * @param $id_name string
      * @return string
      */
-    public function getTaskByMenuName($menuName)
+    public function getTaskByIDName($id_name)
     {
-        foreach ($this->tasks as $task) {
-            if ($task->getMenuName() == $menuName) return $task;
+        if (isset($this->task_id_names_to_ids[$id_name])){
+            return $this->tasks[$this->task_id_names_to_ids[$id_name]];
         }
         return false;
     }

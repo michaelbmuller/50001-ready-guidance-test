@@ -217,6 +217,8 @@ Tâche 19: Nous avons élaboré et mis en place des processus permettant de cont
 
 <p>Voici certains des &eacute;l&eacute;ments qui doivent &ecirc;tre consign&eacute;s : consommation de r&eacute;f&eacute;rence, r&eacute;sultats des activit&eacute;s de surveillance et de mesure, r&eacute;sultats d&rsquo;audits et revues de direction. Ces registres et d&rsquo;autres sont list&eacute;s dans le document [resource](EnMS_Documentation_Guidance_Table).</p>
 
+<p>[Learn More End]</p>
+
 <p>[Learn More](Quels sont les facteurs de r&eacute;ussite pour les registres?)</p>
 
 <p>Facteurs de r&eacute;ussite pour les registres :</p>

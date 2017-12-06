@@ -63,6 +63,20 @@ class MarkupTest extends TestCase
         }
     }
 
+    public function test_task_markups_fr()
+    {
+        $guidance = new Guidance('fr');
+        foreach ($guidance->getTasks() as $task) {
+            /** @var Task $task */
+            $task->getGettingItDone();
+            $task->getTaskOverview();
+            $task->getFullDescription();
+            $task->getOtherIsoTips();
+            $task->getEnergyStarTips();
+            $task->getCustomTips();
+        }
+    }
+
     public function test_all_markups()
     {
 

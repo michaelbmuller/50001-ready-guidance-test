@@ -50,9 +50,9 @@ class GuidanceTest extends TestCase
         $this->assertEquals(1, $this->guidance->getTask(1)->id());
     }
 
-    public function test_task_by_menu_name()
+    public function test_task_by_id_name()
     {
-        $this->assertEquals('1', $this->guidance->getTaskByMenuName('Scope and Boundaries')->id());
+        $this->assertEquals('1', $this->guidance->getTaskByIDName('Scope and Boundaries')->id());
     }
 
     public function test_sections()
