@@ -842,7 +842,7 @@ ID||Energy_Footprint_Tool
 File Type||Webpage
 Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
 File Name||
-Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Link||https://energy.gov/eere/amo/downloads/energy-footprint-tool
 Associated Tasks||6,7
 Last Updated||2017-03-08 12:53:59
 ----------
