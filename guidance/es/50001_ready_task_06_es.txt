@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 6
 ----------MENU NAME----------
 Recopilación de datos
 ----------TITLE----------
-Task 6: We have identified all our energy sources and uses and accurately collected the related energy consumption data
+Tarea 6: Hemos identificado todas nuestras fuentes y usos de energía, y recopilado con exactitud datos relacionados con el consumo de energía
 ----------GETTING IT DONE----------
 <ul>
 	<li>Si est&aacute; utilizando el indicador de desempe&ntilde;o energ&eacute;tico [resource](EnPI_Lite), pida a alg&uacute;n miembro de su personal, entre cuyas responsabilidades se incluya la gesti&oacute;n o el seguimiento de datos, que complete la ficha &lsquo;Consumo energ&eacute;tico&rsquo; ya sea desde: 1) la utilidad Energy Footprint Lite para subir datos [resource](Energy_Footprint_Lite_Data_Uploader) o desde: 2) la herramienta [resource](Energy_Footprint_Tool). Siga las instrucciones que se indican en la p&aacute;gina de inicio de la herramienta [resource](EnPI_Lite). Para usuarios del indicador de desempe&ntilde;o energ&eacute;tico EnPI Lite (o herramienta EnPI Lite), la utilidad [resource](Energy_Footprint_Lite_Data_Uploader) podr&iacute;a ser m&aacute;s sencilla de utilizar en la medida en que es una versi&oacute;n de la <a name="_Hlk496526491">Herramienta Huella Energ&eacute;tica </a>(<em>Footprint Tool</em>) adaptada para la herramienta EnPl Lite.</li>
