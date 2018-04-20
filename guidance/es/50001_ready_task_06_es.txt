@@ -33,7 +33,7 @@ Tarea 6: Hemos identificado todas nuestras fuentes y usos de energía, y recopil
 
 <p>El primer paso para llevar a t&eacute;rmino esta tarea consiste en identificar y documentar las fuentes de energ&iacute;a actuales de su organizaci&oacute;n. Para la norma ISO 50001, las fuentes energ&eacute;ticas son las formas de energ&iacute;a que modelan los l&iacute;mites de su organizaci&oacute;n, lo que incluye tanto energ&iacute;as primarias como secundarias. La <em>energ&iacute;a primaria</em> corresponde a la energ&iacute;a en su estado natural, como el gas natural. La <em>energ&iacute;a secundaria</em> proviene de la energ&iacute;a primaria y comprende fuentes como la electricidad, el vapor y el aire comprimido.</p>
 
-<p>&nbsp;[Learn More](Ejemplo de fuentes de energ&iacute;a)</p>
+<p>[Learn More](Ejemplo de fuentes de energ&iacute;a)</p>
 
 <p>Algunos ejemplos de fuentes de energ&iacute;a son:</p>
 
@@ -107,7 +107,7 @@ Tarea 6: Hemos identificado todas nuestras fuentes y usos de energía, y recopil
 
 <p>Los usos de la energ&iacute;a se pueden identificar de la manera que m&aacute;s convenga a su organizaci&oacute;n. En esta tarea, anteriormente, usted asoci&oacute; las fuentes de energ&iacute;a con sus respectivas instalaciones, equipos, sistemas y procesos, con el prop&oacute;sito de asegurar la identificaci&oacute;n de todas las fuentes relevantes. Organice equipo, sistemas y procesos en agrupaciones l&oacute;gicas o categor&iacute;as (es decir, en &ldquo;usos&rdquo;) que le permitan evaluar y mejorar el desempe&ntilde;o energ&eacute;tico de la forma m&aacute;s adecuada posible.</p>
 
-<p>&nbsp;[Learn More](Equipo, sistemas y agrupaciones de procesos)</p>
+<p>[Learn More](Equipo, sistemas y agrupaciones de procesos)</p>
 
 <p>Algunas categor&iacute;as que han de contemplarse (con sus respectivos ejemplos entre par&eacute;ntesis) son las siguientes:</p>
 
