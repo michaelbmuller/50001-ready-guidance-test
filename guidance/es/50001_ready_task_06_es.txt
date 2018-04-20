@@ -125,7 +125,7 @@ Tarea 6: Hemos identificado todas nuestras fuentes y usos de energía, y recopil
 
 <p>No es necesario registrar los usos de energ&iacute;a en una categor&iacute;a espec&iacute;fica; para clasificarlos pueden utilizarse combinaciones de distintas categor&iacute;as. Por ejemplo, la sala de c&oacute;mputo, el proceso de impresi&oacute;n, la caldera y la electricidad que utiliza el resto de la instalaci&oacute;n pueden, cada uno, identificarse como un uso de energ&iacute;a independiente.</p>
 
-<p>&nbsp;[Accordion End]</p>
+<p>[Accordion End]</p>
 
 <p>[Accordion](Identificar necesidades en materia de datos)</p>
 
@@ -218,7 +218,7 @@ Tarea 6: Hemos identificado todas nuestras fuentes y usos de energía, y recopil
 
 <p>Las necesidades de datos para la gesti&oacute;n energ&eacute;tica pueden extenderse m&aacute;s all&aacute; de aquellos en materia de energ&iacute;a, e incluir operaciones, producci&oacute;n, costos asociados con varios factores y otra informaci&oacute;n financiera. A fin de identificar con exactitud la ubicaci&oacute;n de los datos para la gesti&oacute;n energ&eacute;tica, es necesario evaluar los tipos de datos que se quieren recoger y qu&eacute; instrumentos ser&aacute;n necesarios para recopilarlos.</p>
 
-<p>&nbsp;[Learn More](Ejemplo de tipo de datos a recopilar)</p>
+<p>[Learn More](Ejemplo de tipo de datos a recopilar)</p>
 
 <p>Entre los ejemplos de datos que deben recopilarse se pueden incluir los siguientes:</p>
 
