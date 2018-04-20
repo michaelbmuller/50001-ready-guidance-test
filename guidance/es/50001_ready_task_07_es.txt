@@ -40,7 +40,7 @@ Tarea 7: Hemos analizado el consumo energético a escala del sistema o equipo
 	<li>Destinatarios</li>
 </ul>
 
-<p>&nbsp;[Learn More](Factores que repercuten en la elecci&oacute;n de los m&eacute;todos de an&aacute;lisis de datos)</p>
+<p>[Learn More](Factores que repercuten en la elecci&oacute;n de los m&eacute;todos de an&aacute;lisis de datos)</p>
 
 <p><strong>Accesibilidad de los datos:</strong> La tarea [task](Data Collection) considera las necesidades de su SGEn en materia de datos, lo que se relaciona en gran parte con el diagn&oacute;stico energ&eacute;tico, los indicadores de desempe&ntilde;o energ&eacute;tico (IDEn), los niveles de referencia (&ldquo;l&iacute;neas de base&rdquo;) y las metas y objetivos energ&eacute;ticos. El campo de acci&oacute;n de la recopilaci&oacute;n de datos puede ser considerable y, en general, la posibilidad de recopilar dichos datos depende de la disponibilidad de medidores (cons&uacute;ltese la tarea [task](Data Collection)). Las instalaciones, equipos, sistemas y procesos de su organizaci&oacute;n pueden contar con varias fuentes de recopilaci&oacute;n de datos (por ejemplo, presi&oacute;n, temperatura, flujo, etc&eacute;tera). Sin embargo, si no se cuenta con medidores, puede que no sea posible recopilar los datos necesarios para determinar y evaluar la m&eacute;trica de desempe&ntilde;o deseada, sino hasta la instalaci&oacute;n de equipos de medici&oacute;n adicionales.</p>
 
@@ -72,7 +72,7 @@ Tarea 7: Hemos analizado el consumo energético a escala del sistema o equipo
 
 <p>Su organizaci&oacute;n es responsable de seleccionar uno o m&aacute;s m&eacute;todos de an&aacute;lisis de datos para efectos del SGEn y de mejorar el desempe&ntilde;o energ&eacute;tico. Ejemplos de m&eacute;todos frecuentes incluyen an&aacute;lisis tendencial, evaluaci&oacute;n comparativa, gr&aacute;ficos, tendencias, an&aacute;lisis de Pareto, balance energ&eacute;tico, balance t&eacute;rmico, an&aacute;lisis del suministro energ&eacute;tico, an&aacute;lisis financiero y an&aacute;lisis regresivo. Elija el m&eacute;todo o la combinaci&oacute;n de m&eacute;todos que satisfaga las metas espec&iacute;ficas de su organizaci&oacute;n, y considere que aprender de las experiencias de otras organizaciones durante este proceso probablemente sea la estrategia m&aacute;s efectiva. Si est&aacute; utilizando la herramienta [resource](EnPI_Lite), llevar&aacute; a cabo an&aacute;lisis regresivos de los datos a escala de su establecimiento (cons&uacute;ltese la tarea [task](Performance Indicators)).</p>
 
-<p>&nbsp;[Learn More](M&eacute;todos de an&aacute;lisis frecuentes)</p>
+<p>[Learn More](M&eacute;todos de an&aacute;lisis frecuentes)</p>
 
 <p><strong>An&aacute;lisis tendencial</strong><strong>:</strong> Este tipo de an&aacute;lisis consiste en tratar de identificar un patr&oacute;n en los datos. Si se puede establecer un patr&oacute;n, cualquier modificaci&oacute;n en el mismo podr&iacute;a indicar un cambio en el desempe&ntilde;o energ&eacute;tico que puede requerir investigaci&oacute;n.</p>
 

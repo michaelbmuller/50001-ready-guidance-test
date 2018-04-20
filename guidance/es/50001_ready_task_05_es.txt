@@ -37,7 +37,7 @@ Tarea 5: Hemos identificado requisitos legales en materia energética aplicables
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Identificar y tener acceso a los requisitos legales aplicables)</p>
 
-<p>Esta actividad incluye la identificaci&oacute;n y el acceso a los requisitos legales federales, estatales y locales aplicables al uso, consumo y eficacia energ&eacute;tica de su organizaci&oacute;n. En la mayor&iacute;a de las organizaciones, este proceso ya existe en el caso de requisitos legales y reglamentarios ambientales. Adicionalmente, tenga en mente que diversas normas ambientales, en particular algunas que regulan emisiones atmosf&eacute;ricas, son importantes tanto para los efectos ambientales como para los usos energ&eacute;ticos de la organizaci&oacute;n.</p>
+<p>Esta actividad incluye la identificaci&oacute;n y el acceso a los requisitos legales federales, estatales y locales aplicables al uso, consumo y eficiencia energ&eacute;tica de su organizaci&oacute;n. En la mayor&iacute;a de las organizaciones, este proceso ya existe en el caso de requisitos legales y reglamentarios ambientales. Adicionalmente, tenga en mente que diversas normas ambientales, en particular algunas que regulan emisiones atmosf&eacute;ricas, son importantes tanto para los efectos ambientales como para los usos energ&eacute;ticos de la organizaci&oacute;n.</p>
 
 <p>[Learn More](Ejemplos)</p>
 

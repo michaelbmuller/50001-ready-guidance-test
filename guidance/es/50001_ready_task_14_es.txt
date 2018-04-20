@@ -10,9 +10,9 @@ Tarea 14: Hemos realizado el monitoreo y análisis continuos de nuestro consumo 
 	<li>Utilice los recursos [resource](Monitoring_Measurement_Key_Characteristics_Planning_Worksheet) y [resource](Energy_Measurement_Plan_Worksheet) para determinar c&oacute;mo y con qu&eacute; frecuencia la organizaci&oacute;n planea monitorear, medir y analizar los elementos clave que determinan su desempe&ntilde;o energ&eacute;tico, entre los que figuran:
 	<ul style="list-style-type:circle">
 		<li>Consumo energ&eacute;tico de todas las fuentes de energ&iacute;a</li>
-		<li>&nbsp;[task](Significant Energy Uses) y [task](Relevant Variables)</li>
-		<li>&nbsp;[task](Improvement Opportunities)</li>
-		<li>&nbsp;[task](Performance Indicators)</li>
+		<li>[task](Significant Energy Uses) y [task](Relevant Variables)</li>
+		<li>[task](Improvement Opportunities)</li>
+		<li>[task](Performance Indicators)</li>
 		<li>Avance y la eficacia del plan de acci&oacute;n</li>
 		<li>Consumo energ&eacute;tico esperado <em>versus</em> el real</li>
 	</ul>

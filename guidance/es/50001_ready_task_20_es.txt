@@ -46,7 +46,7 @@ Tarea 20: Hemos informado a todo el personal de la organización acerca de nuest
 	<li>despejar el escenario para una comunicaci&oacute;n continuada de temas relativos a la gesti&oacute;n de energ&iacute;a.</li>
 </ul>
 
-<p>&nbsp;[Learn More](Comunicaci&oacute;n inicial relativa al SGEn)</p>
+<p>[Learn More](Comunicaci&oacute;n inicial relativa al SGEn)</p>
 
 <p>La informaci&oacute;n que puede, de manera efectiva, hacer llegar este mensaje por lo general incluye respuestas a las siguientes interrogantes:</p>
 
