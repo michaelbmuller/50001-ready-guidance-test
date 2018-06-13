@@ -347,7 +347,7 @@ ID||System_Tool_Assessment
 File Type||Webpage
 Short Description||A listing of industrial energy system tools developed by the U.S. DOE Advanced Manufacturing Office.
 File Name||
-Link||https://ecenter.ee.doe.gov/EM/tools/Pages/HomeTools_old.aspx
+Link||https://www.energy.gov/eere/amo/software-tools
 Associated Tasks||12
 Last Updated||2017-03-08 12:53:59
 ----------
