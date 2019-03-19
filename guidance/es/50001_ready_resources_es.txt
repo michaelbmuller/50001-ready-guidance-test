@@ -12,7 +12,7 @@ Name||Formulario de registro de evaluación gerencial
 ID||Management_Review_Record_Form
 File Type||docx
 Short Description||Plantilla que puede utilizarse a fin de documentar la revisión gerencial, anotar a los asistentes y registrar los asuntos que se cubrieron, así como como aquellos que requieren seguimiento.
-File Name||Management Management_Review_Record_Form-s1.docx
+File Name||Management_Review_Record_Form-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%205_1%20Tool%20Management%20Review%20Record%20Form.doc
 Associated Tasks||25
 ----------
@@ -180,7 +180,7 @@ Name||Introducción a los conceptos de auditoría interna
 ID||Introduction_Internal_Auditing_Concepts
 File Type||PDF
 Short Description||Resumen detallado de los conceptos de auditoría interna.
-File Name||Introduction_to_Internal_Auditing_Concepts-s1.pdf
+File Name||Introduction_to_Internal_Auditing_Concepts-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Intro%20to%20Internal%20Auditing%20Concepts.pdf
 Associated Tasks||23
 ----------
@@ -188,7 +188,7 @@ Name||Registro de hallazgos de la auditoría interna
 ID||Audit_Finding_Form
 File Type||docx
 Short Description||Plantilla para que los usuarios documenten los hallazgos de una auditoría.
-File Name||Audit Finding Form-s1.docx
+File Name||Audit_Finding_Form-s1.docx
 Link||http://www1.eere.energy.gov/apps/manufacturing/eguide/Level2/L2%20Step%204_4%20Tool%20Audit%20Finding%20Form.docx
 Associated Tasks||23
 ----------
