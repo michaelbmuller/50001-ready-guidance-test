@@ -12,7 +12,7 @@ Last Updated||2019-03-18 20:30:00
 Name||50001 Ready Navigator Playbook
 ID||50001Ready_Playbook
 File Type||xlsx
-Short Description||The 50001 Ready Navigator Playbook is a single document resource that organizations may optionally use to their benefit as they pursue completion of the 50001 Ready Navigator 25 tasks. The 50001 Ready Navigator Playbook is structured around the four sections of the 50001 Ready Navigator and consolidates together some tasks that tend to be worked on together at the same time. As with the 50001 Ready Navigator, the 50001 Ready Navigator Playbook does not have to be completed in a linear fashion but as is useful for the implementing organization.
+Short Description||The 50001 Ready Navigator Playbook is an optional resource for teams as they work through the 50001 Ready Navigator tasks. This companion resource offers a repository to organize, save, and track completed documents on a local drive or network. Within the playbook, users can open, edit, and save forms related to Navigator tasks and track completed actions by checking boxes in the forms. Some forms embedded in the playbook are for several combined tasks and/or streamlined and simplified compared to those embedded in the Navigator. This version of the playbook is a beta version.
 File Name||50001 Ready Navigator Playbook version 0.101.xlsx
 Link||
 Associated Tasks||
