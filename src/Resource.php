@@ -93,7 +93,7 @@ class Resource
         }
         //Add last resource
         $resources[$resource->id] = $resource;
-        uasort($resources,function($a, $b){ strcmp($a->name, $b->name); });
+        //usort($resources,function($a, $b){ return strcmp($a->name,$b->name); });
         return $resources;
     }
 
