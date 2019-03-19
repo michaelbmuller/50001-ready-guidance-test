@@ -1,5 +1,23 @@
 USDOE 50001 READY NAVIGATOR
 ----------RESOURCES----------
+Name||50001 Ready Navigator Playbook User Manual
+ID||50001Ready_Playbook_Manual
+File Type||docx
+Short Description||The Playbook contains two main tabs: Navigator and Playbook. The Navigator tab contains introductory information and is for your information only. The Playbook tab contains 14 individual Microsoft Word documents. The words documents are embedded in column “N” of the Playbook. To open each Word file, users should double click on the cell containing the “Microsoft Word Document” icon as shown in Figure 1.
+File Name||50001 Ready Navigator Playbook version 0.1 User Manual.docx
+Link||
+Associated Tasks||
+Last Updated||2019-03-18 20:30:00
+----------
+Name||50001 Ready Navigator Playbook
+ID||50001Ready_Playbook
+File Type||xlsx
+Short Description||The 50001 Ready Navigator Playbook is a single document resource that organizations may optionally use to their benefit as they pursue completion of the 50001 Ready Navigator 25 tasks. The 50001 Ready Navigator Playbook is structured around the four sections of the 50001 Ready Navigator and consolidates together some tasks that tend to be worked on together at the same time. As with the 50001 Ready Navigator, the 50001 Ready Navigator Playbook does not have to be completed in a linear fashion but as is useful for the implementing organization.
+File Name||50001 Ready Navigator Playbook version 0.1.xlsx
+Link||
+Associated Tasks||
+Last Updated||2019-03-18 20:30:00
+----------
 Name||Business Drivers and the EnMS
 ID||Business_Drivers_EnMS
 File Type||docx
