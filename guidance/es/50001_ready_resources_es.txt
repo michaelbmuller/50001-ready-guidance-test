@@ -325,7 +325,7 @@ ID||Energy_Footprint_Lite_Data_Uploader
 File Type||xlsx
 Short Description||La utilidad Energy Footprint Lite para subir datos relativos a la huella energética ofrece un formulario estructurado para realizar seguimiento en cuanto a consumo energético y variables relevantes.
 File Name||
-Link||https://enpi.industrialenergytools.com/footprint_tool_lite_blank.xlsm
+Link||https://enpilite.lbl.gov/footprint_tool_lite_blank.xlsm
 Associated Tasks||6,9,10,14,24
 ----------
 Name||Formulario de acreditación del programa 50001 Ready
@@ -341,7 +341,7 @@ ID||50001_Ready_Protocol
 File Type||pdf
 Short Description||El Protocolo 50001 Ready del DOE establece la metodología comprobable para determinar y demostrar que un establecimiento ha logrado el nivel estipulado de mejora del desempeño energético.
 File Name||
-Link||https://enpi.industrialenergytools.com/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
+Link||https://enpilite.lbl.gov/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
 Associated Tasks||
 ----------
 Name||Indicador de desempeño energético EnPI Lite
@@ -349,7 +349,7 @@ ID||EnPI_Lite
 File Type||Webpage
 Short Description||El indicador de desempeño energético EnPI Lite del DOE estima los ahorros en consumo de energía respecto de variables relevantes como niveles de producción y clima.
 File Name||
-Link||https://enpi.industrialenergytools.com/
+Link||https://enpilite.lbl.gov/
 Associated Tasks||10
 ----------
 Name||Beneficios de la norma ISO 50001

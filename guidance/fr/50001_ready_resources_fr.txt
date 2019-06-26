@@ -317,7 +317,7 @@ ID||Energy_Footprint_Lite_Data_Uploader
 File Type||xlsx
 Short Description||Cet outil de téléversement de données sur l’empreinte énergétique permet de faire le suivi de la consommation énergétique et des variables pertinentes.
 File Name||
-Link||https://enpi.industrialenergytools.com/footprint_tool_lite_blank.xlsm
+Link||https://enpilite.lbl.gov/footprint_tool_lite_blank.xlsm
 Associated Tasks||6,9,10,14,24
 ----------
 Name||Formulaire d’auto-attestation 50001 Ready
@@ -333,7 +333,7 @@ ID||50001_Ready_Protocol
 File Type||pdf
 Short Description||Le protocole 50001 Ready du DOE établit une méthode vérifiable permettant de déterminer et de démontrer l’atteinte du niveau d’amélioration du rendement énergétique qu’annonce une organisation pour une de ses installations.
 File Name||
-Link||https://enpi.industrialenergytools.com/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
+Link||https://enpilite.lbl.gov/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
 Associated Tasks||
 ----------
 Name||EnPI Lite
@@ -341,7 +341,7 @@ ID||EnPI_Lite
 File Type||Webpage
 Short Description||L’outil Energy Performance Indicator Lite (EnPI Lite) du DOE fait une estimation des économies d’énergie par rapport aux variables pertinentes comme les niveaux de production et la météo.
 File Name||
-Link||https://enpi.industrialenergytools.com/
+Link||https://enpilite.lbl.gov/
 Associated Tasks||10
 ----------
 Name||Avantages de la norme ISO 50001

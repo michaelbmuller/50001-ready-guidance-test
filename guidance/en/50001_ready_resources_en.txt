@@ -1085,7 +1085,7 @@ ID||EnPI_Lite
 File Type||Webpage
 Short Description||The U.S. DOE Energy Performance Indicator Lite (EnPI Lite) tool estimates energy savings relative to relevant variables like production levels and weather.
 File Name||
-Link||https://enpi.industrialenergytools.com/
+Link||https://enpilite.lbl.gov/
 Associated Tasks||10
 Last Updated||2017-04-28 06:08:36
 ----------
@@ -1094,7 +1094,7 @@ ID||50001_Ready_Protocol
 File Type||pdf
 Short Description||The U.S. DOE 50001 Ready Protocol sets forth the verifiable methodology for determining and demonstrating achievement of the energy performance improvement level claimed by an organization for a defined facility.
 File Name||
-Link||https://enpi.industrialenergytools.com/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
+Link||https://enpilite.lbl.gov/2017_04_19%2050001%20Ready%20MV%20Protocol.pdf
 Associated Tasks||
 Last Updated||2017-04-28 06:12:32
 ----------
@@ -1112,7 +1112,7 @@ ID||Energy_Footprint_Lite_Data_Uploader
 File Type||xlsx
 Short Description||The Energy Footprint Lite Data Uploader provides a structure format to track energy consumption and relevant variables.
 File Name||
-Link||https://enpi.industrialenergytools.com/footprint_tool_lite_blank.xlsm
+Link||https://enpilite.lbl.gov/footprint_tool_lite_blank.xlsm
 Associated Tasks||6,9,10,14,24
 Last Updated||2017-06-07 17:39:18
 ----------
