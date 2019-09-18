@@ -1031,7 +1031,7 @@ ID||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Commercial_Buildin
 File Type||Webpage
 Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
 File Name||
-Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Link||https://www.energy.gov/eere/amo/downloads/energy-footprint-tool
 Associated Tasks||
 Last Updated||2017-03-08 12:53:59
 ----------
@@ -1040,7 +1040,7 @@ ID||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Industrial_Facilit
 File Type||Webpage
 Short Description||The Energy Footprint Tool can help manufacturing, commercial and institutional facilities to track their energy consumption, factors related to energy use, and significant energy end-use.
 File Name||
-Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnergyFootprint.aspx
+Link||https://www.energy.gov/eere/amo/downloads/energy-footprint-tool
 Associated Tasks||
 Last Updated||2017-03-08 12:53:59
 ----------
