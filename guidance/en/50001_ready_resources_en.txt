@@ -1,22 +1,13 @@
 USDOE 50001 READY NAVIGATOR
 ----------RESOURCES----------
-Name||50001 Ready Navigator Playbook User Manual
-ID||50001Ready_Playbook_Manual
-File Type||docx
-Short Description||The Playbook contains two main tabs: Navigator and Playbook. The Navigator tab contains introductory information and is for your information only. The Playbook tab contains 14 individual Microsoft Word documents. The words documents are embedded in column “N” of the Playbook. To open each Word file, users should double click on the cell containing the “Microsoft Word Document” icon as shown in Figure 1.
-File Name||50001 Ready Navigator Playbook version 0.1 User Manual.docx
-Link||
-Associated Tasks||
-Last Updated||2019-03-18 20:30:00
-----------
 Name||50001 Ready Navigator Playbook
 ID||50001Ready_Playbook
-File Type||xlsx
-Short Description||The 50001 Ready Navigator Playbook is an optional resource for teams as they work through the 50001 Ready Navigator tasks. This companion resource offers a repository to organize, save, and track completed documents on a local drive or network. Within the playbook, users can open, edit, and save forms related to Navigator tasks and track completed actions by checking boxes in the forms. Some forms embedded in the playbook are for several combined tasks and/or streamlined and simplified compared to those embedded in the Navigator. This version of the playbook is a beta version.
-File Name||50001 Ready Navigator Playbook version 0.101.xlsx
+File Type||zip
+Short Description||The 50001 Ready Navigator Playbook is an optional resource for teams as they work through the 50001 Ready Navigator tasks. This companion resource offers a repository to organize, save, and track completed documents on a local drive or network. Within the playbook, users can open, edit, and save forms related to Navigator tasks and track completed actions by checking boxes in the forms. This version of the playbook is a beta version.
+File Name||50001 Ready Playbook Worksheets v0.200.zip
 Link||
 Associated Tasks||
-Last Updated||2019-03-18 20:30:00
+Last Updated||2019-09-16 11:00:00
 ----------
 Name||Business Drivers and the EnMS
 ID||Business_Drivers_EnMS
@@ -176,7 +167,7 @@ ID||Superior_Energy_Performance_Program
 File Type||Webpage
 Short Description||
 File Name||
-Link||www.energy.gov/ISOSEP
+Link||https://www.energy.gov/ISOSEP
 Associated Tasks||
 Last Updated||2017-05-12 17:35:16
 ----------
@@ -221,9 +212,9 @@ ID||AMO_Training_Webpage
 File Type||Webpage
 Short Description||This resource link is to guide users to available AMO courses offerings available through Instructor-led classes and workshops and self-paced interactive e-learning courses.
 File Name||
-Link||http://www1.eere.energy.gov/industry/bestpractices/training.html  
+Link||https://www.energy.gov/eere/amo/training
 Associated Tasks||
-Last Updated||2017-03-08 12:53:59
+Last Updated||2019-09-17 10:00:00
 ----------
 Name||EnMS Awareness Requirements Form
 ID||EnMS_Awareness_Requirements_Form
@@ -887,7 +878,7 @@ ID||DOE_Energy_Performance_Indicator_Tool
 File Type||Webpage
 Short Description||The EnPI tool is a regression analysis based tool developed by the U.S. Department of Energy to help plant and corporate managers establish a normalized baseline of energy consumption, track annual progress of intensity improvements, energy savings, Superior Energy Performance (SEP) EnPIs, and other EnPIs that account for variations due to weather, production, and other variables.
 File Name||
-Link||https://ecenter.ee.doe.gov/EM/tools/Pages/EnPI.aspx
+Link||https://www.energy.gov/eere/amo/articles/energy-performance-indicator-tool
 Associated Tasks||
 Last Updated||2017-03-08 12:53:59
 ----------
@@ -1033,7 +1024,7 @@ Short Description||The Energy Footprint Tool can help manufacturing, commercial 
 File Name||
 Link||https://www.energy.gov/eere/amo/downloads/energy-footprint-tool
 Associated Tasks||
-Last Updated||2017-03-08 12:53:59
+Last Updated||2019-09-17 12:53:59
 ----------
 Name||Example input and output of the Energy Footprint tool for a hypothetical industrial facility
 ID||Example_Inputs_Outputs_Energy_Footprint_Tool_Hypothetical_Industrial_Facility
@@ -1042,7 +1033,7 @@ Short Description||The Energy Footprint Tool can help manufacturing, commercial 
 File Name||
 Link||https://www.energy.gov/eere/amo/downloads/energy-footprint-tool
 Associated Tasks||
-Last Updated||2017-03-08 12:53:59
+Last Updated||2017-09-17 12:53:59
 ----------
 Name||Energy Performance Indicators (EnPIs) for Common Energy Systems (example)
 ID||Example_EnPIs_Common_Energy_Systems
