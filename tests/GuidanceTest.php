@@ -16,7 +16,7 @@ class GuidanceTest extends TestCase
     /**
      * GuidanceTest constructor.
      */
-    public function setUp()
+    public function setUp(): void
     {
         $this->guidance = new Guidance();
     }

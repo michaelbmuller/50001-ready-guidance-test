@@ -19,7 +19,7 @@ class ResourceTest extends TestCase
      *
      * @throws \Exception
      */
-    public function setUp()
+    public function setUp(): void
     {
         $this->guidance = new Guidance();
     }
